@@ -3,11 +3,8 @@
     "ksh": {
       "identity": {
         "version": {
-          "_cldrVersion": "27.0.1",
-          "_number": "$Revision: 10753 $"
-        },
-        "generation": {
-          "_date": "$Date: 2014-08-11 11:10:03 -0500 (Mon, 11 Aug 2014) $"
+          "_cldrVersion": "28",
+          "_number": "$Revision: 11914 $"
         },
         "language": "ksh"
       },
@@ -17,8 +14,8 @@
           "gmtFormat": "GMT{0}",
           "gmtZeroFormat": "GMT",
           "regionFormat": "Zick vun {0}",
-          "regionFormat-type-standard": "Schtandattzick vun {0}",
           "regionFormat-type-daylight": "Summerzick vun {0}",
+          "regionFormat-type-standard": "Schtandattzick vun {0}",
           "fallbackFormat": "{1} ({0})",
           "zone": {
             "America": {
@@ -38,26 +35,26 @@
                 "exemplarCity": "Araguaina"
               },
               "Argentina": {
-                "La_Rioja": {
-                  "exemplarCity": "La Rioja"
-                },
                 "Rio_Gallegos": {
                   "exemplarCity": "Rio Gallegos"
-                },
-                "Salta": {
-                  "exemplarCity": "Salta"
                 },
                 "San_Juan": {
                   "exemplarCity": "San Juan"
                 },
+                "Ushuaia": {
+                  "exemplarCity": "Ushuaia"
+                },
+                "La_Rioja": {
+                  "exemplarCity": "La Rioja"
+                },
                 "San_Luis": {
                   "exemplarCity": "San Luis"
                 },
+                "Salta": {
+                  "exemplarCity": "Salta"
+                },
                 "Tucuman": {
                   "exemplarCity": "Tucuman"
-                },
-                "Ushuaia": {
-                  "exemplarCity": "Ushuaia"
                 }
               },
               "Aruba": {
@@ -208,11 +205,8 @@
                 "exemplarCity": "Hermosillo"
               },
               "Indiana": {
-                "Knox": {
-                  "exemplarCity": "Knox en Indiana"
-                },
-                "Marengo": {
-                  "exemplarCity": "Marengo en Indiana"
+                "Vincennes": {
+                  "exemplarCity": "Vincennes en Indiana"
                 },
                 "Petersburg": {
                   "exemplarCity": "Petersburg en Indiana"
@@ -220,14 +214,17 @@
                 "Tell_City": {
                   "exemplarCity": "Tell City en Indiana"
                 },
-                "Vevay": {
-                  "exemplarCity": "Vevay en Indiana"
-                },
-                "Vincennes": {
-                  "exemplarCity": "Vincennes en Indiana"
+                "Knox": {
+                  "exemplarCity": "Knox en Indiana"
                 },
                 "Winamac": {
                   "exemplarCity": "Winamac en Indiana"
+                },
+                "Marengo": {
+                  "exemplarCity": "Marengo en Indiana"
+                },
+                "Vevay": {
+                  "exemplarCity": "Vevay en Indiana"
                 }
               },
               "Indianapolis": {
@@ -341,11 +338,11 @@
                 "Beulah": {
                   "exemplarCity": "Beulah en Nood Dakota"
                 },
-                "Center": {
-                  "exemplarCity": "Zenter en Nood Dakota"
-                },
                 "New_Salem": {
                   "exemplarCity": "Neu Salem en Nood Dakota"
+                },
+                "Center": {
+                  "exemplarCity": "Zenter en Nood Dakota"
                 }
               },
               "Ojinaga": {

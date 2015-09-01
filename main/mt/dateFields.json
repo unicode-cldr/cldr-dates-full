@@ -3,11 +3,8 @@
     "mt": {
       "identity": {
         "version": {
-          "_cldrVersion": "27.0.1",
-          "_number": "$Revision: 11093 $"
-        },
-        "generation": {
-          "_date": "$Date: 2015-01-02 21:36:02 -0600 (Fri, 02 Jan 2015) $"
+          "_cldrVersion": "28",
+          "_number": "$Revision: 11994 $"
         },
         "language": "mt"
       },
@@ -19,7 +16,7 @@
           "year": {
             "displayName": "Sena",
             "relative-type--1": "Is-sena li għaddiet",
-            "relative-type-0": "this year",
+            "relative-type-0": "din is-sena",
             "relative-type-1": "Is-sena d-dieħla",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} y"
@@ -34,7 +31,7 @@
           "year-short": {
             "displayName": "Sena",
             "relative-type--1": "Is-sena li għaddiet",
-            "relative-type-0": "this year",
+            "relative-type-0": "din is-sena",
             "relative-type-1": "Is-sena d-dieħla",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} y"
@@ -49,7 +46,7 @@
           "year-narrow": {
             "displayName": "Sena",
             "relative-type--1": "Is-sena li għaddiet",
-            "relative-type-0": "this year",
+            "relative-type-0": "din is-sena",
             "relative-type-1": "Is-sena d-dieħla",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} y"
@@ -225,17 +222,17 @@
           },
           "mon": {
             "relative-type--1": "It-Tnejn li għadda",
-            "relative-type-0": "this Monday",
+            "relative-type-0": "Dan It-Tnejn",
             "relative-type-1": "It-Tnejn li ġej"
           },
           "mon-short": {
             "relative-type--1": "It-Tnejn li għadda",
-            "relative-type-0": "this Monday",
+            "relative-type-0": "Dan It-Tnejn",
             "relative-type-1": "It-Tnejn li ġej"
           },
           "mon-narrow": {
             "relative-type--1": "It-Tnejn li għadda",
-            "relative-type-0": "this Monday",
+            "relative-type-0": "Dan It-Tnejn",
             "relative-type-1": "It-Tnejn li ġej"
           },
           "tue": {

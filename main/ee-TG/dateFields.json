@@ -3,11 +3,8 @@
     "ee-TG": {
       "identity": {
         "version": {
-          "_cldrVersion": "27.0.1",
-          "_number": "$Revision: 10669 $"
-        },
-        "generation": {
-          "_date": "$Date: 2014-07-23 16:10:33 -0500 (Wed, 23 Jul 2014) $"
+          "_cldrVersion": "28",
+          "_number": "$Revision: 11914 $"
         },
         "language": "ee",
         "territory": "TG"
@@ -24,7 +21,7 @@
             "relative-type-1": "ƒe si gbɔ na",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "le ƒe {0} me",
-              "relativeTimePattern-count-other": "le ƒe {0} wo me"
+              "relativeTimePattern-count-other": "le ƒe {0} me"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "ƒe {0} si va yi",
@@ -37,12 +34,12 @@
             "relative-type-0": "ƒe sia",
             "relative-type-1": "ƒe si gbɔ na",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "le ƒe {0} wo me",
-              "relativeTimePattern-count-other": "le ƒe {0} wo me"
+              "relativeTimePattern-count-one": "le ƒe {0} me",
+              "relativeTimePattern-count-other": "le ƒe {0} me"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "ƒe {0} si wo va yi",
-              "relativeTimePattern-count-other": "ƒe {0} si wo va yi"
+              "relativeTimePattern-count-one": "le ƒe {0} si va yi me",
+              "relativeTimePattern-count-other": "le ƒe {0} si va yi me"
             }
           },
           "year-narrow": {
@@ -51,48 +48,54 @@
             "relative-type-0": "ƒe sia",
             "relative-type-1": "ƒe si gbɔ na",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "le ƒe {0} wo me",
-              "relativeTimePattern-count-other": "le ƒe {0} wo me"
+              "relativeTimePattern-count-one": "le ƒe {0} si gbɔna me",
+              "relativeTimePattern-count-other": "le ƒe {0} si gbɔna me"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "ƒe {0} si wo va yi",
-              "relativeTimePattern-count-other": "ƒe {0} si wo va yi"
+              "relativeTimePattern-count-one": "ƒe {0} si va yi me",
+              "relativeTimePattern-count-other": "ƒe {0} si va yi me"
             }
           },
           "quarter": {
-            "displayName": "Quarter",
+            "displayName": "kɔta",
             "relative-type--1": "last quarter",
             "relative-type-0": "this quarter",
             "relative-type-1": "next quarter",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Q"
+              "relativeTimePattern-count-one": "le kɔta {0} si gbɔ na me",
+              "relativeTimePattern-count-other": "le kɔta {0} si gbɔ na me"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Q"
+              "relativeTimePattern-count-one": "kɔta {0} si va yi me",
+              "relativeTimePattern-count-other": "kɔta {0} si va yi me"
             }
           },
           "quarter-short": {
-            "displayName": "Quarter",
+            "displayName": "kɔta",
             "relative-type--1": "last quarter",
             "relative-type-0": "this quarter",
             "relative-type-1": "next quarter",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Q"
+              "relativeTimePattern-count-one": "le kɔta {0} si gbɔ na me",
+              "relativeTimePattern-count-other": "le kɔta {0} si gbɔ na me"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Q"
+              "relativeTimePattern-count-one": "kɔta {0} si va yi me",
+              "relativeTimePattern-count-other": "kɔta {0} si va yi me"
             }
           },
           "quarter-narrow": {
-            "displayName": "Quarter",
+            "displayName": "kɔta",
             "relative-type--1": "last quarter",
             "relative-type-0": "this quarter",
             "relative-type-1": "next quarter",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Q"
+              "relativeTimePattern-count-one": "le kɔta {0} si gbɔna me",
+              "relativeTimePattern-count-other": "le kɔta {0} si gbɔ na me"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Q"
+              "relativeTimePattern-count-one": "kɔta {0} si va yi me",
+              "relativeTimePattern-count-other": "kɔta {0} si va yi me"
             }
           },
           "month": {
@@ -181,8 +184,8 @@
           },
           "day": {
             "displayName": "ŋkeke",
-            "relative-type--1": "etsɔ si va yi",
             "relative-type--2": "nyitsɔ si va yi",
+            "relative-type--1": "etsɔ si va yi",
             "relative-type-0": "egbe",
             "relative-type-1": "etsɔ si gbɔna",
             "relative-type-2": "nyitsɔ si gbɔna",
@@ -197,8 +200,8 @@
           },
           "day-short": {
             "displayName": "ŋkeke",
-            "relative-type--1": "etsɔ si va yi",
             "relative-type--2": "nyitsɔ si va yi",
+            "relative-type--1": "etsɔ si va yi",
             "relative-type-0": "egbe",
             "relative-type-1": "etsɔ si gbɔna",
             "relative-type-2": "nyitsɔ si gbɔna",
@@ -213,8 +216,8 @@
           },
           "day-narrow": {
             "displayName": "ŋkeke",
-            "relative-type--1": "etsɔ si va yi",
             "relative-type--2": "nyitsɔ si va yi",
+            "relative-type--1": "etsɔ si va yi",
             "relative-type-0": "egbe",
             "relative-type-1": "etsɔ si gbɔna",
             "relative-type-2": "nyitsɔ si gbɔna",

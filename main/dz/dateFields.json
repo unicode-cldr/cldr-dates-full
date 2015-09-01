@@ -3,11 +3,8 @@
     "dz": {
       "identity": {
         "version": {
-          "_cldrVersion": "27.0.1",
-          "_number": "$Revision: 10669 $"
-        },
-        "generation": {
-          "_date": "$Date: 2014-07-23 16:10:33 -0500 (Wed, 23 Jul 2014) $"
+          "_cldrVersion": "28",
+          "_number": "$Revision: 11914 $"
         },
         "language": "dz"
       },
@@ -162,8 +159,8 @@
           },
           "day": {
             "displayName": "ཚེས་",
-            "relative-type--1": "ཁ་ཙ་",
             "relative-type--2": "ཁ་ཉིམ",
+            "relative-type--1": "ཁ་ཙ་",
             "relative-type-0": "ད་རིས་",
             "relative-type-1": "ནངས་པ་",
             "relative-type-2": "གནངས་ཚེ",
@@ -176,8 +173,8 @@
           },
           "day-short": {
             "displayName": "ཚེས་",
-            "relative-type--1": "ཁ་ཙ་",
             "relative-type--2": "ཁ་ཉིམ",
+            "relative-type--1": "ཁ་ཙ་",
             "relative-type-0": "ད་རིས་",
             "relative-type-1": "ནངས་པ་",
             "relative-type-2": "གནངས་ཚེ",
@@ -190,8 +187,8 @@
           },
           "day-narrow": {
             "displayName": "ཚེས་",
-            "relative-type--1": "ཁ་ཙ་",
             "relative-type--2": "ཁ་ཉིམ",
+            "relative-type--1": "ཁ་ཙ་",
             "relative-type-0": "ད་རིས་",
             "relative-type-1": "ནངས་པ་",
             "relative-type-2": "གནངས་ཚེ",

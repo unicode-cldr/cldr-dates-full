@@ -3,11 +3,8 @@
     "bs-Cyrl": {
       "identity": {
         "version": {
-          "_cldrVersion": "27.0.1",
-          "_number": "$Revision: 11294 $"
-        },
-        "generation": {
-          "_date": "$Date: 2015-02-23 16:50:24 -0600 (Mon, 23 Feb 2015) $"
+          "_cldrVersion": "28",
+          "_number": "$Revision: 11990 $"
         },
         "language": "bs",
         "script": "Cyrl"
@@ -199,8 +196,8 @@
           },
           "day": {
             "displayName": "дан",
-            "relative-type--1": "јуче",
             "relative-type--2": "прекјуче",
+            "relative-type--1": "јуче",
             "relative-type-0": "данас",
             "relative-type-1": "сутра",
             "relative-type-2": "прекосутра",
@@ -217,8 +214,8 @@
           },
           "day-short": {
             "displayName": "дан",
-            "relative-type--1": "јуче",
             "relative-type--2": "прекјуче",
+            "relative-type--1": "јуче",
             "relative-type-0": "данас",
             "relative-type-1": "сутра",
             "relative-type-2": "прекосутра",
@@ -235,8 +232,8 @@
           },
           "day-narrow": {
             "displayName": "дан",
-            "relative-type--1": "јуче",
             "relative-type--2": "прекјуче",
+            "relative-type--1": "јуче",
             "relative-type-0": "данас",
             "relative-type-1": "сутра",
             "relative-type-2": "прекосутра",

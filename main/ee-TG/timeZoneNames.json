@@ -3,11 +3,8 @@
     "ee-TG": {
       "identity": {
         "version": {
-          "_cldrVersion": "27.0.1",
-          "_number": "$Revision: 10669 $"
-        },
-        "generation": {
-          "_date": "$Date: 2014-07-23 16:10:33 -0500 (Wed, 23 Jul 2014) $"
+          "_cldrVersion": "28",
+          "_number": "$Revision: 11914 $"
         },
         "language": "ee",
         "territory": "TG"
@@ -17,9 +14,9 @@
           "hourFormat": "+HH:mm;-HH:mm",
           "gmtFormat": "GMT{0}",
           "gmtZeroFormat": "GMT",
-          "regionFormat": "{0} gaƒoƒo",
-          "regionFormat-type-standard": "{0} (+0)",
-          "regionFormat-type-daylight": "{0} (+1)",
+          "regionFormat": "{0}",
+          "regionFormat-type-daylight": "{0}",
+          "regionFormat-type-standard": "{0}",
           "fallbackFormat": "{1} ({0})",
           "zone": {
             "America": {
@@ -39,26 +36,26 @@
                 "exemplarCity": "Araguaina nutomegaƒoƒome"
               },
               "Argentina": {
-                "La_Rioja": {
-                  "exemplarCity": "La Rioha nutomegaƒoƒome"
-                },
                 "Rio_Gallegos": {
                   "exemplarCity": "Rio Gallegos nutomegaƒoƒome"
-                },
-                "Salta": {
-                  "exemplarCity": "Salta nutomegaƒoƒome"
                 },
                 "San_Juan": {
                   "exemplarCity": "San Dzuan nutomegaƒoƒome"
                 },
+                "Ushuaia": {
+                  "exemplarCity": "Ushuaia nutomegaƒoƒome"
+                },
+                "La_Rioja": {
+                  "exemplarCity": "La Rioha nutomegaƒoƒome"
+                },
                 "San_Luis": {
                   "exemplarCity": "San Luis nutomegaƒoƒome"
                 },
+                "Salta": {
+                  "exemplarCity": "Salta nutomegaƒoƒome"
+                },
                 "Tucuman": {
                   "exemplarCity": "Tukuman nutomegaƒoƒome"
-                },
-                "Ushuaia": {
-                  "exemplarCity": "Ushuaia nutomegaƒoƒome"
                 }
               },
               "Aruba": {
@@ -209,11 +206,8 @@
                 "exemplarCity": "Hermosillo nutomegaƒoƒome"
               },
               "Indiana": {
-                "Knox": {
-                  "exemplarCity": "Knox, Indiana nutomegaƒoƒome"
-                },
-                "Marengo": {
-                  "exemplarCity": "Marengo, Indiana nutomegaƒoƒome"
+                "Vincennes": {
+                  "exemplarCity": "Vinsennes, Indiana nutomegaƒoƒome"
                 },
                 "Petersburg": {
                   "exemplarCity": "Petersburg, Indiana nutomegaƒoƒome"
@@ -221,14 +215,17 @@
                 "Tell_City": {
                   "exemplarCity": "Telldugã, Indiana nutomegaƒoƒome"
                 },
-                "Vevay": {
-                  "exemplarCity": "Vevay, Indiana nutomegaƒoƒome"
-                },
-                "Vincennes": {
-                  "exemplarCity": "Vinsennes, Indiana nutomegaƒoƒome"
+                "Knox": {
+                  "exemplarCity": "Knox, Indiana nutomegaƒoƒome"
                 },
                 "Winamac": {
                   "exemplarCity": "Winamak, Indiana nutomegaƒoƒome"
+                },
+                "Marengo": {
+                  "exemplarCity": "Marengo, Indiana nutomegaƒoƒome"
+                },
+                "Vevay": {
+                  "exemplarCity": "Vevay, Indiana nutomegaƒoƒome"
                 }
               },
               "Indianapolis": {
@@ -342,11 +339,11 @@
                 "Beulah": {
                   "exemplarCity": "Beulah, North Dakota nutomegaƒoƒome"
                 },
-                "Center": {
-                  "exemplarCity": "Titina, North Dakota nutomegaƒoƒome"
-                },
                 "New_Salem": {
                   "exemplarCity": "New Salem, North Dakota nutomegaƒoƒome"
+                },
+                "Center": {
+                  "exemplarCity": "Titina, North Dakota nutomegaƒoƒome"
                 }
               },
               "Ojinaga": {
@@ -1396,7 +1393,7 @@
             },
             "Africa_Eastern": {
               "long": {
-                "standard": "Ɣedzeƒe Afrika gaƒoƒome"
+                "standard": "Ɣedzeƒe Africa gaƒoƒome"
               },
               "short": {
                 "standard": "EAT"
@@ -1404,7 +1401,7 @@
             },
             "Africa_Southern": {
               "long": {
-                "standard": "Anyiehe Afrika gaƒoƒome"
+                "standard": "Anyiehe Africa gaƒoƒome"
               },
               "short": {
                 "standard": "SAST"
@@ -1412,9 +1409,9 @@
             },
             "Africa_Western": {
               "long": {
-                "generic": "Ɣetoɖoƒe Afrika gaƒoƒome",
+                "generic": "Ɣetoɖoƒe Africa gaƒoƒome",
                 "standard": "Ɣetoɖoƒe Afrika gaƒoƒoɖoanyime",
-                "daylight": "Ɣetoɖoƒe Afrika dzomeŋɔli gaƒoƒome"
+                "daylight": "Ɣetoɖoƒe Africa ŋkekeme gaƒoƒome"
               },
               "short": {
                 "generic": "WAT",
@@ -1424,30 +1421,37 @@
             },
             "America_Central": {
               "long": {
-                "generic": "Titina Amerika gaƒoƒome",
-                "standard": "Titina Amerika gaƒoƒoɖoanyime",
-                "daylight": "Titina Amerika ŋkekeme gaƒoƒome"
+                "generic": "Titina America gaƒoƒome",
+                "standard": "Titina America gaƒoƒoɖoanyime",
+                "daylight": "Titina America ŋkekeme gaƒoƒome"
               }
             },
             "America_Eastern": {
               "long": {
-                "generic": "Ɣedzeƒe Amerika gaƒoƒome",
-                "standard": "Ɣedzeƒe Amerika gaƒoƒoɖoanyime",
-                "daylight": "Ɣedzeƒe Amerika ŋkekeme gaƒoƒome"
+                "generic": "Ɣedzeƒe America gaƒoƒome",
+                "standard": "Ɣedzeƒe America gaƒoƒoɖoanyime",
+                "daylight": "Ɣedzeƒe America ŋkekeme gaƒoƒome"
               }
             },
             "America_Mountain": {
               "long": {
-                "generic": "Amerika Todzidukɔwo ƒe gaƒoƒome",
-                "standard": "Amerika Todzidukɔwo ƒe gaƒoƒoɖoanyime",
-                "daylight": "Amerika Todzidukɔwo ƒe ŋkekme gaƒoƒome"
+                "generic": "America Todzidukɔwo ƒe gaƒoƒome",
+                "standard": "America Todzidukɔwo ƒe gaƒoƒoɖoanyime",
+                "daylight": "America Todzidukɔwo ƒe ŋkekme gaƒoƒome"
               }
             },
             "America_Pacific": {
               "long": {
-                "generic": "Amerika Pasifik gaƒoƒome",
-                "standard": "Amerika Pasifik gaƒoƒoɖoanyime",
-                "daylight": "Amerika Pasifik ŋkekeme gaƒoƒome"
+                "generic": "Pacific gaƒoƒome",
+                "standard": "Pacific gaƒoƒoɖoanyime",
+                "daylight": "Pacific ŋkekme gaƒoƒome"
+              }
+            },
+            "Arabian": {
+              "long": {
+                "generic": "Arabia gaƒoƒome",
+                "standard": "Arabia gaƒoƒoɖoanyime",
+                "daylight": "Arabia ŋkekeme gaƒoƒome"
               }
             },
             "Atlantic": {
@@ -1455,6 +1459,95 @@
                 "generic": "Atlantic gaƒoƒome",
                 "standard": "Atlantic gaƒoƒoɖoanyime",
                 "daylight": "Atlantic ŋkekeme gaƒoƒome"
+              }
+            },
+            "Australia_Central": {
+              "long": {
+                "generic": "Titina Australia gaƒoƒome",
+                "standard": "Titina Australia gaƒoƒoɖoanyime",
+                "daylight": "Titina Australia ŋkekeme gaƒoƒome"
+              }
+            },
+            "Australia_CentralWestern": {
+              "long": {
+                "generic": "Australia ɣetoɖofe gaƒoƒome",
+                "standard": "Australia ɣetoɖofe gaƒoƒoɖoanyime",
+                "daylight": "Australia ɣetoɖofe ŋkekeme gaƒoƒome"
+              }
+            },
+            "Australia_Eastern": {
+              "long": {
+                "generic": "Ɣedzeƒe Australia gaƒoƒome",
+                "standard": "Ɣedzeƒe Australia gaƒoƒoɖoanyime",
+                "daylight": "Ɣedzeƒe Australia ŋkekeme gaƒoƒome"
+              }
+            },
+            "Australia_Western": {
+              "long": {
+                "generic": "Ɣetoɖoƒe Australia gaƒoƒome",
+                "standard": "Ɣetoɖoƒe Australia gaƒoƒoɖoanyime",
+                "daylight": "Ɣetoɖoƒe Australia ŋkekeme gaƒoƒome"
+              }
+            },
+            "China": {
+              "long": {
+                "generic": "China gaƒoƒome",
+                "standard": "China gaƒoƒoɖoanyime",
+                "daylight": "China ŋkekeme gaƒoƒome"
+              }
+            },
+            "Europe_Central": {
+              "long": {
+                "generic": "Titina Europe gaƒoƒome",
+                "standard": "Titina Europe gaƒoƒoɖoanyime",
+                "daylight": "Titina Europe ŋkekeme gaƒoƒome"
+              }
+            },
+            "Europe_Eastern": {
+              "long": {
+                "generic": "Ɣedzeƒe Europe gaƒoƒome",
+                "standard": "Ɣedzeƒe Europe gaƒoƒoɖoanyime",
+                "daylight": "Ɣedzeƒe Europe ŋkekeme gaƒoƒome"
+              }
+            },
+            "Europe_Western": {
+              "long": {
+                "generic": "Ɣetoɖoƒe Europe gaƒoƒome",
+                "standard": "Ɣetoɖoƒe Europe gaƒoƒoɖoanyime",
+                "daylight": "Ɣetoɖoƒe Europe ŋkekeme gaƒoƒome"
+              }
+            },
+            "GMT": {
+              "long": {
+                "standard": "Greenwich gaƒoƒome"
+              }
+            },
+            "Israel": {
+              "long": {
+                "generic": "Israel gaƒoƒome",
+                "standard": "Israel gaƒoƒoɖoanyime",
+                "daylight": "Israel ŋkekeme gaƒoƒome"
+              }
+            },
+            "Japan": {
+              "long": {
+                "generic": "Japan gaƒoƒome",
+                "standard": "Japan gaƒoƒoɖanyime",
+                "daylight": "Japan ŋkekeme gaƒoƒome"
+              }
+            },
+            "Korea": {
+              "long": {
+                "generic": "Korea gaƒoƒome",
+                "standard": "Korea gaƒoƒoɖoanyime",
+                "daylight": "Korea ŋkekeme gaƒoƒome"
+              }
+            },
+            "Moscow": {
+              "long": {
+                "generic": "Moscow gaƒoƒome",
+                "standard": "Moscow gaƒoƒoɖoanyime",
+                "daylight": "Moscow ŋkekeme gaƒoƒome"
               }
             },
             "Suriname": {

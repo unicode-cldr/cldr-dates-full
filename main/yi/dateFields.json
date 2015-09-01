@@ -3,21 +3,18 @@
     "yi": {
       "identity": {
         "version": {
-          "_cldrVersion": "27.0.1",
-          "_number": "$Revision: 10741 $"
-        },
-        "generation": {
-          "_date": "$Date: 2014-08-07 13:24:47 -0500 (Thu, 07 Aug 2014) $"
+          "_cldrVersion": "28",
+          "_number": "$Revision: 11994 $"
         },
         "language": "yi"
       },
       "dates": {
         "fields": {
           "era": {
-            "displayName": "Era"
+            "displayName": "תקופֿה"
           },
           "year": {
-            "displayName": "Year",
+            "displayName": "יאָר",
             "relative-type--1": "פֿאַראַיאָר",
             "relative-type-0": "הײַ יאָר",
             "relative-type-1": "איבער א יאָר",
@@ -95,7 +92,7 @@
             }
           },
           "month": {
-            "displayName": "Month",
+            "displayName": "מאנאַט",
             "relative-type--1": "פֿאַרגאנגענעם חודש",
             "relative-type-0": "דעם חודש",
             "relative-type-1": "קומענדיקן חודש",
@@ -173,9 +170,9 @@
             }
           },
           "day": {
-            "displayName": "Day",
+            "displayName": "טאָג",
             "relative-type--1": "נעכטן",
-            "relative-type-0": "today",
+            "relative-type-0": "היינט",
             "relative-type-1": "מארגן",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "אין {0} טאָג אַרום",
@@ -188,7 +185,7 @@
           "day-short": {
             "displayName": "טאָג",
             "relative-type--1": "נעכטן",
-            "relative-type-0": "today",
+            "relative-type-0": "היינט",
             "relative-type-1": "מארגן",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "אין {0} טעג אַרום",
@@ -201,7 +198,7 @@
           "day-narrow": {
             "displayName": "טאָג",
             "relative-type--1": "נעכטן",
-            "relative-type-0": "today",
+            "relative-type-0": "היינט",
             "relative-type-1": "מארגן",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "אין {0} טעג אַרום",
@@ -217,17 +214,17 @@
           "sun": {
             "relative-type--1": "last Sunday",
             "relative-type-0": "this Sunday",
-            "relative-type-1": "קומענדיקן זונטיק"
+            "relative-type-1": "next Sunday"
           },
           "sun-short": {
             "relative-type--1": "last Sunday",
             "relative-type-0": "this Sunday",
-            "relative-type-1": "קומענדיקן זונטיק"
+            "relative-type-1": "next Sunday"
           },
           "sun-narrow": {
             "relative-type--1": "last Sunday",
             "relative-type-0": "this Sunday",
-            "relative-type-1": "קומענדיקן זונטיק"
+            "relative-type-1": "next Sunday"
           },
           "mon": {
             "relative-type--1": "last Monday",

@@ -3,11 +3,8 @@
     "ks": {
       "identity": {
         "version": {
-          "_cldrVersion": "27.0.1",
-          "_number": "$Revision: 11294 $"
-        },
-        "generation": {
-          "_date": "$Date: 2015-02-23 16:50:24 -0600 (Mon, 23 Feb 2015) $"
+          "_cldrVersion": "28",
+          "_number": "$Revision: 11974 $"
         },
         "language": "ks"
       },
@@ -17,8 +14,8 @@
           "gmtFormat": "GMT{0}",
           "gmtZeroFormat": "GMT",
           "regionFormat": "{0}",
-          "regionFormat-type-standard": "{0} (+0)",
           "regionFormat-type-daylight": "{0} (+1)",
+          "regionFormat-type-standard": "{0} (+0)",
           "fallbackFormat": "{1} ({0})",
           "zone": {
             "America": {
@@ -38,26 +35,26 @@
                 "exemplarCity": "اٮ۪ریگُوینا"
               },
               "Argentina": {
-                "La_Rioja": {
-                  "exemplarCity": "لا رِیوجا"
-                },
                 "Rio_Gallegos": {
                   "exemplarCity": "رِیو گالیگوس"
-                },
-                "Salta": {
-                  "exemplarCity": "Salta"
                 },
                 "San_Juan": {
                   "exemplarCity": "سین جُواں"
                 },
+                "Ushuaia": {
+                  "exemplarCity": "اُشُوٗاییا"
+                },
+                "La_Rioja": {
+                  "exemplarCity": "لا رِیوجا"
+                },
                 "San_Luis": {
                   "exemplarCity": "سین لوٗیِس"
                 },
+                "Salta": {
+                  "exemplarCity": "Salta"
+                },
                 "Tucuman": {
                   "exemplarCity": "ٹوکوٗمَن"
-                },
-                "Ushuaia": {
-                  "exemplarCity": "اُشُوٗاییا"
                 }
               },
               "Aruba": {
@@ -208,11 +205,8 @@
                 "exemplarCity": "ۂرموسِلو"
               },
               "Indiana": {
-                "Knox": {
-                  "exemplarCity": "نوکس"
-                },
-                "Marengo": {
-                  "exemplarCity": "میٚریٚنگو"
+                "Vincennes": {
+                  "exemplarCity": "وِنسیٚنیٚس"
                 },
                 "Petersburg": {
                   "exemplarCity": "پِٹس بٔرگ"
@@ -220,14 +214,17 @@
                 "Tell_City": {
                   "exemplarCity": "ٹیٚل سِٹی"
                 },
-                "Vevay": {
-                  "exemplarCity": "ویٚویے"
-                },
-                "Vincennes": {
-                  "exemplarCity": "وِنسیٚنیٚس"
+                "Knox": {
+                  "exemplarCity": "نوکس"
                 },
                 "Winamac": {
                   "exemplarCity": "وِنیمیک"
+                },
+                "Marengo": {
+                  "exemplarCity": "میٚریٚنگو"
+                },
+                "Vevay": {
+                  "exemplarCity": "ویٚویے"
                 }
               },
               "Indianapolis": {
@@ -341,11 +338,11 @@
                 "Beulah": {
                   "exemplarCity": "Beulah, North Dakota"
                 },
-                "Center": {
-                  "exemplarCity": "مَرکزی جنوٗبی ڈکوٹا"
-                },
                 "New_Salem": {
                   "exemplarCity": "نوو سیلٕم"
+                },
+                "Center": {
+                  "exemplarCity": "مَرکزی جنوٗبی ڈکوٹا"
                 }
               },
               "Ojinaga": {
@@ -1744,11 +1741,6 @@
                 "standard": "جنوٗبی فرٮ۪نٛچ ٹایِم"
               }
             },
-            "GMT": {
-              "long": {
-                "standard": "گرٛیٖن وِچ میٖن ٹایِم"
-              }
-            },
             "Galapagos": {
               "long": {
                 "standard": "گٮ۪لٮ۪پیٚگوز ٹایِم"
@@ -1769,6 +1761,11 @@
             "Gilbert_Islands": {
               "long": {
                 "standard": "گِلبٲٹ ججیٖرُک ٹایِم"
+              }
+            },
+            "GMT": {
+              "long": {
+                "standard": "گرٛیٖن وِچ میٖن ٹایِم"
               }
             },
             "Greenland_Eastern": {

@@ -3,11 +3,8 @@
     "ga": {
       "identity": {
         "version": {
-          "_cldrVersion": "27.0.1",
-          "_number": "$Revision: 11294 $"
-        },
-        "generation": {
-          "_date": "$Date: 2015-02-23 16:50:24 -0600 (Mon, 23 Feb 2015) $"
+          "_cldrVersion": "28",
+          "_number": "$Revision: 11917 $"
         },
         "language": "ga"
       },
@@ -39,8 +36,8 @@
           "year-short": {
             "displayName": "bl.",
             "relative-type--1": "anuraidh",
-            "relative-type-0": "an bhliain seo",
-            "relative-type-1": "an bhliain seo chugainn",
+            "relative-type-0": "an bhl. seo",
+            "relative-type-1": "an bhl. seo chugainn",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "i gceann {0} bl.",
               "relativeTimePattern-count-two": "i gceann {0} bhl.",
@@ -59,8 +56,8 @@
           "year-narrow": {
             "displayName": "bl.",
             "relative-type--1": "anuraidh",
-            "relative-type-0": "an bhliain seo",
-            "relative-type-1": "an bhliain seo chugainn",
+            "relative-type-0": "an bhl. seo",
+            "relative-type-1": "an bhl. seo chugainn",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "+{0} bhl.",
               "relativeTimePattern-count-two": "+{0} bhl.",
@@ -78,9 +75,9 @@
           },
           "quarter": {
             "displayName": "Ráithe",
-            "relative-type--1": "last quarter",
-            "relative-type-0": "this quarter",
-            "relative-type-1": "next quarter",
+            "relative-type--1": "an ráithe seo caite",
+            "relative-type-0": "an ráithe seo",
+            "relative-type-1": "an ráithe seo chugainn",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "i gceann {0} ráithe",
               "relativeTimePattern-count-two": "i gceann {0} ráithe",
@@ -98,9 +95,9 @@
           },
           "quarter-short": {
             "displayName": "ráithe",
-            "relative-type--1": "last quarter",
-            "relative-type-0": "this quarter",
-            "relative-type-1": "next quarter",
+            "relative-type--1": "an ráithe seo caite",
+            "relative-type-0": "an ráithe seo",
+            "relative-type-1": "an ráithe seo chugainn",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "i gceann {0} ráithe",
               "relativeTimePattern-count-two": "i gceann {0} ráithe",
@@ -118,9 +115,9 @@
           },
           "quarter-narrow": {
             "displayName": "ráithe",
-            "relative-type--1": "last quarter",
-            "relative-type-0": "this quarter",
-            "relative-type-1": "next quarter",
+            "relative-type--1": "an ráithe seo caite",
+            "relative-type-0": "an ráithe seo",
+            "relative-type-1": "an ráithe seo chugainn",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "+{0} R",
               "relativeTimePattern-count-two": "+{0} R",
@@ -218,9 +215,9 @@
           },
           "week-short": {
             "displayName": "scht.",
-            "relative-type--1": "an tseachtain seo caite",
-            "relative-type-0": "an tseachtain seo",
-            "relative-type-1": "an tseachtain seo chugainn",
+            "relative-type--1": "an tscht. seo caite",
+            "relative-type-0": "an tscht. seo",
+            "relative-type-1": "an tscht. seo chugainn",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "i gceann {0} scht.",
               "relativeTimePattern-count-two": "i gceann {0} shcht.",
@@ -238,9 +235,9 @@
           },
           "week-narrow": {
             "displayName": "scht.",
-            "relative-type--1": "an tseachtain seo caite",
-            "relative-type-0": "an tseachtain seo",
-            "relative-type-1": "an tseachtain seo chugainn",
+            "relative-type--1": "an tscht. seo caite",
+            "relative-type-0": "an tscht. seo",
+            "relative-type-1": "an tscht. seo chugainn",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "+{0} scht.",
               "relativeTimePattern-count-two": "+{0} scht.",
@@ -258,8 +255,8 @@
           },
           "day": {
             "displayName": "Lá",
-            "relative-type--1": "inné",
             "relative-type--2": "arú inné",
+            "relative-type--1": "inné",
             "relative-type-0": "inniu",
             "relative-type-1": "amárach",
             "relative-type-2": "arú amárach",
@@ -280,8 +277,8 @@
           },
           "day-short": {
             "displayName": "Lá",
-            "relative-type--1": "inné",
             "relative-type--2": "arú inné",
+            "relative-type--1": "inné",
             "relative-type-0": "inniu",
             "relative-type-1": "amárach",
             "relative-type-2": "arú amárach",
@@ -302,8 +299,8 @@
           },
           "day-narrow": {
             "displayName": "Lá",
-            "relative-type--1": "inné",
             "relative-type--2": "arú inné",
+            "relative-type--1": "inné",
             "relative-type-0": "inniu",
             "relative-type-1": "amárach",
             "relative-type-2": "arú amárach",
@@ -327,108 +324,108 @@
           },
           "sun": {
             "relative-type--1": "an Domhnach seo caite",
-            "relative-type-0": "an Domhnach seo chugainn",
+            "relative-type-0": "an Domhnach seo",
             "relative-type-1": "an Domhnach seo chugainn"
           },
           "sun-short": {
             "relative-type--1": "an Domh. seo caite",
-            "relative-type-0": "an Domh. seo chugainn",
+            "relative-type-0": "an Domh. seo",
             "relative-type-1": "an Domh. seo chugainn"
           },
           "sun-narrow": {
             "relative-type--1": "an Domh seo caite",
-            "relative-type-0": "an Domh seo chugainn",
-            "relative-type-1": "an Domh seo chugainn"
+            "relative-type-0": "an Domh seo",
+            "relative-type-1": "an Domh seo chug."
           },
           "mon": {
             "relative-type--1": "an Luan seo caite",
-            "relative-type-0": "an Luan seo chugainn",
+            "relative-type-0": "an Luan seo",
             "relative-type-1": "an Luan seo chugainn"
           },
           "mon-short": {
             "relative-type--1": "an Luan seo caite",
-            "relative-type-0": "an Luan seo chugainn",
+            "relative-type-0": "an Luan seo",
             "relative-type-1": "an Luan seo chugainn"
           },
           "mon-narrow": {
             "relative-type--1": "an Luan seo caite",
-            "relative-type-0": "an Luan seo chugainn",
-            "relative-type-1": "an Luan seo chugainn"
+            "relative-type-0": "an Luan seo",
+            "relative-type-1": "an Luan seo chug."
           },
           "tue": {
             "relative-type--1": "an Mháirt seo caite",
-            "relative-type-0": "an Mháirt seo chugainn",
+            "relative-type-0": "an Mháirt seo",
             "relative-type-1": "an Mháirt seo chugainn"
           },
           "tue-short": {
             "relative-type--1": "an Mháirt seo caite",
-            "relative-type-0": "an Mháirt seo chugainn",
+            "relative-type-0": "an Mháirt seo",
             "relative-type-1": "an Mháirt seo chugainn"
           },
           "tue-narrow": {
             "relative-type--1": "an Mháirt seo caite",
-            "relative-type-0": "an Mháirt seo chugainn",
-            "relative-type-1": "an Mháirt seo chugainn"
+            "relative-type-0": "an Mháirt seo",
+            "relative-type-1": "an Mháirt seo chug."
           },
           "wed": {
             "relative-type--1": "an Chéadaoin seo caite",
-            "relative-type-0": "an Chéadaoin seo chugainn",
+            "relative-type-0": "an Chéadaoin seo",
             "relative-type-1": "an Chéadaoin seo chugainn"
           },
           "wed-short": {
             "relative-type--1": "an Chéad. seo caite",
-            "relative-type-0": "an Chéad. seo chugainn",
+            "relative-type-0": "an Chéad. seo",
             "relative-type-1": "an Chéad. seo chugainn"
           },
           "wed-narrow": {
             "relative-type--1": "an Chéad. seo caite",
-            "relative-type-0": "an Chéad. seo chugainn",
-            "relative-type-1": "an Chéad. seo chugainn"
+            "relative-type-0": "an Chéad. seo",
+            "relative-type-1": "an Chéad seo chug."
           },
           "thu": {
             "relative-type--1": "an Déardaoin seo caite",
-            "relative-type-0": "an Déardaoin seo chugainn",
+            "relative-type-0": "an Déardaoin seo",
             "relative-type-1": "an Déardaoin seo chugainn"
           },
           "thu-short": {
             "relative-type--1": "an Déar. seo caite",
-            "relative-type-0": "an Déar. seo chugainn",
+            "relative-type-0": "an Déar. seo",
             "relative-type-1": "an Déar. seo chugainn"
           },
           "thu-narrow": {
             "relative-type--1": "an Déar. seo caite",
-            "relative-type-0": "an Déar. seo chugainn",
-            "relative-type-1": "an Déar. seo chugainn"
+            "relative-type-0": "an Déar. seo",
+            "relative-type-1": "an Déar. seo chug."
           },
           "fri": {
             "relative-type--1": "an Aoine seo caite",
-            "relative-type-0": "an Aoine seo chugainn",
+            "relative-type-0": "an Aoine seo",
             "relative-type-1": "an Aoine seo chugainn"
           },
           "fri-short": {
             "relative-type--1": "an Aoine seo caite",
-            "relative-type-0": "an Aoine seo chugainn",
+            "relative-type-0": "an Aoine seo",
             "relative-type-1": "an Aoine seo chugainn"
           },
           "fri-narrow": {
             "relative-type--1": "an Aoine seo caite",
-            "relative-type-0": "an Aoine seo chugainn",
-            "relative-type-1": "an Aoine seo chugainn"
+            "relative-type-0": "an Aoine seo",
+            "relative-type-1": "an Aoine seo chug."
           },
           "sat": {
             "relative-type--1": "an Satharn seo caite",
-            "relative-type-0": "an Satharn seo chugainn",
+            "relative-type-0": "an Satharn seo",
             "relative-type-1": "an Satharn seo chugainn"
           },
           "sat-short": {
             "relative-type--1": "an Sath. seo caite",
-            "relative-type-0": "an Sath. seo chugainn",
+            "relative-type-0": "an Sath. seo",
             "relative-type-1": "an Sath. seo chugainn"
           },
           "sat-narrow": {
             "relative-type--1": "an Sath seo caite",
-            "relative-type-0": "an Sath seo chugainn",
-            "relative-type-1": "an Sath seo chugainn"
+            "relative-type-0": "an Sath seo",
+            "relative-type-1": "an Sath seo chug."
           },
           "dayperiod": {
             "displayName": "a.m./p.m."
@@ -537,7 +534,7 @@
           },
           "second": {
             "displayName": "Soicind",
-            "relative-type-0": "now",
+            "relative-type-0": "anois",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "i gceann {0} soicind",
               "relativeTimePattern-count-two": "i gceann {0} shoicind",
@@ -555,7 +552,7 @@
           },
           "second-short": {
             "displayName": "soic.",
-            "relative-type-0": "now",
+            "relative-type-0": "anois",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "i gceann {0} soic.",
               "relativeTimePattern-count-two": "i gceann {0} shoic.",
@@ -573,7 +570,7 @@
           },
           "second-narrow": {
             "displayName": "s",
-            "relative-type-0": "now",
+            "relative-type-0": "anois",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "+{0} s",
               "relativeTimePattern-count-two": "+{0} s",

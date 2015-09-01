@@ -3,11 +3,8 @@
     "hsb": {
       "identity": {
         "version": {
-          "_cldrVersion": "27.0.1",
-          "_number": "$Revision: 11294 $"
-        },
-        "generation": {
-          "_date": "$Date: 2015-02-23 16:50:24 -0600 (Mon, 23 Feb 2015) $"
+          "_cldrVersion": "28",
+          "_number": "$Revision: 11914 $"
         },
         "language": "hsb"
       },
@@ -17,8 +14,8 @@
           "gmtFormat": "GMT{0}",
           "gmtZeroFormat": "GMT",
           "regionFormat": "časowe pasmo {0}",
-          "regionFormat-type-standard": "{0} zymski čas",
           "regionFormat-type-daylight": "{0} lětni čas",
+          "regionFormat-type-standard": "{0} zymski čas",
           "fallbackFormat": "{1} ({0})",
           "zone": {
             "America": {
@@ -38,26 +35,26 @@
                 "exemplarCity": "Araguaina"
               },
               "Argentina": {
-                "La_Rioja": {
-                  "exemplarCity": "La Rioja"
-                },
                 "Rio_Gallegos": {
                   "exemplarCity": "Rio Gallegos"
-                },
-                "Salta": {
-                  "exemplarCity": "Salta"
                 },
                 "San_Juan": {
                   "exemplarCity": "San Juan"
                 },
+                "Ushuaia": {
+                  "exemplarCity": "Ushuaia"
+                },
+                "La_Rioja": {
+                  "exemplarCity": "La Rioja"
+                },
                 "San_Luis": {
                   "exemplarCity": "San Luis"
                 },
+                "Salta": {
+                  "exemplarCity": "Salta"
+                },
                 "Tucuman": {
                   "exemplarCity": "Tucuman"
-                },
-                "Ushuaia": {
-                  "exemplarCity": "Ushuaia"
                 }
               },
               "Aruba": {
@@ -208,11 +205,8 @@
                 "exemplarCity": "Hermosillo"
               },
               "Indiana": {
-                "Knox": {
-                  "exemplarCity": "Knox, Indiana"
-                },
-                "Marengo": {
-                  "exemplarCity": "Marengo, Indiana"
+                "Vincennes": {
+                  "exemplarCity": "Vincennes, Indiana"
                 },
                 "Petersburg": {
                   "exemplarCity": "Petersburg, Indiana"
@@ -220,14 +214,17 @@
                 "Tell_City": {
                   "exemplarCity": "Tell City, Indiana"
                 },
-                "Vevay": {
-                  "exemplarCity": "Vevay, Indiana"
-                },
-                "Vincennes": {
-                  "exemplarCity": "Vincennes, Indiana"
+                "Knox": {
+                  "exemplarCity": "Knox, Indiana"
                 },
                 "Winamac": {
                   "exemplarCity": "Winamac, Indiana"
+                },
+                "Marengo": {
+                  "exemplarCity": "Marengo, Indiana"
+                },
+                "Vevay": {
+                  "exemplarCity": "Vevay, Indiana"
                 }
               },
               "Indianapolis": {
@@ -341,11 +338,11 @@
                 "Beulah": {
                   "exemplarCity": "Beulah, Sewjerna Dakota"
                 },
-                "Center": {
-                  "exemplarCity": "Center, Sewjerna Dakota"
-                },
                 "New_Salem": {
                   "exemplarCity": "New Salem, Sewjerna Dakota"
+                },
+                "Center": {
+                  "exemplarCity": "Center, Sewjerna Dakota"
                 }
               },
               "Ojinaga": {
@@ -1736,11 +1733,6 @@
                 "standard": "čas Francoskeho južneho a antarktiskeho teritorija"
               }
             },
-            "GMT": {
-              "long": {
-                "standard": "Greenwichski čas"
-              }
-            },
             "Galapagos": {
               "long": {
                 "standard": "galapagoski čas"
@@ -1761,6 +1753,11 @@
             "Gilbert_Islands": {
               "long": {
                 "standard": "čas Gilbertowych kupow"
+              }
+            },
+            "GMT": {
+              "long": {
+                "standard": "Greenwichski čas"
               }
             },
             "Greenland_Eastern": {

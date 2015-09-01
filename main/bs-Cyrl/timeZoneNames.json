@@ -3,11 +3,8 @@
     "bs-Cyrl": {
       "identity": {
         "version": {
-          "_cldrVersion": "27.0.1",
-          "_number": "$Revision: 11294 $"
-        },
-        "generation": {
-          "_date": "$Date: 2015-02-23 16:50:24 -0600 (Mon, 23 Feb 2015) $"
+          "_cldrVersion": "28",
+          "_number": "$Revision: 11990 $"
         },
         "language": "bs",
         "script": "Cyrl"
@@ -18,8 +15,8 @@
           "gmtFormat": "GMT{0}",
           "gmtZeroFormat": "GMT",
           "regionFormat": "Време у земљи: {0}",
-          "regionFormat-type-standard": "{0} (+0)",
           "regionFormat-type-daylight": "{0} (+1)",
+          "regionFormat-type-standard": "{0} (+0)",
           "fallbackFormat": "{1} ({0})",
           "zone": {
             "America": {
@@ -39,26 +36,26 @@
                 "exemplarCity": "Арагвајана"
               },
               "Argentina": {
-                "La_Rioja": {
-                  "exemplarCity": "Ла Риоја"
-                },
                 "Rio_Gallegos": {
                   "exemplarCity": "Рио Гелегос"
-                },
-                "Salta": {
-                  "exemplarCity": "Салта"
                 },
                 "San_Juan": {
                   "exemplarCity": "Сан Хуан"
                 },
+                "Ushuaia": {
+                  "exemplarCity": "Ушуаија"
+                },
+                "La_Rioja": {
+                  "exemplarCity": "Ла Риоја"
+                },
                 "San_Luis": {
                   "exemplarCity": "Сан Луи"
                 },
+                "Salta": {
+                  "exemplarCity": "Салта"
+                },
                 "Tucuman": {
                   "exemplarCity": "Тукуман"
-                },
-                "Ushuaia": {
-                  "exemplarCity": "Ушуаија"
                 }
               },
               "Aruba": {
@@ -209,11 +206,8 @@
                 "exemplarCity": "Хермосиљо"
               },
               "Indiana": {
-                "Knox": {
-                  "exemplarCity": "Кнокс, Индијана"
-                },
-                "Marengo": {
-                  "exemplarCity": "Маренго, Индијана"
+                "Vincennes": {
+                  "exemplarCity": "Винценес, Индијана"
                 },
                 "Petersburg": {
                   "exemplarCity": "Петерсбург, Индијана"
@@ -221,14 +215,17 @@
                 "Tell_City": {
                   "exemplarCity": "Тел Сити"
                 },
-                "Vevay": {
-                  "exemplarCity": "Вевај, Индијана"
-                },
-                "Vincennes": {
-                  "exemplarCity": "Винценес, Индијана"
+                "Knox": {
+                  "exemplarCity": "Кнокс, Индијана"
                 },
                 "Winamac": {
                   "exemplarCity": "Винамак, Индијана"
+                },
+                "Marengo": {
+                  "exemplarCity": "Маренго, Индијана"
+                },
+                "Vevay": {
+                  "exemplarCity": "Вевај, Индијана"
                 }
               },
               "Indianapolis": {
@@ -342,11 +339,11 @@
                 "Beulah": {
                   "exemplarCity": "Бијула, Северна Дакота"
                 },
-                "Center": {
-                  "exemplarCity": "Центар, Северна Дакота"
-                },
                 "New_Salem": {
                   "exemplarCity": "Нови Салем, Северна Даткоа"
+                },
+                "Center": {
+                  "exemplarCity": "Центар, Северна Дакота"
                 }
               },
               "Ojinaga": {
@@ -1734,11 +1731,6 @@
                 "standard": "Француско јужно и антарктичко време"
               }
             },
-            "GMT": {
-              "long": {
-                "standard": "Гринвич средње време"
-              }
-            },
             "Galapagos": {
               "long": {
                 "standard": "Галапагос време"
@@ -1759,6 +1751,11 @@
             "Gilbert_Islands": {
               "long": {
                 "standard": "Гилберт острва време"
+              }
+            },
+            "GMT": {
+              "long": {
+                "standard": "Гринвич средње време"
               }
             },
             "Greenland_Eastern": {

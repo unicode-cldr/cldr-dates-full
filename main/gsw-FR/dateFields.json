@@ -3,11 +3,8 @@
     "gsw-FR": {
       "identity": {
         "version": {
-          "_cldrVersion": "27.0.1",
-          "_number": "$Revision: 10301 $"
-        },
-        "generation": {
-          "_date": "$Date: 2014-05-14 00:17:36 -0500 (Wed, 14 May 2014) $"
+          "_cldrVersion": "28",
+          "_number": "$Revision: 11914 $"
         },
         "language": "gsw",
         "territory": "FR"
@@ -163,8 +160,8 @@
           },
           "day": {
             "displayName": "Tag",
-            "relative-type--1": "geschter",
             "relative-type--2": "vorgeschter",
+            "relative-type--1": "geschter",
             "relative-type-0": "hüt",
             "relative-type-1": "moorn",
             "relative-type-2": "übermoorn",
@@ -177,8 +174,8 @@
           },
           "day-short": {
             "displayName": "Tag",
-            "relative-type--1": "geschter",
             "relative-type--2": "vorgeschter",
+            "relative-type--1": "geschter",
             "relative-type-0": "hüt",
             "relative-type-1": "moorn",
             "relative-type-2": "übermoorn",
@@ -191,8 +188,8 @@
           },
           "day-narrow": {
             "displayName": "Tag",
-            "relative-type--1": "geschter",
             "relative-type--2": "vorgeschter",
+            "relative-type--1": "geschter",
             "relative-type-0": "hüt",
             "relative-type-1": "moorn",
             "relative-type-2": "übermoorn",

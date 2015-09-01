@@ -3,11 +3,8 @@
     "gd": {
       "identity": {
         "version": {
-          "_cldrVersion": "27.0.1",
-          "_number": "$Revision: 11294 $"
-        },
-        "generation": {
-          "_date": "$Date: 2015-02-23 16:50:24 -0600 (Mon, 23 Feb 2015) $"
+          "_cldrVersion": "28",
+          "_number": "$Revision: 12004 $"
         },
         "language": "gd"
       },
@@ -17,8 +14,8 @@
           "gmtFormat": "GMT{0}",
           "gmtZeroFormat": "GMT",
           "regionFormat": "{0}",
-          "regionFormat-type-standard": "Bun-àm: {0}",
           "regionFormat-type-daylight": "Tìde samhraidh: {0}",
+          "regionFormat-type-standard": "Bun-àm: {0}",
           "fallbackFormat": "{1} ({0})",
           "zone": {
             "America": {
@@ -38,26 +35,26 @@
                 "exemplarCity": "Araguaína"
               },
               "Argentina": {
-                "La_Rioja": {
-                  "exemplarCity": "La Rioja"
-                },
                 "Rio_Gallegos": {
                   "exemplarCity": "Río Gallegos"
-                },
-                "Salta": {
-                  "exemplarCity": "Salta"
                 },
                 "San_Juan": {
                   "exemplarCity": "San Juan"
                 },
+                "Ushuaia": {
+                  "exemplarCity": "Ushuaia"
+                },
+                "La_Rioja": {
+                  "exemplarCity": "La Rioja"
+                },
                 "San_Luis": {
                   "exemplarCity": "San Luis"
                 },
+                "Salta": {
+                  "exemplarCity": "Salta"
+                },
                 "Tucuman": {
                   "exemplarCity": "Tucumán"
-                },
-                "Ushuaia": {
-                  "exemplarCity": "Ushuaia"
                 }
               },
               "Aruba": {
@@ -208,11 +205,8 @@
                 "exemplarCity": "Hermosillo"
               },
               "Indiana": {
-                "Knox": {
-                  "exemplarCity": "Knox, Indiana"
-                },
-                "Marengo": {
-                  "exemplarCity": "Marengo, Indiana"
+                "Vincennes": {
+                  "exemplarCity": "Vincennes, Indiana"
                 },
                 "Petersburg": {
                   "exemplarCity": "Petersburg, Indiana"
@@ -220,14 +214,17 @@
                 "Tell_City": {
                   "exemplarCity": "Tell City, Indiana"
                 },
-                "Vevay": {
-                  "exemplarCity": "Vevay, Indiana"
-                },
-                "Vincennes": {
-                  "exemplarCity": "Vincennes, Indiana"
+                "Knox": {
+                  "exemplarCity": "Knox, Indiana"
                 },
                 "Winamac": {
                   "exemplarCity": "Winamac, Indiana"
+                },
+                "Marengo": {
+                  "exemplarCity": "Marengo, Indiana"
+                },
+                "Vevay": {
+                  "exemplarCity": "Vevay, Indiana"
                 }
               },
               "Indianapolis": {
@@ -341,11 +338,11 @@
                 "Beulah": {
                   "exemplarCity": "Beulah, North Dakota"
                 },
-                "Center": {
-                  "exemplarCity": "Center, North Dakota"
-                },
                 "New_Salem": {
                   "exemplarCity": "New Salem, North Dakota"
+                },
+                "Center": {
+                  "exemplarCity": "Center, North Dakota"
                 }
               },
               "Ojinaga": {
@@ -542,6 +539,9 @@
                 "long": {
                   "daylight": "Bun-àm na h-Èireann"
                 },
+                "short": {
+                  "daylight": "TSÈ (Èirinn)"
+                },
                 "exemplarCity": "Baile Àtha Cliath"
               },
               "Gibraltar": {
@@ -576,7 +576,7 @@
               },
               "London": {
                 "long": {
-                  "daylight": "Tìde Samhraidh Bhreatainn"
+                  "daylight": "Tìde samhraidh Bhreatainn"
                 },
                 "short": {
                   "daylight": "TSB"
@@ -1191,6 +1191,11 @@
                 "exemplarCity": "Guam"
               },
               "Honolulu": {
+                "short": {
+                  "generic": "HST",
+                  "standard": "HST",
+                  "daylight": "HDT"
+                },
                 "exemplarCity": "Honolulu"
               },
               "Johnston": {
@@ -1418,7 +1423,7 @@
             },
             "Africa_Southern": {
               "long": {
-                "standard": "Bun-àm Afraga a Deas"
+                "standard": "Àm Afraga a Deas"
               }
             },
             "Africa_Western": {
@@ -1433,6 +1438,11 @@
                 "generic": "Àm Alaska",
                 "standard": "Bun-àm Alaska",
                 "daylight": "Tìde samhraidh Alaska"
+              },
+              "short": {
+                "generic": "AKT",
+                "standard": "AKST",
+                "daylight": "AKDT"
               }
             },
             "Almaty": {
@@ -1454,6 +1464,11 @@
                 "generic": "Àm Meadhan Aimeireaga a Tuath",
                 "standard": "Bun-àm Meadhan Aimeireaga a Tuath",
                 "daylight": "Tìde samhraidh Meadhan Aimeireaga a Tuath"
+              },
+              "short": {
+                "generic": "CT",
+                "standard": "CST",
+                "daylight": "CDT"
               }
             },
             "America_Eastern": {
@@ -1461,6 +1476,11 @@
                 "generic": "Àm Aimeireaga a Tuath an Ear",
                 "standard": "Bun-àm Aimeireaga a Tuath an Ear",
                 "daylight": "Tìde samhraidh Aimeireaga a Tuath an Ear"
+              },
+              "short": {
+                "generic": "ET",
+                "standard": "EST",
+                "daylight": "EDT"
               }
             },
             "America_Mountain": {
@@ -1468,6 +1488,11 @@
                 "generic": "Àm Monadh Aimeireaga a Tuath",
                 "standard": "Bun-àm Monadh Aimeireaga a Tuath",
                 "daylight": "Tìde samhraidh Monadh Aimeireaga a Tuath"
+              },
+              "short": {
+                "generic": "MT",
+                "standard": "MST",
+                "daylight": "MDT"
               }
             },
             "America_Pacific": {
@@ -1475,6 +1500,11 @@
                 "generic": "Àm a’ Chuain Sèimh",
                 "standard": "Bun-àm a’ Chuain Sèimh",
                 "daylight": "Tìde samhraidh a’ Chuain Sèimh"
+              },
+              "short": {
+                "generic": "PT",
+                "standard": "PST",
+                "daylight": "PDT"
               }
             },
             "Anadyr": {
@@ -1538,6 +1568,11 @@
                 "generic": "Àm a’ Chuain Siar",
                 "standard": "Bun-àm a’ Chuain Siar",
                 "daylight": "Tìde samhraidh a’ Chuain Siar"
+              },
+              "short": {
+                "generic": "AT",
+                "standard": "AST",
+                "daylight": "ADT"
               }
             },
             "Australia_Central": {
@@ -1719,6 +1754,11 @@
                 "generic": "Àm Meadhan na Roinn-Eòrpa",
                 "standard": "Bun-àm Meadhan na Roinn-Eòrpa",
                 "daylight": "Tìde samhraidh Meadhan na Roinn-Eòrpa"
+              },
+              "short": {
+                "generic": "CET",
+                "standard": "CET",
+                "daylight": "CEST"
               }
             },
             "Europe_Eastern": {
@@ -1726,6 +1766,11 @@
                 "generic": "Àm na Roinn-Eòrpa an Ear",
                 "standard": "Bun-àm na Roinn-Eòrpa an Ear",
                 "daylight": "Tìde samhraidh na Roinn-Eòrpa an Ear"
+              },
+              "short": {
+                "generic": "EET",
+                "standard": "EET",
+                "daylight": "EEST"
               }
             },
             "Europe_Further_Eastern": {
@@ -1738,6 +1783,11 @@
                 "generic": "Àm na Roinn-Eòrpa an Iar",
                 "standard": "Bun-àm na Roinn-Eòrpa an Iar",
                 "daylight": "Tìde samhraidh na Roinn-Eòrpa an Iar"
+              },
+              "short": {
+                "generic": "WET",
+                "standard": "WET",
+                "daylight": "WEST"
               }
             },
             "Falkland": {
@@ -1764,11 +1814,6 @@
                 "standard": "Àm Deasach agus Antartaigeach na Frainge"
               }
             },
-            "GMT": {
-              "long": {
-                "standard": "Greenwich Mean Time"
-              }
-            },
             "Galapagos": {
               "long": {
                 "standard": "Àm Ghalapagos"
@@ -1789,6 +1834,14 @@
             "Gilbert_Islands": {
               "long": {
                 "standard": "Àm Eileanan Ghileabairt"
+              }
+            },
+            "GMT": {
+              "long": {
+                "standard": "Greenwich Mean Time"
+              },
+              "short": {
+                "standard": "GMT"
               }
             },
             "Greenland_Eastern": {
@@ -1822,9 +1875,14 @@
             },
             "Hawaii_Aleutian": {
               "long": {
-                "generic": "Àm nan Eileanan Hawai’i ‘s Aleutach",
-                "standard": "Bun-àm nan Eileanan Hawai’i ‘s Aleutach",
-                "daylight": "Tìde Samhraidh nan Eileanan Hawai’i ‘s Aleutach"
+                "generic": "Àm nan Eileanan Hawai’i ’s Aleutach",
+                "standard": "Bun-àm nan Eileanan Hawai’i ’s Aleutach",
+                "daylight": "Tìde Samhraidh nan Eileanan Hawai’i ’s Aleutach"
+              },
+              "short": {
+                "generic": "HAT",
+                "standard": "HAST",
+                "daylight": "HADT"
               }
             },
             "Hong_Kong": {
@@ -1993,7 +2051,7 @@
             },
             "Marshall_Islands": {
               "long": {
-                "standard": "Eileanan Mharshall"
+                "standard": "Àm Eileanan Mharshall"
               }
             },
             "Mauritius": {
@@ -2170,9 +2228,9 @@
             },
             "Qyzylorda": {
               "long": {
-                "generic": "Àm Qyzylorda",
-                "standard": "Bun-àm Qyzylorda",
-                "daylight": "Tìde samhraidh Qyzylorda"
+                "generic": "Àm Qızılorda",
+                "standard": "Bun-àm Qızılorda",
+                "daylight": "Tìde samhraidh Qızılorda"
               }
             },
             "Reunion": {

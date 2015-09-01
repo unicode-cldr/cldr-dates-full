@@ -3,11 +3,8 @@
     "os": {
       "identity": {
         "version": {
-          "_cldrVersion": "27.0.1",
-          "_number": "$Revision: 11093 $"
-        },
-        "generation": {
-          "_date": "$Date: 2015-01-02 21:36:02 -0600 (Fri, 02 Jan 2015) $"
+          "_cldrVersion": "28",
+          "_number": "$Revision: 11914 $"
         },
         "language": "os"
       },
@@ -162,8 +159,8 @@
           },
           "day": {
             "displayName": "Бон",
-            "relative-type--1": "Знон",
             "relative-type--2": "Ӕндӕрӕбон",
+            "relative-type--1": "Знон",
             "relative-type-0": "Абон",
             "relative-type-1": "Сом",
             "relative-type-2": "Иннӕбон",
@@ -178,8 +175,8 @@
           },
           "day-short": {
             "displayName": "Бон",
-            "relative-type--1": "Знон",
             "relative-type--2": "Ӕндӕрӕбон",
+            "relative-type--1": "Знон",
             "relative-type-0": "Абон",
             "relative-type-1": "Сом",
             "relative-type-2": "Иннӕбон",
@@ -194,8 +191,8 @@
           },
           "day-narrow": {
             "displayName": "Бон",
-            "relative-type--1": "Знон",
             "relative-type--2": "Ӕндӕрӕбон",
+            "relative-type--1": "Знон",
             "relative-type-0": "Абон",
             "relative-type-1": "Сом",
             "relative-type-2": "Иннӕбон",

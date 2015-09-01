@@ -3,1298 +3,1301 @@
     "be": {
       "identity": {
         "version": {
-          "_cldrVersion": "27.0.1",
-          "_number": "$Revision: 11093 $"
-        },
-        "generation": {
-          "_date": "$Date: 2015-01-02 21:36:02 -0600 (Fri, 02 Jan 2015) $"
+          "_cldrVersion": "28",
+          "_number": "$Revision: 12004 $"
         },
         "language": "be"
       },
       "dates": {
         "timeZoneNames": {
-          "hourFormat": "+HH:mm;-HH:mm",
+          "hourFormat": "+HH.mm;-HH.mm",
           "gmtFormat": "GMT{0}",
           "gmtZeroFormat": "GMT",
           "regionFormat": "Час: {0}",
-          "regionFormat-type-standard": "{0} (+0)",
           "regionFormat-type-daylight": "{0} (+1)",
+          "regionFormat-type-standard": "{0} (+0)",
           "fallbackFormat": "{1} ({0})",
           "zone": {
             "America": {
               "Adak": {
-                "exemplarCity": "Adak"
+                "exemplarCity": "Адак"
               },
               "Anchorage": {
                 "exemplarCity": "Анкорыдж"
               },
               "Anguilla": {
-                "exemplarCity": "Anguilla"
+                "exemplarCity": "Ангілья"
               },
               "Antigua": {
-                "exemplarCity": "Antigua"
+                "exemplarCity": "Антыгуа"
               },
               "Araguaina": {
-                "exemplarCity": "Araguaina"
+                "exemplarCity": "Арагуаіна"
               },
               "Argentina": {
-                "La_Rioja": {
-                  "exemplarCity": "La Rioja"
-                },
                 "Rio_Gallegos": {
-                  "exemplarCity": "Rio Gallegos"
-                },
-                "Salta": {
-                  "exemplarCity": "Salta"
+                  "exemplarCity": "Рыа-Гальегас"
                 },
                 "San_Juan": {
-                  "exemplarCity": "San Juan"
-                },
-                "San_Luis": {
-                  "exemplarCity": "San Luis"
-                },
-                "Tucuman": {
-                  "exemplarCity": "Tucuman"
+                  "exemplarCity": "Сан-Хуан"
                 },
                 "Ushuaia": {
-                  "exemplarCity": "Ushuaia"
+                  "exemplarCity": "Ушуая"
+                },
+                "La_Rioja": {
+                  "exemplarCity": "Ла-Рыёха"
+                },
+                "San_Luis": {
+                  "exemplarCity": "Сан-Луіс"
+                },
+                "Salta": {
+                  "exemplarCity": "Сальта"
+                },
+                "Tucuman": {
+                  "exemplarCity": "Тукуман"
                 }
               },
               "Aruba": {
-                "exemplarCity": "Aruba"
+                "exemplarCity": "Аруба"
               },
               "Asuncion": {
-                "exemplarCity": "Asuncion"
+                "exemplarCity": "Асунсьён"
               },
               "Bahia": {
-                "exemplarCity": "Bahia"
+                "exemplarCity": "Баія"
               },
               "Bahia_Banderas": {
-                "exemplarCity": "Bahia Banderas"
+                "exemplarCity": "Баія-дэ-Бандэрас"
               },
               "Barbados": {
-                "exemplarCity": "Barbados"
+                "exemplarCity": "Барбадас"
               },
               "Belem": {
-                "exemplarCity": "Belem"
+                "exemplarCity": "Белен"
               },
               "Belize": {
-                "exemplarCity": "Belize"
+                "exemplarCity": "Беліз"
               },
               "Blanc-Sablon": {
-                "exemplarCity": "Blanc-Sablon"
+                "exemplarCity": "Бланк-Саблон"
               },
               "Boa_Vista": {
-                "exemplarCity": "Boa Vista"
+                "exemplarCity": "Боа-Віста"
               },
               "Bogota": {
-                "exemplarCity": "Bogota"
+                "exemplarCity": "Багата"
               },
               "Boise": {
-                "exemplarCity": "Boise"
+                "exemplarCity": "Бойсэ"
               },
               "Buenos_Aires": {
-                "exemplarCity": "Buenos Aires"
+                "exemplarCity": "Буэнас-Айрэс"
               },
               "Cambridge_Bay": {
-                "exemplarCity": "Cambridge Bay"
+                "exemplarCity": "Кеймбрыдж-Бэй"
               },
               "Campo_Grande": {
-                "exemplarCity": "Кампа Грандэ"
+                "exemplarCity": "Кампу-Гранды"
               },
               "Cancun": {
-                "exemplarCity": "Cancun"
+                "exemplarCity": "Канкун"
               },
               "Caracas": {
-                "exemplarCity": "Caracas"
+                "exemplarCity": "Каракас"
               },
               "Catamarca": {
-                "exemplarCity": "Catamarca"
+                "exemplarCity": "Катамарка"
               },
               "Cayenne": {
-                "exemplarCity": "Cayenne"
+                "exemplarCity": "Каена"
               },
               "Cayman": {
-                "exemplarCity": "Cayman"
+                "exemplarCity": "Кайман"
               },
               "Chicago": {
                 "exemplarCity": "Чыкага"
               },
               "Chihuahua": {
-                "exemplarCity": "Chihuahua"
+                "exemplarCity": "Чыуауа"
               },
               "Coral_Harbour": {
-                "exemplarCity": "Atikokan"
+                "exemplarCity": "Атыкокан"
               },
               "Cordoba": {
-                "exemplarCity": "Cordoba"
+                "exemplarCity": "Кордава"
               },
               "Costa_Rica": {
-                "exemplarCity": "Costa Rica"
+                "exemplarCity": "Коста-Рыка"
               },
               "Creston": {
-                "exemplarCity": "Creston"
+                "exemplarCity": "Крэстан"
               },
               "Cuiaba": {
-                "exemplarCity": "Cuiaba"
+                "exemplarCity": "Куяба"
               },
               "Curacao": {
-                "exemplarCity": "Curacao"
+                "exemplarCity": "Кюрасаа"
               },
               "Danmarkshavn": {
-                "exemplarCity": "Danmarkshavn"
+                "exemplarCity": "Данмарксхаўн"
               },
               "Dawson": {
-                "exemplarCity": "Dawson"
+                "exemplarCity": "Доўсан"
               },
               "Dawson_Creek": {
-                "exemplarCity": "Dawson Creek"
+                "exemplarCity": "Досан-Крык"
               },
               "Denver": {
-                "exemplarCity": "Дэнвэр"
+                "exemplarCity": "Дэнвер"
               },
               "Detroit": {
-                "exemplarCity": "Detroit"
+                "exemplarCity": "Дэтройт"
               },
               "Dominica": {
-                "exemplarCity": "Dominica"
+                "exemplarCity": "Дамініка"
               },
               "Edmonton": {
-                "exemplarCity": "Edmonton"
+                "exemplarCity": "Эдмантан"
               },
               "Eirunepe": {
-                "exemplarCity": "Eirunepe"
+                "exemplarCity": "Эйрунэпе"
               },
               "El_Salvador": {
-                "exemplarCity": "El Salvador"
+                "exemplarCity": "Эль-Сальвадор"
               },
               "Fortaleza": {
-                "exemplarCity": "Fortaleza"
+                "exemplarCity": "Фарталеза"
               },
               "Glace_Bay": {
-                "exemplarCity": "Glace Bay"
+                "exemplarCity": "Глэйс-Бэй"
               },
               "Godthab": {
-                "exemplarCity": "Nuuk"
+                "exemplarCity": "Нуўк"
               },
               "Goose_Bay": {
-                "exemplarCity": "Goose Bay"
+                "exemplarCity": "Гус-Бэй"
               },
               "Grand_Turk": {
-                "exemplarCity": "Grand Turk"
+                "exemplarCity": "Гранд-Цёрк"
               },
               "Grenada": {
-                "exemplarCity": "Grenada"
+                "exemplarCity": "Грэнада"
               },
               "Guadeloupe": {
-                "exemplarCity": "Guadeloupe"
+                "exemplarCity": "Гвадэлупа"
               },
               "Guatemala": {
-                "exemplarCity": "Guatemala"
+                "exemplarCity": "Гватэмала"
               },
               "Guayaquil": {
-                "exemplarCity": "Guayaquil"
+                "exemplarCity": "Гуаякіль"
               },
               "Guyana": {
-                "exemplarCity": "Guyana"
+                "exemplarCity": "Гаяна"
               },
               "Halifax": {
-                "exemplarCity": "Halifax"
+                "exemplarCity": "Галіфакс"
               },
               "Havana": {
-                "exemplarCity": "Havana"
+                "exemplarCity": "Гавана"
               },
               "Hermosillo": {
-                "exemplarCity": "Hermosillo"
+                "exemplarCity": "Эрмасілья"
               },
               "Indiana": {
-                "Knox": {
-                  "exemplarCity": "Knox, Indiana"
-                },
-                "Marengo": {
-                  "exemplarCity": "Marengo, Indiana"
+                "Vincennes": {
+                  "exemplarCity": "Вінсенс, Індыяна"
                 },
                 "Petersburg": {
-                  "exemplarCity": "Petersburg, Indiana"
+                  "exemplarCity": "Пецярсбург, Індыяна"
                 },
                 "Tell_City": {
-                  "exemplarCity": "Tell City, Indiana"
+                  "exemplarCity": "Тэл Сіці, Індыяна"
                 },
-                "Vevay": {
-                  "exemplarCity": "Vevay, Indiana"
-                },
-                "Vincennes": {
-                  "exemplarCity": "Vincennes, Indiana"
+                "Knox": {
+                  "exemplarCity": "Нокс, Індыяна"
                 },
                 "Winamac": {
-                  "exemplarCity": "Winamac, Indiana"
+                  "exemplarCity": "Уінамак, Індыяна"
+                },
+                "Marengo": {
+                  "exemplarCity": "Марэнга, Індыяна"
+                },
+                "Vevay": {
+                  "exemplarCity": "Віві, Індыяна"
                 }
               },
               "Indianapolis": {
                 "exemplarCity": "Індыянапаліс"
               },
               "Inuvik": {
-                "exemplarCity": "Inuvik"
+                "exemplarCity": "Інувік"
               },
               "Iqaluit": {
-                "exemplarCity": "Iqaluit"
+                "exemplarCity": "Ікалуіт"
               },
               "Jamaica": {
-                "exemplarCity": "Jamaica"
+                "exemplarCity": "Ямайка"
               },
               "Jujuy": {
-                "exemplarCity": "Jujuy"
+                "exemplarCity": "Жужуй"
               },
               "Juneau": {
-                "exemplarCity": "Juneau"
+                "exemplarCity": "Джуна"
               },
               "Kentucky": {
                 "Monticello": {
-                  "exemplarCity": "Monticello, Kentucky"
+                  "exemplarCity": "Мантысела, Кентукі"
                 }
               },
               "Kralendijk": {
-                "exemplarCity": "Kralendijk"
+                "exemplarCity": "Кралендэйк"
               },
               "La_Paz": {
-                "exemplarCity": "La Paz"
+                "exemplarCity": "Ла-Пас"
               },
               "Lima": {
-                "exemplarCity": "Lima"
+                "exemplarCity": "Ліма"
               },
               "Los_Angeles": {
-                "exemplarCity": "Лос-Анджэлас"
+                "exemplarCity": "Лос-Анджэлес"
               },
               "Louisville": {
-                "exemplarCity": "Louisville"
+                "exemplarCity": "Луісвіл"
               },
               "Lower_Princes": {
-                "exemplarCity": "Lower Prince’s Quarter"
+                "exemplarCity": "Лоуэр Прынсіз Квортар"
               },
               "Maceio": {
-                "exemplarCity": "Maceio"
+                "exemplarCity": "Масеё"
               },
               "Managua": {
-                "exemplarCity": "Managua"
+                "exemplarCity": "Манагуа"
               },
               "Manaus": {
-                "exemplarCity": "Manaus"
+                "exemplarCity": "Манаус"
               },
               "Marigot": {
-                "exemplarCity": "Marigot"
+                "exemplarCity": "Марыго"
               },
               "Martinique": {
-                "exemplarCity": "Martinique"
+                "exemplarCity": "Марцініка"
               },
               "Matamoros": {
-                "exemplarCity": "Matamoros"
+                "exemplarCity": "Матаморас"
               },
               "Mazatlan": {
-                "exemplarCity": "Mazatlan"
+                "exemplarCity": "Масатлан"
               },
               "Mendoza": {
-                "exemplarCity": "Mendoza"
+                "exemplarCity": "Мендоса"
               },
               "Menominee": {
-                "exemplarCity": "Menominee"
+                "exemplarCity": "Мяноміні"
               },
               "Merida": {
-                "exemplarCity": "Merida"
+                "exemplarCity": "Мерыда"
               },
               "Metlakatla": {
-                "exemplarCity": "Metlakatla"
+                "exemplarCity": "Метлакатла"
               },
               "Mexico_City": {
-                "exemplarCity": "Mexico City"
+                "exemplarCity": "Мехіка"
               },
               "Miquelon": {
-                "exemplarCity": "Miquelon"
+                "exemplarCity": "Мікелон"
               },
               "Moncton": {
-                "exemplarCity": "Moncton"
+                "exemplarCity": "Манктон"
               },
               "Monterrey": {
-                "exemplarCity": "Monterrey"
+                "exemplarCity": "Мантэрэй"
               },
               "Montevideo": {
-                "exemplarCity": "Montevideo"
+                "exemplarCity": "Мантэвідэа"
               },
               "Montserrat": {
-                "exemplarCity": "Montserrat"
+                "exemplarCity": "Мантсерат"
               },
               "Nassau": {
-                "exemplarCity": "Nassau"
+                "exemplarCity": "Насау"
               },
               "New_York": {
                 "exemplarCity": "Нью-Ёрк"
               },
               "Nipigon": {
-                "exemplarCity": "Nipigon"
+                "exemplarCity": "Ніпігон"
               },
               "Nome": {
-                "exemplarCity": "Nome"
+                "exemplarCity": "Ном"
               },
               "Noronha": {
-                "exemplarCity": "Noronha"
+                "exemplarCity": "Наронья"
               },
               "North_Dakota": {
                 "Beulah": {
-                  "exemplarCity": "Beulah, North Dakota"
-                },
-                "Center": {
-                  "exemplarCity": "Center, North Dakota"
+                  "exemplarCity": "Бойла, Паўночная Дакота"
                 },
                 "New_Salem": {
-                  "exemplarCity": "New Salem, North Dakota"
+                  "exemplarCity": "Нью-Сейлем, Паўночная Дакота"
+                },
+                "Center": {
+                  "exemplarCity": "Сентар, Паўночная Дакота"
                 }
               },
               "Ojinaga": {
-                "exemplarCity": "Ojinaga"
+                "exemplarCity": "Ахінага"
               },
               "Panama": {
-                "exemplarCity": "Panama"
+                "exemplarCity": "Панама"
               },
               "Pangnirtung": {
-                "exemplarCity": "Pangnirtung"
+                "exemplarCity": "Пангніртунг"
               },
               "Paramaribo": {
-                "exemplarCity": "Paramaribo"
+                "exemplarCity": "Парамарыба"
               },
               "Phoenix": {
-                "exemplarCity": "Фэнікс"
+                "exemplarCity": "Фінікс"
               },
               "Port-au-Prince": {
-                "exemplarCity": "Port-au-Prince"
+                "exemplarCity": "Порт-о-Прэнс"
               },
               "Port_of_Spain": {
-                "exemplarCity": "Port of Spain"
+                "exemplarCity": "Порт-оф-Спейн"
               },
               "Porto_Velho": {
-                "exemplarCity": "Porto Velho"
+                "exemplarCity": "Порту-Велью"
               },
               "Puerto_Rico": {
-                "exemplarCity": "Puerto Rico"
+                "exemplarCity": "Пуэрта-Рыка"
               },
               "Rainy_River": {
-                "exemplarCity": "Rainy River"
+                "exemplarCity": "Рэйні-Рывер"
               },
               "Rankin_Inlet": {
-                "exemplarCity": "Rankin Inlet"
+                "exemplarCity": "Ранкін-Інлет"
               },
               "Recife": {
-                "exemplarCity": "Recife"
+                "exemplarCity": "Рэсіфі"
               },
               "Regina": {
-                "exemplarCity": "Regina"
+                "exemplarCity": "Рэджайна"
               },
               "Resolute": {
-                "exemplarCity": "Resolute"
+                "exemplarCity": "Рэзальют"
               },
               "Rio_Branco": {
-                "exemplarCity": "Рыё Бранка"
+                "exemplarCity": "Рыу-Бранку"
               },
               "Santa_Isabel": {
-                "exemplarCity": "Santa Isabel"
+                "exemplarCity": "Санта-Ісабель"
               },
               "Santarem": {
-                "exemplarCity": "Santarem"
+                "exemplarCity": "Сантарэн"
               },
               "Santiago": {
-                "exemplarCity": "Santiago"
+                "exemplarCity": "Сант’яга"
               },
               "Santo_Domingo": {
-                "exemplarCity": "Santo Domingo"
+                "exemplarCity": "Санта-Дамінга"
               },
               "Sao_Paulo": {
                 "exemplarCity": "Сан-Паўлу"
               },
               "Scoresbysund": {
-                "exemplarCity": "Ittoqqortoormiit"
+                "exemplarCity": "Ілакортаарміут"
               },
               "Sitka": {
-                "exemplarCity": "Sitka"
+                "exemplarCity": "Сітка"
               },
               "St_Barthelemy": {
-                "exemplarCity": "St. Barthelemy"
+                "exemplarCity": "Сен-Бартэльмі"
               },
               "St_Johns": {
-                "exemplarCity": "St. John’s"
+                "exemplarCity": "Сент-Джонс"
               },
               "St_Kitts": {
-                "exemplarCity": "St. Kitts"
+                "exemplarCity": "Сент-Кітс"
               },
               "St_Lucia": {
-                "exemplarCity": "St. Lucia"
+                "exemplarCity": "Сент-Люсія"
               },
               "St_Thomas": {
-                "exemplarCity": "St. Thomas"
+                "exemplarCity": "Сент-Томас"
               },
               "St_Vincent": {
-                "exemplarCity": "St. Vincent"
+                "exemplarCity": "Сент-Вінсент"
               },
               "Swift_Current": {
-                "exemplarCity": "Swift Current"
+                "exemplarCity": "Свіфт Керэнт"
               },
               "Tegucigalpa": {
-                "exemplarCity": "Tegucigalpa"
+                "exemplarCity": "Тэгусігальпа"
               },
               "Thule": {
-                "exemplarCity": "Thule"
+                "exemplarCity": "Туле"
               },
               "Thunder_Bay": {
-                "exemplarCity": "Thunder Bay"
+                "exemplarCity": "Тандэр-Бэй"
               },
               "Tijuana": {
-                "exemplarCity": "Tijuana"
+                "exemplarCity": "Тыхуана"
               },
               "Toronto": {
-                "exemplarCity": "Toronto"
+                "exemplarCity": "Таронта"
               },
               "Tortola": {
-                "exemplarCity": "Tortola"
+                "exemplarCity": "Тартола"
               },
               "Vancouver": {
-                "exemplarCity": "Vancouver"
+                "exemplarCity": "Ванкувер"
               },
               "Whitehorse": {
-                "exemplarCity": "Whitehorse"
+                "exemplarCity": "Уайтхорс"
               },
               "Winnipeg": {
-                "exemplarCity": "Winnipeg"
+                "exemplarCity": "Вініпег"
               },
               "Yakutat": {
-                "exemplarCity": "Yakutat"
+                "exemplarCity": "Якутат"
               },
               "Yellowknife": {
-                "exemplarCity": "Yellowknife"
+                "exemplarCity": "Елаўнайф"
               }
             },
             "Atlantic": {
               "Azores": {
-                "exemplarCity": "Azores"
+                "exemplarCity": "Азорскія астравы"
               },
               "Bermuda": {
-                "exemplarCity": "Bermuda"
+                "exemplarCity": "Бермудскія астравы"
               },
               "Canary": {
-                "exemplarCity": "Canary"
+                "exemplarCity": "Канарскія астравы"
               },
               "Cape_Verde": {
-                "exemplarCity": "Cape Verde"
+                "exemplarCity": "Каба-Вердэ"
               },
               "Faeroe": {
-                "exemplarCity": "Faroe"
+                "exemplarCity": "Фарэрскія астравы"
               },
               "Madeira": {
-                "exemplarCity": "Madeira"
+                "exemplarCity": "Мадэйра"
               },
               "Reykjavik": {
-                "exemplarCity": "Reykjavik"
+                "exemplarCity": "Рэйк’явік"
               },
               "South_Georgia": {
-                "exemplarCity": "South Georgia"
+                "exemplarCity": "Паўднёвая Джорджыя"
               },
               "St_Helena": {
-                "exemplarCity": "St. Helena"
+                "exemplarCity": "Востраў Святой Алены"
               },
               "Stanley": {
-                "exemplarCity": "Stanley"
+                "exemplarCity": "Стэнлі"
               }
             },
             "Europe": {
               "Amsterdam": {
-                "exemplarCity": "Amsterdam"
+                "exemplarCity": "Амстэрдам"
               },
               "Andorra": {
-                "exemplarCity": "Andorra"
+                "exemplarCity": "Андора"
               },
               "Athens": {
-                "exemplarCity": "Athens"
+                "exemplarCity": "Афіны"
               },
               "Belgrade": {
-                "exemplarCity": "Belgrade"
+                "exemplarCity": "Бялград"
               },
               "Berlin": {
-                "exemplarCity": "Berlin"
+                "exemplarCity": "Берлін"
               },
               "Bratislava": {
-                "exemplarCity": "Bratislava"
+                "exemplarCity": "Браціслава"
               },
               "Brussels": {
-                "exemplarCity": "Brussels"
+                "exemplarCity": "Брусель"
               },
               "Bucharest": {
-                "exemplarCity": "Bucharest"
+                "exemplarCity": "Бухарэст"
               },
               "Budapest": {
-                "exemplarCity": "Budapest"
+                "exemplarCity": "Будапешт"
               },
               "Busingen": {
-                "exemplarCity": "Busingen"
+                "exemplarCity": "Бюзінген"
               },
               "Chisinau": {
-                "exemplarCity": "Chisinau"
+                "exemplarCity": "Кішынёў"
               },
               "Copenhagen": {
-                "exemplarCity": "Copenhagen"
+                "exemplarCity": "Капенгаген"
               },
               "Dublin": {
-                "exemplarCity": "Dublin"
+                "long": {
+                  "daylight": "Ірландскі стандартны час"
+                },
+                "exemplarCity": "Дублін"
               },
               "Gibraltar": {
-                "exemplarCity": "Gibraltar"
+                "exemplarCity": "Гібралтар"
               },
               "Guernsey": {
-                "exemplarCity": "Guernsey"
+                "exemplarCity": "Гернсі"
               },
               "Helsinki": {
-                "exemplarCity": "Helsinki"
+                "exemplarCity": "Хельсінкі"
               },
               "Isle_of_Man": {
-                "exemplarCity": "Isle of Man"
+                "exemplarCity": "Востраў Мэн"
               },
               "Istanbul": {
-                "exemplarCity": "Istanbul"
+                "exemplarCity": "Стамбул"
               },
               "Jersey": {
-                "exemplarCity": "Jersey"
+                "exemplarCity": "Джэрсі"
               },
               "Kaliningrad": {
-                "exemplarCity": "Kaliningrad"
+                "exemplarCity": "Калінінград"
               },
               "Kiev": {
-                "exemplarCity": "Kiev"
+                "exemplarCity": "Кіеў"
               },
               "Lisbon": {
-                "exemplarCity": "Lisbon"
+                "exemplarCity": "Лісабон"
               },
               "Ljubljana": {
-                "exemplarCity": "Ljubljana"
+                "exemplarCity": "Любляна"
               },
               "London": {
-                "exemplarCity": "London"
+                "long": {
+                  "daylight": "Брытанскі летні час"
+                },
+                "exemplarCity": "Лондан"
               },
               "Luxembourg": {
-                "exemplarCity": "Luxembourg"
+                "exemplarCity": "Люксембург"
               },
               "Madrid": {
-                "exemplarCity": "Madrid"
+                "exemplarCity": "Мадрыд"
               },
               "Malta": {
-                "exemplarCity": "Malta"
+                "exemplarCity": "Мальта"
               },
               "Mariehamn": {
-                "exemplarCity": "Mariehamn"
+                "exemplarCity": "Марыехамн"
               },
               "Minsk": {
-                "exemplarCity": "Minsk"
+                "exemplarCity": "Мінск"
               },
               "Monaco": {
-                "exemplarCity": "Monaco"
+                "exemplarCity": "Манака"
               },
               "Moscow": {
-                "exemplarCity": "Moscow"
+                "exemplarCity": "Масква"
               },
               "Oslo": {
-                "exemplarCity": "Oslo"
+                "exemplarCity": "Осла"
               },
               "Paris": {
-                "exemplarCity": "Paris"
+                "exemplarCity": "Парыж"
               },
               "Podgorica": {
-                "exemplarCity": "Podgorica"
+                "exemplarCity": "Падгорыца"
               },
               "Prague": {
-                "exemplarCity": "Prague"
+                "exemplarCity": "Прага"
               },
               "Riga": {
-                "exemplarCity": "Riga"
+                "exemplarCity": "Рыга"
               },
               "Rome": {
-                "exemplarCity": "Rome"
+                "exemplarCity": "Рым"
               },
               "Samara": {
-                "exemplarCity": "Samara"
+                "exemplarCity": "Самара"
               },
               "San_Marino": {
-                "exemplarCity": "San Marino"
+                "exemplarCity": "Сан-Марына"
               },
               "Sarajevo": {
-                "exemplarCity": "Sarajevo"
+                "exemplarCity": "Сараева"
               },
               "Simferopol": {
-                "exemplarCity": "Simferopol"
+                "exemplarCity": "Сімферопаль"
               },
               "Skopje": {
-                "exemplarCity": "Skopje"
+                "exemplarCity": "Скоп’е"
               },
               "Sofia": {
-                "exemplarCity": "Sofia"
+                "exemplarCity": "Сафія"
               },
               "Stockholm": {
-                "exemplarCity": "Stockholm"
+                "exemplarCity": "Стакгольм"
               },
               "Tallinn": {
-                "exemplarCity": "Tallinn"
+                "exemplarCity": "Талін"
               },
               "Tirane": {
-                "exemplarCity": "Tirane"
+                "exemplarCity": "Тырана"
               },
               "Uzhgorod": {
-                "exemplarCity": "Uzhgorod"
+                "exemplarCity": "Ужгарад"
               },
               "Vaduz": {
-                "exemplarCity": "Vaduz"
+                "exemplarCity": "Вадуц"
               },
               "Vatican": {
-                "exemplarCity": "Vatican"
+                "exemplarCity": "Ватыкан"
               },
               "Vienna": {
-                "exemplarCity": "Vienna"
+                "exemplarCity": "Вена"
               },
               "Vilnius": {
-                "exemplarCity": "Vilnius"
+                "exemplarCity": "Вільнюс"
               },
               "Volgograd": {
-                "exemplarCity": "Volgograd"
+                "exemplarCity": "Валгаград"
               },
               "Warsaw": {
-                "exemplarCity": "Warsaw"
+                "exemplarCity": "Варшава"
               },
               "Zagreb": {
-                "exemplarCity": "Zagreb"
+                "exemplarCity": "Заграб"
               },
               "Zaporozhye": {
-                "exemplarCity": "Zaporozhye"
+                "exemplarCity": "Запарожжа"
               },
               "Zurich": {
-                "exemplarCity": "Zurich"
+                "exemplarCity": "Цюрых"
               }
             },
             "Africa": {
               "Abidjan": {
-                "exemplarCity": "Abidjan"
+                "exemplarCity": "Абіджан"
               },
               "Accra": {
-                "exemplarCity": "Accra"
+                "exemplarCity": "Акра"
               },
               "Addis_Ababa": {
-                "exemplarCity": "Addis Ababa"
+                "exemplarCity": "Адыс-Абеба"
               },
               "Algiers": {
-                "exemplarCity": "Algiers"
+                "exemplarCity": "Алжыр"
               },
               "Asmera": {
-                "exemplarCity": "Asmara"
+                "exemplarCity": "Асмара"
               },
               "Bamako": {
-                "exemplarCity": "Bamako"
+                "exemplarCity": "Бамако"
               },
               "Bangui": {
-                "exemplarCity": "Bangui"
+                "exemplarCity": "Бангі"
               },
               "Banjul": {
-                "exemplarCity": "Banjul"
+                "exemplarCity": "Банжул"
               },
               "Bissau": {
-                "exemplarCity": "Bissau"
+                "exemplarCity": "Бісау"
               },
               "Blantyre": {
-                "exemplarCity": "Blantyre"
+                "exemplarCity": "Блантайр"
               },
               "Brazzaville": {
-                "exemplarCity": "Brazzaville"
+                "exemplarCity": "Бразавіль"
               },
               "Bujumbura": {
-                "exemplarCity": "Bujumbura"
+                "exemplarCity": "Бужумбура"
               },
               "Cairo": {
-                "exemplarCity": "Cairo"
+                "exemplarCity": "Каір"
               },
               "Casablanca": {
-                "exemplarCity": "Casablanca"
+                "exemplarCity": "Касабланка"
               },
               "Ceuta": {
-                "exemplarCity": "Ceuta"
+                "exemplarCity": "Сеўта"
               },
               "Conakry": {
-                "exemplarCity": "Conakry"
+                "exemplarCity": "Конакры"
               },
               "Dakar": {
-                "exemplarCity": "Dakar"
+                "exemplarCity": "Дакар"
               },
               "Dar_es_Salaam": {
-                "exemplarCity": "Dar es Salaam"
+                "exemplarCity": "Дар-эс-Салам"
               },
               "Djibouti": {
-                "exemplarCity": "Djibouti"
+                "exemplarCity": "Джыбуці"
               },
               "Douala": {
-                "exemplarCity": "Douala"
+                "exemplarCity": "Дуала"
               },
               "El_Aaiun": {
-                "exemplarCity": "El Aaiun"
+                "exemplarCity": "Эль-Аюн"
               },
               "Freetown": {
-                "exemplarCity": "Freetown"
+                "exemplarCity": "Фрытаўн"
               },
               "Gaborone": {
-                "exemplarCity": "Gaborone"
+                "exemplarCity": "Габаронэ"
               },
               "Harare": {
-                "exemplarCity": "Harare"
+                "exemplarCity": "Харарэ"
               },
               "Johannesburg": {
-                "exemplarCity": "Johannesburg"
+                "exemplarCity": "Іаганэсбург"
               },
               "Juba": {
-                "exemplarCity": "Juba"
+                "exemplarCity": "Джуба"
               },
               "Kampala": {
-                "exemplarCity": "Kampala"
+                "exemplarCity": "Кампала"
               },
               "Khartoum": {
-                "exemplarCity": "Khartoum"
+                "exemplarCity": "Хартум"
               },
               "Kigali": {
-                "exemplarCity": "Kigali"
+                "exemplarCity": "Кігалі"
               },
               "Kinshasa": {
-                "exemplarCity": "Kinshasa"
+                "exemplarCity": "Кіншаса"
               },
               "Lagos": {
-                "exemplarCity": "Lagos"
+                "exemplarCity": "Лагас"
               },
               "Libreville": {
-                "exemplarCity": "Libreville"
+                "exemplarCity": "Лібрэвіль"
               },
               "Lome": {
-                "exemplarCity": "Lome"
+                "exemplarCity": "Ламэ"
               },
               "Luanda": {
-                "exemplarCity": "Luanda"
+                "exemplarCity": "Луанда"
               },
               "Lubumbashi": {
-                "exemplarCity": "Lubumbashi"
+                "exemplarCity": "Лубумбашы"
               },
               "Lusaka": {
-                "exemplarCity": "Lusaka"
+                "exemplarCity": "Лусака"
               },
               "Malabo": {
-                "exemplarCity": "Malabo"
+                "exemplarCity": "Малаба"
               },
               "Maputo": {
-                "exemplarCity": "Maputo"
+                "exemplarCity": "Мапуту"
               },
               "Maseru": {
-                "exemplarCity": "Maseru"
+                "exemplarCity": "Масеру"
               },
               "Mbabane": {
-                "exemplarCity": "Mbabane"
+                "exemplarCity": "Мбабанэ"
               },
               "Mogadishu": {
-                "exemplarCity": "Mogadishu"
+                "exemplarCity": "Магадыша"
               },
               "Monrovia": {
-                "exemplarCity": "Monrovia"
+                "exemplarCity": "Манровія"
               },
               "Nairobi": {
-                "exemplarCity": "Nairobi"
+                "exemplarCity": "Найробі"
               },
               "Ndjamena": {
-                "exemplarCity": "Ndjamena"
+                "exemplarCity": "Нджамена"
               },
               "Niamey": {
-                "exemplarCity": "Niamey"
+                "exemplarCity": "Ніямей"
               },
               "Nouakchott": {
-                "exemplarCity": "Nouakchott"
+                "exemplarCity": "Нуакшот"
               },
               "Ouagadougou": {
-                "exemplarCity": "Ouagadougou"
+                "exemplarCity": "Уагадугу"
               },
               "Porto-Novo": {
-                "exemplarCity": "Porto-Novo"
+                "exemplarCity": "Порта-Нова"
               },
               "Sao_Tome": {
-                "exemplarCity": "Sao Tome"
+                "exemplarCity": "Сан-Тамэ"
               },
               "Tripoli": {
-                "exemplarCity": "Tripoli"
+                "exemplarCity": "Трыпалі"
               },
               "Tunis": {
-                "exemplarCity": "Tunis"
+                "exemplarCity": "Туніс"
               },
               "Windhoek": {
-                "exemplarCity": "Windhoek"
+                "exemplarCity": "Віндхук"
               }
             },
             "Asia": {
               "Aden": {
-                "exemplarCity": "Aden"
+                "exemplarCity": "Адэн"
               },
               "Almaty": {
-                "exemplarCity": "Almaty"
+                "exemplarCity": "Алматы"
               },
               "Amman": {
-                "exemplarCity": "Amman"
+                "exemplarCity": "Аман (горад)"
               },
               "Anadyr": {
-                "exemplarCity": "Anadyr"
+                "exemplarCity": "Анадыр"
               },
               "Aqtau": {
-                "exemplarCity": "Aqtau"
+                "exemplarCity": "Актау"
               },
               "Aqtobe": {
-                "exemplarCity": "Aqtobe"
+                "exemplarCity": "Актабэ"
               },
               "Ashgabat": {
-                "exemplarCity": "Ashgabat"
+                "exemplarCity": "Ашгабад"
               },
               "Baghdad": {
-                "exemplarCity": "Baghdad"
+                "exemplarCity": "Багдад"
               },
               "Bahrain": {
-                "exemplarCity": "Bahrain"
+                "exemplarCity": "Бахрэйн"
               },
               "Baku": {
-                "exemplarCity": "Baku"
+                "exemplarCity": "Баку"
               },
               "Bangkok": {
-                "exemplarCity": "Bangkok"
+                "exemplarCity": "Бангкок"
               },
               "Beirut": {
-                "exemplarCity": "Beirut"
+                "exemplarCity": "Бейрут"
               },
               "Bishkek": {
-                "exemplarCity": "Bishkek"
+                "exemplarCity": "Бішкек"
               },
               "Brunei": {
-                "exemplarCity": "Brunei"
+                "exemplarCity": "Бруней"
               },
               "Calcutta": {
-                "exemplarCity": "Kolkata"
+                "exemplarCity": "Калькута"
               },
               "Chita": {
-                "exemplarCity": "Chita"
+                "exemplarCity": "Чыта"
               },
               "Choibalsan": {
-                "exemplarCity": "Choibalsan"
+                "exemplarCity": "Чайбалсан"
               },
               "Colombo": {
-                "exemplarCity": "Colombo"
+                "exemplarCity": "Каломба"
               },
               "Damascus": {
-                "exemplarCity": "Damascus"
+                "exemplarCity": "Дамаск"
               },
               "Dhaka": {
-                "exemplarCity": "Dhaka"
+                "exemplarCity": "Дака"
               },
               "Dili": {
-                "exemplarCity": "Dili"
+                "exemplarCity": "Дылі"
               },
               "Dubai": {
-                "exemplarCity": "Dubai"
+                "exemplarCity": "Дубай"
               },
               "Dushanbe": {
-                "exemplarCity": "Dushanbe"
+                "exemplarCity": "Душанбэ"
               },
               "Gaza": {
-                "exemplarCity": "Gaza"
+                "exemplarCity": "Газа"
               },
               "Hebron": {
-                "exemplarCity": "Hebron"
+                "exemplarCity": "Хеўрон"
               },
               "Hong_Kong": {
-                "exemplarCity": "Hong Kong"
+                "exemplarCity": "Ганконг"
               },
               "Hovd": {
-                "exemplarCity": "Hovd"
+                "exemplarCity": "Хоўд"
               },
               "Irkutsk": {
-                "exemplarCity": "Irkutsk"
+                "exemplarCity": "Іркуцк"
               },
               "Jakarta": {
-                "exemplarCity": "Jakarta"
+                "exemplarCity": "Джакарта"
               },
               "Jayapura": {
-                "exemplarCity": "Jayapura"
+                "exemplarCity": "Джаяпура"
               },
               "Jerusalem": {
-                "exemplarCity": "Jerusalem"
+                "exemplarCity": "Іерусалім"
               },
               "Kabul": {
-                "exemplarCity": "Kabul"
+                "exemplarCity": "Кабул"
               },
               "Kamchatka": {
-                "exemplarCity": "Kamchatka"
+                "exemplarCity": "Камчатка"
               },
               "Karachi": {
-                "exemplarCity": "Karachi"
+                "exemplarCity": "Карачы"
               },
               "Katmandu": {
-                "exemplarCity": "Kathmandu"
+                "exemplarCity": "Катманду"
               },
               "Khandyga": {
-                "exemplarCity": "Khandyga"
+                "exemplarCity": "Хандыга"
               },
               "Krasnoyarsk": {
-                "exemplarCity": "Krasnoyarsk"
+                "exemplarCity": "Краснаярск"
               },
               "Kuala_Lumpur": {
-                "exemplarCity": "Kuala Lumpur"
+                "exemplarCity": "Куала-Лумпур"
               },
               "Kuching": {
-                "exemplarCity": "Kuching"
+                "exemplarCity": "Кучынг"
               },
               "Kuwait": {
-                "exemplarCity": "Kuwait"
+                "exemplarCity": "Кувейт"
               },
               "Macau": {
-                "exemplarCity": "Macau"
+                "exemplarCity": "Макаа"
               },
               "Magadan": {
-                "exemplarCity": "Magadan"
+                "exemplarCity": "Магадан"
               },
               "Makassar": {
-                "exemplarCity": "Makassar"
+                "exemplarCity": "Макасар"
               },
               "Manila": {
-                "exemplarCity": "Manila"
+                "exemplarCity": "Маніла"
               },
               "Muscat": {
-                "exemplarCity": "Muscat"
+                "exemplarCity": "Маскат"
               },
               "Nicosia": {
-                "exemplarCity": "Nicosia"
+                "exemplarCity": "Нікасія"
               },
               "Novokuznetsk": {
-                "exemplarCity": "Novokuznetsk"
+                "exemplarCity": "Навакузнецк"
               },
               "Novosibirsk": {
-                "exemplarCity": "Novosibirsk"
+                "exemplarCity": "Новасібірск"
               },
               "Omsk": {
-                "exemplarCity": "Omsk"
+                "exemplarCity": "Омск"
               },
               "Oral": {
-                "exemplarCity": "Oral"
+                "exemplarCity": "Уральск"
               },
               "Phnom_Penh": {
-                "exemplarCity": "Phnom Penh"
+                "exemplarCity": "Пнампень"
               },
               "Pontianak": {
-                "exemplarCity": "Pontianak"
+                "exemplarCity": "Панціянак"
               },
               "Pyongyang": {
-                "exemplarCity": "Pyongyang"
+                "exemplarCity": "Пхеньян"
               },
               "Qatar": {
-                "exemplarCity": "Qatar"
+                "exemplarCity": "Катар"
               },
               "Qyzylorda": {
-                "exemplarCity": "Qyzylorda"
+                "exemplarCity": "Кызыларда"
               },
               "Rangoon": {
-                "exemplarCity": "Rangoon"
+                "exemplarCity": "Рангун"
               },
               "Riyadh": {
-                "exemplarCity": "Riyadh"
+                "exemplarCity": "Эр-Рыяд"
               },
               "Saigon": {
-                "exemplarCity": "Ho Chi Minh"
+                "exemplarCity": "Хашымін"
               },
               "Sakhalin": {
-                "exemplarCity": "Sakhalin"
+                "exemplarCity": "Сахалін"
               },
               "Samarkand": {
-                "exemplarCity": "Samarkand"
+                "exemplarCity": "Самарканд"
               },
               "Seoul": {
-                "exemplarCity": "Seoul"
+                "exemplarCity": "Сеул"
               },
               "Shanghai": {
-                "exemplarCity": "Shanghai"
+                "exemplarCity": "Шанхай"
               },
               "Singapore": {
-                "exemplarCity": "Singapore"
+                "exemplarCity": "Сінгапур"
               },
               "Srednekolymsk": {
-                "exemplarCity": "Srednekolymsk"
+                "exemplarCity": "Сярэднекалымск"
               },
               "Taipei": {
-                "exemplarCity": "Taipei"
+                "exemplarCity": "Тайбэй"
               },
               "Tashkent": {
-                "exemplarCity": "Tashkent"
+                "exemplarCity": "Ташкент"
               },
               "Tbilisi": {
-                "exemplarCity": "Tbilisi"
+                "exemplarCity": "Тбілісі"
               },
               "Tehran": {
-                "exemplarCity": "Tehran"
+                "exemplarCity": "Тэгеран"
               },
               "Thimphu": {
-                "exemplarCity": "Thimphu"
+                "exemplarCity": "Тхімпху"
               },
               "Tokyo": {
-                "exemplarCity": "Tokyo"
+                "exemplarCity": "Токіа"
               },
               "Ulaanbaatar": {
-                "exemplarCity": "Ulaanbaatar"
+                "exemplarCity": "Улан-Батар"
               },
               "Urumqi": {
-                "exemplarCity": "Urumqi"
+                "exemplarCity": "Урумчы"
               },
               "Ust-Nera": {
-                "exemplarCity": "Ust-Nera"
+                "exemplarCity": "Вусць-Нера"
               },
               "Vientiane": {
-                "exemplarCity": "Vientiane"
+                "exemplarCity": "В’енцьян"
               },
               "Vladivostok": {
-                "exemplarCity": "Vladivostok"
+                "exemplarCity": "Уладзівасток"
               },
               "Yakutsk": {
-                "exemplarCity": "Yakutsk"
+                "exemplarCity": "Якуцк"
               },
               "Yekaterinburg": {
-                "exemplarCity": "Yekaterinburg"
+                "exemplarCity": "Екацярынбург"
               },
               "Yerevan": {
-                "exemplarCity": "Yerevan"
+                "exemplarCity": "Ерэван"
               }
             },
             "Indian": {
               "Antananarivo": {
-                "exemplarCity": "Antananarivo"
+                "exemplarCity": "Антананарыву"
               },
               "Chagos": {
-                "exemplarCity": "Chagos"
+                "exemplarCity": "Чагас"
               },
               "Christmas": {
-                "exemplarCity": "Christmas"
+                "exemplarCity": "Востраў Раства"
               },
               "Cocos": {
-                "exemplarCity": "Cocos"
+                "exemplarCity": "Какосавыя астравы"
               },
               "Comoro": {
-                "exemplarCity": "Comoro"
+                "exemplarCity": "Камор"
               },
               "Kerguelen": {
-                "exemplarCity": "Kerguelen"
+                "exemplarCity": "Кергелен"
               },
               "Mahe": {
-                "exemplarCity": "Mahe"
+                "exemplarCity": "Маэ"
               },
               "Maldives": {
-                "exemplarCity": "Maldives"
+                "exemplarCity": "Мальдывы"
               },
               "Mauritius": {
-                "exemplarCity": "Mauritius"
+                "exemplarCity": "Маўрыкій"
               },
               "Mayotte": {
-                "exemplarCity": "Mayotte"
+                "exemplarCity": "Маёта"
               },
               "Reunion": {
-                "exemplarCity": "Reunion"
+                "exemplarCity": "Рэюньён"
               }
             },
             "Australia": {
               "Adelaide": {
-                "exemplarCity": "Adelaide"
+                "exemplarCity": "Адэлаіда"
               },
               "Brisbane": {
-                "exemplarCity": "Brisbane"
+                "exemplarCity": "Брысбен"
               },
               "Broken_Hill": {
-                "exemplarCity": "Broken Hill"
+                "exemplarCity": "Брокен-Хіл"
               },
               "Currie": {
-                "exemplarCity": "Currie"
+                "exemplarCity": "Керы"
               },
               "Darwin": {
-                "exemplarCity": "Darwin"
+                "exemplarCity": "Дарвін"
               },
               "Eucla": {
-                "exemplarCity": "Eucla"
+                "exemplarCity": "Юкла"
               },
               "Hobart": {
-                "exemplarCity": "Hobart"
+                "exemplarCity": "Хобарт"
               },
               "Lindeman": {
-                "exemplarCity": "Lindeman"
+                "exemplarCity": "Ліндэман"
               },
               "Lord_Howe": {
-                "exemplarCity": "Lord Howe"
+                "exemplarCity": "Лорд-Хау"
               },
               "Melbourne": {
-                "exemplarCity": "Melbourne"
+                "exemplarCity": "Мельбурн"
               },
               "Perth": {
-                "exemplarCity": "Perth"
+                "exemplarCity": "Перт"
               },
               "Sydney": {
-                "exemplarCity": "Sydney"
+                "exemplarCity": "Сідней"
               }
             },
             "Pacific": {
               "Apia": {
-                "exemplarCity": "Apia"
+                "exemplarCity": "Апія"
               },
               "Auckland": {
-                "exemplarCity": "Auckland"
+                "exemplarCity": "Окленд"
               },
               "Bougainville": {
-                "exemplarCity": "Bougainville"
+                "exemplarCity": "Бугенвіль"
               },
               "Chatham": {
-                "exemplarCity": "Chatham"
+                "exemplarCity": "Чатэм"
               },
               "Easter": {
-                "exemplarCity": "Easter"
+                "exemplarCity": "Пасхі востраў"
               },
               "Efate": {
-                "exemplarCity": "Efate"
+                "exemplarCity": "Эфатэ"
               },
               "Enderbury": {
-                "exemplarCity": "Enderbury"
+                "exemplarCity": "Эндэрберы"
               },
               "Fakaofo": {
-                "exemplarCity": "Fakaofo"
+                "exemplarCity": "Факаофа"
               },
               "Fiji": {
-                "exemplarCity": "Fiji"
+                "exemplarCity": "Фіджы"
               },
               "Funafuti": {
-                "exemplarCity": "Funafuti"
+                "exemplarCity": "Фунафуці"
               },
               "Galapagos": {
-                "exemplarCity": "Galapagos"
+                "exemplarCity": "Галапагас"
               },
               "Gambier": {
-                "exemplarCity": "Gambier"
+                "exemplarCity": "Астравы Гамб’е"
               },
               "Guadalcanal": {
-                "exemplarCity": "Guadalcanal"
+                "exemplarCity": "Гуадалканал"
               },
               "Guam": {
-                "exemplarCity": "Guam"
+                "exemplarCity": "Гуам"
               },
               "Honolulu": {
                 "exemplarCity": "Ганалулу"
               },
               "Johnston": {
-                "exemplarCity": "Johnston"
+                "exemplarCity": "Джонстан"
               },
               "Kiritimati": {
-                "exemplarCity": "Kiritimati"
+                "exemplarCity": "Кірыцімаці"
               },
               "Kosrae": {
-                "exemplarCity": "Kosrae"
+                "exemplarCity": "Кусаіе"
               },
               "Kwajalein": {
-                "exemplarCity": "Kwajalein"
+                "exemplarCity": "Кваджалейн"
               },
               "Majuro": {
-                "exemplarCity": "Majuro"
+                "exemplarCity": "Маджура"
               },
               "Marquesas": {
-                "exemplarCity": "Marquesas"
+                "exemplarCity": "Маркізскія астравы"
               },
               "Midway": {
-                "exemplarCity": "Midway"
+                "exemplarCity": "Мідуэй"
               },
               "Nauru": {
-                "exemplarCity": "Nauru"
+                "exemplarCity": "Науру"
               },
               "Niue": {
-                "exemplarCity": "Niue"
+                "exemplarCity": "Ніуэ"
               },
               "Norfolk": {
-                "exemplarCity": "Norfolk"
+                "exemplarCity": "Норфалк"
               },
               "Noumea": {
-                "exemplarCity": "Noumea"
+                "exemplarCity": "Нумеа"
               },
               "Pago_Pago": {
-                "exemplarCity": "Pago Pago"
+                "exemplarCity": "Пага-Пага"
               },
               "Palau": {
-                "exemplarCity": "Palau"
+                "exemplarCity": "Палау"
               },
               "Pitcairn": {
-                "exemplarCity": "Pitcairn"
+                "exemplarCity": "Піткэрн"
               },
               "Ponape": {
-                "exemplarCity": "Pohnpei"
+                "exemplarCity": "Панпеі"
               },
               "Port_Moresby": {
-                "exemplarCity": "Port Moresby"
+                "exemplarCity": "Порт-Морсбі"
               },
               "Rarotonga": {
-                "exemplarCity": "Rarotonga"
+                "exemplarCity": "Раратонга"
               },
               "Saipan": {
-                "exemplarCity": "Saipan"
+                "exemplarCity": "Сайпан"
               },
               "Tahiti": {
-                "exemplarCity": "Tahiti"
+                "exemplarCity": "Таіці"
               },
               "Tarawa": {
-                "exemplarCity": "Tarawa"
+                "exemplarCity": "Тарава"
               },
               "Tongatapu": {
-                "exemplarCity": "Tongatapu"
+                "exemplarCity": "Тангатапу"
               },
               "Truk": {
-                "exemplarCity": "Chuuk"
+                "exemplarCity": "Чуўк"
               },
               "Wake": {
-                "exemplarCity": "Wake"
+                "exemplarCity": "Уэйк"
               },
               "Wallis": {
-                "exemplarCity": "Wallis"
+                "exemplarCity": "Уоліс"
               }
             },
             "Arctic": {
               "Longyearbyen": {
-                "exemplarCity": "Longyearbyen"
+                "exemplarCity": "Лонгйір"
               }
             },
             "Antarctica": {
               "Casey": {
-                "exemplarCity": "Casey"
+                "exemplarCity": "Кэйсі"
               },
               "Davis": {
-                "exemplarCity": "Davis"
+                "exemplarCity": "Дэйвіс"
               },
               "DumontDUrville": {
-                "exemplarCity": "Dumont d’Urville"
+                "exemplarCity": "Дзюмон-Дзюрвіль"
               },
               "Macquarie": {
-                "exemplarCity": "Macquarie"
+                "exemplarCity": "Макуоры"
               },
               "Mawson": {
-                "exemplarCity": "Mawson"
+                "exemplarCity": "Моўсан"
               },
               "McMurdo": {
-                "exemplarCity": "McMurdo"
+                "exemplarCity": "Мак-Мерда"
               },
               "Palmer": {
-                "exemplarCity": "Palmer"
+                "exemplarCity": "Палмер"
               },
               "Rothera": {
-                "exemplarCity": "Rothera"
+                "exemplarCity": "Ратэра"
               },
               "Syowa": {
-                "exemplarCity": "Syowa"
+                "exemplarCity": "Сёва"
               },
               "Troll": {
-                "exemplarCity": "Troll"
+                "exemplarCity": "Трол"
               },
               "Vostok": {
-                "exemplarCity": "Vostok"
+                "exemplarCity": "Усход"
               }
             },
             "Etc": {
@@ -1380,30 +1383,71 @@
                 "exemplarCity": "GMT-9"
               },
               "Unknown": {
-                "exemplarCity": "Невядомы"
+                "exemplarCity": "Невядомы горад"
               }
             }
           },
           "metazone": {
+            "Afghanistan": {
+              "long": {
+                "standard": "Афганістанскі час"
+              }
+            },
+            "Africa_Central": {
+              "long": {
+                "standard": "Цэнтральнаафрыканскі час"
+              }
+            },
+            "Africa_Eastern": {
+              "long": {
+                "standard": "Усходнеафрыканскі час"
+              }
+            },
+            "Africa_Southern": {
+              "long": {
+                "standard": "Паўднёваафрыканскі час"
+              }
+            },
+            "Africa_Western": {
+              "long": {
+                "generic": "Заходнеафрыканскі час",
+                "standard": "Заходнеафрыканскі стандартны час",
+                "daylight": "Заходнеафрыканскі летні час"
+              }
+            },
+            "Alaska": {
+              "long": {
+                "generic": "Час Аляскі",
+                "standard": "Стандартны час Аляскі",
+                "daylight": "Летні час Аляскі"
+              }
+            },
+            "Amazon": {
+              "long": {
+                "generic": "Амазонскі час",
+                "standard": "Амазонскі стандартны час",
+                "daylight": "Амазонскі летні час"
+              }
+            },
             "America_Central": {
               "long": {
-                "generic": "Паўночнаамэрыканскі цэнтральны час",
-                "standard": "Паўночнаамэрыканскі цэнтральны стандартны час",
-                "daylight": "Паўночнаамэрыканскі цэнтральны летні час"
+                "generic": "Паўночнаамерыканскі цэнтральны час",
+                "standard": "Паўночнаамерыканскі цэнтральны стандартны час",
+                "daylight": "Паўночнаамерыканскі цэнтральны летні час"
               }
             },
             "America_Eastern": {
               "long": {
-                "generic": "Паўночнаамэрыканскі усходні час",
-                "standard": "Паўночнаамэрыканскі усходні стандартны час",
-                "daylight": "Паўночнаамэрыканскі усходні летні час"
+                "generic": "Паўночнаамерыканскі ўсходні час",
+                "standard": "Паўночнаамерыканскі ўсходні стандартны час",
+                "daylight": "Паўночнаамерыканскі ўсходні летні час"
               }
             },
             "America_Mountain": {
               "long": {
-                "generic": "Паўночнаамэрыканскі горны час",
-                "standard": "Паўночнаамэрыканскі горны стандартны час",
-                "daylight": "Паўночнаамэрыканскі горны летні час"
+                "generic": "Паўночнаамерыканскі горны час",
+                "standard": "Паўночнаамерыканскі горны стандартны час",
+                "daylight": "Паўночнаамерыканскі горны летні час"
               }
             },
             "America_Pacific": {
@@ -1413,37 +1457,809 @@
                 "daylight": "Ціхаакіянскі летні час"
               }
             },
+            "Apia": {
+              "long": {
+                "generic": "Час Апіі",
+                "standard": "Стандартны час Апіі",
+                "daylight": "Летні час Апіі"
+              }
+            },
+            "Arabian": {
+              "long": {
+                "generic": "Час Саудаўскай Аравіі",
+                "standard": "Стандартны час Саудаўскай Аравіі",
+                "daylight": "Летні час Саудаўскай Аравіі"
+              }
+            },
+            "Argentina": {
+              "long": {
+                "generic": "Аргенцінскі час",
+                "standard": "Аргенцінскі стандартны час",
+                "daylight": "Аргенцінскі летні час"
+              }
+            },
+            "Argentina_Western": {
+              "long": {
+                "generic": "Час Заходняй Аргенціны",
+                "standard": "Стандартны час Заходняй Аргенціны",
+                "daylight": "Летні час Заходняй Аргенціны"
+              }
+            },
+            "Armenia": {
+              "long": {
+                "generic": "Час Арменіі",
+                "standard": "Стандартны час Арменіі",
+                "daylight": "Летні час Арменіі"
+              }
+            },
             "Atlantic": {
               "long": {
-                "generic": "Атлянтычны час",
-                "standard": "Атлянтычны стандартны час",
-                "daylight": "Атлянтычны летні час"
+                "generic": "Атлантычны час",
+                "standard": "Атлантычны стандартны час",
+                "daylight": "Атлантычны летні час"
+              }
+            },
+            "Australia_Central": {
+              "long": {
+                "generic": "Час цэнтральнай Аўстраліі",
+                "standard": "Стандартны час цэнтральнай Аўстраліі",
+                "daylight": "Летні час цэнтральнай Аўстраліі"
+              }
+            },
+            "Australia_CentralWestern": {
+              "long": {
+                "generic": "Заходні час Цэнтральнай Аўстраліі",
+                "standard": "Заходні стандартны час Цэнтральнай Аўстраліі",
+                "daylight": "Заходні летні час Цэнтральнай Аўстраліі"
+              }
+            },
+            "Australia_Eastern": {
+              "long": {
+                "generic": "Час усходняй Аўстраліі",
+                "standard": "Стандартны час усходняй Аўстраліі",
+                "daylight": "Летні час усходняй Аўстраліі"
+              }
+            },
+            "Australia_Western": {
+              "long": {
+                "generic": "Час заходняй Аўстраліі",
+                "standard": "Стандартны час заходняй Аўстраліі",
+                "daylight": "Летні час заходняй Аўстраліі"
+              }
+            },
+            "Azerbaijan": {
+              "long": {
+                "generic": "Час Азербайджана",
+                "standard": "Стандартны час Азербайджана",
+                "daylight": "Летні час Азербайджана"
+              }
+            },
+            "Azores": {
+              "long": {
+                "generic": "Час Азорскіх астравоў",
+                "standard": "Стандартны час Азорскіх астравоў",
+                "daylight": "Летні час Азорскіх астравоў"
+              }
+            },
+            "Bangladesh": {
+              "long": {
+                "generic": "Час Бангладэша",
+                "standard": "Стандартны час Бангладэша",
+                "daylight": "Летні час Бангладэша"
+              }
+            },
+            "Bhutan": {
+              "long": {
+                "standard": "Час Бутана"
+              }
+            },
+            "Bolivia": {
+              "long": {
+                "standard": "Балівійскі час"
+              }
+            },
+            "Brasilia": {
+              "long": {
+                "generic": "Бразільскі час",
+                "standard": "Бразільскі стандартны час",
+                "daylight": "Бразільскі летні час"
+              }
+            },
+            "Brunei": {
+              "long": {
+                "standard": "Час Брунея"
+              }
+            },
+            "Cape_Verde": {
+              "long": {
+                "generic": "Час Каба-Вердэ",
+                "standard": "Стандартны час Каба-Вердэ",
+                "daylight": "Летні час Каба-Вердэ"
+              }
+            },
+            "Chamorro": {
+              "long": {
+                "standard": "Час Чамора"
+              }
+            },
+            "Chatham": {
+              "long": {
+                "generic": "Час Чатэма",
+                "standard": "Стандартны час Чатэма",
+                "daylight": "Летні час Чатэма"
+              }
+            },
+            "Chile": {
+              "long": {
+                "generic": "Чылійскі час",
+                "standard": "Чылійскі стандартны час",
+                "daylight": "Чылійскі летні час"
+              }
+            },
+            "China": {
+              "long": {
+                "generic": "Час Кітая",
+                "standard": "Стандартны час Кітая",
+                "daylight": "Летні час Кітая"
+              }
+            },
+            "Choibalsan": {
+              "long": {
+                "generic": "Час Чайбалсана",
+                "standard": "Стандартны час Чайбалсана",
+                "daylight": "Летні час Чайбалсана"
+              }
+            },
+            "Christmas": {
+              "long": {
+                "standard": "Час вострава Раства"
+              }
+            },
+            "Cocos": {
+              "long": {
+                "standard": "Час Какосавых астравоў"
+              }
+            },
+            "Colombia": {
+              "long": {
+                "generic": "Калумбійскі час",
+                "standard": "Калумбійскі стандартны час",
+                "daylight": "Калумбійскі летні час"
+              }
+            },
+            "Cook": {
+              "long": {
+                "generic": "Час астравоў Кука",
+                "standard": "Стандартны час астравоў Кука",
+                "daylight": "Паўлетні час астравоў Кука"
+              }
+            },
+            "Cuba": {
+              "long": {
+                "generic": "Час Кубы",
+                "standard": "Стандартны час Кубы",
+                "daylight": "Летні час Кубы"
+              }
+            },
+            "Davis": {
+              "long": {
+                "standard": "Час станцыі Дэйвіс"
+              }
+            },
+            "DumontDUrville": {
+              "long": {
+                "standard": "Час станцыі Дзюмон-Дзюрвіль"
+              }
+            },
+            "East_Timor": {
+              "long": {
+                "standard": "Час Усходняга Тымора"
+              }
+            },
+            "Easter": {
+              "long": {
+                "generic": "Час вострава Пасхі",
+                "standard": "Стандартны час вострава Пасхі",
+                "daylight": "Летні час вострава Пасхі"
+              }
+            },
+            "Ecuador": {
+              "long": {
+                "standard": "Эквадорскі час"
               }
             },
             "Europe_Central": {
               "long": {
-                "generic": "Цэнтральнаэўрапейскі час",
-                "standard": "Цэнтральнаэўрапейскі стандартны час",
-                "daylight": "Цэнтральнаэўрапейскі летні час"
+                "generic": "Цэнтральнаеўрапейскі час",
+                "standard": "Цэнтральнаеўрапейскі стандартны час",
+                "daylight": "Цэнтральнаеўрапейскі летні час"
               }
             },
             "Europe_Eastern": {
               "long": {
-                "generic": "Усходнеэўрапейскі час",
-                "standard": "Усходнеэўрапейскі стандартны час",
-                "daylight": "Усходнеэўрапейскі летні час"
+                "generic": "Усходнееўрапейскі час",
+                "standard": "Усходнееўрапейскі стандартны час",
+                "daylight": "Усходнееўрапейскі летні час"
+              }
+            },
+            "Europe_Further_Eastern": {
+              "long": {
+                "standard": "Беларускі час"
               }
             },
             "Europe_Western": {
               "long": {
-                "generic": "Заходнеэўрапейскі час",
-                "standard": "Заходнеэўрапейскі стандартны час",
-                "daylight": "Заходнеэўрапейскі летні час"
+                "generic": "Заходнееўрапейскі час",
+                "standard": "Заходнееўрапейскі стандартны час",
+                "daylight": "Заходнееўрапейскі летні час"
+              }
+            },
+            "Falkland": {
+              "long": {
+                "generic": "Час Фалклендскіх астравоў",
+                "standard": "Стандартны час Фалклендскіх астравоў",
+                "daylight": "Летні час Фалклендскіх астравоў"
+              }
+            },
+            "Fiji": {
+              "long": {
+                "generic": "Час Фіджы",
+                "standard": "Стандартны час Фіджы",
+                "daylight": "Летні час Фіджы"
+              }
+            },
+            "French_Guiana": {
+              "long": {
+                "standard": "Час Французскай Гвіяны"
+              }
+            },
+            "French_Southern": {
+              "long": {
+                "standard": "Час Французскіх Паўднёвых і Антарктычных терыторый"
+              }
+            },
+            "Galapagos": {
+              "long": {
+                "standard": "Стандартны час Галапагоскіх астравоў"
+              }
+            },
+            "Gambier": {
+              "long": {
+                "standard": "Час атравоў Гамб’е"
+              }
+            },
+            "Georgia": {
+              "long": {
+                "generic": "Грузінскі час",
+                "standard": "Грузінскі стандартны час",
+                "daylight": "Грузінскі летні час"
+              }
+            },
+            "Gilbert_Islands": {
+              "long": {
+                "standard": "Час астравоў Гілберта"
               }
             },
             "GMT": {
               "long": {
-                "standard": "Грынвічскі час"
+                "standard": "Час па Грынвічы"
+              }
+            },
+            "Greenland_Eastern": {
+              "long": {
+                "generic": "Час Усходняй Грэнландыі",
+                "standard": "Стандартны час Усходняй Грэнландыі",
+                "daylight": "Летні час Усходняй Грэнландыі"
+              }
+            },
+            "Greenland_Western": {
+              "long": {
+                "generic": "Час Заходняй Грэнландыі",
+                "standard": "Стандартны час Заходняй Грэнландыі",
+                "daylight": "Летні час Заходняй Грэнландыі"
+              }
+            },
+            "Gulf": {
+              "long": {
+                "standard": "Час Персідскага заліва"
+              }
+            },
+            "Guyana": {
+              "long": {
+                "standard": "Час Гаяны"
+              }
+            },
+            "Hawaii_Aleutian": {
+              "long": {
+                "generic": "Гавайска-Алеуцкі час",
+                "standard": "Гавайска-Алеуцкі стандартны час",
+                "daylight": "Гавайска-Алеуцкі летні час"
+              }
+            },
+            "Hong_Kong": {
+              "long": {
+                "generic": "Час Ганконга",
+                "standard": "Стандартны час Ганконга",
+                "daylight": "Летні час Ганконга"
+              }
+            },
+            "Hovd": {
+              "long": {
+                "generic": "Час Хоўда",
+                "standard": "Стандартны час Хоўда",
+                "daylight": "Летні час Хоўда"
+              }
+            },
+            "India": {
+              "long": {
+                "standard": "Час Індыі"
+              }
+            },
+            "Indian_Ocean": {
+              "long": {
+                "standard": "Час Індыйскага акіяна"
+              }
+            },
+            "Indochina": {
+              "long": {
+                "standard": "Індакітайскі час"
+              }
+            },
+            "Indonesia_Central": {
+              "long": {
+                "standard": "Цэнтральнаінданезійскі час"
+              }
+            },
+            "Indonesia_Eastern": {
+              "long": {
+                "standard": "Усходнеінданезійскі час"
+              }
+            },
+            "Indonesia_Western": {
+              "long": {
+                "standard": "Заходнеінданезійскі час"
+              }
+            },
+            "Iran": {
+              "long": {
+                "generic": "Іранскі час",
+                "standard": "Іранскі стандартны час",
+                "daylight": "Іранскі летні час"
+              }
+            },
+            "Irkutsk": {
+              "long": {
+                "generic": "Іркуцкі час",
+                "standard": "Іркуцкі стандартны час",
+                "daylight": "Іркуцкі летні час"
+              }
+            },
+            "Israel": {
+              "long": {
+                "generic": "Ізраільскі час",
+                "standard": "Ізраільскі стандартны час",
+                "daylight": "Ізраільскі летні час"
+              }
+            },
+            "Japan": {
+              "long": {
+                "generic": "Час Японіі",
+                "standard": "Стандартны час Японіі",
+                "daylight": "Летні час Японіі"
+              }
+            },
+            "Kazakhstan_Eastern": {
+              "long": {
+                "standard": "Усходнеказахстанскі час"
+              }
+            },
+            "Kazakhstan_Western": {
+              "long": {
+                "standard": "Заходнеказахстанскі час"
+              }
+            },
+            "Korea": {
+              "long": {
+                "generic": "Час Карэі",
+                "standard": "Стандартны час Карэі",
+                "daylight": "Летні час Карэі"
+              }
+            },
+            "Kosrae": {
+              "long": {
+                "standard": "Час астравоў Кусаіе"
+              }
+            },
+            "Krasnoyarsk": {
+              "long": {
+                "generic": "Краснаярскі час",
+                "standard": "Краснаярскі стандартны час",
+                "daylight": "Краснаярскі летні час"
+              }
+            },
+            "Kyrgystan": {
+              "long": {
+                "standard": "Час Кыргызстана"
+              }
+            },
+            "Line_Islands": {
+              "long": {
+                "standard": "Час астравоў Лайн"
+              }
+            },
+            "Lord_Howe": {
+              "long": {
+                "generic": "Час Лорд-Хау",
+                "standard": "Стандартны час Лорд-Хау",
+                "daylight": "Летні час Лорд-Хау"
+              }
+            },
+            "Macquarie": {
+              "long": {
+                "standard": "Час вострава Макуоры"
+              }
+            },
+            "Magadan": {
+              "long": {
+                "generic": "Магаданскі час",
+                "standard": "Магаданскі стандартны час",
+                "daylight": "Магаданскі летні час"
+              }
+            },
+            "Malaysia": {
+              "long": {
+                "standard": "Час Малайзіі"
+              }
+            },
+            "Maldives": {
+              "long": {
+                "standard": "Час Мальдыў"
+              }
+            },
+            "Marquesas": {
+              "long": {
+                "standard": "Час Маркізскіх астравоў"
+              }
+            },
+            "Marshall_Islands": {
+              "long": {
+                "standard": "Час Маршалавых Астравоў"
+              }
+            },
+            "Mauritius": {
+              "long": {
+                "generic": "Час Маўрыкія",
+                "standard": "Стандартны час Маўрыкія",
+                "daylight": "Летні час Маўрыкія"
+              }
+            },
+            "Mawson": {
+              "long": {
+                "standard": "Час станцыі Моўсан"
+              }
+            },
+            "Mexico_Northwest": {
+              "long": {
+                "generic": "Паўночнаамерыканскі мексіканскі час",
+                "standard": "Паўночнаамерыканскі мексіканскі стандартны час",
+                "daylight": "Паўночнаамерыканскі летні час"
+              }
+            },
+            "Mexico_Pacific": {
+              "long": {
+                "generic": "Мексіканскі ціхаакіянскі час",
+                "standard": "Мексіканскі ціхаакіянскі стандатны час",
+                "daylight": "Мексіканскі ціхаакіянскі летні час"
+              }
+            },
+            "Mongolia": {
+              "long": {
+                "generic": "Час Улан-Батара",
+                "standard": "Стандартны час Улан-Батара",
+                "daylight": "Летні час Улан-Батара"
+              }
+            },
+            "Moscow": {
+              "long": {
+                "generic": "Маскоўскі час",
+                "standard": "Маскоўскі стандартны час",
+                "daylight": "Маскоўскі летні час"
+              }
+            },
+            "Myanmar": {
+              "long": {
+                "standard": "Час М’янмы"
+              }
+            },
+            "Nauru": {
+              "long": {
+                "standard": "Час Науру"
+              }
+            },
+            "Nepal": {
+              "long": {
+                "standard": "Непальскі час"
+              }
+            },
+            "New_Caledonia": {
+              "long": {
+                "generic": "Час Новай Каледоніі",
+                "standard": "Стандартны час Новай Каледоніі",
+                "daylight": "Летні час Новай Каледоніі"
+              }
+            },
+            "New_Zealand": {
+              "long": {
+                "generic": "Час Новай Зеландыі",
+                "standard": "Стандартны час Новай Зеландыі",
+                "daylight": "Летні час Новай Зеландыі"
+              }
+            },
+            "Newfoundland": {
+              "long": {
+                "generic": "Ньюфаўндлендскі час",
+                "standard": "Ньюфаўндлендскі стандартны час",
+                "daylight": "Ньюфаўндлендскі летні час"
+              }
+            },
+            "Niue": {
+              "long": {
+                "standard": "Час Ніуэ"
+              }
+            },
+            "Norfolk": {
+              "long": {
+                "standard": "Час вострава Норфалк"
+              }
+            },
+            "Noronha": {
+              "long": {
+                "generic": "Час Фернанду-ды-Наронья",
+                "standard": "Стандартны час Фернанду-ды-Наронья",
+                "daylight": "Летні час Фернанду-ды-Наронья"
+              }
+            },
+            "Novosibirsk": {
+              "long": {
+                "generic": "Новасібірскі час",
+                "standard": "Новасібірскі стандартны час",
+                "daylight": "Новасібірскі летні час"
+              }
+            },
+            "Omsk": {
+              "long": {
+                "generic": "Омскі час",
+                "standard": "Омскі стандартны час",
+                "daylight": "Омскі летні час"
+              }
+            },
+            "Pakistan": {
+              "long": {
+                "generic": "Пакістанскі час",
+                "standard": "Пакістанскі стандартны час",
+                "daylight": "Пакістанскі летні час"
+              }
+            },
+            "Palau": {
+              "long": {
+                "standard": "Час Палау"
+              }
+            },
+            "Papua_New_Guinea": {
+              "long": {
+                "standard": "Час Папуа — Новай Гвінеі"
+              }
+            },
+            "Paraguay": {
+              "long": {
+                "generic": "Час Парагвая",
+                "standard": "Стандартны час Парагвая",
+                "daylight": "Летні час Парагвая"
+              }
+            },
+            "Peru": {
+              "long": {
+                "generic": "Перуанскі час",
+                "standard": "Перуанскі стандартны час",
+                "daylight": "Перуанскі летні час"
+              }
+            },
+            "Philippines": {
+              "long": {
+                "generic": "Філіпінскі час",
+                "standard": "Філіпінскі стандартны час",
+                "daylight": "Філіпінскі летні час"
+              }
+            },
+            "Phoenix_Islands": {
+              "long": {
+                "standard": "Час астравоў Фенікс"
+              }
+            },
+            "Pierre_Miquelon": {
+              "long": {
+                "generic": "Час Сен-П’ер і Мікелон",
+                "standard": "Стандартны час Сен-П’ер і Мікелон",
+                "daylight": "Стандартны летні час Сен-П’ер і Мікелон"
+              }
+            },
+            "Pitcairn": {
+              "long": {
+                "standard": "Час астравоў Піткэрн"
+              }
+            },
+            "Ponape": {
+              "long": {
+                "standard": "Час Панапэ"
+              }
+            },
+            "Reunion": {
+              "long": {
+                "standard": "Час Рэюньёна"
+              }
+            },
+            "Rothera": {
+              "long": {
+                "standard": "Час станцыі Ратэра"
+              }
+            },
+            "Sakhalin": {
+              "long": {
+                "generic": "Сахалінскі час",
+                "standard": "Сахалінскі стандартны час",
+                "daylight": "Сахалінскі летні час"
+              }
+            },
+            "Samoa": {
+              "long": {
+                "generic": "Час Самоа",
+                "standard": "Стандартны час Самоа",
+                "daylight": "Летні час Самоа"
+              }
+            },
+            "Seychelles": {
+              "long": {
+                "standard": "Час Сейшэльскіх астравоў"
+              }
+            },
+            "Singapore": {
+              "long": {
+                "standard": "Сінгапурскі час"
+              }
+            },
+            "Solomon": {
+              "long": {
+                "standard": "Час Саламонавых Астравоў"
+              }
+            },
+            "South_Georgia": {
+              "long": {
+                "standard": "Час Паўднёвай Джорджыі"
+              }
+            },
+            "Suriname": {
+              "long": {
+                "standard": "Час Сурынама"
+              }
+            },
+            "Syowa": {
+              "long": {
+                "standard": "Час станцыі Сёва"
+              }
+            },
+            "Tahiti": {
+              "long": {
+                "standard": "Час Таіці"
+              }
+            },
+            "Taipei": {
+              "long": {
+                "generic": "Час Тайбэя",
+                "standard": "Стандартны час Тайбэя",
+                "daylight": "Летні час Тайбэя"
+              }
+            },
+            "Tajikistan": {
+              "long": {
+                "standard": "Час Таджыкістана"
+              }
+            },
+            "Tokelau": {
+              "long": {
+                "standard": "Час Такелау"
+              }
+            },
+            "Tonga": {
+              "long": {
+                "generic": "Час Тонга",
+                "standard": "Стандартны час Тонга",
+                "daylight": "Летні час Тонга"
+              }
+            },
+            "Truk": {
+              "long": {
+                "standard": "Час Чуўк"
+              }
+            },
+            "Turkmenistan": {
+              "long": {
+                "generic": "Час Туркменістана",
+                "standard": "Стандартны час Туркменістана",
+                "daylight": "Летні час Туркменістана"
+              }
+            },
+            "Tuvalu": {
+              "long": {
+                "standard": "Час Тувалу"
+              }
+            },
+            "Uruguay": {
+              "long": {
+                "generic": "Уругвайскі час",
+                "standard": "Уругвайскі стандартны час",
+                "daylight": "Уругвайскі летні час"
+              }
+            },
+            "Uzbekistan": {
+              "long": {
+                "generic": "Час Узбекістана",
+                "standard": "Стандартны час Узбекістана",
+                "daylight": "Летні час Узбекістана"
+              }
+            },
+            "Vanuatu": {
+              "long": {
+                "generic": "Час Вануату",
+                "standard": "Стандартны час Вануату",
+                "daylight": "Летні час Вануату"
+              }
+            },
+            "Venezuela": {
+              "long": {
+                "standard": "Венесуэльскі час"
+              }
+            },
+            "Vladivostok": {
+              "long": {
+                "generic": "Уладзівастоцкі час",
+                "standard": "Уладзівастоцкі стандартны час",
+                "daylight": "Уладзівастоцкі летні час"
+              }
+            },
+            "Volgograd": {
+              "long": {
+                "generic": "Валгаградскі час",
+                "standard": "Валгаградскі стандартны час",
+                "daylight": "Валгаградскі летні час"
+              }
+            },
+            "Vostok": {
+              "long": {
+                "standard": "Час станцыі Усход"
+              }
+            },
+            "Wake": {
+              "long": {
+                "standard": "Час вострава Уэйк"
+              }
+            },
+            "Wallis": {
+              "long": {
+                "standard": "Час астравоў Уоліс і Футуна"
+              }
+            },
+            "Yakutsk": {
+              "long": {
+                "generic": "Якуцкі час",
+                "standard": "Якуцкі стандартны час",
+                "daylight": "Якуцкі летні час"
+              }
+            },
+            "Yekaterinburg": {
+              "long": {
+                "generic": "Екацярынбургскі час",
+                "standard": "Екацярынбургскі стандартны час",
+                "daylight": "Екацярынбургскі летні час"
               }
             }
           }

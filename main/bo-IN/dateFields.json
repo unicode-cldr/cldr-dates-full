@@ -3,11 +3,8 @@
     "bo-IN": {
       "identity": {
         "version": {
-          "_cldrVersion": "27.0.1",
-          "_number": "$Revision: 10669 $"
-        },
-        "generation": {
-          "_date": "$Date: 2014-07-23 16:10:33 -0500 (Wed, 23 Jul 2014) $"
+          "_cldrVersion": "28",
+          "_number": "$Revision: 11914 $"
         },
         "language": "bo",
         "territory": "IN"
@@ -163,11 +160,11 @@
           },
           "day": {
             "displayName": "ཉིན།",
+            "relative-type--2": "ཁས་ཉིན་",
             "relative-type--1": "ཁས་ས་",
-            "relative-type--2": "ཁས་ཉིན་ཀ་",
             "relative-type-0": "དེ་རིང་",
             "relative-type-1": "སང་ཉིན་",
-            "relative-type-2": "གནངས་ཉིན་ཀ་",
+            "relative-type-2": "གནངས་ཉིན་",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} d"
             },
@@ -177,11 +174,11 @@
           },
           "day-short": {
             "displayName": "ཉིན།",
+            "relative-type--2": "ཁས་ཉིན་",
             "relative-type--1": "ཁས་ས་",
-            "relative-type--2": "ཁས་ཉིན་ཀ་",
             "relative-type-0": "དེ་རིང་",
             "relative-type-1": "སང་ཉིན་",
-            "relative-type-2": "གནངས་ཉིན་ཀ་",
+            "relative-type-2": "གནངས་ཉིན་",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} d"
             },
@@ -191,11 +188,11 @@
           },
           "day-narrow": {
             "displayName": "ཉིན།",
+            "relative-type--2": "ཁས་ཉིན་",
             "relative-type--1": "ཁས་ས་",
-            "relative-type--2": "ཁས་ཉིན་ཀ་",
             "relative-type-0": "དེ་རིང་",
             "relative-type-1": "སང་ཉིན་",
-            "relative-type-2": "གནངས་ཉིན་ཀ་",
+            "relative-type-2": "གནངས་ཉིན་",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} d"
             },
@@ -315,7 +312,7 @@
             "displayName": "Dayperiod"
           },
           "hour": {
-            "displayName": "ཆུ་ཙོ་",
+            "displayName": "ཆུ་ཚོད་",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} h"
             },
@@ -324,7 +321,7 @@
             }
           },
           "hour-short": {
-            "displayName": "ཆུ་ཙོ་",
+            "displayName": "ཆུ་ཚོད་",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} h"
             },
@@ -333,7 +330,7 @@
             }
           },
           "hour-narrow": {
-            "displayName": "ཆུ་ཙོ་",
+            "displayName": "ཆུ་ཚོད་",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} h"
             },

@@ -3,11 +3,8 @@
     "se": {
       "identity": {
         "version": {
-          "_cldrVersion": "27.0.1",
-          "_number": "$Revision: 10753 $"
-        },
-        "generation": {
-          "_date": "$Date: 2014-08-11 11:10:03 -0500 (Mon, 11 Aug 2014) $"
+          "_cldrVersion": "28",
+          "_number": "$Revision: 11914 $"
         },
         "language": "se"
       },
@@ -198,8 +195,8 @@
           },
           "day": {
             "displayName": "beaivi",
-            "relative-type--1": "ikte",
             "relative-type--2": "oovdebpeivvi",
+            "relative-type--1": "ikte",
             "relative-type-0": "odne",
             "relative-type-1": "ihttin",
             "relative-type-2": "paijeelittáá",
@@ -216,8 +213,8 @@
           },
           "day-short": {
             "displayName": "beaivi",
-            "relative-type--1": "ikte",
             "relative-type--2": "oovdebpeivvi",
+            "relative-type--1": "ikte",
             "relative-type-0": "odne",
             "relative-type-1": "ihttin",
             "relative-type-2": "paijeelittáá",
@@ -234,8 +231,8 @@
           },
           "day-narrow": {
             "displayName": "beaivi",
-            "relative-type--1": "ikte",
             "relative-type--2": "oovdebpeivvi",
+            "relative-type--1": "ikte",
             "relative-type-0": "odne",
             "relative-type-1": "ihttin",
             "relative-type-2": "paijeelittáá",

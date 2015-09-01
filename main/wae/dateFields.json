@@ -3,11 +3,8 @@
     "wae": {
       "identity": {
         "version": {
-          "_cldrVersion": "27.0.1",
-          "_number": "$Revision: 11093 $"
-        },
-        "generation": {
-          "_date": "$Date: 2015-01-02 21:36:02 -0600 (Fri, 02 Jan 2015) $"
+          "_cldrVersion": "28",
+          "_number": "$Revision: 11914 $"
         },
         "language": "wae"
       },
@@ -180,8 +177,8 @@
           },
           "day": {
             "displayName": "Tag",
-            "relative-type--1": "Gešter",
             "relative-type--2": "Vorgešter",
+            "relative-type--1": "Gešter",
             "relative-type-0": "Hitte",
             "relative-type-1": "Móre",
             "relative-type-2": "Ubermóre",
@@ -196,8 +193,8 @@
           },
           "day-short": {
             "displayName": "Tag",
-            "relative-type--1": "Gešter",
             "relative-type--2": "Vorgešter",
+            "relative-type--1": "Gešter",
             "relative-type-0": "Hitte",
             "relative-type-1": "Móre",
             "relative-type-2": "Ubermóre",
@@ -212,8 +209,8 @@
           },
           "day-narrow": {
             "displayName": "Tag",
-            "relative-type--1": "Gešter",
             "relative-type--2": "Vorgešter",
+            "relative-type--1": "Gešter",
             "relative-type-0": "Hitte",
             "relative-type-1": "Móre",
             "relative-type-2": "Ubermóre",
