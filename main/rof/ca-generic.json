@@ -3,8 +3,8 @@
     "rof": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "rof"
       },
@@ -224,12 +224,12 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "kang’ama",
+                  "pm": "kingoto"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "kang’ama",
+                  "pm": "kingoto"
                 },
                 "wide": {
                   "am": "kang’ama",
@@ -238,16 +238,16 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "kang’ama",
+                  "pm": "kingoto"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "kang’ama",
+                  "pm": "kingoto"
                 },
                 "wide": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "kang’ama",
+                  "pm": "kingoto"
                 }
               }
             },

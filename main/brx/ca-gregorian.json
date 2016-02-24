@@ -3,8 +3,8 @@
     "brx": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11974 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "brx"
       },
@@ -224,12 +224,12 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "फुं",
+                  "pm": "बेलासे"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "फुं",
+                  "pm": "बेलासे"
                 },
                 "wide": {
                   "am": "फुं",
@@ -238,16 +238,16 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "फुं",
+                  "pm": "बेलासे"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "फुं",
+                  "pm": "बेलासे"
                 },
                 "wide": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "फुं",
+                  "pm": "बेलासे"
                 }
               }
             },

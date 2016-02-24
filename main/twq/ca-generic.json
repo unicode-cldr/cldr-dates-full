@@ -3,8 +3,8 @@
     "twq": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "twq"
       },
@@ -224,12 +224,12 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Subbaahi",
+                  "pm": "Zaarikay b"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Subbaahi",
+                  "pm": "Zaarikay b"
                 },
                 "wide": {
                   "am": "Subbaahi",
@@ -238,16 +238,16 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Subbaahi",
+                  "pm": "Zaarikay b"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Subbaahi",
+                  "pm": "Zaarikay b"
                 },
                 "wide": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Subbaahi",
+                  "pm": "Zaarikay b"
                 }
               }
             },

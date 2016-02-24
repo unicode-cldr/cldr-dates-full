@@ -3,8 +3,8 @@
     "yo-BJ": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11980 $"
+          "_number": "$Revision: 12417 $",
+          "_cldrVersion": "29"
         },
         "language": "yo",
         "territory": "BJ"
@@ -225,12 +225,12 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Àárɔ̀",
+                  "pm": "Ɔ̀sán"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Àárɔ̀",
+                  "pm": "Ɔ̀sán"
                 },
                 "wide": {
                   "am": "Àárɔ̀",
@@ -239,16 +239,16 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Àárɔ̀",
+                  "pm": "Ɔ̀sán"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Àárɔ̀",
+                  "pm": "Ɔ̀sán"
                 },
                 "wide": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Àárɔ̀",
+                  "pm": "Ɔ̀sán"
                 }
               }
             },
@@ -273,10 +273,10 @@
               "short": "dd/MM/y GGGGG"
             },
             "timeFormats": {
-              "full": "HH:mm:ss zzzz",
-              "long": "HH:mm:ss z",
-              "medium": "HH:mm:ss",
-              "short": "HH:mm"
+              "full": "h:mm:ss a zzzz",
+              "long": "h:mm:ss a z",
+              "medium": "h:mm:ss a",
+              "short": "h:mm a"
             },
             "dateTimeFormats": {
               "full": "{1} {0}",

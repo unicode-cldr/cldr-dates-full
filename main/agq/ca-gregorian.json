@@ -3,8 +3,8 @@
     "agq": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "agq"
       },
@@ -224,12 +224,12 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "a.g",
+                  "pm": "a.k"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "a.g",
+                  "pm": "a.k"
                 },
                 "wide": {
                   "am": "a.g",
@@ -238,16 +238,16 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "a.g",
+                  "pm": "a.k"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "a.g",
+                  "pm": "a.k"
                 },
                 "wide": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "a.g",
+                  "pm": "a.k"
                 }
               }
             },

@@ -3,8 +3,8 @@
     "sg": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11917 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "sg"
       },
@@ -224,12 +224,12 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "ND",
+                  "pm": "LK"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "ND",
+                  "pm": "LK"
                 },
                 "wide": {
                   "am": "ND",
@@ -238,16 +238,16 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "ND",
+                  "pm": "LK"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "ND",
+                  "pm": "LK"
                 },
                 "wide": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "ND",
+                  "pm": "LK"
                 }
               }
             },

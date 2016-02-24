@@ -3,8 +3,8 @@
     "yo": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11980 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "yo"
       },
@@ -224,12 +224,12 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Àárọ̀",
+                  "pm": "Ọ̀sán"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Àárọ̀",
+                  "pm": "Ọ̀sán"
                 },
                 "wide": {
                   "am": "Àárọ̀",
@@ -238,16 +238,16 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Àárọ̀",
+                  "pm": "Ọ̀sán"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Àárọ̀",
+                  "pm": "Ọ̀sán"
                 },
                 "wide": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Àárọ̀",
+                  "pm": "Ọ̀sán"
                 }
               }
             },

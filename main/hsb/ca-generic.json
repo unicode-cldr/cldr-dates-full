@@ -3,8 +3,8 @@
     "hsb": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "hsb"
       },
@@ -224,8 +224,8 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "dopołdnja",
+                  "pm": "popołdnju"
                 },
                 "narrow": {
                   "am": "dop.",
@@ -238,16 +238,16 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "dopołdnja",
+                  "pm": "popołdnju"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "dopołdnja",
+                  "pm": "popołdnju"
                 },
                 "wide": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "dopołdnja",
+                  "pm": "popołdnju"
                 }
               }
             },

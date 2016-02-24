@@ -3,8 +3,8 @@
     "mua": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "mua"
       },
@@ -224,12 +224,12 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "comme",
+                  "pm": "lilli"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "comme",
+                  "pm": "lilli"
                 },
                 "wide": {
                   "am": "comme",
@@ -238,16 +238,16 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "comme",
+                  "pm": "lilli"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "comme",
+                  "pm": "lilli"
                 },
                 "wide": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "comme",
+                  "pm": "lilli"
                 }
               }
             },

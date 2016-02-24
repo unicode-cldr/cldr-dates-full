@@ -3,8 +3,8 @@
     "jgo": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11994 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "jgo"
       },
@@ -224,12 +224,12 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "mbaꞌmbaꞌ",
+                  "pm": "ŋka mbɔ́t nji"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "mbaꞌmbaꞌ",
+                  "pm": "ŋka mbɔ́t nji"
                 },
                 "wide": {
                   "am": "mbaꞌmbaꞌ",
@@ -238,16 +238,16 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "mbaꞌmbaꞌ",
+                  "pm": "ŋka mbɔ́t nji"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "mbaꞌmbaꞌ",
+                  "pm": "ŋka mbɔ́t nji"
                 },
                 "wide": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "mbaꞌmbaꞌ",
+                  "pm": "ŋka mbɔ́t nji"
                 }
               }
             },

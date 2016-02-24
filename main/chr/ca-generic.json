@@ -3,8 +3,8 @@
     "chr": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11977 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "chr"
       },
@@ -224,12 +224,18 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "ᏌᎾᎴ",
+                  "noon": "ᎢᎦ",
+                  "pm": "ᏒᎯᏱᎢᏗᏢ",
+                  "morning1": "ᏌᎾᎴ",
+                  "afternoon1": "ᏒᎯᏱᎢᏗᏢ"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "ᏌᎾᎴ",
+                  "noon": "ᎢᎦ",
+                  "pm": "ᏒᎯᏱᎢᏗᏢ",
+                  "morning1": "ᏌᎾᎴ",
+                  "afternoon1": "ᏒᎯᏱᎢᏗᏢ"
                 },
                 "wide": {
                   "am": "ᏌᎾᎴ",
@@ -241,12 +247,18 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "ᏌᎾᎴ",
+                  "noon": "ᎢᎦ",
+                  "pm": "ᏒᎯᏱᎢᏗᏢ",
+                  "morning1": "ᏌᎾᎴ",
+                  "afternoon1": "ᏒᎯᏱᎢᏗᏢ"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "ᏌᎾᎴ",
+                  "noon": "ᎢᎦ",
+                  "pm": "ᏒᎯᏱᎢᏗᏢ",
+                  "morning1": "ᏌᎾᎴ",
+                  "afternoon1": "ᏒᎯᏱᎢᏗᏢ"
                 },
                 "wide": {
                   "am": "ᏌᎾᎴ",

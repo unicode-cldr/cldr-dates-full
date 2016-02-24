@@ -3,8 +3,8 @@
     "ee-TG": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 11914 $",
+          "_cldrVersion": "29"
         },
         "language": "ee",
         "territory": "TG"
@@ -225,12 +225,24 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "ŋdi",
+                  "pm": "ɣetrɔ",
+                  "morning1": "fɔŋli",
+                  "morning2": "ŋdi",
+                  "afternoon1": "ŋdɔ",
+                  "afternoon2": "ɣetrɔ",
+                  "evening1": "fiẽ",
+                  "night1": "zã"
                 },
                 "narrow": {
                   "am": "ŋ",
-                  "pm": "ɣ"
+                  "pm": "ɣ",
+                  "morning1": "fɔŋli",
+                  "morning2": "ŋdi",
+                  "afternoon1": "ŋdɔ",
+                  "afternoon2": "ɣetrɔ",
+                  "evening1": "fiẽ",
+                  "night1": "zã"
                 },
                 "wide": {
                   "am": "ŋdi",
@@ -245,16 +257,34 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "ŋdi",
+                  "pm": "ɣetrɔ",
+                  "morning1": "fɔŋli",
+                  "morning2": "ŋdi",
+                  "afternoon1": "ŋdɔ",
+                  "afternoon2": "ɣetrɔ",
+                  "evening1": "fiẽ",
+                  "night1": "zã"
                 },
                 "narrow": {
                   "am": "ŋ",
-                  "pm": "ɣ"
+                  "pm": "ɣ",
+                  "morning1": "fɔŋli",
+                  "morning2": "ŋdi",
+                  "afternoon1": "ŋdɔ",
+                  "afternoon2": "ɣetrɔ",
+                  "evening1": "fiẽ",
+                  "night1": "zã"
                 },
                 "wide": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "ŋdi",
+                  "pm": "ɣetrɔ",
+                  "morning1": "fɔŋli",
+                  "morning2": "ŋdi",
+                  "afternoon1": "ŋdɔ",
+                  "afternoon2": "ɣetrɔ",
+                  "evening1": "fiẽ",
+                  "night1": "zã"
                 }
               }
             },

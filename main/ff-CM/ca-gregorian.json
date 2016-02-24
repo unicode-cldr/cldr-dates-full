@@ -3,8 +3,8 @@
     "ff-CM": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 11914 $",
+          "_cldrVersion": "29"
         },
         "language": "ff",
         "territory": "CM"
@@ -225,12 +225,12 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "subaka",
+                  "pm": "kikiiɗe"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "subaka",
+                  "pm": "kikiiɗe"
                 },
                 "wide": {
                   "am": "subaka",
@@ -239,16 +239,16 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "subaka",
+                  "pm": "kikiiɗe"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "subaka",
+                  "pm": "kikiiɗe"
                 },
                 "wide": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "subaka",
+                  "pm": "kikiiɗe"
                 }
               }
             },

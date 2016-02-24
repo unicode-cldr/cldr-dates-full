@@ -3,8 +3,8 @@
     "bas": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "bas"
       },
@@ -224,12 +224,12 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "I bikɛ̂glà",
+                  "pm": "I ɓugajɔp"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "I bikɛ̂glà",
+                  "pm": "I ɓugajɔp"
                 },
                 "wide": {
                   "am": "I bikɛ̂glà",
@@ -238,16 +238,16 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "I bikɛ̂glà",
+                  "pm": "I ɓugajɔp"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "I bikɛ̂glà",
+                  "pm": "I ɓugajɔp"
                 },
                 "wide": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "I bikɛ̂glà",
+                  "pm": "I ɓugajɔp"
                 }
               }
             },

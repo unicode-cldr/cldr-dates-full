@@ -3,8 +3,8 @@
     "bs-Cyrl": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11990 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "bs",
         "script": "Cyrl"
@@ -225,12 +225,12 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "пре подне",
+                  "pm": "поподне"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "пре подне",
+                  "pm": "поподне"
                 },
                 "wide": {
                   "am": "пре подне",
@@ -239,16 +239,16 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "пре подне",
+                  "pm": "поподне"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "пре подне",
+                  "pm": "поподне"
                 },
                 "wide": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "пре подне",
+                  "pm": "поподне"
                 }
               }
             },

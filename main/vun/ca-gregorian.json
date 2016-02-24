@@ -3,8 +3,8 @@
     "vun": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "vun"
       },
@@ -224,12 +224,12 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "utuko",
+                  "pm": "kyiukonyi"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "utuko",
+                  "pm": "kyiukonyi"
                 },
                 "wide": {
                   "am": "utuko",
@@ -238,16 +238,16 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "utuko",
+                  "pm": "kyiukonyi"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "utuko",
+                  "pm": "kyiukonyi"
                 },
                 "wide": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "utuko",
+                  "pm": "kyiukonyi"
                 }
               }
             },

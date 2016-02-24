@@ -3,8 +3,8 @@
     "nmg": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "nmg"
       },
@@ -224,12 +224,12 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "maná",
+                  "pm": "kugú"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "maná",
+                  "pm": "kugú"
                 },
                 "wide": {
                   "am": "maná",
@@ -238,16 +238,16 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "maná",
+                  "pm": "kugú"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "maná",
+                  "pm": "kugú"
                 },
                 "wide": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "maná",
+                  "pm": "kugú"
                 }
               }
             },

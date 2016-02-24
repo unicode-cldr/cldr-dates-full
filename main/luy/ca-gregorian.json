@@ -3,8 +3,8 @@
     "luy": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "luy"
       },
@@ -224,12 +224,12 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "a.m.",
+                  "pm": "p.m."
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "a.m.",
+                  "pm": "p.m."
                 },
                 "wide": {
                   "am": "a.m.",
@@ -238,16 +238,16 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "a.m.",
+                  "pm": "p.m."
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "a.m.",
+                  "pm": "p.m."
                 },
                 "wide": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "a.m.",
+                  "pm": "p.m."
                 }
               }
             },

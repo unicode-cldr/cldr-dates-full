@@ -3,8 +3,8 @@
     "ksf": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "ksf"
       },
@@ -224,12 +224,12 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "sárúwá",
+                  "pm": "cɛɛ́nko"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "sárúwá",
+                  "pm": "cɛɛ́nko"
                 },
                 "wide": {
                   "am": "sárúwá",
@@ -238,16 +238,16 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "sárúwá",
+                  "pm": "cɛɛ́nko"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "sárúwá",
+                  "pm": "cɛɛ́nko"
                 },
                 "wide": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "sárúwá",
+                  "pm": "cɛɛ́nko"
                 }
               }
             },

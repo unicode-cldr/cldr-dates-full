@@ -3,8 +3,8 @@
     "dua": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "dua"
       },
@@ -224,12 +224,12 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "idiɓa",
+                  "pm": "ebyámu"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "idiɓa",
+                  "pm": "ebyámu"
                 },
                 "wide": {
                   "am": "idiɓa",
@@ -238,16 +238,16 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "idiɓa",
+                  "pm": "ebyámu"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "idiɓa",
+                  "pm": "ebyámu"
                 },
                 "wide": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "idiɓa",
+                  "pm": "ebyámu"
                 }
               }
             },

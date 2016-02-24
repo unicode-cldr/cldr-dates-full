@@ -3,8 +3,8 @@
     "ln": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "ln"
       },
@@ -224,12 +224,12 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "ntɔ́ngɔ́",
+                  "pm": "mpókwa"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "ntɔ́ngɔ́",
+                  "pm": "mpókwa"
                 },
                 "wide": {
                   "am": "ntɔ́ngɔ́",
@@ -238,16 +238,16 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "ntɔ́ngɔ́",
+                  "pm": "mpókwa"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "ntɔ́ngɔ́",
+                  "pm": "mpókwa"
                 },
                 "wide": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "ntɔ́ngɔ́",
+                  "pm": "mpókwa"
                 }
               }
             },

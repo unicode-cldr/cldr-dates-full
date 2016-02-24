@@ -3,8 +3,8 @@
     "dav": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "dav"
       },
@@ -224,12 +224,12 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Luma lwa K",
+                  "pm": "luma lwa p"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Luma lwa K",
+                  "pm": "luma lwa p"
                 },
                 "wide": {
                   "am": "Luma lwa K",
@@ -238,16 +238,16 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Luma lwa K",
+                  "pm": "luma lwa p"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Luma lwa K",
+                  "pm": "luma lwa p"
                 },
                 "wide": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Luma lwa K",
+                  "pm": "luma lwa p"
                 }
               }
             },

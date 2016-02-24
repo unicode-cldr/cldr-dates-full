@@ -3,8 +3,8 @@
     "yi": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11994 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "yi"
       },
@@ -224,12 +224,12 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "פֿאַרמיטאָג",
+                  "pm": "נאָכמיטאָג"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "פֿאַרמיטאָג",
+                  "pm": "נאָכמיטאָג"
                 },
                 "wide": {
                   "am": "פֿאַרמיטאָג",
@@ -238,16 +238,16 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "פֿאַרמיטאָג",
+                  "pm": "נאָכמיטאָג"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "פֿאַרמיטאָג",
+                  "pm": "נאָכמיטאָג"
                 },
                 "wide": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "פֿאַרמיטאָג",
+                  "pm": "נאָכמיטאָג"
                 }
               }
             },

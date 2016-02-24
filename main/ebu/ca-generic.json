@@ -3,8 +3,8 @@
     "ebu": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "ebu"
       },
@@ -224,12 +224,12 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "KI",
+                  "pm": "UT"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "KI",
+                  "pm": "UT"
                 },
                 "wide": {
                   "am": "KI",
@@ -238,16 +238,16 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "KI",
+                  "pm": "UT"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "KI",
+                  "pm": "UT"
                 },
                 "wide": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "KI",
+                  "pm": "UT"
                 }
               }
             },

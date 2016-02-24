@@ -3,8 +3,8 @@
     "bo-IN": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 11914 $",
+          "_cldrVersion": "29"
         },
         "language": "bo",
         "territory": "IN"
@@ -225,12 +225,12 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "སྔ་དྲོ་",
+                  "pm": "ཕྱི་དྲོ་"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "སྔ་དྲོ་",
+                  "pm": "ཕྱི་དྲོ་"
                 },
                 "wide": {
                   "am": "སྔ་དྲོ་",
@@ -239,16 +239,16 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "སྔ་དྲོ་",
+                  "pm": "ཕྱི་དྲོ་"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "སྔ་དྲོ་",
+                  "pm": "ཕྱི་དྲོ་"
                 },
                 "wide": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "སྔ་དྲོ་",
+                  "pm": "ཕྱི་དྲོ་"
                 }
               }
             },

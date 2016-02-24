@@ -3,8 +3,8 @@
     "guz": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12313 $",
+          "_cldrVersion": "29"
         },
         "language": "guz"
       },
@@ -224,30 +224,30 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Ma",
+                  "pm": "Mo"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Ma",
+                  "pm": "Mo"
                 },
                 "wide": {
-                  "am": "Ma/Mo",
-                  "pm": "Mambia/Mog"
+                  "am": "Mambia",
+                  "pm": "Mog"
                 }
               },
               "stand-alone": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Ma",
+                  "pm": "Mo"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Ma",
+                  "pm": "Mo"
                 },
                 "wide": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Ma",
+                  "pm": "Mo"
                 }
               }
             },

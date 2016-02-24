@@ -3,8 +3,8 @@
     "ki": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "ki"
       },
@@ -224,12 +224,12 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Kiroko",
+                  "pm": "Hwaĩ-inĩ"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Kiroko",
+                  "pm": "Hwaĩ-inĩ"
                 },
                 "wide": {
                   "am": "Kiroko",
@@ -238,16 +238,16 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Kiroko",
+                  "pm": "Hwaĩ-inĩ"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Kiroko",
+                  "pm": "Hwaĩ-inĩ"
                 },
                 "wide": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Kiroko",
+                  "pm": "Hwaĩ-inĩ"
                 }
               }
             },

@@ -3,8 +3,8 @@
     "tzm": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "tzm"
       },
@@ -224,12 +224,12 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Zdat azal",
+                  "pm": "Ḍeffir aza"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Zdat azal",
+                  "pm": "Ḍeffir aza"
                 },
                 "wide": {
                   "am": "Zdat azal",
@@ -238,16 +238,16 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Zdat azal",
+                  "pm": "Ḍeffir aza"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Zdat azal",
+                  "pm": "Ḍeffir aza"
                 },
                 "wide": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Zdat azal",
+                  "pm": "Ḍeffir aza"
                 }
               }
             },

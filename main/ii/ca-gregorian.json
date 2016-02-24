@@ -3,8 +3,8 @@
     "ii": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "ii"
       },
@@ -224,12 +224,12 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "ꎸꄑ",
+                  "pm": "ꁯꋒ"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "ꎸꄑ",
+                  "pm": "ꁯꋒ"
                 },
                 "wide": {
                   "am": "ꎸꄑ",
@@ -238,16 +238,16 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "ꎸꄑ",
+                  "pm": "ꁯꋒ"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "ꎸꄑ",
+                  "pm": "ꁯꋒ"
                 },
                 "wide": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "ꎸꄑ",
+                  "pm": "ꁯꋒ"
                 }
               }
             },

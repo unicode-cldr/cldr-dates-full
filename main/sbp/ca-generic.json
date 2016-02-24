@@ -3,8 +3,8 @@
     "sbp": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "sbp"
       },
@@ -224,12 +224,12 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Lwamilawu",
+                  "pm": "Pashamihe"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Lwamilawu",
+                  "pm": "Pashamihe"
                 },
                 "wide": {
                   "am": "Lwamilawu",
@@ -238,16 +238,16 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Lwamilawu",
+                  "pm": "Pashamihe"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Lwamilawu",
+                  "pm": "Pashamihe"
                 },
                 "wide": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Lwamilawu",
+                  "pm": "Pashamihe"
                 }
               }
             },

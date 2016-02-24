@@ -3,8 +3,8 @@
     "ak": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "ak"
       },
@@ -224,12 +224,12 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "AN",
+                  "pm": "EW"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "AN",
+                  "pm": "EW"
                 },
                 "wide": {
                   "am": "AN",
@@ -238,16 +238,16 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "AN",
+                  "pm": "EW"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "AN",
+                  "pm": "EW"
                 },
                 "wide": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "AN",
+                  "pm": "EW"
                 }
               }
             },

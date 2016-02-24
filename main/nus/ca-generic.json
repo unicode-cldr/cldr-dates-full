@@ -3,8 +3,8 @@
     "nus": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11938 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "nus"
       },
@@ -224,12 +224,12 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "RW",
+                  "pm": "TŊ"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "RW",
+                  "pm": "TŊ"
                 },
                 "wide": {
                   "am": "RW",
@@ -238,16 +238,16 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "RW",
+                  "pm": "TŊ"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "RW",
+                  "pm": "TŊ"
                 },
                 "wide": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "RW",
+                  "pm": "TŊ"
                 }
               }
             },

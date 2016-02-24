@@ -3,8 +3,8 @@
     "yav": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "yav"
       },
@@ -224,12 +224,12 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "kiɛmɛ́ɛm",
+                  "pm": "kisɛ́ndɛ"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "kiɛmɛ́ɛm",
+                  "pm": "kisɛ́ndɛ"
                 },
                 "wide": {
                   "am": "kiɛmɛ́ɛm",
@@ -238,16 +238,16 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "kiɛmɛ́ɛm",
+                  "pm": "kisɛ́ndɛ"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "kiɛmɛ́ɛm",
+                  "pm": "kisɛ́ndɛ"
                 },
                 "wide": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "kiɛmɛ́ɛm",
+                  "pm": "kisɛ́ndɛ"
                 }
               }
             },
