@@ -3,8 +3,8 @@
     "lkt": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12740 $",
+          "_cldrVersion": "30"
         },
         "language": "lkt"
       },
@@ -89,7 +89,7 @@
             "displayName": "Wí",
             "relative-type--1": "Wí kʼuŋ héhaŋ",
             "relative-type-0": "Lé wí kiŋ",
-            "relative-type-1": "Wí kiŋháŋ",
+            "relative-type-1": "Tȟokáta wí kiŋháŋ",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "Letáŋhaŋ wíyawapi {0} kiŋháŋ"
             },
@@ -101,7 +101,7 @@
             "displayName": "Wí",
             "relative-type--1": "Wí kʼuŋ héhaŋ",
             "relative-type-0": "Lé wí kiŋ",
-            "relative-type-1": "Wí kiŋháŋ",
+            "relative-type-1": "Tȟokáta wí kiŋháŋ",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "Letáŋhaŋ wíyawapi {0} kiŋháŋ"
             },
@@ -113,7 +113,7 @@
             "displayName": "Wí",
             "relative-type--1": "Wí kʼuŋ héhaŋ",
             "relative-type-0": "Lé wí kiŋ",
-            "relative-type-1": "Wí kiŋháŋ",
+            "relative-type-1": "Tȟokáta wí kiŋháŋ",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "Letáŋhaŋ wíyawapi {0} kiŋháŋ"
             },
@@ -131,7 +131,8 @@
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-other": "Hékta okó {0} kʼuŋ héhaŋ"
-            }
+            },
+            "relativePeriod": "the week of {0}"
           },
           "week-short": {
             "displayName": "Okó",
@@ -143,7 +144,8 @@
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-other": "Hékta okó {0} kʼuŋ héhaŋ"
-            }
+            },
+            "relativePeriod": "the week of {0}"
           },
           "week-narrow": {
             "displayName": "Okó",
@@ -155,11 +157,12 @@
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-other": "Hékta okó {0} kʼuŋ héhaŋ"
-            }
+            },
+            "relativePeriod": "the week of {0}"
           },
           "day": {
             "displayName": "Aŋpétu",
-            "relative-type--1": "Lé aŋpétu kiŋ",
+            "relative-type--1": "Ȟtálehaŋ",
             "relative-type-0": "Lé aŋpétu kiŋ",
             "relative-type-1": "Híŋhaŋni kiŋháŋ",
             "relativeTime-type-future": {
@@ -171,7 +174,7 @@
           },
           "day-short": {
             "displayName": "Aŋpétu",
-            "relative-type--1": "Lé aŋpétu kiŋ",
+            "relative-type--1": "Ȟtálehaŋ",
             "relative-type-0": "Lé aŋpétu kiŋ",
             "relative-type-1": "Híŋhaŋni kiŋháŋ",
             "relativeTime-type-future": {
@@ -183,7 +186,7 @@
           },
           "day-narrow": {
             "displayName": "Aŋpétu",
-            "relative-type--1": "Lé aŋpétu kiŋ",
+            "relative-type--1": "Ȟtálehaŋ",
             "relative-type-0": "Lé aŋpétu kiŋ",
             "relative-type-1": "Híŋhaŋni kiŋháŋ",
             "relativeTime-type-future": {
@@ -199,113 +202,240 @@
           "sun": {
             "relative-type--1": "Aŋpétuwakȟáŋ kʼuŋ héhaŋ",
             "relative-type-0": "Aŋpétuwakȟáŋ kiŋ lé",
-            "relative-type-1": "Aŋpétuwakȟáŋ kiŋháŋ"
+            "relative-type-1": "Aŋpétuwakȟáŋ kiŋháŋ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Sundays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Sundays"
+            }
           },
           "sun-short": {
             "relative-type--1": "Aŋpétuwakȟáŋ kʼuŋ héhaŋ",
             "relative-type-0": "Aŋpétuwakȟáŋ kiŋ lé",
-            "relative-type-1": "Aŋpétuwakȟáŋ kiŋháŋ"
+            "relative-type-1": "Aŋpétuwakȟáŋ kiŋháŋ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Sundays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Sundays"
+            }
           },
           "sun-narrow": {
             "relative-type--1": "Aŋpétuwakȟáŋ kʼuŋ héhaŋ",
             "relative-type-0": "Aŋpétuwakȟáŋ kiŋ lé",
-            "relative-type-1": "Aŋpétuwakȟáŋ kiŋháŋ"
+            "relative-type-1": "Aŋpétuwakȟáŋ kiŋháŋ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Sundays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Sundays"
+            }
           },
           "mon": {
             "relative-type--1": "Aŋpétutȟokahe kʼuŋ héhaŋ",
             "relative-type-0": "Aŋpétutȟokahe kiŋ lé",
-            "relative-type-1": "Aŋpétutȟokahe kiŋháŋ"
+            "relative-type-1": "Aŋpétutȟokahe kiŋháŋ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Mondays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Mondays"
+            }
           },
           "mon-short": {
             "relative-type--1": "Aŋpétutȟokahe kʼuŋ héhaŋ",
             "relative-type-0": "Aŋpétutȟokahe kiŋ lé",
-            "relative-type-1": "Aŋpétutȟokahe kiŋháŋ"
+            "relative-type-1": "Aŋpétutȟokahe kiŋháŋ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Mondays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Mondays"
+            }
           },
           "mon-narrow": {
             "relative-type--1": "Aŋpétutȟokahe kʼuŋ héhaŋ",
             "relative-type-0": "Aŋpétutȟokahe kiŋ lé",
-            "relative-type-1": "Aŋpétutȟokahe kiŋháŋ"
+            "relative-type-1": "Aŋpétutȟokahe kiŋháŋ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Mondays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Mondays"
+            }
           },
           "tue": {
             "relative-type--1": "Aŋpétunuŋpa kʼuŋ héhaŋ",
             "relative-type-0": "Aŋpétunuŋpa kiŋ lé",
-            "relative-type-1": "Aŋpétunuŋpa kiŋháŋ"
+            "relative-type-1": "Aŋpétunuŋpa kiŋháŋ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Tuesdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Tuesdays"
+            }
           },
           "tue-short": {
             "relative-type--1": "Aŋpétunuŋpa kʼuŋ héhaŋ",
             "relative-type-0": "Aŋpétunuŋpa kiŋ lé",
-            "relative-type-1": "Aŋpétunuŋpa kiŋháŋ"
+            "relative-type-1": "Aŋpétunuŋpa kiŋháŋ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Tuesdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Tuesdays"
+            }
           },
           "tue-narrow": {
             "relative-type--1": "Aŋpétunuŋpa kʼuŋ héhaŋ",
             "relative-type-0": "Aŋpétunuŋpa kiŋ lé",
-            "relative-type-1": "Aŋpétunuŋpa kiŋháŋ"
+            "relative-type-1": "Aŋpétunuŋpa kiŋháŋ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Tuesdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Tuesdays"
+            }
           },
           "wed": {
             "relative-type--1": "Aŋpétuyamni kʼuŋ héhaŋ",
             "relative-type-0": "Aŋpétuyamni kiŋ lé",
-            "relative-type-1": "Aŋpétuyamni kiŋháŋ"
+            "relative-type-1": "Aŋpétuyamni kiŋháŋ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Wednesdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Wednesdays"
+            }
           },
           "wed-short": {
             "relative-type--1": "Aŋpétuyamni kʼuŋ héhaŋ",
             "relative-type-0": "Aŋpétuyamni kiŋ lé",
-            "relative-type-1": "Aŋpétuyamni kiŋháŋ"
+            "relative-type-1": "Aŋpétuyamni kiŋháŋ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Wednesdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Wednesdays"
+            }
           },
           "wed-narrow": {
             "relative-type--1": "Aŋpétuyamni kʼuŋ héhaŋ",
             "relative-type-0": "Aŋpétuyamni kiŋ lé",
-            "relative-type-1": "Aŋpétuyamni kiŋháŋ"
+            "relative-type-1": "Aŋpétuyamni kiŋháŋ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Wednesdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Wednesdays"
+            }
           },
           "thu": {
             "relative-type--1": "Aŋpétutopa kʼuŋ héhaŋ",
             "relative-type-0": "Aŋpétutopa kiŋ lé",
-            "relative-type-1": "Aŋpétutopa kiŋháŋ"
+            "relative-type-1": "Aŋpétutopa kiŋháŋ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Thursdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Thursdays"
+            }
           },
           "thu-short": {
             "relative-type--1": "Aŋpétutopa kʼuŋ héhaŋ",
             "relative-type-0": "Aŋpétutopa kiŋ lé",
-            "relative-type-1": "Aŋpétutopa kiŋháŋ"
+            "relative-type-1": "Aŋpétutopa kiŋháŋ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Thursdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Thursdays"
+            }
           },
           "thu-narrow": {
             "relative-type--1": "Aŋpétutopa kʼuŋ héhaŋ",
             "relative-type-0": "Aŋpétutopa kiŋ lé",
-            "relative-type-1": "Aŋpétutopa kiŋháŋ"
+            "relative-type-1": "Aŋpétutopa kiŋháŋ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Thursdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Thursdays"
+            }
           },
           "fri": {
             "relative-type--1": "Aŋpétuzaŋptaŋ kʼuŋ héhaŋ",
             "relative-type-0": "Apétuzaptaŋ kiŋ lé",
-            "relative-type-1": "Aŋpétuzaptaŋ kiŋháŋ"
+            "relative-type-1": "Aŋpétuzaptaŋ kiŋháŋ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Fridays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Fridays"
+            }
           },
           "fri-short": {
             "relative-type--1": "Aŋpétuzaŋptaŋ kʼuŋ héhaŋ",
             "relative-type-0": "Apétuzaptaŋ kiŋ lé",
-            "relative-type-1": "Aŋpétuzaptaŋ kiŋháŋ"
+            "relative-type-1": "Aŋpétuzaptaŋ kiŋháŋ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Fridays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Fridays"
+            }
           },
           "fri-narrow": {
             "relative-type--1": "Aŋpétuzaŋptaŋ kʼuŋ héhaŋ",
             "relative-type-0": "Apétuzaptaŋ kiŋ lé",
-            "relative-type-1": "Aŋpétuzaptaŋ kiŋháŋ"
+            "relative-type-1": "Aŋpétuzaptaŋ kiŋháŋ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Fridays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Fridays"
+            }
           },
           "sat": {
             "relative-type--1": "Owáŋkayužažapi kʼuŋ héhaŋ",
             "relative-type-0": "Owáŋkayužažapi kiŋ lé",
-            "relative-type-1": "Owáŋkayužažapi kiŋháŋ"
+            "relative-type-1": "Owáŋkayužažapi kiŋháŋ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Saturdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Saturdays"
+            }
           },
           "sat-short": {
             "relative-type--1": "Owáŋkayužažapi kʼuŋ héhaŋ",
             "relative-type-0": "Owáŋkayužažapi kiŋ lé",
-            "relative-type-1": "Owáŋkayužažapi kiŋháŋ"
+            "relative-type-1": "Owáŋkayužažapi kiŋháŋ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Saturdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Saturdays"
+            }
           },
           "sat-narrow": {
             "relative-type--1": "Owáŋkayužažapi kʼuŋ héhaŋ",
             "relative-type-0": "Owáŋkayužažapi kiŋ lé",
-            "relative-type-1": "Owáŋkayužažapi kiŋháŋ"
+            "relative-type-1": "Owáŋkayužažapi kiŋháŋ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Saturdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Saturdays"
+            }
           },
           "dayperiod": {
             "displayName": "Dayperiod"
           },
           "hour": {
             "displayName": "Owápȟe",
+            "relative-type-0": "this hour",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "Letáŋhaŋ owápȟe {0} kiŋháŋ"
             },
@@ -315,6 +445,7 @@
           },
           "hour-short": {
             "displayName": "Owápȟe",
+            "relative-type-0": "this hour",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "Letáŋhaŋ owápȟe {0} kiŋháŋ"
             },
@@ -324,6 +455,7 @@
           },
           "hour-narrow": {
             "displayName": "Owápȟe",
+            "relative-type-0": "this hour",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "Letáŋhaŋ owápȟe {0} kiŋháŋ"
             },
@@ -333,29 +465,32 @@
           },
           "minute": {
             "displayName": "Owápȟe oȟʼáŋkȟo",
+            "relative-type-0": "this minute",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} min"
+              "relativeTimePattern-count-other": "Letáŋhaŋ oȟ’áŋkȟo {0} kiŋháŋ"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} min"
+              "relativeTimePattern-count-other": "Hékta oȟ’áŋkȟo {0} k’uŋ héhaŋ"
             }
           },
           "minute-short": {
             "displayName": "Owápȟe oȟʼáŋkȟo",
+            "relative-type-0": "this minute",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} min"
+              "relativeTimePattern-count-other": "Letáŋhaŋ oȟ’áŋkȟo {0} kiŋháŋ"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} min"
+              "relativeTimePattern-count-other": "Hékta oȟ’áŋkȟo {0} k’uŋ héhaŋ"
             }
           },
           "minute-narrow": {
             "displayName": "Owápȟe oȟʼáŋkȟo",
+            "relative-type-0": "this minute",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} min"
+              "relativeTimePattern-count-other": "Letáŋhaŋ oȟ’áŋkȟo {0} kiŋháŋ"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} min"
+              "relativeTimePattern-count-other": "Hékta oȟ’áŋkȟo {0} k’uŋ héhaŋ"
             }
           },
           "second": {

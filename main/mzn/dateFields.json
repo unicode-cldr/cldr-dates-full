@@ -3,8 +3,8 @@
     "mzn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12876 $",
+          "_cldrVersion": "30"
         },
         "language": "mzn"
       },
@@ -131,7 +131,8 @@
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-other": "{0} هفته پیش"
-            }
+            },
+            "relativePeriod": "the week of {0}"
           },
           "week-short": {
             "displayName": "هفته",
@@ -143,7 +144,8 @@
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-other": "{0} هفته پیش"
-            }
+            },
+            "relativePeriod": "the week of {0}"
           },
           "week-narrow": {
             "displayName": "هفته",
@@ -155,7 +157,8 @@
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-other": "{0} هفته پیش"
-            }
+            },
+            "relativePeriod": "the week of {0}"
           },
           "day": {
             "displayName": "روز",
@@ -199,113 +202,240 @@
           "sun": {
             "relative-type--1": "قبلی یکشنبه",
             "relative-type-0": "این یکشنبه",
-            "relative-type-1": "بعدی یکشنبه"
+            "relative-type-1": "بعدی یکشنبه",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Sundays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Sundays"
+            }
           },
           "sun-short": {
             "relative-type--1": "یکشنبه قبل",
             "relative-type-0": "این یکشنبه",
-            "relative-type-1": "یکشنبه بعد"
+            "relative-type-1": "یکشنبه بعد",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Sundays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Sundays"
+            }
           },
           "sun-narrow": {
             "relative-type--1": "قبلی یکشنبه",
             "relative-type-0": "این یکشنبه",
-            "relative-type-1": "بعدی یکشنبه"
+            "relative-type-1": "بعدی یکشنبه",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Sundays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Sundays"
+            }
           },
           "mon": {
             "relative-type--1": "قبلی دِشنبه",
             "relative-type-0": "این دِشنبه",
-            "relative-type-1": "بعدی دِشنبه"
+            "relative-type-1": "بعدی دِشنبه",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Mondays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Mondays"
+            }
           },
           "mon-short": {
             "relative-type--1": "قبلی دِشنبه",
             "relative-type-0": "این دِشنبه",
-            "relative-type-1": "بعدی دِشنبه"
+            "relative-type-1": "بعدی دِشنبه",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Mondays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Mondays"
+            }
           },
           "mon-narrow": {
             "relative-type--1": "قبلی دِشنبه",
             "relative-type-0": "این دِشنبه",
-            "relative-type-1": "بعدی دِشنبه"
+            "relative-type-1": "بعدی دِشنبه",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Mondays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Mondays"
+            }
           },
           "tue": {
             "relative-type--1": "قبلی سه‌شنبه",
             "relative-type-0": "این سه‌شنبه",
-            "relative-type-1": "بعدی سه‌شنبه"
+            "relative-type-1": "بعدی سه‌شنبه",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Tuesdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Tuesdays"
+            }
           },
           "tue-short": {
             "relative-type--1": "قبلی سه‌شنبه",
             "relative-type-0": "این سه‌شنبه",
-            "relative-type-1": "بعدی سه‌شنبه"
+            "relative-type-1": "بعدی سه‌شنبه",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Tuesdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Tuesdays"
+            }
           },
           "tue-narrow": {
             "relative-type--1": "قبلی سه‌شنبه",
             "relative-type-0": "این سه‌شنبه",
-            "relative-type-1": "بعدی سه‌شنبه"
+            "relative-type-1": "بعدی سه‌شنبه",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Tuesdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Tuesdays"
+            }
           },
           "wed": {
             "relative-type--1": "قبلی چارشنبه",
             "relative-type-0": "این چارشنبه",
-            "relative-type-1": "بعدی چارشنبه"
+            "relative-type-1": "بعدی چارشنبه",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Wednesdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Wednesdays"
+            }
           },
           "wed-short": {
             "relative-type--1": "قبلی چارشنبه",
             "relative-type-0": "این چارشنبه",
-            "relative-type-1": "بعدی چارشنبه"
+            "relative-type-1": "بعدی چارشنبه",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Wednesdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Wednesdays"
+            }
           },
           "wed-narrow": {
             "relative-type--1": "قبلی چارشنبه",
             "relative-type-0": "این چارشنبه",
-            "relative-type-1": "بعدی چارشنبه"
+            "relative-type-1": "بعدی چارشنبه",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Wednesdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Wednesdays"
+            }
           },
           "thu": {
             "relative-type--1": "قبلی پنجشنبه",
             "relative-type-0": "این پنجشنبه",
-            "relative-type-1": "بعدی پنجشنبه"
+            "relative-type-1": "بعدی پنجشنبه",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Thursdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Thursdays"
+            }
           },
           "thu-short": {
             "relative-type--1": "قبلی پنجشنبه",
             "relative-type-0": "این پنجشنبه",
-            "relative-type-1": "بعدی پنجشنبه"
+            "relative-type-1": "بعدی پنجشنبه",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Thursdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Thursdays"
+            }
           },
           "thu-narrow": {
             "relative-type--1": "قبلی پنجشنبه",
             "relative-type-0": "این پنجشنبه",
-            "relative-type-1": "بعدی پنجشنبه"
+            "relative-type-1": "بعدی پنجشنبه",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Thursdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Thursdays"
+            }
           },
           "fri": {
             "relative-type--1": "قبلی جومه",
             "relative-type-0": "این جومه",
-            "relative-type-1": "بعدی جومه"
+            "relative-type-1": "بعدی جومه",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Fridays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Fridays"
+            }
           },
           "fri-short": {
             "relative-type--1": "قبلی جومه",
             "relative-type-0": "این جومه",
-            "relative-type-1": "بعدی جومه"
+            "relative-type-1": "بعدی جومه",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Fridays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Fridays"
+            }
           },
           "fri-narrow": {
             "relative-type--1": "قبلی جومه",
             "relative-type-0": "این جومه",
-            "relative-type-1": "بعدی جومه"
+            "relative-type-1": "بعدی جومه",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Fridays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Fridays"
+            }
           },
           "sat": {
             "relative-type--1": "قبلی شنبه",
             "relative-type-0": "این شنبه",
-            "relative-type-1": "بعدی شنبه"
+            "relative-type-1": "بعدی شنبه",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Saturdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Saturdays"
+            }
           },
           "sat-short": {
             "relative-type--1": "قبلی شنبه",
             "relative-type-0": "این شنبه",
-            "relative-type-1": "بعدی شنبه"
+            "relative-type-1": "بعدی شنبه",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Saturdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Saturdays"
+            }
           },
           "sat-narrow": {
             "relative-type--1": "قبلی شنبه",
             "relative-type-0": "این شنبه",
-            "relative-type-1": "بعدی شنبه"
+            "relative-type-1": "بعدی شنبه",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Saturdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Saturdays"
+            }
           },
           "dayperiod": {
             "displayName": "صواحی/ظُر"
           },
           "hour": {
             "displayName": "ساعِت",
+            "relative-type-0": "this hour",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "{0} ساعِت دله"
             },
@@ -315,6 +445,7 @@
           },
           "hour-short": {
             "displayName": "ساعت",
+            "relative-type-0": "this hour",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "{0} ساعت دله"
             },
@@ -324,6 +455,7 @@
           },
           "hour-narrow": {
             "displayName": "ساعت",
+            "relative-type-0": "this hour",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "{0} ساعت دله"
             },
@@ -333,6 +465,7 @@
           },
           "minute": {
             "displayName": "دقیقه",
+            "relative-type-0": "this minute",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "{0} دقیقه دله"
             },
@@ -342,6 +475,7 @@
           },
           "minute-short": {
             "displayName": "دَقه",
+            "relative-type-0": "this minute",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "{0} دَقه دله"
             },
@@ -351,6 +485,7 @@
           },
           "minute-narrow": {
             "displayName": "دَقه",
+            "relative-type-0": "this minute",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "{0} دَقه دله"
             },

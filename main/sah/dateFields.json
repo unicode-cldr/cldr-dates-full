@@ -3,8 +3,8 @@
     "sah": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12307 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12787 $",
+          "_cldrVersion": "30"
         },
         "language": "sah"
       },
@@ -15,9 +15,9 @@
           },
           "year": {
             "displayName": "Сыл",
-            "relative-type--1": "ааспыт сыл",
-            "relative-type-0": "бу сыл",
-            "relative-type-1": "кэлэр сыл",
+            "relative-type--1": "Былырыын",
+            "relative-type-0": "быйыл",
+            "relative-type-1": "эһиил",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "{0} сылынан"
             },
@@ -27,9 +27,9 @@
           },
           "year-short": {
             "displayName": "Сыл",
-            "relative-type--1": "ааспыт сыл",
-            "relative-type-0": "бу сыл",
-            "relative-type-1": "кэлэр сыл",
+            "relative-type--1": "Былырыын",
+            "relative-type-0": "быйыл",
+            "relative-type-1": "эһиил",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "{0} сылынан"
             },
@@ -39,9 +39,9 @@
           },
           "year-narrow": {
             "displayName": "Сыл",
-            "relative-type--1": "ааспыт сыл",
-            "relative-type-0": "бу сыл",
-            "relative-type-1": "кэлэр сыл",
+            "relative-type--1": "Былырыын",
+            "relative-type-0": "быйыл",
+            "relative-type-1": "эһиил",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "{0} сылынан"
             },
@@ -51,38 +51,38 @@
           },
           "quarter": {
             "displayName": "Чиэппэр",
-            "relative-type--1": "last quarter",
-            "relative-type-0": "this quarter",
-            "relative-type-1": "next quarter",
+            "relative-type--1": "ааспыт кыбаартал",
+            "relative-type-0": "бу кыбаартал",
+            "relative-type-1": "кэлэр кыбаартал",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Q"
+              "relativeTimePattern-count-other": "{0} кыбаарталынан"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Q"
+              "relativeTimePattern-count-other": "{0} кыбаартал анараа өттүгэр"
             }
           },
           "quarter-short": {
             "displayName": "чпр.",
-            "relative-type--1": "last quarter",
-            "relative-type-0": "this quarter",
-            "relative-type-1": "next quarter",
+            "relative-type--1": "ааспыт кыбаартал",
+            "relative-type-0": "бу кыбаартал",
+            "relative-type-1": "кэлэр кыбаартал",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Q"
+              "relativeTimePattern-count-other": "{0} кыбаарталынан"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Q"
+              "relativeTimePattern-count-other": "{0} кыб. анараа өттүгэр"
             }
           },
           "quarter-narrow": {
             "displayName": "чпр.",
-            "relative-type--1": "last quarter",
-            "relative-type-0": "this quarter",
-            "relative-type-1": "next quarter",
+            "relative-type--1": "ааспыт кыбаартал",
+            "relative-type-0": "бу кыбаартал",
+            "relative-type-1": "кэлэр кыбаартал",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Q"
+              "relativeTimePattern-count-other": "{0} кыбаарталынан"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Q"
+              "relativeTimePattern-count-other": "{0} кыб. анараа өттүгэр"
             }
           },
           "month": {
@@ -130,8 +130,9 @@
               "relativeTimePattern-count-other": "{0} нэдиэлэннэн"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "{0} нэдиэлэ ынараа өттүгэр"
-            }
+              "relativeTimePattern-count-other": "{0} нэдиэлэ анараа өттүгэр"
+            },
+            "relativePeriod": "the week of {0}"
           },
           "week-short": {
             "displayName": "Нэдиэлэ",
@@ -142,8 +143,9 @@
               "relativeTimePattern-count-other": "{0} нэдиэлэннэн"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "{0} нэдиэлэ ынараа өттүгэр"
-            }
+              "relativeTimePattern-count-other": "{0} нэдиэлэ анараа өттүгэр"
+            },
+            "relativePeriod": "the week of {0}"
           },
           "week-narrow": {
             "displayName": "Нэдиэлэ",
@@ -154,8 +156,9 @@
               "relativeTimePattern-count-other": "{0} нэдиэлэннэн"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "{0} нэдиэлэ ынараа өттүгэр"
-            }
+              "relativeTimePattern-count-other": "{0} нэдиэлэ анараа өттүгэр"
+            },
+            "relativePeriod": "the week of {0}"
           },
           "day": {
             "displayName": "Күн",
@@ -203,115 +206,242 @@
             "displayName": "Нэдиэлэ күнэ"
           },
           "sun": {
-            "relative-type--1": "last Sunday",
-            "relative-type-0": "this Sunday",
-            "relative-type-1": "next Sunday"
+            "relative-type--1": "ааспыт баскыһыанньа",
+            "relative-type-0": "бу баскыһыанньа",
+            "relative-type-1": "кэлэр баскыһыанньа",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "{0} баскыһыанньанан"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} баскыһыанньа анараа өттүгэр"
+            }
           },
           "sun-short": {
-            "relative-type--1": "last Sunday",
-            "relative-type-0": "this Sunday",
-            "relative-type-1": "next Sunday"
+            "relative-type--1": "ааспыт бс.",
+            "relative-type-0": "бу бс.",
+            "relative-type-1": "кэлэр бс.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "{0} баскыһыанньанан"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} баскыһыанньа анараа өттүгэр"
+            }
           },
           "sun-narrow": {
-            "relative-type--1": "last Sunday",
-            "relative-type-0": "this Sunday",
-            "relative-type-1": "next Sunday"
+            "relative-type--1": "ааспыт бс.",
+            "relative-type-0": "бу бс.",
+            "relative-type-1": "кэлэр бс.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "{0} баскыһыанньанан"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} баскыһыанньа анараа өттүгэр"
+            }
           },
           "mon": {
-            "relative-type--1": "last Monday",
-            "relative-type-0": "this Monday",
-            "relative-type-1": "next Monday"
+            "relative-type--1": "ааспыт бэнидиэнньик",
+            "relative-type-0": "бу бэнидиэнньик",
+            "relative-type-1": "кэлэр бэнидиэнньик",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Mondays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Mondays"
+            }
           },
           "mon-short": {
-            "relative-type--1": "last Monday",
-            "relative-type-0": "this Monday",
-            "relative-type-1": "next Monday"
+            "relative-type--1": "ааспыт бн.",
+            "relative-type-0": "бу бн.",
+            "relative-type-1": "кэлэр бн.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Mondays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Mondays"
+            }
           },
           "mon-narrow": {
-            "relative-type--1": "last Monday",
-            "relative-type-0": "this Monday",
-            "relative-type-1": "next Monday"
+            "relative-type--1": "ааспыт бн.",
+            "relative-type-0": "бу бн.",
+            "relative-type-1": "кэлэр бн.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Mondays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Mondays"
+            }
           },
           "tue": {
-            "relative-type--1": "last Tuesday",
-            "relative-type-0": "this Tuesday",
-            "relative-type-1": "next Tuesday"
+            "relative-type--1": "ааспыт оптуорунньук",
+            "relative-type-0": "бу оптуорунньук",
+            "relative-type-1": "кэлэр оптуорунньук",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "{0} оптуорунньугунан"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} оптуорунньук анараа өттүгэр"
+            }
           },
           "tue-short": {
-            "relative-type--1": "last Tuesday",
-            "relative-type-0": "this Tuesday",
-            "relative-type-1": "next Tuesday"
+            "relative-type--1": "ааспыт оп.",
+            "relative-type-0": "бу оп.",
+            "relative-type-1": "кэлэр оп.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "{0} оптуорунньугунан"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} оп. анараа өттүгэр"
+            }
           },
           "tue-narrow": {
-            "relative-type--1": "last Tuesday",
-            "relative-type-0": "this Tuesday",
-            "relative-type-1": "next Tuesday"
+            "relative-type--1": "ааспыт оп.",
+            "relative-type-0": "бу оп.",
+            "relative-type-1": "кэлэр оп.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "{0} оптуорунньугунан"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} оп. анараа өттүгэр"
+            }
           },
           "wed": {
-            "relative-type--1": "last Wednesday",
-            "relative-type-0": "this Wednesday",
-            "relative-type-1": "next Wednesday"
+            "relative-type--1": "ааспыт сэрэдэ",
+            "relative-type-0": "бу сэрэдэ",
+            "relative-type-1": "кэлэр сэрэдэ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "{0} сэрэдэнэн"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} сэрэдэ анараа өттүгэр"
+            }
           },
           "wed-short": {
-            "relative-type--1": "last Wednesday",
-            "relative-type-0": "this Wednesday",
-            "relative-type-1": "next Wednesday"
+            "relative-type--1": "ааспыт сэ.",
+            "relative-type-0": "бу сэ.",
+            "relative-type-1": "кэлэр сэ.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "{0} сэрэдэнэн"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} сэрэдэ анараа өттүгэр"
+            }
           },
           "wed-narrow": {
-            "relative-type--1": "last Wednesday",
-            "relative-type-0": "this Wednesday",
-            "relative-type-1": "next Wednesday"
+            "relative-type--1": "ааспыт сэ.",
+            "relative-type-0": "бу сэ.",
+            "relative-type-1": "кэлэр сэ.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "{0} сэрэдэнэн"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} сэрэдэ анараа өттүгэр"
+            }
           },
           "thu": {
-            "relative-type--1": "last Thursday",
-            "relative-type-0": "this Thursday",
-            "relative-type-1": "next Thursday"
+            "relative-type--1": "ааспыт чэппиэр",
+            "relative-type-0": "бу чэппиэр",
+            "relative-type-1": "кэлэр чэппиэр",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "{0} чэппиэринэн"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} чэппиэр анараа өттүгэр"
+            }
           },
           "thu-short": {
-            "relative-type--1": "last Thursday",
-            "relative-type-0": "this Thursday",
-            "relative-type-1": "next Thursday"
+            "relative-type--1": "ааспыт чп.",
+            "relative-type-0": "бу чп.",
+            "relative-type-1": "кэлэр чп.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "{0} чэппиэринэн"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} чп. анараа өттүгэр"
+            }
           },
           "thu-narrow": {
-            "relative-type--1": "last Thursday",
-            "relative-type-0": "this Thursday",
-            "relative-type-1": "next Thursday"
+            "relative-type--1": "ааспыт чп.",
+            "relative-type-0": "бу чп.",
+            "relative-type-1": "кэлэр чп.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "{0} чэппиэринэн"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} чп. анараа өттүгэр"
+            }
           },
           "fri": {
-            "relative-type--1": "last Friday",
-            "relative-type-0": "this Friday",
-            "relative-type-1": "next Friday"
+            "relative-type--1": "ааспыт бээтиҥсэ",
+            "relative-type-0": "бу бээтиҥсэ",
+            "relative-type-1": "кэлэр бээтиҥсэ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "{0} бээтиҥсэнэн"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} бээтиҥсэ анараа өттүгэр"
+            }
           },
           "fri-short": {
-            "relative-type--1": "last Friday",
-            "relative-type-0": "this Friday",
-            "relative-type-1": "next Friday"
+            "relative-type--1": "ааспыт бэ.",
+            "relative-type-0": "бу бэ.",
+            "relative-type-1": "кэлэр бэ.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "{0} бээтиҥсэнэн"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} бэ. анараа өттүгэр"
+            }
           },
           "fri-narrow": {
-            "relative-type--1": "last Friday",
-            "relative-type-0": "this Friday",
-            "relative-type-1": "next Friday"
+            "relative-type--1": "ааспыт бэ.",
+            "relative-type-0": "бу бэ.",
+            "relative-type-1": "кэлэр бэ.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "{0} бээтиҥсэнэн"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} бэ. анараа өттүгэр"
+            }
           },
           "sat": {
-            "relative-type--1": "last Saturday",
-            "relative-type-0": "this Saturday",
-            "relative-type-1": "next Saturday"
+            "relative-type--1": "ааспыт субуота",
+            "relative-type-0": "бу субуота",
+            "relative-type-1": "кэлэр субуота",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "{0} субуотанан"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} субуота анараа өттүгэр"
+            }
           },
           "sat-short": {
-            "relative-type--1": "last Saturday",
-            "relative-type-0": "this Saturday",
-            "relative-type-1": "next Saturday"
+            "relative-type--1": "ааспыт сб.",
+            "relative-type-0": "бу сб.",
+            "relative-type-1": "кэлэр сб.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "{0} субуотанан"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} сб. анараа өттүгэр"
+            }
           },
           "sat-narrow": {
-            "relative-type--1": "last Saturday",
-            "relative-type-0": "this Saturday",
-            "relative-type-1": "next Saturday"
+            "relative-type--1": "ааспыт сб.",
+            "relative-type-0": "бу сб.",
+            "relative-type-1": "кэлэр сб.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "{0} субуотанан"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} сб. анараа өттүгэр"
+            }
           },
           "dayperiod": {
             "displayName": "ЭИ/ЭК"
           },
           "hour": {
             "displayName": "Чаас",
+            "relative-type-0": "this hour",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "{0} чааһынан"
             },
@@ -321,6 +451,7 @@
           },
           "hour-short": {
             "displayName": "Чаас",
+            "relative-type-0": "this hour",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "{0} чааһынан"
             },
@@ -330,6 +461,7 @@
           },
           "hour-narrow": {
             "displayName": "Чаас",
+            "relative-type-0": "this hour",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "{0} чааһынан"
             },
@@ -339,6 +471,7 @@
           },
           "minute": {
             "displayName": "Мүнүүтэ",
+            "relative-type-0": "this minute",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "{0} мүнүүтэннэн"
             },
@@ -348,6 +481,7 @@
           },
           "minute-short": {
             "displayName": "Мүнүүтэ",
+            "relative-type-0": "this minute",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "{0} мүнүүтэннэн"
             },
@@ -357,6 +491,7 @@
           },
           "minute-narrow": {
             "displayName": "Мүнүүтэ",
+            "relative-type-0": "this minute",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "{0} мүнүүтэннэн"
             },
@@ -366,7 +501,7 @@
           },
           "second": {
             "displayName": "Сөкүүндэ",
-            "relative-type-0": "now",
+            "relative-type-0": "билигин",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "{0} сөкүүндэннэн"
             },
@@ -376,22 +511,22 @@
           },
           "second-short": {
             "displayName": "Сөкүүндэ",
-            "relative-type-0": "now",
+            "relative-type-0": "билигин",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "{0} сөкүүндэннэн"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "{0} сөкүүндэ ынараа өттүгэр"
+              "relativeTimePattern-count-other": "{0} сөк. анараа өттүгэр"
             }
           },
           "second-narrow": {
             "displayName": "Сөкүүндэ",
-            "relative-type-0": "now",
+            "relative-type-0": "билигин",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "{0} сөкүүндэннэн"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "{0} сөкүүндэ ынараа өттүгэр"
+              "relativeTimePattern-count-other": "{0} сөк. анараа өттүгэр"
             }
           },
           "zone": {

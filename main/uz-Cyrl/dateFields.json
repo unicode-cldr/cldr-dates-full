@@ -3,8 +3,8 @@
     "uz-Cyrl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12798 $",
+          "_cldrVersion": "30"
         },
         "language": "uz",
         "script": "Cyrl"
@@ -146,7 +146,8 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} ҳафта олдин",
               "relativeTimePattern-count-other": "{0} ҳафта олдин"
-            }
+            },
+            "relativePeriod": "the week of {0}"
           },
           "week-short": {
             "displayName": "Ҳафта",
@@ -160,7 +161,8 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} ҳафта олдин",
               "relativeTimePattern-count-other": "{0} ҳафта олдин"
-            }
+            },
+            "relativePeriod": "the week of {0}"
           },
           "week-narrow": {
             "displayName": "Ҳафта",
@@ -174,7 +176,8 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} ҳафта олдин",
               "relativeTimePattern-count-other": "{0} ҳафта олдин"
-            }
+            },
+            "relativePeriod": "the week of {0}"
           },
           "day": {
             "displayName": "Кун",
@@ -224,113 +227,240 @@
           "sun": {
             "relative-type--1": "ўтган якшанба",
             "relative-type-0": "бу якшанба",
-            "relative-type-1": "кейинги якшанба"
+            "relative-type-1": "кейинги якшанба",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Sundays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Sundays"
+            }
           },
           "sun-short": {
             "relative-type--1": "ўтган якшанба",
             "relative-type-0": "бу якшанба",
-            "relative-type-1": "кейинги якшанба"
+            "relative-type-1": "кейинги якшанба",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Sundays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Sundays"
+            }
           },
           "sun-narrow": {
             "relative-type--1": "ўтган якшанба",
             "relative-type-0": "бу якшанба",
-            "relative-type-1": "кейинги якшанба"
+            "relative-type-1": "кейинги якшанба",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Sundays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Sundays"
+            }
           },
           "mon": {
             "relative-type--1": "ўтган душанба",
             "relative-type-0": "бу душанба",
-            "relative-type-1": "кейинги душанба"
+            "relative-type-1": "кейинги душанба",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Mondays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Mondays"
+            }
           },
           "mon-short": {
             "relative-type--1": "ўтган душанба",
             "relative-type-0": "бу душанба",
-            "relative-type-1": "кейинги душанба"
+            "relative-type-1": "кейинги душанба",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Mondays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Mondays"
+            }
           },
           "mon-narrow": {
             "relative-type--1": "ўтган душанба",
             "relative-type-0": "бу душанба",
-            "relative-type-1": "кейинги душанба"
+            "relative-type-1": "кейинги душанба",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Mondays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Mondays"
+            }
           },
           "tue": {
             "relative-type--1": "ўтган сешанба",
             "relative-type-0": "бу сешанба",
-            "relative-type-1": "кейинги сешанба"
+            "relative-type-1": "кейинги сешанба",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Tuesdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Tuesdays"
+            }
           },
           "tue-short": {
             "relative-type--1": "ўтган сешанба",
             "relative-type-0": "бу сешанба",
-            "relative-type-1": "кейинги сешанба"
+            "relative-type-1": "кейинги сешанба",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Tuesdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Tuesdays"
+            }
           },
           "tue-narrow": {
             "relative-type--1": "ўтган сешанба",
             "relative-type-0": "бу сешанба",
-            "relative-type-1": "кейинги сешанба"
+            "relative-type-1": "кейинги сешанба",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Tuesdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Tuesdays"
+            }
           },
           "wed": {
             "relative-type--1": "ўтган чоршанба",
             "relative-type-0": "this Wednesday",
-            "relative-type-1": "кейинги чоршанба"
+            "relative-type-1": "кейинги чоршанба",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Wednesdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Wednesdays"
+            }
           },
           "wed-short": {
             "relative-type--1": "ўтган чоршанба",
             "relative-type-0": "this Wednesday",
-            "relative-type-1": "кейинги чоршанба"
+            "relative-type-1": "кейинги чоршанба",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Wednesdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Wednesdays"
+            }
           },
           "wed-narrow": {
             "relative-type--1": "ўтган чоршанба",
             "relative-type-0": "this Wednesday",
-            "relative-type-1": "кейинги чоршанба"
+            "relative-type-1": "кейинги чоршанба",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Wednesdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Wednesdays"
+            }
           },
           "thu": {
             "relative-type--1": "ўтган пайшанба",
             "relative-type-0": "бу пайшанба",
-            "relative-type-1": "кейинги пайшанба"
+            "relative-type-1": "кейинги пайшанба",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Thursdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Thursdays"
+            }
           },
           "thu-short": {
             "relative-type--1": "ўтган пайшанба",
             "relative-type-0": "бу пайшанба",
-            "relative-type-1": "кейинги пайшанба"
+            "relative-type-1": "кейинги пайшанба",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Thursdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Thursdays"
+            }
           },
           "thu-narrow": {
             "relative-type--1": "ўтган пайшанба",
             "relative-type-0": "бу пайшанба",
-            "relative-type-1": "кейинги пайшанба"
+            "relative-type-1": "кейинги пайшанба",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Thursdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Thursdays"
+            }
           },
           "fri": {
             "relative-type--1": "ўтган жума",
             "relative-type-0": "бу жума",
-            "relative-type-1": "кейинги жума"
+            "relative-type-1": "кейинги жума",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Fridays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Fridays"
+            }
           },
           "fri-short": {
             "relative-type--1": "ўтган жума",
             "relative-type-0": "бу жума",
-            "relative-type-1": "кейинги жума"
+            "relative-type-1": "кейинги жума",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Fridays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Fridays"
+            }
           },
           "fri-narrow": {
             "relative-type--1": "ўтган жума",
             "relative-type-0": "бу жума",
-            "relative-type-1": "кейинги жума"
+            "relative-type-1": "кейинги жума",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Fridays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Fridays"
+            }
           },
           "sat": {
             "relative-type--1": "ўтган шанба",
             "relative-type-0": "бу шанба",
-            "relative-type-1": "кейинги шанба"
+            "relative-type-1": "кейинги шанба",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Saturdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Saturdays"
+            }
           },
           "sat-short": {
             "relative-type--1": "ўтган шанба",
             "relative-type-0": "бу шанба",
-            "relative-type-1": "кейинги шанба"
+            "relative-type-1": "кейинги шанба",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Saturdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Saturdays"
+            }
           },
           "sat-narrow": {
             "relative-type--1": "ўтган шанба",
             "relative-type-0": "бу шанба",
-            "relative-type-1": "кейинги шанба"
+            "relative-type-1": "кейинги шанба",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Saturdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Saturdays"
+            }
           },
           "dayperiod": {
             "displayName": "Кун вақти"
           },
           "hour": {
             "displayName": "Соат",
+            "relative-type-0": "this hour",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} соатдан сўнг",
               "relativeTimePattern-count-other": "{0} соатдан сўнг"
@@ -342,6 +472,7 @@
           },
           "hour-short": {
             "displayName": "Соат",
+            "relative-type-0": "this hour",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} соатдан сўнг",
               "relativeTimePattern-count-other": "{0} соатдан сўнг"
@@ -353,6 +484,7 @@
           },
           "hour-narrow": {
             "displayName": "Соат",
+            "relative-type-0": "this hour",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} соатдан сўнг",
               "relativeTimePattern-count-other": "{0} соатдан сўнг"
@@ -364,6 +496,7 @@
           },
           "minute": {
             "displayName": "Дақиқа",
+            "relative-type-0": "this minute",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} дақиқадан сўнг",
               "relativeTimePattern-count-other": "{0} дақиқадан сўнг"
@@ -375,6 +508,7 @@
           },
           "minute-short": {
             "displayName": "Дақиқа",
+            "relative-type-0": "this minute",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} дақиқадан сўнг",
               "relativeTimePattern-count-other": "{0} дақиқадан сўнг"
@@ -386,6 +520,7 @@
           },
           "minute-narrow": {
             "displayName": "Дақиқа",
+            "relative-type-0": "this minute",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} дақиқадан сўнг",
               "relativeTimePattern-count-other": "{0} дақиқадан сўнг"

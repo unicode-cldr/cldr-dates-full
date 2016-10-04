@@ -3,8 +3,8 @@
     "ha-GH": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12740 $",
+          "_cldrVersion": "30"
         },
         "language": "ha",
         "territory": "GH"
@@ -105,13 +105,13 @@
             "days": {
               "format": {
                 "abbreviated": {
-                  "sun": "Lh",
-                  "mon": "Li",
-                  "tue": "Ta",
-                  "wed": "Lr",
-                  "thu": "Al",
-                  "fri": "Ju",
-                  "sat": "As"
+                  "sun": "Lah",
+                  "mon": "Lit",
+                  "tue": "Tal",
+                  "wed": "Lar",
+                  "thu": "Alh",
+                  "fri": "Jum",
+                  "sat": "Asa"
                 },
                 "narrow": {
                   "sun": "L",
@@ -143,13 +143,13 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "sun": "Lh",
-                  "mon": "Li",
-                  "tue": "Ta",
-                  "wed": "Lr",
-                  "thu": "Al",
-                  "fri": "Ju",
-                  "sat": "As"
+                  "sun": "Lah",
+                  "mon": "Lit",
+                  "tue": "Tal",
+                  "wed": "Lar",
+                  "thu": "Alh",
+                  "fri": "Jum",
+                  "sat": "Asa"
                 },
                 "narrow": {
                   "sun": "L",
@@ -273,10 +273,10 @@
               "short": "d/M/yy GGGGG"
             },
             "timeFormats": {
-              "full": "h:mm:ss a zzzz",
-              "long": "h:mm:ss a z",
-              "medium": "h:mm:ss a",
-              "short": "h:mm a"
+              "full": "HH:mm:ss zzzz",
+              "long": "HH:mm:ss z",
+              "medium": "HH:mm:ss",
+              "short": "HH:mm"
             },
             "dateTimeFormats": {
               "full": "{1} {0}",

@@ -3,8 +3,8 @@
     "fy": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12307 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12944 $",
+          "_cldrVersion": "30"
         },
         "language": "fy"
       },
@@ -113,13 +113,13 @@
                   "sat": "so"
                 },
                 "narrow": {
-                  "sun": "Z",
+                  "sun": "S",
                   "mon": "M",
-                  "tue": "D",
+                  "tue": "T",
                   "wed": "W",
-                  "thu": "D",
-                  "fri": "V",
-                  "sat": "Z"
+                  "thu": "T",
+                  "fri": "F",
+                  "sat": "S"
                 },
                 "short": {
                   "sun": "si",
@@ -151,13 +151,13 @@
                   "sat": "so"
                 },
                 "narrow": {
-                  "sun": "Z",
+                  "sun": "S",
                   "mon": "M",
-                  "tue": "D",
+                  "tue": "T",
                   "wed": "W",
-                  "thu": "D",
-                  "fri": "V",
-                  "sat": "Z"
+                  "thu": "T",
+                  "fri": "F",
+                  "sat": "S"
                 },
                 "short": {
                   "sun": "si",
@@ -194,10 +194,10 @@
                   "4": "4"
                 },
                 "wide": {
-                  "1": "1e kwartaal",
-                  "2": "2e kwartaal",
-                  "3": "3e kwartaal",
-                  "4": "4e kwartaal"
+                  "1": "1e fearnsjier",
+                  "2": "2e fearnsjier",
+                  "3": "3e fearnsjier",
+                  "4": "4e fearnsjier"
                 }
               },
               "stand-alone": {
@@ -214,10 +214,10 @@
                   "4": "4"
                 },
                 "wide": {
-                  "1": "1e kwartaal",
-                  "2": "2e kwartaal",
-                  "3": "3e kwartaal",
-                  "4": "4e kwartaal"
+                  "1": "1e fearnsjier",
+                  "2": "2e fearnsjier",
+                  "3": "3e fearnsjier",
+                  "4": "4e fearnsjier"
                 }
               }
             },
@@ -238,16 +238,16 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "am": "a.m.",
-                  "pm": "p.m."
+                  "am": "AM",
+                  "pm": "PM"
                 },
                 "narrow": {
-                  "am": "a.m.",
-                  "pm": "p.m."
+                  "am": "AM",
+                  "pm": "PM"
                 },
                 "wide": {
-                  "am": "foarmiddei",
-                  "pm": "p.m."
+                  "am": "AM",
+                  "pm": "PM"
                 }
               }
             },

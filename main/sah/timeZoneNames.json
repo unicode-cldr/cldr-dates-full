@@ -3,8 +3,8 @@
     "sah": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12307 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12787 $",
+          "_cldrVersion": "30"
         },
         "language": "sah"
       },
@@ -505,6 +505,9 @@
               "Andorra": {
                 "exemplarCity": "Andorra"
               },
+              "Astrakhan": {
+                "exemplarCity": "Аастрахан"
+              },
               "Athens": {
                 "exemplarCity": "Athens"
               },
@@ -551,16 +554,19 @@
                 "exemplarCity": "Isle of Man"
               },
               "Istanbul": {
-                "exemplarCity": "Istanbul"
+                "exemplarCity": "Стамбуул"
               },
               "Jersey": {
                 "exemplarCity": "Jersey"
               },
               "Kaliningrad": {
-                "exemplarCity": "Kaliningrad"
+                "exemplarCity": "Калининград"
               },
               "Kiev": {
                 "exemplarCity": "Kiev"
+              },
+              "Kirov": {
+                "exemplarCity": "Kirov"
               },
               "Lisbon": {
                 "exemplarCity": "Lisbon"
@@ -590,7 +596,7 @@
                 "exemplarCity": "Monaco"
               },
               "Moscow": {
-                "exemplarCity": "Moscow"
+                "exemplarCity": "Москуба"
               },
               "Oslo": {
                 "exemplarCity": "Oslo"
@@ -611,7 +617,7 @@
                 "exemplarCity": "Rome"
               },
               "Samara": {
-                "exemplarCity": "Samara"
+                "exemplarCity": "Самаара"
               },
               "San_Marino": {
                 "exemplarCity": "San Marino"
@@ -620,7 +626,7 @@
                 "exemplarCity": "Sarajevo"
               },
               "Simferopol": {
-                "exemplarCity": "Simferopol"
+                "exemplarCity": "Симферополь"
               },
               "Skopje": {
                 "exemplarCity": "Skopje"
@@ -636,6 +642,9 @@
               },
               "Tirane": {
                 "exemplarCity": "Tirane"
+              },
+              "Ulyanovsk": {
+                "exemplarCity": "Ульяновскай"
               },
               "Uzhgorod": {
                 "exemplarCity": "Uzhgorod"
@@ -831,13 +840,13 @@
                 "exemplarCity": "Aden"
               },
               "Almaty": {
-                "exemplarCity": "Almaty"
+                "exemplarCity": "Алматы"
               },
               "Amman": {
                 "exemplarCity": "Amman"
               },
               "Anadyr": {
-                "exemplarCity": "Anadyr"
+                "exemplarCity": "Анаадыр"
               },
               "Aqtau": {
                 "exemplarCity": "Aqtau"
@@ -846,19 +855,22 @@
                 "exemplarCity": "Aqtobe"
               },
               "Ashgabat": {
-                "exemplarCity": "Ashgabat"
+                "exemplarCity": "Асхабаат"
               },
               "Baghdad": {
-                "exemplarCity": "Baghdad"
+                "exemplarCity": "Багдаад"
               },
               "Bahrain": {
                 "exemplarCity": "Bahrain"
               },
               "Baku": {
-                "exemplarCity": "Baku"
+                "exemplarCity": "Бакуу"
               },
               "Bangkok": {
                 "exemplarCity": "Bangkok"
+              },
+              "Barnaul": {
+                "exemplarCity": "Барнаул"
               },
               "Beirut": {
                 "exemplarCity": "Beirut"
@@ -873,16 +885,16 @@
                 "exemplarCity": "Kolkata"
               },
               "Chita": {
-                "exemplarCity": "Chita"
+                "exemplarCity": "Читаа"
               },
               "Choibalsan": {
-                "exemplarCity": "Choibalsan"
+                "exemplarCity": "Чойбалсан"
               },
               "Colombo": {
-                "exemplarCity": "Colombo"
+                "exemplarCity": "Коломбо"
               },
               "Damascus": {
-                "exemplarCity": "Damascus"
+                "exemplarCity": "Дамаас"
               },
               "Dhaka": {
                 "exemplarCity": "Dhaka"
@@ -891,7 +903,7 @@
                 "exemplarCity": "Dili"
               },
               "Dubai": {
-                "exemplarCity": "Dubai"
+                "exemplarCity": "Дубаай"
               },
               "Dushanbe": {
                 "exemplarCity": "Dushanbe"
@@ -909,7 +921,7 @@
                 "exemplarCity": "Hovd"
               },
               "Irkutsk": {
-                "exemplarCity": "Irkutsk"
+                "exemplarCity": "Иркутскай"
               },
               "Jakarta": {
                 "exemplarCity": "Jakarta"
@@ -921,10 +933,10 @@
                 "exemplarCity": "Jerusalem"
               },
               "Kabul": {
-                "exemplarCity": "Kabul"
+                "exemplarCity": "Кабуул"
               },
               "Kamchatka": {
-                "exemplarCity": "Kamchatka"
+                "exemplarCity": "Камчаатка"
               },
               "Karachi": {
                 "exemplarCity": "Karachi"
@@ -933,10 +945,10 @@
                 "exemplarCity": "Kathmandu"
               },
               "Khandyga": {
-                "exemplarCity": "Khandyga"
+                "exemplarCity": "Хаандыга"
               },
               "Krasnoyarsk": {
-                "exemplarCity": "Krasnoyarsk"
+                "exemplarCity": "Красноярскай"
               },
               "Kuala_Lumpur": {
                 "exemplarCity": "Kuala Lumpur"
@@ -951,7 +963,7 @@
                 "exemplarCity": "Macau"
               },
               "Magadan": {
-                "exemplarCity": "Magadan"
+                "exemplarCity": "Магадаан"
               },
               "Makassar": {
                 "exemplarCity": "Makassar"
@@ -969,10 +981,10 @@
                 "exemplarCity": "Novokuznetsk"
               },
               "Novosibirsk": {
-                "exemplarCity": "Novosibirsk"
+                "exemplarCity": "Новосибирскай"
               },
               "Omsk": {
-                "exemplarCity": "Omsk"
+                "exemplarCity": "Омскай"
               },
               "Oral": {
                 "exemplarCity": "Oral"
@@ -1002,10 +1014,10 @@
                 "exemplarCity": "Ho Chi Minh"
               },
               "Sakhalin": {
-                "exemplarCity": "Sakhalin"
+                "exemplarCity": "Сахалиин"
               },
               "Samarkand": {
-                "exemplarCity": "Samarkand"
+                "exemplarCity": "Самаркаан"
               },
               "Seoul": {
                 "exemplarCity": "Seoul"
@@ -1017,7 +1029,7 @@
                 "exemplarCity": "Singapore"
               },
               "Srednekolymsk": {
-                "exemplarCity": "Srednekolymsk"
+                "exemplarCity": "Орто Халыма"
               },
               "Taipei": {
                 "exemplarCity": "Taipei"
@@ -1037,14 +1049,17 @@
               "Tokyo": {
                 "exemplarCity": "Tokyo"
               },
+              "Tomsk": {
+                "exemplarCity": "Tomsk"
+              },
               "Ulaanbaatar": {
-                "exemplarCity": "Ulaanbaatar"
+                "exemplarCity": "Улан Баатар"
               },
               "Urumqi": {
-                "exemplarCity": "Urumqi"
+                "exemplarCity": "Урумчу"
               },
               "Ust-Nera": {
-                "exemplarCity": "Ust-Nera"
+                "exemplarCity": "Уус Ньара"
               },
               "Vientiane": {
                 "exemplarCity": "Vientiane"
@@ -1053,10 +1068,10 @@
                 "exemplarCity": "Vladivostok"
               },
               "Yakutsk": {
-                "exemplarCity": "Yakutsk"
+                "exemplarCity": "Дьокуускай"
               },
               "Yekaterinburg": {
-                "exemplarCity": "Yekaterinburg"
+                "exemplarCity": "Екатеринбуур"
               },
               "Yerevan": {
                 "exemplarCity": "Yerevan"
@@ -1378,6 +1393,196 @@
               },
               "Unknown": {
                 "exemplarCity": "Биллибэт"
+              }
+            }
+          },
+          "metazone": {
+            "Arabian": {
+              "long": {
+                "generic": "Арааб кэмэ",
+                "standard": "Арааб сүрүн кэмэ",
+                "daylight": "Арааб сайыҥҥы кэмэ"
+              }
+            },
+            "Armenia": {
+              "long": {
+                "generic": "Эрмээн кэмэ",
+                "standard": "Эрмээн сүрүн кэмэ",
+                "daylight": "Эрмээн сайыҥҥы кэмэ"
+              }
+            },
+            "Australia_Central": {
+              "long": {
+                "generic": "Киин Австралия кэмэ",
+                "standard": "Киин Австралия сүрүн кэмэ",
+                "daylight": "Киин Австралия сайыҥҥы кэмэ"
+              }
+            },
+            "Australia_Eastern": {
+              "long": {
+                "generic": "Илин Австралия кэмэ",
+                "standard": "Илин Австралия сүрүн кэмэ",
+                "daylight": "Илин Австралия сайыҥҥы кэмэ"
+              }
+            },
+            "Australia_Western": {
+              "long": {
+                "generic": "Арҕаа Австралия кэмэ",
+                "standard": "Арҕаа Австралия сүрүн кэмэ",
+                "daylight": "Арҕаа Австралия сайыҥҥы кэмэ"
+              }
+            },
+            "China": {
+              "long": {
+                "generic": "Кытай кэмэ",
+                "standard": "Кытай сүрүн кэмэ",
+                "daylight": "Кытай сайыҥҥы кэмэ"
+              }
+            },
+            "Choibalsan": {
+              "long": {
+                "generic": "Чойбалсан кэмэ",
+                "standard": "Чойбалсан сүрүн кэмэ",
+                "daylight": "Чойбалсан сайыҥҥы кэмэ"
+              }
+            },
+            "Georgia": {
+              "long": {
+                "generic": "Курусуун кэмэ",
+                "standard": "Курусуун сүрүн кэмэ",
+                "daylight": "Курусуун сайыҥҥы кэмэ"
+              }
+            },
+            "India": {
+              "long": {
+                "standard": "Ииндийэ сүрүн кэмэ"
+              }
+            },
+            "Iran": {
+              "long": {
+                "generic": "Ираан кэмэ",
+                "standard": "Ираан сүрүн кэмэ",
+                "daylight": "Ыраан сайыҥҥы кэмэ"
+              }
+            },
+            "Japan": {
+              "long": {
+                "generic": "Дьоппуон кэмэ",
+                "standard": "Дьоппуон сүрүн кэмэ",
+                "daylight": "Дьоппуон сайыҥҥы кэмэ"
+              }
+            },
+            "Kazakhstan_Eastern": {
+              "long": {
+                "standard": "Илин Казахстаан кэмэ"
+              }
+            },
+            "Kazakhstan_Western": {
+              "long": {
+                "standard": "Арҕаа Казахстаан кэмэ"
+              }
+            },
+            "Korea": {
+              "long": {
+                "generic": "Кэриэй кэмэ",
+                "standard": "Кэриэй сүрүн кэмэ",
+                "daylight": "Кэриэй сайыҥҥы кэмэ"
+              }
+            },
+            "Krasnoyarsk": {
+              "long": {
+                "generic": "Красноярскай кэмэ",
+                "standard": "Красноярскай сүрүн кэмэ",
+                "daylight": "Красноярскай сайыҥҥы кэмэ"
+              }
+            },
+            "Kyrgystan": {
+              "long": {
+                "standard": "Кыргыстаан кэмэ"
+              }
+            },
+            "Magadan": {
+              "long": {
+                "generic": "Магадаан кэмэ",
+                "standard": "Магадаан сүрүн кэмэ",
+                "daylight": "Магадаан сайыҥҥы кэмэ"
+              }
+            },
+            "Mongolia": {
+              "long": {
+                "generic": "Улан Баатар кэмэ",
+                "standard": "Улан Баатар сүрүн кэмэ",
+                "daylight": "Улан Баатар сайыҥҥы кэмэ"
+              }
+            },
+            "Moscow": {
+              "long": {
+                "generic": "Москуба кэмэ",
+                "standard": "Москуба сүрүн кэмэ",
+                "daylight": "Москуба сайыҥҥы кэмэ"
+              }
+            },
+            "New_Zealand": {
+              "long": {
+                "generic": "Саҥа Зеландия кэмэ",
+                "standard": "Саҥа Сэйлэнд сүрүн кэмэ",
+                "daylight": "Саҥа Сэйлэнд сайыҥҥы кэмэ"
+              }
+            },
+            "Novosibirsk": {
+              "long": {
+                "generic": "Новосибирскай кэмэ",
+                "standard": "Новосибирскай сүрүн кэмэ",
+                "daylight": "Новосибирскай сайыҥҥы кэмэ"
+              }
+            },
+            "Omsk": {
+              "long": {
+                "generic": "Омскай кэмэ",
+                "standard": "Омскай сүрүн кэмэ",
+                "daylight": "Омскай сайыҥҥы кэмэ"
+              }
+            },
+            "Pakistan": {
+              "long": {
+                "generic": "Пакистаан кэмэ",
+                "standard": "Пакистаан сүрүн кэмэ",
+                "daylight": "Пакистаан сайыҥҥы кэмэ"
+              }
+            },
+            "Sakhalin": {
+              "long": {
+                "generic": "Сахалиин кэмэ",
+                "standard": "Сахалыын сүрүн кэмэ",
+                "daylight": "Сахалыын сайыҥҥы кэмэ"
+              }
+            },
+            "Vladivostok": {
+              "long": {
+                "generic": "Владивосток кэмэ",
+                "standard": "Быладьыбастыак сүрүн кэмэ",
+                "daylight": "Быладьыбастыак сайыҥҥы кэмэ"
+              }
+            },
+            "Volgograd": {
+              "long": {
+                "generic": "Волгоград кэмэ",
+                "standard": "Волгоград сүрүн кэмэ",
+                "daylight": "Волгоград сайыҥҥы кэмэ"
+              }
+            },
+            "Yakutsk": {
+              "long": {
+                "generic": "Дьокуускай кэмэ",
+                "standard": "Дьокуускай сүрүн кэмэ",
+                "daylight": "Дьокуускай сайыҥҥы кэмэ"
+              }
+            },
+            "Yekaterinburg": {
+              "long": {
+                "generic": "Екатеринбург кэмэ",
+                "standard": "Екатеринбуур сүрүн кэмэ",
+                "daylight": "Екатеринбуур сайыҥҥы кэмэ"
               }
             }
           }

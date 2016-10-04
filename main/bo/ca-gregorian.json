@@ -3,8 +3,8 @@
     "bo": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12307 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12740 $",
+          "_cldrVersion": "30"
         },
         "language": "bo"
       },
@@ -317,6 +317,7 @@
                 "MMMd": "MMMཚེས་d",
                 "MMMEd": "MMMཚེས་d, E",
                 "MMMMd": "MMMMའི་ཚེས་d",
+                "MMMMW": "'week' W 'of' MMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "y-MM",
@@ -328,7 +329,8 @@
                 "yMMMM": "y MMMM",
                 "yMMMMd": "སྤྱི་ལོ་y MMMMའི་ཚེས་d",
                 "yQQQ": "y QQQ",
-                "yQQQQ": "y QQQQ"
+                "yQQQQ": "y QQQQ",
+                "yw": "'week' w 'of' y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

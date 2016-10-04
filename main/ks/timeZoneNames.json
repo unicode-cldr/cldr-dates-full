@@ -3,8 +3,8 @@
     "ks": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12128 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 13006 $",
+          "_cldrVersion": "30"
         },
         "language": "ks"
       },
@@ -505,6 +505,9 @@
               "Andorra": {
                 "exemplarCity": "اَنٛڑورا"
               },
+              "Astrakhan": {
+                "exemplarCity": "Astrakhan"
+              },
               "Athens": {
                 "exemplarCity": "اٮ۪تھٕنس"
               },
@@ -564,6 +567,9 @@
               },
               "Kiev": {
                 "exemplarCity": "کیٖو"
+              },
+              "Kirov": {
+                "exemplarCity": "Kirov"
               },
               "Lisbon": {
                 "exemplarCity": "لِسبَن"
@@ -642,6 +648,9 @@
               },
               "Tirane": {
                 "exemplarCity": "ٹِرین"
+              },
+              "Ulyanovsk": {
+                "exemplarCity": "Ulyanovsk"
               },
               "Uzhgorod": {
                 "exemplarCity": "اُزگورود"
@@ -866,6 +875,9 @@
               "Bangkok": {
                 "exemplarCity": "بینگ کاک"
               },
+              "Barnaul": {
+                "exemplarCity": "Barnaul"
+              },
               "Beirut": {
                 "exemplarCity": "بیرُت"
               },
@@ -1042,6 +1054,9 @@
               },
               "Tokyo": {
                 "exemplarCity": "ٹوکیو"
+              },
+              "Tomsk": {
+                "exemplarCity": "Tomsk"
               },
               "Ulaanbaatar": {
                 "exemplarCity": "اُلانباٹَر"

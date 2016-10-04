@@ -3,8 +3,8 @@
     "sn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12128 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12798 $",
+          "_cldrVersion": "30"
         },
         "language": "sn"
       },
@@ -24,7 +24,7 @@
                   "8": "Nya",
                   "9": "Gun",
                   "10": "Gum",
-                  "11": "Mb",
+                  "11": "Mbu",
                   "12": "Zvi"
                 },
                 "narrow": {
@@ -68,7 +68,7 @@
                   "8": "Nya",
                   "9": "Gun",
                   "10": "Gum",
-                  "11": "Mb",
+                  "11": "Mbu",
                   "12": "Zvi"
                 },
                 "narrow": {
@@ -106,10 +106,10 @@
                 "abbreviated": {
                   "sun": "Svo",
                   "mon": "Muv",
-                  "tue": "Chip",
-                  "wed": "Chit",
-                  "thu": "Chin",
-                  "fri": "Chis",
+                  "tue": "Chp",
+                  "wed": "Cht",
+                  "thu": "Chn",
+                  "fri": "Chs",
                   "sat": "Mug"
                 },
                 "narrow": {
@@ -122,13 +122,13 @@
                   "sat": "M"
                 },
                 "short": {
-                  "sun": "Svo",
-                  "mon": "Muv",
-                  "tue": "Chip",
-                  "wed": "Chit",
-                  "thu": "Chin",
-                  "fri": "Chis",
-                  "sat": "Mug"
+                  "sun": "Sv",
+                  "mon": "Mu",
+                  "tue": "Cp",
+                  "wed": "Ct",
+                  "thu": "Cn",
+                  "fri": "Cs",
+                  "sat": "Mg"
                 },
                 "wide": {
                   "sun": "Svondo",
@@ -144,10 +144,10 @@
                 "abbreviated": {
                   "sun": "Svo",
                   "mon": "Muv",
-                  "tue": "Chip",
-                  "wed": "Chit",
-                  "thu": "Chin",
-                  "fri": "Chis",
+                  "tue": "Chp",
+                  "wed": "Cht",
+                  "thu": "Chn",
+                  "fri": "Chs",
                   "sat": "Mug"
                 },
                 "narrow": {
@@ -160,13 +160,13 @@
                   "sat": "M"
                 },
                 "short": {
-                  "sun": "Svo",
-                  "mon": "Muv",
-                  "tue": "Chip",
-                  "wed": "Chit",
-                  "thu": "Chin",
-                  "fri": "Chis",
-                  "sat": "Mug"
+                  "sun": "Sv",
+                  "mon": "Mu",
+                  "tue": "Cp",
+                  "wed": "Ct",
+                  "thu": "Cn",
+                  "fri": "Cs",
+                  "sat": "Mg"
                 },
                 "wide": {
                   "sun": "Svondo",
@@ -228,8 +228,8 @@
                   "pm": "PM"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "a",
+                  "pm": "p"
                 },
                 "wide": {
                   "am": "AM",
@@ -255,7 +255,7 @@
               "eraNames": {
                 "0": "Kristo asati auya",
                 "0-alt-variant": "BCE",
-                "1": "Kristo ashaya",
+                "1": "mugore ramambo vedu",
                 "1-alt-variant": "CE"
               },
               "eraAbbr": {
@@ -272,16 +272,16 @@
               }
             },
             "dateFormats": {
-              "full": "EEEE, d MMMM y",
-              "long": "d MMMM y",
-              "medium": "d MMM y",
-              "short": "dd/MM/y"
+              "full": "y MMMM d, EEEE",
+              "long": "y MMMM d",
+              "medium": "y MMM d",
+              "short": "y-MM-dd"
             },
             "timeFormats": {
-              "full": "h:mm:ss a zzzz",
-              "long": "h:mm:ss a z",
-              "medium": "h:mm:ss a",
-              "short": "h:mm a"
+              "full": "HH:mm:ss zzzz",
+              "long": "HH:mm:ss z",
+              "medium": "HH:mm:ss",
+              "short": "HH:mm"
             },
             "dateTimeFormats": {
               "full": "{1} {0}",
@@ -311,24 +311,28 @@
                 "hmv": "h:mm a v",
                 "Hmv": "HH:mm v",
                 "M": "L",
-                "Md": "M/d",
-                "MEd": "E, M/d",
+                "Md": "MM-dd",
+                "MEd": "MM-dd, E",
                 "MMM": "LLL",
                 "MMMd": "MMM d",
-                "MMMEd": "E, MMM d",
+                "MMMEd": "MMM d, E",
                 "MMMMd": "MMMM d",
                 "MMMMEd": "E, MMMM d",
+                "MMMMW": "'week' W 'of' MMM",
+                "MMMMW": "'week' W 'of' MMM",
                 "ms": "mm:ss",
                 "y": "y",
-                "yM": "M/y",
+                "yM": "y-MM",
                 "yMd": "y-MM-dd",
-                "yMEd": "E, M/d/y",
-                "yMMM": "MMM y",
+                "yMEd": "y-MM-dd, E",
+                "yMMM": "y MMM",
                 "yMMMd": "y MMM d",
-                "yMMMEd": "E, MMM d, y",
-                "yMMMM": "MMMM y",
-                "yQQQ": "QQQ y",
-                "yQQQQ": "QQQQ y"
+                "yMMMEd": "y MMM d, E",
+                "yMMMM": "y MMMM",
+                "yQQQ": "y QQQ",
+                "yQQQQ": "y QQQQ",
+                "yw": "'week' w 'of' y",
+                "yw": "'week' w 'of' y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

@@ -3,8 +3,8 @@
     "ee": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12307 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12876 $",
+          "_cldrVersion": "30"
         },
         "language": "ee"
       },
@@ -505,6 +505,9 @@
               "Andorra": {
                 "exemplarCity": "Andorra nutomegaƒoƒome"
               },
+              "Astrakhan": {
+                "exemplarCity": "Astrakhan"
+              },
               "Athens": {
                 "exemplarCity": "Atens nutomegaƒoƒome"
               },
@@ -561,6 +564,9 @@
               },
               "Kiev": {
                 "exemplarCity": "Kiev"
+              },
+              "Kirov": {
+                "exemplarCity": "Kirov"
               },
               "Lisbon": {
                 "exemplarCity": "Lisbon"
@@ -636,6 +642,9 @@
               },
               "Tirane": {
                 "exemplarCity": "Tirane nutomegaƒoƒome"
+              },
+              "Ulyanovsk": {
+                "exemplarCity": "Ulyanovsk"
               },
               "Uzhgorod": {
                 "exemplarCity": "Uzhgorod nutomegaƒoƒome"
@@ -860,6 +869,9 @@
               "Bangkok": {
                 "exemplarCity": "Bangkok nutomegaƒoƒome"
               },
+              "Barnaul": {
+                "exemplarCity": "Barnaul"
+              },
               "Beirut": {
                 "exemplarCity": "Beirut nutomegaƒoƒome"
               },
@@ -1036,6 +1048,9 @@
               },
               "Tokyo": {
                 "exemplarCity": "Tokio nutomegaƒoƒome"
+              },
+              "Tomsk": {
+                "exemplarCity": "Tomsk"
               },
               "Ulaanbaatar": {
                 "exemplarCity": "Ulaanbaatar nutomegaƒoƒome"

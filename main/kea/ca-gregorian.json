@@ -3,8 +3,8 @@
     "kea": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12307 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12746 $",
+          "_cldrVersion": "30"
         },
         "language": "kea"
       },
@@ -151,13 +151,13 @@
                   "sat": "sab"
                 },
                 "narrow": {
-                  "sun": "d",
-                  "mon": "s",
-                  "tue": "t",
-                  "wed": "k",
-                  "thu": "k",
-                  "fri": "s",
-                  "sat": "s"
+                  "sun": "D",
+                  "mon": "S",
+                  "tue": "T",
+                  "wed": "K",
+                  "thu": "K",
+                  "fri": "S",
+                  "sat": "S"
                 },
                 "short": {
                   "sun": "du",
@@ -175,7 +175,7 @@
                   "wed": "kuarta-fera",
                   "thu": "kinta-fera",
                   "fri": "sesta-fera",
-                  "sat": "sabadu"
+                  "sat": "sábadu"
                 }
               }
             },
@@ -297,19 +297,19 @@
                 "Ehms": "E, h:mm:ss a",
                 "EHms": "E, HH:mm:ss",
                 "Gy": "y G",
-                "GyMMM": "MMM 'di' y G",
-                "GyMMMd": "d 'di' MMM 'di' y G",
-                "GyMMMEd": "E, d 'di' MMM 'di' y G",
+                "GyMMM": "MMM y G",
+                "GyMMMd": "d MMM y G",
+                "GyMMMEd": "E, d MMM y G",
                 "h": "h a",
                 "H": "HH",
                 "hm": "h:mm a",
                 "Hm": "HH:mm",
                 "hms": "h:mm:ss a",
                 "Hms": "HH:mm:ss",
-                "hmsv": "h:mm:ss a v",
-                "Hmsv": "HH:mm:ss v",
-                "hmv": "h:mm a v",
-                "Hmv": "HH:mm v",
+                "hmsv": "h:mm:ss a (v)",
+                "Hmsv": "HH:mm:ss (v)",
+                "hmv": "h:mm a (v)",
+                "Hmv": "HH:mm (v)",
                 "M": "L",
                 "Md": "dd/MM",
                 "MEd": "E, dd/MM",
@@ -319,6 +319,7 @@
                 "MMMEd": "E, d MMM",
                 "MMMMd": "d 'di' MMMM",
                 "MMMMEd": "E, d 'di' MMMM",
+                "MMMMW": "'week' W 'of' MMM",
                 "mmss": "mm:ss",
                 "ms": "mm:ss",
                 "y": "y",
@@ -326,12 +327,13 @@
                 "yMd": "dd/MM/y",
                 "yMEd": "E, dd/MM/y",
                 "yMM": "MM/y",
-                "yMMM": "MMM 'di' y",
+                "yMMM": "MMM y",
                 "yMMMd": "d MMM y",
                 "yMMMEd": "E, d MMM y",
                 "yMMMM": "MMMM 'di' y",
                 "yQQQ": "QQQ y",
-                "yQQQQ": "QQQQ 'di' y"
+                "yQQQQ": "QQQQ 'di' y",
+                "yw": "'week' w 'of' y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

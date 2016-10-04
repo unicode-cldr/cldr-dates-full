@@ -3,8 +3,8 @@
     "fy": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12307 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12944 $",
+          "_cldrVersion": "30"
         },
         "language": "fy"
       },
@@ -14,18 +14,18 @@
             "months": {
               "format": {
                 "abbreviated": {
-                  "1": "jan.",
-                  "2": "feb.",
-                  "3": "mrt.",
-                  "4": "apr.",
-                  "5": "mai.",
-                  "6": "jun.",
-                  "7": "jul.",
-                  "8": "aug.",
-                  "9": "sep.",
-                  "10": "okt.",
-                  "11": "nov.",
-                  "12": "des."
+                  "1": "Jan",
+                  "2": "Feb",
+                  "3": "Mrt",
+                  "4": "Apr",
+                  "5": "Mai",
+                  "6": "Jun",
+                  "7": "Jul",
+                  "8": "Aug",
+                  "9": "Sep",
+                  "10": "Okt",
+                  "11": "Nov",
+                  "12": "Des"
                 },
                 "narrow": {
                   "1": "J",
@@ -42,34 +42,34 @@
                   "12": "D"
                 },
                 "wide": {
-                  "1": "jannewaris",
-                  "2": "febrewaris",
-                  "3": "maart",
-                  "4": "april",
-                  "5": "maaie",
-                  "6": "juny",
-                  "7": "july",
-                  "8": "augustus",
-                  "9": "septimber",
-                  "10": "oktober",
-                  "11": "novimber",
-                  "12": "desimber"
+                  "1": "Jannewaris",
+                  "2": "Febrewaris",
+                  "3": "Maart",
+                  "4": "April",
+                  "5": "Maaie",
+                  "6": "Juny",
+                  "7": "July",
+                  "8": "Augustus",
+                  "9": "Septimber",
+                  "10": "Oktober",
+                  "11": "Novimber",
+                  "12": "Desimber"
                 }
               },
               "stand-alone": {
                 "abbreviated": {
-                  "1": "jan",
-                  "2": "feb",
-                  "3": "mrt",
-                  "4": "apr",
-                  "5": "mai",
-                  "6": "jun",
-                  "7": "jul",
-                  "8": "aug",
-                  "9": "sep",
-                  "10": "okt",
-                  "11": "nov",
-                  "12": "des"
+                  "1": "Jan",
+                  "2": "Feb",
+                  "3": "Mrt",
+                  "4": "Apr",
+                  "5": "Mai",
+                  "6": "Jun",
+                  "7": "Jul",
+                  "8": "Aug",
+                  "9": "Sep",
+                  "10": "Okt",
+                  "11": "Nov",
+                  "12": "Des"
                 },
                 "narrow": {
                   "1": "J",
@@ -86,18 +86,18 @@
                   "12": "D"
                 },
                 "wide": {
-                  "1": "jannewaris",
-                  "2": "febrewaris",
-                  "3": "maart",
-                  "4": "april",
-                  "5": "maaie",
-                  "6": "juny",
-                  "7": "july",
-                  "8": "augustus",
-                  "9": "septimber",
-                  "10": "oktober",
-                  "11": "novimber",
-                  "12": "desimber"
+                  "1": "Jannewaris",
+                  "2": "Febrewaris",
+                  "3": "Maart",
+                  "4": "April",
+                  "5": "Maaie",
+                  "6": "Juny",
+                  "7": "July",
+                  "8": "Augustus",
+                  "9": "Septimber",
+                  "10": "Oktober",
+                  "11": "Novimber",
+                  "12": "Desimber"
                 }
               }
             },
@@ -113,13 +113,13 @@
                   "sat": "so"
                 },
                 "narrow": {
-                  "sun": "Z",
+                  "sun": "S",
                   "mon": "M",
-                  "tue": "D",
+                  "tue": "T",
                   "wed": "W",
-                  "thu": "D",
-                  "fri": "V",
-                  "sat": "Z"
+                  "thu": "T",
+                  "fri": "F",
+                  "sat": "S"
                 },
                 "short": {
                   "sun": "si",
@@ -151,13 +151,13 @@
                   "sat": "so"
                 },
                 "narrow": {
-                  "sun": "Z",
+                  "sun": "S",
                   "mon": "M",
-                  "tue": "D",
+                  "tue": "T",
                   "wed": "W",
-                  "thu": "D",
-                  "fri": "V",
-                  "sat": "Z"
+                  "thu": "T",
+                  "fri": "F",
+                  "sat": "S"
                 },
                 "short": {
                   "sun": "si",
@@ -194,10 +194,10 @@
                   "4": "4"
                 },
                 "wide": {
-                  "1": "1e kwartaal",
-                  "2": "2e kwartaal",
-                  "3": "3e kwartaal",
-                  "4": "4e kwartaal"
+                  "1": "1e fearnsjier",
+                  "2": "2e fearnsjier",
+                  "3": "3e fearnsjier",
+                  "4": "4e fearnsjier"
                 }
               },
               "stand-alone": {
@@ -214,10 +214,10 @@
                   "4": "4"
                 },
                 "wide": {
-                  "1": "1e kwartaal",
-                  "2": "2e kwartaal",
-                  "3": "3e kwartaal",
-                  "4": "4e kwartaal"
+                  "1": "1e fearnsjier",
+                  "2": "2e fearnsjier",
+                  "3": "3e fearnsjier",
+                  "4": "4e fearnsjier"
                 }
               }
             },
@@ -238,16 +238,16 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "am": "a.m.",
-                  "pm": "p.m."
+                  "am": "AM",
+                  "pm": "PM"
                 },
                 "narrow": {
-                  "am": "a.m.",
-                  "pm": "p.m."
+                  "am": "AM",
+                  "pm": "PM"
                 },
                 "wide": {
-                  "am": "foarmiddei",
-                  "pm": "p.m."
+                  "am": "AM",
+                  "pm": "PM"
                 }
               }
             },
@@ -284,19 +284,19 @@
               "short": "HH:mm"
             },
             "dateTimeFormats": {
-              "full": "{1} {0}",
-              "long": "{1} {0}",
+              "full": "{1} 'om' {0}",
+              "long": "{1} 'om' {0}",
               "medium": "{1} {0}",
               "short": "{1} {0}",
               "availableFormats": {
                 "d": "d",
                 "E": "ccc",
-                "Ed": "E d",
+                "Ed": "d, E",
                 "Ehm": "E h:mm a",
                 "EHm": "E HH:mm",
                 "Ehms": "E h:mm:ss a",
                 "EHms": "E HH:mm:ss",
-                "Gy": "y G",
+                "Gy": "G y",
                 "GyMMM": "MMM y G",
                 "GyMMMd": "d MMM y G",
                 "GyMMMEd": "E d MMM y G",
@@ -317,6 +317,8 @@
                 "MMMd": "d MMM",
                 "MMMEd": "E d MMM",
                 "MMMMd": "d MMMM",
+                "MMMMW": "'wike' W 'fan' MMM",
+                "MMMMW": "'wike' W 'fan' MMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "M-y",
@@ -327,7 +329,9 @@
                 "yMMMEd": "E d MMM y",
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ y",
-                "yQQQQ": "QQQQ y"
+                "yQQQQ": "QQQQ y",
+                "yw": "'wike' w 'fan' y",
+                "yw": "'wike' w 'fan' y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

@@ -3,8 +3,8 @@
     "gd": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12876 $",
+          "_cldrVersion": "30"
         },
         "language": "gd"
       },
@@ -318,6 +318,10 @@
                 "MMMd": "d MMM",
                 "MMMEd": "E, d MMM",
                 "MMMMd": "d'mh' MMMM",
+                "MMMMW": "'seachdain' W MMMM",
+                "MMMMW": "'seachdain' W MMMM",
+                "MMMMW": "'seachdain' W MMMM",
+                "MMMMW": "'seachdain' W MMMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "M/y",
@@ -329,7 +333,11 @@
                 "yMMMEd": "E, d MMM y",
                 "yMMMM": "LLLL y",
                 "yQQQ": "QQQ y",
-                "yQQQQ": "QQQQ y"
+                "yQQQQ": "QQQQ y",
+                "yw": "'seachdain' w 'dhe' y",
+                "yw": "'seachdain' w 'dhe' y",
+                "yw": "'seachdain' w 'dhe' y",
+                "yw": "'seachdain' w 'dhe' y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

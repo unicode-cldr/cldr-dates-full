@@ -3,8 +3,8 @@
     "ast": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12411 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12876 $",
+          "_cldrVersion": "30"
         },
         "language": "ast"
       },
@@ -233,7 +233,7 @@
                 },
                 "wide": {
                   "am": "de la mañana",
-                  "pm": "de la tardi"
+                  "pm": "de la tarde"
                 }
               },
               "stand-alone": {
@@ -247,28 +247,28 @@
                 },
                 "wide": {
                   "am": "mañana",
-                  "pm": "tardi"
+                  "pm": "tarde"
                 }
               }
             },
             "eras": {
               "eraNames": {
-                "0": "a.C.",
-                "0-alt-variant": "antes de nuestra Era",
+                "0": "enantes de Cristu",
+                "0-alt-variant": "enantes de la dómina común",
                 "1": "después de Cristu",
-                "1-alt-variant": "nuestra Era"
+                "1-alt-variant": "dómina común"
               },
               "eraAbbr": {
-                "0": "a.C.",
-                "0-alt-variant": "edC",
+                "0": "e.C.",
+                "0-alt-variant": "EDC",
                 "1": "d.C.",
-                "1-alt-variant": "n.E."
+                "1-alt-variant": "DC"
               },
               "eraNarrow": {
-                "0": "aC",
-                "0-alt-variant": "anE",
-                "1": "dC",
-                "1-alt-variant": "nE"
+                "0": "e.C.",
+                "0-alt-variant": "EDC",
+                "1": "d.C.",
+                "1-alt-variant": "DC"
               }
             },
             "dateFormats": {
@@ -317,6 +317,8 @@
                 "MMMd": "d MMM",
                 "MMMEd": "E, d MMM",
                 "MMMMd": "d MMMM",
+                "MMMMW": "'selmana' W 'de' MMM",
+                "MMMMW": "'selmana' W 'de' MMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "M/y",
@@ -327,7 +329,9 @@
                 "yMMMEd": "E, d MMM y",
                 "yMMMM": "LLLL 'de' y",
                 "yQQQ": "QQQ y",
-                "yQQQQ": "QQQQ y"
+                "yQQQQ": "QQQQ 'de' y",
+                "yw": "'selmana' w 'de' y",
+                "yw": "'selmana' w 'de' y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",
@@ -433,8 +437,8 @@
                   "y": "E, d MMM 'de' y – E, d MMM 'de' y"
                 },
                 "yMMMM": {
-                  "M": "LLLL – LLLL y",
-                  "y": "LLLL y – LLLL y"
+                  "M": "LLLL – LLLL 'de' y",
+                  "y": "LLLL 'de' y – LLLL 'de' y"
                 }
               }
             }

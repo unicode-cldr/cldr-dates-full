@@ -3,8 +3,8 @@
     "kea": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12307 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12746 $",
+          "_cldrVersion": "30"
         },
         "language": "kea"
       },
@@ -131,7 +131,8 @@
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-other": "a ten {0} simana"
-            }
+            },
+            "relativePeriod": "the week of {0}"
           },
           "week-short": {
             "displayName": "sim.",
@@ -143,7 +144,8 @@
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-other": "a ten {0} sim."
-            }
+            },
+            "relativePeriod": "the week of {0}"
           },
           "week-narrow": {
             "displayName": "sim.",
@@ -155,7 +157,8 @@
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-other": "a ten {0} sim."
-            }
+            },
+            "relativePeriod": "the week of {0}"
           },
           "day": {
             "displayName": "Dia",
@@ -199,113 +202,240 @@
           "sun": {
             "relative-type--1": "dumingu pasadu",
             "relative-type-0": "es dumingu li",
-            "relative-type-1": "prósimu dumingu"
+            "relative-type-1": "prósimu dumingu",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Sundays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Sundays"
+            }
           },
           "sun-short": {
             "relative-type--1": "dum. pasadu",
             "relative-type-0": "es dum. li",
-            "relative-type-1": "prósimu dum."
+            "relative-type-1": "prósimu dum.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Sundays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Sundays"
+            }
           },
           "sun-narrow": {
             "relative-type--1": "dum. pasadu",
             "relative-type-0": "es dum. li",
-            "relative-type-1": "prósimu dum."
+            "relative-type-1": "prósimu dum.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Sundays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Sundays"
+            }
           },
           "mon": {
             "relative-type--1": "sigunda-fera pasadu",
             "relative-type-0": "es sigunda-fera li",
-            "relative-type-1": "prósimu sigunda-fera"
+            "relative-type-1": "prósimu sigunda-fera",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Mondays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Mondays"
+            }
           },
           "mon-short": {
             "relative-type--1": "sig. pasadu",
             "relative-type-0": "es sig. li",
-            "relative-type-1": "prósimu sig."
+            "relative-type-1": "prósimu sig.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Mondays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Mondays"
+            }
           },
           "mon-narrow": {
             "relative-type--1": "sig. pasadu",
             "relative-type-0": "es sig. li",
-            "relative-type-1": "prósimu sig."
+            "relative-type-1": "prósimu sig.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Mondays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Mondays"
+            }
           },
           "tue": {
             "relative-type--1": "tersa-fera pasadu",
             "relative-type-0": "es tersa-fera li",
-            "relative-type-1": "prósimu tersa-fera"
+            "relative-type-1": "prósimu tersa-fera",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Tuesdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Tuesdays"
+            }
           },
           "tue-short": {
             "relative-type--1": "ter. pasadu",
             "relative-type-0": "es ter. li",
-            "relative-type-1": "prósimu ter."
+            "relative-type-1": "prósimu ter.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Tuesdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Tuesdays"
+            }
           },
           "tue-narrow": {
             "relative-type--1": "ter. pasadu",
             "relative-type-0": "es ter. li",
-            "relative-type-1": "prósimu ter."
+            "relative-type-1": "prósimu ter.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Tuesdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Tuesdays"
+            }
           },
           "wed": {
             "relative-type--1": "kuarta-fera pasadu",
             "relative-type-0": "es kuarta-fera li",
-            "relative-type-1": "prósimu kuarta-fera"
+            "relative-type-1": "prósimu kuarta-fera",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Wednesdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Wednesdays"
+            }
           },
           "wed-short": {
             "relative-type--1": "kua. pasadu",
             "relative-type-0": "es kua. li",
-            "relative-type-1": "prósimu kua."
+            "relative-type-1": "prósimu kua.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Wednesdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Wednesdays"
+            }
           },
           "wed-narrow": {
             "relative-type--1": "kua. pasadu",
             "relative-type-0": "es kua. li",
-            "relative-type-1": "prósimu kua."
+            "relative-type-1": "prósimu kua.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Wednesdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Wednesdays"
+            }
           },
           "thu": {
             "relative-type--1": "kinta-fera pasadu",
             "relative-type-0": "es kinta-fera li",
-            "relative-type-1": "prósimu kinta-fera"
+            "relative-type-1": "prósimu kinta-fera",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Thursdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Thursdays"
+            }
           },
           "thu-short": {
             "relative-type--1": "kin. pasadu",
             "relative-type-0": "es kin. li",
-            "relative-type-1": "prósimu kin."
+            "relative-type-1": "prósimu kin.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Thursdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Thursdays"
+            }
           },
           "thu-narrow": {
             "relative-type--1": "kin. pasadu",
             "relative-type-0": "es kin. li",
-            "relative-type-1": "prósimu kin."
+            "relative-type-1": "prósimu kin.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Thursdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Thursdays"
+            }
           },
           "fri": {
             "relative-type--1": "sesta-fera pasadu",
             "relative-type-0": "es sesta-fera li",
-            "relative-type-1": "prósimu sesta-fera"
+            "relative-type-1": "prósimu sesta-fera",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Fridays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Fridays"
+            }
           },
           "fri-short": {
             "relative-type--1": "ses. pasadu",
             "relative-type-0": "es ses. li",
-            "relative-type-1": "prósimu ses."
+            "relative-type-1": "prósimu ses.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Fridays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Fridays"
+            }
           },
           "fri-narrow": {
             "relative-type--1": "ses. pasadu",
             "relative-type-0": "es ses. li",
-            "relative-type-1": "prósimu ses."
+            "relative-type-1": "prósimu ses.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Fridays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Fridays"
+            }
           },
           "sat": {
             "relative-type--1": "sabadu pasadu",
             "relative-type-0": "es sabadu li",
-            "relative-type-1": "prósimu sabadu"
+            "relative-type-1": "prósimu sabadu",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Saturdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Saturdays"
+            }
           },
           "sat-short": {
             "relative-type--1": "sab. pasadu",
             "relative-type-0": "es sab. li",
-            "relative-type-1": "prósimu sab."
+            "relative-type-1": "prósimu sab.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Saturdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Saturdays"
+            }
           },
           "sat-narrow": {
             "relative-type--1": "sab. pasadu",
             "relative-type-0": "es sab. li",
-            "relative-type-1": "prósimu sab."
+            "relative-type-1": "prósimu sab.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Saturdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Saturdays"
+            }
           },
           "dayperiod": {
             "displayName": "am/pm"
           },
           "hour": {
             "displayName": "Ora",
+            "relative-type-0": "this hour",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "di li {0} ora"
             },
@@ -315,6 +445,7 @@
           },
           "hour-short": {
             "displayName": "ora",
+            "relative-type-0": "this hour",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "di li {0} ora"
             },
@@ -323,7 +454,8 @@
             }
           },
           "hour-narrow": {
-            "displayName": "ora",
+            "displayName": "h",
+            "relative-type-0": "this hour",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "di li {0} ora"
             },
@@ -333,6 +465,7 @@
           },
           "minute": {
             "displayName": "Minutu",
+            "relative-type-0": "this minute",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "di li {0} minutu"
             },
@@ -342,6 +475,7 @@
           },
           "minute-short": {
             "displayName": "min",
+            "relative-type-0": "this minute",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "di li {0} min"
             },
@@ -351,6 +485,7 @@
           },
           "minute-narrow": {
             "displayName": "m",
+            "relative-type-0": "this minute",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "di li {0} m"
             },

@@ -3,8 +3,8 @@
     "rw": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12798 $",
+          "_cldrVersion": "30"
         },
         "language": "rw"
       },
@@ -272,10 +272,10 @@
               }
             },
             "dateFormats": {
-              "full": "EEEE, y MMMM dd",
+              "full": "y MMMM d, EEEE",
               "long": "y MMMM d",
               "medium": "y MMM d",
-              "short": "yy/MM/dd"
+              "short": "y-MM-dd"
             },
             "timeFormats": {
               "full": "HH:mm:ss zzzz",
@@ -317,6 +317,7 @@
                 "MMMd": "MMM d",
                 "MMMEd": "MMM d, E",
                 "MMMMd": "MMMM d",
+                "MMMMW": "'week' W 'of' MMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "y-MM",
@@ -327,7 +328,8 @@
                 "yMMMEd": "y MMM d, E",
                 "yMMMM": "y MMMM",
                 "yQQQ": "y QQQ",
-                "yQQQQ": "y QQQQ"
+                "yQQQQ": "y QQQQ",
+                "yw": "'week' w 'of' y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

@@ -3,8 +3,8 @@
     "mg": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12128 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12740 $",
+          "_cldrVersion": "30"
         },
         "language": "mg"
       },
@@ -274,8 +274,8 @@
             "dateFormats": {
               "full": "EEEE d MMMM y",
               "long": "d MMMM y",
-              "medium": "d MMM, y",
-              "short": "d/M/y"
+              "medium": "y MMM d",
+              "short": "y-MM-dd"
             },
             "timeFormats": {
               "full": "HH:mm:ss zzzz",
@@ -320,6 +320,8 @@
                 "MMMEd": "E d MMM",
                 "MMMMd": "d MMMM",
                 "MMMMEd": "E d MMMM",
+                "MMMMW": "'week' W 'of' MMM",
+                "MMMMW": "'week' W 'of' MMM",
                 "ms": "m:ss",
                 "y": "y",
                 "yM": "M/y",
@@ -331,7 +333,9 @@
                 "yMMMEd": "E d MMM y",
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ y",
-                "yQQQQ": "QQQQ y"
+                "yQQQQ": "QQQQ y",
+                "yw": "'week' w 'of' y",
+                "yw": "'week' w 'of' y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

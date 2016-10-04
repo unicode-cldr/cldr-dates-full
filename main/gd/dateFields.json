@@ -3,8 +3,8 @@
     "gd": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12876 $",
+          "_cldrVersion": "30"
         },
         "language": "gd"
       },
@@ -194,7 +194,8 @@
               "relativeTimePattern-count-two": "{0} sheachdain air ais",
               "relativeTimePattern-count-few": "{0} seachdainean air ais",
               "relativeTimePattern-count-other": "{0} seachdain air ais"
-            }
+            },
+            "relativePeriod": "the week of {0}"
           },
           "week-short": {
             "displayName": "seachd.",
@@ -212,7 +213,8 @@
               "relativeTimePattern-count-two": "o {0} sheachd.",
               "relativeTimePattern-count-few": "o {0} seachd.",
               "relativeTimePattern-count-other": "o {0} seachd."
-            }
+            },
+            "relativePeriod": "the week of {0}"
           },
           "week-narrow": {
             "displayName": "sn.",
@@ -230,7 +232,8 @@
               "relativeTimePattern-count-two": "-{0} sn.",
               "relativeTimePattern-count-few": "-{0} sn.",
               "relativeTimePattern-count-other": "-{0} sn."
-            }
+            },
+            "relativePeriod": "the week of {0}"
           },
           "day": {
             "displayName": "latha",
@@ -301,113 +304,240 @@
           "sun": {
             "relative-type--1": "DiDòmhnaich seo chaidh",
             "relative-type-0": "DiDòmhnaich",
-            "relative-type-1": "DiDòmhnaich seo tighinn"
+            "relative-type-1": "DiDòmhnaich seo tighinn",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Sundays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Sundays"
+            }
           },
           "sun-short": {
             "relative-type--1": "DiD. sa chaidh",
             "relative-type-0": "DiD.",
-            "relative-type-1": "DiD. sa tighinn"
+            "relative-type-1": "DiD. sa tighinn",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Sundays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Sundays"
+            }
           },
           "sun-narrow": {
             "relative-type--1": "Dò. ch.",
             "relative-type-0": "Dò.",
-            "relative-type-1": "Dò. ti."
+            "relative-type-1": "Dò. ti.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Sundays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Sundays"
+            }
           },
           "mon": {
             "relative-type--1": "DiLuain seo chaidh",
             "relative-type-0": "DiLuain",
-            "relative-type-1": "DiLuain seo tighinn"
+            "relative-type-1": "DiLuain seo tighinn",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Mondays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Mondays"
+            }
           },
           "mon-short": {
             "relative-type--1": "DiL. sa chaidh",
             "relative-type-0": "DiL.",
-            "relative-type-1": "DiL. sa tighinn"
+            "relative-type-1": "DiL. sa tighinn",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Mondays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Mondays"
+            }
           },
           "mon-narrow": {
             "relative-type--1": "Lu. ch.",
             "relative-type-0": "Lu.",
-            "relative-type-1": "Lu. ti."
+            "relative-type-1": "Lu. ti.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Mondays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Mondays"
+            }
           },
           "tue": {
             "relative-type--1": "DiMàirt seo chaidh",
             "relative-type-0": "DiMàirt",
-            "relative-type-1": "DiMàirt seo tighinn"
+            "relative-type-1": "DiMàirt seo tighinn",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Tuesdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Tuesdays"
+            }
           },
           "tue-short": {
             "relative-type--1": "DiM. sa chaidh",
             "relative-type-0": "DiM.",
-            "relative-type-1": "DiM. sa tighinn"
+            "relative-type-1": "DiM. sa tighinn",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Tuesdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Tuesdays"
+            }
           },
           "tue-narrow": {
             "relative-type--1": "Mà. ch.",
             "relative-type-0": "Mà.",
-            "relative-type-1": "Mà. ti."
+            "relative-type-1": "Mà. ti.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Tuesdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Tuesdays"
+            }
           },
           "wed": {
             "relative-type--1": "DiCiadain seo chaidh",
             "relative-type-0": "DiCiadain",
-            "relative-type-1": "DiCiadain seo tighinn"
+            "relative-type-1": "DiCiadain seo tighinn",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Wednesdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Wednesdays"
+            }
           },
           "wed-short": {
             "relative-type--1": "DiC. sa chaidh",
             "relative-type-0": "DiC.",
-            "relative-type-1": "DiC. sa tighinn"
+            "relative-type-1": "DiC. sa tighinn",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Wednesdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Wednesdays"
+            }
           },
           "wed-narrow": {
             "relative-type--1": "Ci. ch.",
             "relative-type-0": "Ci.",
-            "relative-type-1": "Ci. ti."
+            "relative-type-1": "Ci. ti.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Wednesdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Wednesdays"
+            }
           },
           "thu": {
             "relative-type--1": "DiarDaoin seo chaidh",
             "relative-type-0": "DiarDaoin",
-            "relative-type-1": "DiarDaoin seo tighinn"
+            "relative-type-1": "DiarDaoin seo tighinn",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Thursdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Thursdays"
+            }
           },
           "thu-short": {
             "relative-type--1": "Dia. sa chaidh",
             "relative-type-0": "Dia.",
-            "relative-type-1": "Dia. sa tighinn"
+            "relative-type-1": "Dia. sa tighinn",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Thursdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Thursdays"
+            }
           },
           "thu-narrow": {
             "relative-type--1": "Da. ch.",
             "relative-type-0": "Da.",
-            "relative-type-1": "Da. ti."
+            "relative-type-1": "Da. ti.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Thursdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Thursdays"
+            }
           },
           "fri": {
             "relative-type--1": "DihAoine seo chaidh",
             "relative-type-0": "DihAoine",
-            "relative-type-1": "DihAoine seo tighinn"
+            "relative-type-1": "DihAoine seo tighinn",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Fridays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Fridays"
+            }
           },
           "fri-short": {
             "relative-type--1": "Dih. sa chaidh",
             "relative-type-0": "Dih.",
-            "relative-type-1": "Dih. sa tighinn"
+            "relative-type-1": "Dih. sa tighinn",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Fridays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Fridays"
+            }
           },
           "fri-narrow": {
             "relative-type--1": "hA. ch.",
             "relative-type-0": "hA.",
-            "relative-type-1": "hA. ti."
+            "relative-type-1": "hA. ti.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Fridays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Fridays"
+            }
           },
           "sat": {
             "relative-type--1": "DiSathairne seo chaidh",
             "relative-type-0": "DiSathairne",
-            "relative-type-1": "DiSathairne seo tighinn"
+            "relative-type-1": "DiSathairne seo tighinn",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Saturdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Saturdays"
+            }
           },
           "sat-short": {
             "relative-type--1": "DiS. sa chaidh",
             "relative-type-0": "DiS.",
-            "relative-type-1": "DiS. sa tighinn"
+            "relative-type-1": "DiS. sa tighinn",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Saturdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Saturdays"
+            }
           },
           "sat-narrow": {
             "relative-type--1": "Sa. ch.",
             "relative-type-0": "Sa.",
-            "relative-type-1": "Sa. ti."
+            "relative-type-1": "Sa. ti.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Saturdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Saturdays"
+            }
           },
           "dayperiod": {
             "displayName": "m/f"
           },
           "hour": {
             "displayName": "uair a thìde",
+            "relative-type-0": "this hour",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "an ceann {0} uair a thìde",
               "relativeTimePattern-count-two": "an ceann {0} uair a thìde",
@@ -423,6 +553,7 @@
           },
           "hour-short": {
             "displayName": "uair",
+            "relative-type-0": "this hour",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "an {0} uair",
               "relativeTimePattern-count-two": "an {0} uair",
@@ -438,6 +569,7 @@
           },
           "hour-narrow": {
             "displayName": "u",
+            "relative-type-0": "this hour",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "+{0} u.",
               "relativeTimePattern-count-two": "+{0} u.",
@@ -453,6 +585,7 @@
           },
           "minute": {
             "displayName": "mionaid",
+            "relative-type-0": "this minute",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "an ceann {0} mhionaid",
               "relativeTimePattern-count-two": "an ceann {0} mhionaid",
@@ -468,6 +601,7 @@
           },
           "minute-short": {
             "displayName": "mion.",
+            "relative-type-0": "this minute",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "an {0} mhion.",
               "relativeTimePattern-count-two": "an {0} mhion.",
@@ -483,6 +617,7 @@
           },
           "minute-narrow": {
             "displayName": "m",
+            "relative-type-0": "this minute",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "+{0} m",
               "relativeTimePattern-count-two": "+{0} m",

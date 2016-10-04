@@ -3,8 +3,8 @@
     "dsb": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12307 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12876 $",
+          "_cldrVersion": "30"
         },
         "language": "dsb"
       },
@@ -191,7 +191,8 @@
               "relativeTimePattern-count-two": "pśed {0} tyźenjoma",
               "relativeTimePattern-count-few": "pśed {0} tyźenjami",
               "relativeTimePattern-count-other": "pśed {0} tyźenjami"
-            }
+            },
+            "relativePeriod": "the week of {0}"
           },
           "week-short": {
             "displayName": "tyź.",
@@ -209,7 +210,8 @@
               "relativeTimePattern-count-two": "pśed {0} tyź.",
               "relativeTimePattern-count-few": "pśed {0} tyź.",
               "relativeTimePattern-count-other": "pśed {0} tyź."
-            }
+            },
+            "relativePeriod": "the week of {0}"
           },
           "week-narrow": {
             "displayName": "tyź.",
@@ -227,7 +229,8 @@
               "relativeTimePattern-count-two": "pśed {0} tyź.",
               "relativeTimePattern-count-few": "pśed {0} tyź.",
               "relativeTimePattern-count-other": "pśed {0} tyź."
-            }
+            },
+            "relativePeriod": "the week of {0}"
           },
           "day": {
             "displayName": "źeń",
@@ -289,113 +292,240 @@
           "sun": {
             "relative-type--1": "slědnu njeźelu",
             "relative-type-0": "tu njeźelu",
-            "relative-type-1": "pśiducu njeźelu"
+            "relative-type-1": "pśiducu njeźelu",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Sundays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Sundays"
+            }
           },
           "sun-short": {
             "relative-type--1": "slědnu nje.",
             "relative-type-0": "tu nje.",
-            "relative-type-1": "pśiducu nje."
+            "relative-type-1": "pśiducu nje.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Sundays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Sundays"
+            }
           },
           "sun-narrow": {
             "relative-type--1": "slědnu nj.",
             "relative-type-0": "tu nj.",
-            "relative-type-1": "pśiducu nj."
+            "relative-type-1": "pśiducu nj.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Sundays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Sundays"
+            }
           },
           "mon": {
             "relative-type--1": "slědne pónjeźele",
             "relative-type-0": "to pónjeźele",
-            "relative-type-1": "pśiduce pónjeźele"
+            "relative-type-1": "pśiduce pónjeźele",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Mondays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Mondays"
+            }
           },
           "mon-short": {
             "relative-type--1": "slědne pónj.",
             "relative-type-0": "to pónj.",
-            "relative-type-1": "pśiduce pónj."
+            "relative-type-1": "pśiduce pónj.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Mondays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Mondays"
+            }
           },
           "mon-narrow": {
             "relative-type--1": "slědne pó.",
             "relative-type-0": "to pó.",
-            "relative-type-1": "pśiduce pó."
+            "relative-type-1": "pśiduce pó.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Mondays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Mondays"
+            }
           },
           "tue": {
             "relative-type--1": "slědnu wałtoru",
             "relative-type-0": "tu wałtoru",
-            "relative-type-1": "pśiducu wałtoru"
+            "relative-type-1": "pśiducu wałtoru",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Tuesdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Tuesdays"
+            }
           },
           "tue-short": {
             "relative-type--1": "slědnu wałt.",
             "relative-type-0": "tu wałt.",
-            "relative-type-1": "pśiducu wałt."
+            "relative-type-1": "pśiducu wałt.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Tuesdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Tuesdays"
+            }
           },
           "tue-narrow": {
             "relative-type--1": "slědnu wa.",
             "relative-type-0": "tu wa.",
-            "relative-type-1": "pśiducu wa."
+            "relative-type-1": "pśiducu wa.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Tuesdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Tuesdays"
+            }
           },
           "wed": {
             "relative-type--1": "slědnu srjodu",
             "relative-type-0": "tu srjodu",
-            "relative-type-1": "pśiducu srjodu"
+            "relative-type-1": "pśiducu srjodu",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Wednesdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Wednesdays"
+            }
           },
           "wed-short": {
             "relative-type--1": "slědnu srj.",
             "relative-type-0": "tu srj.",
-            "relative-type-1": "pśiducu srj."
+            "relative-type-1": "pśiducu srj.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Wednesdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Wednesdays"
+            }
           },
           "wed-narrow": {
             "relative-type--1": "slědnu sr.",
             "relative-type-0": "tu sr.",
-            "relative-type-1": "pśiducu sr."
+            "relative-type-1": "pśiducu sr.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Wednesdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Wednesdays"
+            }
           },
           "thu": {
             "relative-type--1": "slědny stwórtk",
             "relative-type-0": "ten stwórtk",
-            "relative-type-1": "pśiducy stwórtk"
+            "relative-type-1": "pśiducy stwórtk",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Thursdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Thursdays"
+            }
           },
           "thu-short": {
             "relative-type--1": "slědny stw.",
             "relative-type-0": "ten stw.",
-            "relative-type-1": "pśiducy stw."
+            "relative-type-1": "pśiducy stw.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Thursdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Thursdays"
+            }
           },
           "thu-narrow": {
             "relative-type--1": "slědny st.",
             "relative-type-0": "ten st.",
-            "relative-type-1": "pśiducy st."
+            "relative-type-1": "pśiducy st.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Thursdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Thursdays"
+            }
           },
           "fri": {
             "relative-type--1": "slědny pětk",
             "relative-type-0": "ten pětk",
-            "relative-type-1": "pśiducy pětk"
+            "relative-type-1": "pśiducy pětk",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Fridays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Fridays"
+            }
           },
           "fri-short": {
             "relative-type--1": "slědny pět.",
             "relative-type-0": "ten pět.",
-            "relative-type-1": "pśiducy pět."
+            "relative-type-1": "pśiducy pět.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Fridays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Fridays"
+            }
           },
           "fri-narrow": {
             "relative-type--1": "slědny pě.",
             "relative-type-0": "ten pě.",
-            "relative-type-1": "pśiducy pě."
+            "relative-type-1": "pśiducy pě.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Fridays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Fridays"
+            }
           },
           "sat": {
             "relative-type--1": "slědnu sobotu",
             "relative-type-0": "tu sobotu",
-            "relative-type-1": "pśiducu sobotu"
+            "relative-type-1": "pśiducu sobotu",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Saturdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Saturdays"
+            }
           },
           "sat-short": {
             "relative-type--1": "slědnu sob.",
             "relative-type-0": "tu sob.",
-            "relative-type-1": "pśiducu sob."
+            "relative-type-1": "pśiducu sob.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Saturdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Saturdays"
+            }
           },
           "sat-narrow": {
             "relative-type--1": "slědnu so.",
             "relative-type-0": "tu so.",
-            "relative-type-1": "pśiducu so."
+            "relative-type-1": "pśiducu so.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Saturdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Saturdays"
+            }
           },
           "dayperiod": {
             "displayName": "połojca dnja"
           },
           "hour": {
             "displayName": "góźina",
+            "relative-type-0": "this hour",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "za {0} góźinu",
               "relativeTimePattern-count-two": "za {0} góźinje",
@@ -411,6 +541,7 @@
           },
           "hour-short": {
             "displayName": "góź.",
+            "relative-type-0": "this hour",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "za {0} góź.",
               "relativeTimePattern-count-two": "za {0} góź.",
@@ -426,6 +557,7 @@
           },
           "hour-narrow": {
             "displayName": "g",
+            "relative-type-0": "this hour",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "za {0} g",
               "relativeTimePattern-count-two": "za {0} g",
@@ -441,6 +573,7 @@
           },
           "minute": {
             "displayName": "minuta",
+            "relative-type-0": "this minute",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "za {0} minutu",
               "relativeTimePattern-count-two": "za {0} minuśe",
@@ -456,6 +589,7 @@
           },
           "minute-short": {
             "displayName": "min.",
+            "relative-type-0": "this minute",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "za {0} min.",
               "relativeTimePattern-count-two": "za {0} min.",
@@ -471,6 +605,7 @@
           },
           "minute-narrow": {
             "displayName": "m",
+            "relative-type-0": "this minute",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "za {0} m",
               "relativeTimePattern-count-two": "za {0} m",

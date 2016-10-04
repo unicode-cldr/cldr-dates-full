@@ -3,8 +3,8 @@
     "ast": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12411 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12876 $",
+          "_cldrVersion": "30"
         },
         "language": "ast"
       },
@@ -233,7 +233,7 @@
                 },
                 "wide": {
                   "am": "de la mañana",
-                  "pm": "de la tardi"
+                  "pm": "de la tarde"
                 }
               },
               "stand-alone": {
@@ -247,7 +247,7 @@
                 },
                 "wide": {
                   "am": "mañana",
-                  "pm": "tardi"
+                  "pm": "tarde"
                 }
               }
             },

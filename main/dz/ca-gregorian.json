@@ -3,8 +3,8 @@
     "dz": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12307 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12961 $",
+          "_cldrVersion": "30"
         },
         "language": "dz"
       },
@@ -317,6 +317,7 @@
                 "MMMd": "སྤྱི་LLL ཚེ་d",
                 "MMMEd": "E, སྤྱི་LLL ཚེ་d",
                 "MMMMd": "MMMM d",
+                "MMMMW": "'week' W 'of' MMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "y-M",
@@ -327,7 +328,8 @@
                 "yMMMEd": "གཟའ་E, ལོy ཟླ་MMM ཚེ་d",
                 "yMMMM": "y MMMM",
                 "yQQQ": "y QQQ",
-                "yQQQQ": "y QQQQ"
+                "yQQQQ": "y QQQQ",
+                "yw": "'week' w 'of' y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

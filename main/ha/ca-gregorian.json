@@ -3,8 +3,8 @@
     "ha": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12128 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12740 $",
+          "_cldrVersion": "30"
         },
         "language": "ha"
       },
@@ -104,13 +104,13 @@
             "days": {
               "format": {
                 "abbreviated": {
-                  "sun": "Lh",
-                  "mon": "Li",
-                  "tue": "Ta",
-                  "wed": "Lr",
-                  "thu": "Al",
-                  "fri": "Ju",
-                  "sat": "As"
+                  "sun": "Lah",
+                  "mon": "Lit",
+                  "tue": "Tal",
+                  "wed": "Lar",
+                  "thu": "Alh",
+                  "fri": "Jum",
+                  "sat": "Asa"
                 },
                 "narrow": {
                   "sun": "L",
@@ -142,13 +142,13 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "sun": "Lh",
-                  "mon": "Li",
-                  "tue": "Ta",
-                  "wed": "Lr",
-                  "thu": "Al",
-                  "fri": "Ju",
-                  "sat": "As"
+                  "sun": "Lah",
+                  "mon": "Lit",
+                  "tue": "Tal",
+                  "wed": "Lar",
+                  "thu": "Alh",
+                  "fri": "Jum",
+                  "sat": "Asa"
                 },
                 "narrow": {
                   "sun": "L",
@@ -278,10 +278,10 @@
               "short": "d/M/yy"
             },
             "timeFormats": {
-              "full": "h:mm:ss a zzzz",
-              "long": "h:mm:ss a z",
-              "medium": "h:mm:ss a",
-              "short": "h:mm a"
+              "full": "HH:mm:ss zzzz",
+              "long": "HH:mm:ss z",
+              "medium": "HH:mm:ss",
+              "short": "HH:mm"
             },
             "dateTimeFormats": {
               "full": "{1} {0}",
@@ -291,7 +291,7 @@
               "availableFormats": {
                 "d": "d",
                 "E": "ccc",
-                "Ed": "d, E",
+                "Ed": "E, d",
                 "Ehm": "E h:mm a",
                 "EHm": "E HH:mm",
                 "Ehms": "E h:mm:ss a",
@@ -318,17 +318,19 @@
                 "MMMEd": "E, MMM d",
                 "MMMMd": "MMMM d",
                 "MMMMEd": "E, MMMM d",
+                "MMMMW": "'week' W 'of' MMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "M/y",
                 "yMd": "y-MM-dd",
                 "yMEd": "E, M/d/y",
                 "yMMM": "MMM y",
-                "yMMMd": "y MMM d",
-                "yMMMEd": "E, MMM d, y",
+                "yMMMd": "d MMM, y",
+                "yMMMEd": "y MMM d, E",
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ y",
-                "yQQQQ": "QQQQ y"
+                "yQQQQ": "QQQQ y",
+                "yw": "'week' w 'of' y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",
@@ -388,7 +390,7 @@
                   "M": "MM-dd – MM-dd"
                 },
                 "MEd": {
-                  "d": "MM-dd, E – MM-dd, E",
+                  "d": "E, dd/M – E, dd/M",
                   "M": "MM-dd, E – MM-dd, E"
                 },
                 "MMM": {
@@ -406,12 +408,12 @@
                   "y": "y–y"
                 },
                 "yM": {
-                  "M": "y-MM – y-MM",
-                  "y": "y-MM – y-MM"
+                  "M": "MM/y – MM/y",
+                  "y": "MM/y – MM/y"
                 },
                 "yMd": {
-                  "d": "y-MM-dd – y-MM-dd",
-                  "M": "y-MM-dd – y-MM-dd",
+                  "d": "dd/MM/y – dd/MM/y",
+                  "M": "dd/MM/y – dd/MM/y",
                   "y": "y-MM-dd – y-MM-dd"
                 },
                 "yMEd": {

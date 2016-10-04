@@ -3,8 +3,8 @@
     "qu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12307 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12798 $",
+          "_cldrVersion": "30"
         },
         "language": "qu"
       },
@@ -273,8 +273,8 @@
             },
             "dateFormats": {
               "full": "EEEE, d MMMM, y",
-              "long": "y MMMM d",
-              "medium": "y MMM d",
+              "long": "d MMMM y",
+              "medium": "d MMM y",
               "short": "dd/MM/y"
             },
             "timeFormats": {
@@ -285,7 +285,7 @@
             },
             "dateTimeFormats": {
               "full": "{1} {0}",
-              "long": "{1} {0}",
+              "long": "{0} {1}",
               "medium": "{1} {0}",
               "short": "{1} {0}",
               "availableFormats": {
@@ -317,17 +317,19 @@
                 "MMMd": "MMM d",
                 "MMMEd": "MMM d, E",
                 "MMMMd": "MMMM d",
+                "MMMMW": "W 'semana' MMM 'killapa'",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "y-MM",
                 "yMd": "dd-MM-y",
-                "yMEd": "y-MM-dd, E",
+                "yMEd": "E, dd-MM-y",
                 "yMMM": "y MMM",
                 "yMMMd": "y MMM d",
                 "yMMMEd": "E, d MMM, y",
                 "yMMMM": "y MMMM",
                 "yQQQ": "y QQQ",
-                "yQQQQ": "y QQQQ"
+                "yQQQQ": "y QQQQ",
+                "yw": "w 'semana' y 'watapa'"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

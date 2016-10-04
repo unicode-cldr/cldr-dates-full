@@ -3,8 +3,8 @@
     "ug": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12313 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12876 $",
+          "_cldrVersion": "30"
         },
         "language": "ug"
       },
@@ -145,7 +145,8 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} ھەپتە ئىلگىرى",
               "relativeTimePattern-count-other": "{0} ھەپتە ئىلگىرى"
-            }
+            },
+            "relativePeriod": "the week of {0}"
           },
           "week-short": {
             "displayName": "ھەپتە",
@@ -159,7 +160,8 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} ھەپتە ئىلگىرى",
               "relativeTimePattern-count-other": "{0} ھەپتە ئىلگىرى"
-            }
+            },
+            "relativePeriod": "the week of {0}"
           },
           "week-narrow": {
             "displayName": "ھەپتە",
@@ -173,7 +175,8 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} ھەپتە ئىلگىرى",
               "relativeTimePattern-count-other": "{0} ھەپتە ئىلگىرى"
-            }
+            },
+            "relativePeriod": "the week of {0}"
           },
           "day": {
             "displayName": "كۈن",
@@ -223,113 +226,240 @@
           "sun": {
             "relative-type--1": "ئۆتكەن يەكشەنبە",
             "relative-type-0": "بۇ يەكشەنبە",
-            "relative-type-1": "كېلەر يەكشەنبە"
+            "relative-type-1": "كېلەر يەكشەنبە",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Sundays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Sundays"
+            }
           },
           "sun-short": {
             "relative-type--1": "ئۆتكەن يەكشەنبە",
             "relative-type-0": "بۇ يەكشەنبە",
-            "relative-type-1": "كېلەر يەكشەنبە"
+            "relative-type-1": "كېلەر يەكشەنبە",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Sundays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Sundays"
+            }
           },
           "sun-narrow": {
             "relative-type--1": "ئۆتكەن يەكشەنبە",
             "relative-type-0": "بۇ يەكشەنبە",
-            "relative-type-1": "كېلەر يەكشەنبە"
+            "relative-type-1": "كېلەر يەكشەنبە",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Sundays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Sundays"
+            }
           },
           "mon": {
             "relative-type--1": "ئۆتكەن دۈشەنبە",
             "relative-type-0": "بۇ دۈشەنبە",
-            "relative-type-1": "كېلەر دۈشەنبە"
+            "relative-type-1": "كېلەر دۈشەنبە",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Mondays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Mondays"
+            }
           },
           "mon-short": {
             "relative-type--1": "ئۆتكەن دۈشەنبە",
             "relative-type-0": "بۇ دۈشەنبە",
-            "relative-type-1": "كېلەر دۈشەنبە"
+            "relative-type-1": "كېلەر دۈشەنبە",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Mondays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Mondays"
+            }
           },
           "mon-narrow": {
             "relative-type--1": "ئۆتكەن دۈشەنبە",
             "relative-type-0": "بۇ دۈشەنبە",
-            "relative-type-1": "كېلەر دۈشەنبە"
+            "relative-type-1": "كېلەر دۈشەنبە",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Mondays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Mondays"
+            }
           },
           "tue": {
             "relative-type--1": "ئۆتكەن سەيشەنبە",
             "relative-type-0": "بۇ سەيشەنبە",
-            "relative-type-1": "كېلەر سەيشەنبە"
+            "relative-type-1": "كېلەر سەيشەنبە",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Tuesdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Tuesdays"
+            }
           },
           "tue-short": {
             "relative-type--1": "ئۆتكەن سەيشەنبە",
             "relative-type-0": "بۇ سەيشەنبە",
-            "relative-type-1": "كېلەر سەيشەنبە"
+            "relative-type-1": "كېلەر سەيشەنبە",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Tuesdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Tuesdays"
+            }
           },
           "tue-narrow": {
             "relative-type--1": "ئۆتكەن سەيشەنبە",
             "relative-type-0": "بۇ سەيشەنبە",
-            "relative-type-1": "كېلەر سەيشەنبە"
+            "relative-type-1": "كېلەر سەيشەنبە",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Tuesdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Tuesdays"
+            }
           },
           "wed": {
             "relative-type--1": "ئۆتكەن چارشەنبە",
             "relative-type-0": "بۇ چارشەنبە",
-            "relative-type-1": "كېلەر چارشەنبە"
+            "relative-type-1": "كېلەر چارشەنبە",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Wednesdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Wednesdays"
+            }
           },
           "wed-short": {
             "relative-type--1": "ئۆتكەن چارشەنبە",
             "relative-type-0": "بۇ چارشەنبە",
-            "relative-type-1": "كېلەر چارشەنبە"
+            "relative-type-1": "كېلەر چارشەنبە",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Wednesdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Wednesdays"
+            }
           },
           "wed-narrow": {
             "relative-type--1": "ئۆتكەن چارشەنبە",
             "relative-type-0": "بۇ چارشەنبە",
-            "relative-type-1": "كېلەر چارشەنبە"
+            "relative-type-1": "كېلەر چارشەنبە",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Wednesdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Wednesdays"
+            }
           },
           "thu": {
             "relative-type--1": "ئۆتكەن پەيشەنبە",
             "relative-type-0": "بۇ پەيشەنبە",
-            "relative-type-1": "كېلەر پەيشەنبە"
+            "relative-type-1": "كېلەر پەيشەنبە",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Thursdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Thursdays"
+            }
           },
           "thu-short": {
             "relative-type--1": "ئۆتكەن پەيشەنبە",
             "relative-type-0": "بۇ پەيشەنبە",
-            "relative-type-1": "كېلەر پەيشەنبە"
+            "relative-type-1": "كېلەر پەيشەنبە",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Thursdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Thursdays"
+            }
           },
           "thu-narrow": {
             "relative-type--1": "ئۆتكەن پەيشەنبە",
             "relative-type-0": "بۇ پەيشەنبە",
-            "relative-type-1": "كېلەر پەيشەنبە"
+            "relative-type-1": "كېلەر پەيشەنبە",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Thursdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Thursdays"
+            }
           },
           "fri": {
             "relative-type--1": "ئۆتكەن جۈمە",
             "relative-type-0": "بۇ جۈمە",
-            "relative-type-1": "كېلەر جۈمە"
+            "relative-type-1": "كېلەر جۈمە",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Fridays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Fridays"
+            }
           },
           "fri-short": {
             "relative-type--1": "ئۆتكەن جۈمە",
             "relative-type-0": "بۇ جۈمە",
-            "relative-type-1": "كېلەر جۈمە"
+            "relative-type-1": "كېلەر جۈمە",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Fridays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Fridays"
+            }
           },
           "fri-narrow": {
             "relative-type--1": "ئۆتكەن جۈمە",
             "relative-type-0": "بۇ جۈمە",
-            "relative-type-1": "كېلەر جۈمە"
+            "relative-type-1": "كېلەر جۈمە",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Fridays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Fridays"
+            }
           },
           "sat": {
             "relative-type--1": "ئۆتكەن شەنبە",
             "relative-type-0": "بۇ شەنبە",
-            "relative-type-1": "كېلەر شەنبە"
+            "relative-type-1": "كېلەر شەنبە",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Saturdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Saturdays"
+            }
           },
           "sat-short": {
             "relative-type--1": "ئۆتكەن شەنبە",
             "relative-type-0": "بۇ شەنبە",
-            "relative-type-1": "كېلەر شەنبە"
+            "relative-type-1": "كېلەر شەنبە",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Saturdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Saturdays"
+            }
           },
           "sat-narrow": {
             "relative-type--1": "ئۆتكەن شەنبە",
             "relative-type-0": "بۇ شەنبە",
-            "relative-type-1": "كېلەر شەنبە"
+            "relative-type-1": "كېلەر شەنبە",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Saturdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Saturdays"
+            }
           },
           "dayperiod": {
             "displayName": "چۈشتىن بۇرۇن/چۈشتىن كېيىن"
           },
           "hour": {
             "displayName": "سائەت",
+            "relative-type-0": "this hour",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} سائەتتىن كېيىن",
               "relativeTimePattern-count-other": "{0} سائەتتىن كېيىن"
@@ -341,6 +471,7 @@
           },
           "hour-short": {
             "displayName": "سائەت",
+            "relative-type-0": "this hour",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} سائەتتىن كېيىن",
               "relativeTimePattern-count-other": "{0} سائەتتىن كېيىن"
@@ -352,6 +483,7 @@
           },
           "hour-narrow": {
             "displayName": "سائەت",
+            "relative-type-0": "this hour",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} سائەتتىن كېيىن",
               "relativeTimePattern-count-other": "{0} سائەتتىن كېيىن"
@@ -363,6 +495,7 @@
           },
           "minute": {
             "displayName": "مىنۇت",
+            "relative-type-0": "this minute",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} مىنۇتتىن كېيىن",
               "relativeTimePattern-count-other": "{0} مىنۇتتىن كېيىن"
@@ -374,6 +507,7 @@
           },
           "minute-short": {
             "displayName": "مىنۇت",
+            "relative-type-0": "this minute",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} مىنۇتتىن كېيىن",
               "relativeTimePattern-count-other": "{0} مىنۇتتىن كېيىن"
@@ -385,6 +519,7 @@
           },
           "minute-narrow": {
             "displayName": "مىنۇت",
+            "relative-type-0": "this minute",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} مىنۇتتىن كېيىن",
               "relativeTimePattern-count-other": "{0} مىنۇتتىن كېيىن"

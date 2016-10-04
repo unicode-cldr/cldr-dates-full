@@ -3,8 +3,8 @@
     "os-RU": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12147 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12740 $",
+          "_cldrVersion": "30"
         },
         "language": "os",
         "territory": "RU"
@@ -318,6 +318,7 @@
                 "MMMd": "d MMM",
                 "MMMEd": "ccc, d MMM",
                 "MMMMd": "MMMM d",
+                "MMMMW": "'week' W 'of' MMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "MM.y",
@@ -328,7 +329,8 @@
                 "yMMMEd": "E, d MMM y",
                 "yMMMM": "y MMMM",
                 "yQQQ": "y-'ӕм' 'азы' QQQ",
-                "yQQQQ": "y-'ӕм' 'азы' QQQQ"
+                "yQQQQ": "y-'ӕм' 'азы' QQQQ",
+                "yw": "'week' w 'of' y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

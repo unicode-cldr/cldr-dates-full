@@ -3,8 +3,8 @@
     "ha-NE": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12799 $",
+          "_cldrVersion": "30"
         },
         "language": "ha",
         "territory": "NE"
@@ -105,13 +105,13 @@
             "days": {
               "format": {
                 "abbreviated": {
-                  "sun": "Lh",
-                  "mon": "Li",
-                  "tue": "Ta",
-                  "wed": "Lr",
-                  "thu": "Al",
-                  "fri": "Ju",
-                  "sat": "As"
+                  "sun": "Lah",
+                  "mon": "Lit",
+                  "tue": "Tal",
+                  "wed": "Lar",
+                  "thu": "Alh",
+                  "fri": "Jum",
+                  "sat": "Asa"
                 },
                 "narrow": {
                   "sun": "L",
@@ -143,13 +143,13 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "sun": "Lh",
-                  "mon": "Li",
-                  "tue": "Ta",
-                  "wed": "Lr",
-                  "thu": "Al",
-                  "fri": "Ju",
-                  "sat": "As"
+                  "sun": "Lah",
+                  "mon": "Lit",
+                  "tue": "Tal",
+                  "wed": "Lar",
+                  "thu": "Alh",
+                  "fri": "Jum",
+                  "sat": "Asa"
                 },
                 "narrow": {
                   "sun": "L",

@@ -3,8 +3,8 @@
     "om": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12307 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12798 $",
+          "_cldrVersion": "30"
         },
         "language": "om"
       },
@@ -194,10 +194,10 @@
                   "4": "4"
                 },
                 "wide": {
-                  "1": "Q1",
-                  "2": "Q2",
-                  "3": "Q3",
-                  "4": "Q4"
+                  "1": "Kurmaana 1",
+                  "2": "Kurmaana 2",
+                  "3": "Kurmaana 3",
+                  "4": "Kurmaana 4"
                 }
               },
               "stand-alone": {
@@ -214,10 +214,10 @@
                   "4": "4"
                 },
                 "wide": {
-                  "1": "Q1",
-                  "2": "Q2",
-                  "3": "Q3",
-                  "4": "Q4"
+                  "1": "Kurmaana 1",
+                  "2": "Kurmaana 2",
+                  "3": "Kurmaana 3",
+                  "4": "Kurmaana 4"
                 }
               }
             },

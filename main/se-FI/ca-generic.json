@@ -3,8 +3,8 @@
     "se-FI": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12778 $",
+          "_cldrVersion": "30"
         },
         "language": "se",
         "territory": "FI"
@@ -115,8 +115,8 @@
                 },
                 "narrow": {
                   "sun": "S",
-                  "mon": "V",
-                  "tue": "M",
+                  "mon": "M",
+                  "tue": "D",
                   "wed": "G",
                   "thu": "D",
                   "fri": "B",
@@ -133,12 +133,12 @@
                 },
                 "wide": {
                   "sun": "sotnabeaivi",
-                  "mon": "vuossárga",
-                  "tue": "maŋŋebárga",
-                  "wed": "gaskavahkku",
-                  "thu": "duorasdat",
-                  "fri": "bearjadat",
-                  "sat": "lávvardat"
+                  "mon": "vuossárgga",
+                  "tue": "maŋŋebárgga",
+                  "wed": "gaskavahku",
+                  "thu": "duorastaga",
+                  "fri": "bearjadaga",
+                  "sat": "lávvardaga"
                 }
               },
               "stand-alone": {
@@ -153,8 +153,8 @@
                 },
                 "narrow": {
                   "sun": "S",
-                  "mon": "V",
-                  "tue": "M",
+                  "mon": "M",
+                  "tue": "D",
                   "wed": "G",
                   "thu": "D",
                   "fri": "B",

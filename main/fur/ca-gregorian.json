@@ -3,8 +3,8 @@
     "fur": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12307 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12876 $",
+          "_cldrVersion": "30"
         },
         "language": "fur"
       },
@@ -319,6 +319,7 @@
                 "MMMEd": "E d MMM",
                 "MMMMd": "d 'di' MMMM",
                 "MMMMEd": "E d MMMM",
+                "MMMMW": "'week' W 'of' MMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "M/y",
@@ -329,7 +330,8 @@
                 "yMMMEd": "E d MMM y",
                 "yMMMM": "LLLL 'dal' y",
                 "yQQQ": "QQQ y",
-                "yQQQQ": "QQQQ y"
+                "yQQQQ": "QQQQ y",
+                "yw": "'week' w 'of' y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

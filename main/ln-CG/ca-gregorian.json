@@ -3,8 +3,8 @@
     "ln-CG": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12740 $",
+          "_cldrVersion": "30"
         },
         "language": "ln",
         "territory": "CG"
@@ -318,6 +318,7 @@
                 "MMMd": "d MMM",
                 "MMMEd": "E d MMM",
                 "MMMMd": "MMMM d",
+                "MMMMW": "'week' W 'of' MMM",
                 "ms": "m:ss",
                 "y": "y",
                 "yM": "M/y",
@@ -328,7 +329,8 @@
                 "yMMMEd": "E d MMM y",
                 "yMMMM": "y MMMM",
                 "yQQQ": "QQQ y",
-                "yQQQQ": "QQQQ y"
+                "yQQQQ": "QQQQ y",
+                "yw": "'week' w 'of' y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

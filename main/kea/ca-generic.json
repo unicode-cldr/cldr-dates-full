@@ -3,8 +3,8 @@
     "kea": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12307 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12746 $",
+          "_cldrVersion": "30"
         },
         "language": "kea"
       },
@@ -151,13 +151,13 @@
                   "sat": "sab"
                 },
                 "narrow": {
-                  "sun": "d",
-                  "mon": "s",
-                  "tue": "t",
-                  "wed": "k",
-                  "thu": "k",
-                  "fri": "s",
-                  "sat": "s"
+                  "sun": "D",
+                  "mon": "S",
+                  "tue": "T",
+                  "wed": "K",
+                  "thu": "K",
+                  "fri": "S",
+                  "sat": "S"
                 },
                 "short": {
                   "sun": "du",
@@ -175,7 +175,7 @@
                   "wed": "kuarta-fera",
                   "thu": "kinta-fera",
                   "fri": "sesta-fera",
-                  "sat": "sabadu"
+                  "sat": "sábadu"
                 }
               }
             },
@@ -329,7 +329,7 @@
                 "yyyyMMM": "MMM y G",
                 "yyyyMMMd": "d MMM y G",
                 "yyyyMMMEd": "E, d MMM y G",
-                "yyyyMMMM": "G y MMMM",
+                "yyyyMMMM": "MMMM y G",
                 "yyyyQQQ": "QQQ y G",
                 "yyyyQQQQ": "QQQQ 'di' y G"
               },

@@ -3,8 +3,8 @@
     "brx": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12307 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12876 $",
+          "_cldrVersion": "30"
         },
         "language": "brx"
       },
@@ -505,6 +505,9 @@
               "Andorra": {
                 "exemplarCity": "अंडोरा"
               },
+              "Astrakhan": {
+                "exemplarCity": "Astrakhan"
+              },
               "Athens": {
                 "exemplarCity": "एथन्स"
               },
@@ -564,6 +567,9 @@
               },
               "Kiev": {
                 "exemplarCity": "कीव"
+              },
+              "Kirov": {
+                "exemplarCity": "Kirov"
               },
               "Lisbon": {
                 "exemplarCity": "लिस्बन"
@@ -642,6 +648,9 @@
               },
               "Tirane": {
                 "exemplarCity": "टिरान"
+              },
+              "Ulyanovsk": {
+                "exemplarCity": "Ulyanovsk"
               },
               "Uzhgorod": {
                 "exemplarCity": "उज़्गोरोड्"
@@ -866,6 +875,9 @@
               "Bangkok": {
                 "exemplarCity": "बैंगकॉक"
               },
+              "Barnaul": {
+                "exemplarCity": "Barnaul"
+              },
               "Beirut": {
                 "exemplarCity": "बैरुत"
               },
@@ -1042,6 +1054,9 @@
               },
               "Tokyo": {
                 "exemplarCity": "टोक्यो"
+              },
+              "Tomsk": {
+                "exemplarCity": "Tomsk"
               },
               "Ulaanbaatar": {
                 "exemplarCity": "उलानबातर"

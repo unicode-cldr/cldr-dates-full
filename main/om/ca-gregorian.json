@@ -3,8 +3,8 @@
     "om": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12307 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12798 $",
+          "_cldrVersion": "30"
         },
         "language": "om"
       },
@@ -194,10 +194,10 @@
                   "4": "4"
                 },
                 "wide": {
-                  "1": "Q1",
-                  "2": "Q2",
-                  "3": "Q3",
-                  "4": "Q4"
+                  "1": "Kurmaana 1",
+                  "2": "Kurmaana 2",
+                  "3": "Kurmaana 3",
+                  "4": "Kurmaana 4"
                 }
               },
               "stand-alone": {
@@ -214,10 +214,10 @@
                   "4": "4"
                 },
                 "wide": {
-                  "1": "Q1",
-                  "2": "Q2",
-                  "3": "Q3",
-                  "4": "Q4"
+                  "1": "Kurmaana 1",
+                  "2": "Kurmaana 2",
+                  "3": "Kurmaana 3",
+                  "4": "Kurmaana 4"
                 }
               }
             },
@@ -253,21 +253,21 @@
             },
             "eras": {
               "eraNames": {
-                "0": "KD",
+                "0": "Dheengadda Jeesu",
                 "0-alt-variant": "BCE",
-                "1": "KB",
+                "1": "CE",
                 "1-alt-variant": "CE"
               },
               "eraAbbr": {
-                "0": "KD",
+                "0": "BCE",
                 "0-alt-variant": "BCE",
-                "1": "KB",
+                "1": "CE",
                 "1-alt-variant": "CE"
               },
               "eraNarrow": {
-                "0": "KD",
+                "0": "BCE",
                 "0-alt-variant": "BCE",
-                "1": "KB",
+                "1": "CE",
                 "1-alt-variant": "CE"
               }
             },
@@ -319,6 +319,8 @@
                 "MMMEd": "MMM d, E",
                 "MMMMd": "MMMM d",
                 "MMMMdd": "dd MMMM",
+                "MMMMW": "'week' W 'of' MMM",
+                "MMMMW": "'week' W 'of' MMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "y-MM",
@@ -330,7 +332,9 @@
                 "yMMMEd": "y MMM d, E",
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ y",
-                "yQQQQ": "y QQQQ"
+                "yQQQQ": "y QQQQ",
+                "yw": "'week' w 'of' y",
+                "yw": "'week' w 'of' y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

@@ -3,8 +3,8 @@
     "so": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12307 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12778 $",
+          "_cldrVersion": "30"
         },
         "language": "so"
       },
@@ -117,7 +117,7 @@
                   "mon": "I",
                   "tue": "T",
                   "wed": "A",
-                  "thu": "K",
+                  "thu": "Kh",
                   "fri": "J",
                   "sat": "S"
                 },
@@ -155,7 +155,7 @@
                   "mon": "I",
                   "tue": "T",
                   "wed": "A",
-                  "thu": "K",
+                  "thu": "Kh",
                   "fri": "J",
                   "sat": "S"
                 },

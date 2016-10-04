@@ -3,8 +3,8 @@
     "se-FI": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12778 $",
+          "_cldrVersion": "30"
         },
         "language": "se",
         "territory": "FI"
@@ -160,7 +160,8 @@
               "relativeTimePattern-count-one": "{0} vahku árat",
               "relativeTimePattern-count-two": "{0} vahkku árat",
               "relativeTimePattern-count-other": "{0} vahkku árat"
-            }
+            },
+            "relativePeriod": "the week of {0}"
           },
           "week-short": {
             "displayName": "vahkku",
@@ -168,15 +169,16 @@
             "relative-type-0": "this week",
             "relative-type-1": "next week",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} vahkku maŋŋilit",
+              "relativeTimePattern-count-one": "{0} vahku maŋŋilit",
               "relativeTimePattern-count-two": "{0} vahkku maŋŋilit",
               "relativeTimePattern-count-other": "{0} vahkku maŋŋilit"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} vahkku árat",
+              "relativeTimePattern-count-one": "{0} vahku árat",
               "relativeTimePattern-count-two": "{0} vahkku árat",
               "relativeTimePattern-count-other": "{0} vahkku árat"
-            }
+            },
+            "relativePeriod": "the week of {0}"
           },
           "week-narrow": {
             "displayName": "vahkku",
@@ -184,15 +186,16 @@
             "relative-type-0": "this week",
             "relative-type-1": "next week",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} vahkku maŋŋilit",
+              "relativeTimePattern-count-one": "{0} vahku maŋŋilit",
               "relativeTimePattern-count-two": "{0} vahkku maŋŋilit",
               "relativeTimePattern-count-other": "{0} vahkku maŋŋilit"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} vahkku árat",
+              "relativeTimePattern-count-one": "{0} vahku árat",
               "relativeTimePattern-count-two": "{0} vahkku árat",
               "relativeTimePattern-count-other": "{0} vahkku árat"
-            }
+            },
+            "relativePeriod": "the week of {0}"
           },
           "day": {
             "displayName": "beaivi",
@@ -220,12 +223,12 @@
             "relative-type-1": "ihttin",
             "relative-type-2": "paijeelittáá",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} jándora maŋŋilit",
-              "relativeTimePattern-count-two": "{0} jándora maŋŋilit",
+              "relativeTimePattern-count-one": "{0} jándor maŋŋilit",
+              "relativeTimePattern-count-two": "{0} jándor amaŋŋilit",
               "relativeTimePattern-count-other": "{0} jándora maŋŋilit"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} jándora árat",
+              "relativeTimePattern-count-one": "{0} jándor árat",
               "relativeTimePattern-count-two": "{0} jándora árat",
               "relativeTimePattern-count-other": "{0} jándora árat"
             }
@@ -238,12 +241,12 @@
             "relative-type-1": "ihttin",
             "relative-type-2": "paijeelittáá",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} jándora maŋŋilit",
-              "relativeTimePattern-count-two": "{0} jándora maŋŋilit",
+              "relativeTimePattern-count-one": "{0} jándor maŋŋilit",
+              "relativeTimePattern-count-two": "{0} jándor amaŋŋilit",
               "relativeTimePattern-count-other": "{0} jándora maŋŋilit"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} jándora árat",
+              "relativeTimePattern-count-one": "{0} jándor árat",
               "relativeTimePattern-count-two": "{0} jándora árat",
               "relativeTimePattern-count-other": "{0} jándora árat"
             }
@@ -254,113 +257,240 @@
           "sun": {
             "relative-type--1": "last Sunday",
             "relative-type-0": "this Sunday",
-            "relative-type-1": "next Sunday"
+            "relative-type-1": "next Sunday",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Sundays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Sundays"
+            }
           },
           "sun-short": {
             "relative-type--1": "last Sunday",
             "relative-type-0": "this Sunday",
-            "relative-type-1": "next Sunday"
+            "relative-type-1": "next Sunday",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Sundays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Sundays"
+            }
           },
           "sun-narrow": {
             "relative-type--1": "last Sunday",
             "relative-type-0": "this Sunday",
-            "relative-type-1": "next Sunday"
+            "relative-type-1": "next Sunday",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Sundays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Sundays"
+            }
           },
           "mon": {
             "relative-type--1": "last Monday",
             "relative-type-0": "this Monday",
-            "relative-type-1": "next Monday"
+            "relative-type-1": "next Monday",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Mondays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Mondays"
+            }
           },
           "mon-short": {
             "relative-type--1": "last Monday",
             "relative-type-0": "this Monday",
-            "relative-type-1": "next Monday"
+            "relative-type-1": "next Monday",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Mondays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Mondays"
+            }
           },
           "mon-narrow": {
             "relative-type--1": "last Monday",
             "relative-type-0": "this Monday",
-            "relative-type-1": "next Monday"
+            "relative-type-1": "next Monday",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Mondays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Mondays"
+            }
           },
           "tue": {
             "relative-type--1": "last Tuesday",
             "relative-type-0": "this Tuesday",
-            "relative-type-1": "next Tuesday"
+            "relative-type-1": "next Tuesday",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Tuesdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Tuesdays"
+            }
           },
           "tue-short": {
             "relative-type--1": "last Tuesday",
             "relative-type-0": "this Tuesday",
-            "relative-type-1": "next Tuesday"
+            "relative-type-1": "next Tuesday",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Tuesdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Tuesdays"
+            }
           },
           "tue-narrow": {
             "relative-type--1": "last Tuesday",
             "relative-type-0": "this Tuesday",
-            "relative-type-1": "next Tuesday"
+            "relative-type-1": "next Tuesday",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Tuesdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Tuesdays"
+            }
           },
           "wed": {
             "relative-type--1": "last Wednesday",
             "relative-type-0": "this Wednesday",
-            "relative-type-1": "next Wednesday"
+            "relative-type-1": "next Wednesday",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Wednesdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Wednesdays"
+            }
           },
           "wed-short": {
             "relative-type--1": "last Wednesday",
             "relative-type-0": "this Wednesday",
-            "relative-type-1": "next Wednesday"
+            "relative-type-1": "next Wednesday",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Wednesdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Wednesdays"
+            }
           },
           "wed-narrow": {
             "relative-type--1": "last Wednesday",
             "relative-type-0": "this Wednesday",
-            "relative-type-1": "next Wednesday"
+            "relative-type-1": "next Wednesday",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Wednesdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Wednesdays"
+            }
           },
           "thu": {
             "relative-type--1": "last Thursday",
             "relative-type-0": "this Thursday",
-            "relative-type-1": "next Thursday"
+            "relative-type-1": "next Thursday",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Thursdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Thursdays"
+            }
           },
           "thu-short": {
             "relative-type--1": "last Thursday",
             "relative-type-0": "this Thursday",
-            "relative-type-1": "next Thursday"
+            "relative-type-1": "next Thursday",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Thursdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Thursdays"
+            }
           },
           "thu-narrow": {
             "relative-type--1": "last Thursday",
             "relative-type-0": "this Thursday",
-            "relative-type-1": "next Thursday"
+            "relative-type-1": "next Thursday",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Thursdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Thursdays"
+            }
           },
           "fri": {
             "relative-type--1": "last Friday",
             "relative-type-0": "this Friday",
-            "relative-type-1": "next Friday"
+            "relative-type-1": "next Friday",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Fridays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Fridays"
+            }
           },
           "fri-short": {
             "relative-type--1": "last Friday",
             "relative-type-0": "this Friday",
-            "relative-type-1": "next Friday"
+            "relative-type-1": "next Friday",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Fridays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Fridays"
+            }
           },
           "fri-narrow": {
             "relative-type--1": "last Friday",
             "relative-type-0": "this Friday",
-            "relative-type-1": "next Friday"
+            "relative-type-1": "next Friday",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Fridays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Fridays"
+            }
           },
           "sat": {
             "relative-type--1": "last Saturday",
             "relative-type-0": "this Saturday",
-            "relative-type-1": "next Saturday"
+            "relative-type-1": "next Saturday",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Saturdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Saturdays"
+            }
           },
           "sat-short": {
             "relative-type--1": "last Saturday",
             "relative-type-0": "this Saturday",
-            "relative-type-1": "next Saturday"
+            "relative-type-1": "next Saturday",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Saturdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Saturdays"
+            }
           },
           "sat-narrow": {
             "relative-type--1": "last Saturday",
             "relative-type-0": "this Saturday",
-            "relative-type-1": "next Saturday"
+            "relative-type-1": "next Saturday",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Saturdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Saturdays"
+            }
           },
           "dayperiod": {
             "displayName": "beaivi ráidodássi"
           },
           "hour": {
             "displayName": "diibmu",
+            "relative-type-0": "this hour",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} diibmu maŋŋilit",
               "relativeTimePattern-count-two": "{0} diibmur maŋŋilit",
@@ -374,32 +504,35 @@
           },
           "hour-short": {
             "displayName": "diibmu",
+            "relative-type-0": "this hour",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} diibmur maŋŋilit",
+              "relativeTimePattern-count-one": "{0} diibmu maŋŋilit",
               "relativeTimePattern-count-two": "{0} diibmur maŋŋilit",
               "relativeTimePattern-count-other": "{0} diibmur maŋŋilit"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} diibmur árat",
+              "relativeTimePattern-count-one": "{0} diibmu árat",
               "relativeTimePattern-count-two": "{0} diibmur árat",
               "relativeTimePattern-count-other": "{0} diibmur árat"
             }
           },
           "hour-narrow": {
             "displayName": "diibmu",
+            "relative-type-0": "this hour",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} diibmur maŋŋilit",
+              "relativeTimePattern-count-one": "{0} diibmu maŋŋilit",
               "relativeTimePattern-count-two": "{0} diibmur maŋŋilit",
               "relativeTimePattern-count-other": "{0} diibmur maŋŋilit"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} diibmur árat",
+              "relativeTimePattern-count-one": "{0} diibmu árat",
               "relativeTimePattern-count-two": "{0} diibmur árat",
               "relativeTimePattern-count-other": "{0} diibmur árat"
             }
           },
           "minute": {
             "displayName": "minuhtta",
+            "relative-type-0": "this minute",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} minuhta maŋŋilit",
               "relativeTimePattern-count-two": "{0} minuhtta maŋŋilit",
@@ -413,26 +546,28 @@
           },
           "minute-short": {
             "displayName": "minuhtta",
+            "relative-type-0": "this minute",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} minuhtta maŋŋilit",
+              "relativeTimePattern-count-one": "{0} minuhta maŋŋilit",
               "relativeTimePattern-count-two": "{0} minuhtta maŋŋilit",
               "relativeTimePattern-count-other": "{0} minuhtta maŋŋilit"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} minuhtta árat",
+              "relativeTimePattern-count-one": "{0} minuhta árat",
               "relativeTimePattern-count-two": "{0} minuhtta árat",
               "relativeTimePattern-count-other": "{0} minuhtta árat"
             }
           },
           "minute-narrow": {
             "displayName": "minuhtta",
+            "relative-type-0": "this minute",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} minuhtta maŋŋilit",
+              "relativeTimePattern-count-one": "{0} minuhta maŋŋilit",
               "relativeTimePattern-count-two": "{0} minuhtta maŋŋilit",
               "relativeTimePattern-count-other": "{0} minuhtta maŋŋilit"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} minuhtta árat",
+              "relativeTimePattern-count-one": "{0} minuhta árat",
               "relativeTimePattern-count-two": "{0} minuhtta árat",
               "relativeTimePattern-count-other": "{0} minuhtta árat"
             }
@@ -455,12 +590,12 @@
             "displayName": "sekunda",
             "relative-type-0": "now",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} sekundda maŋŋilit",
+              "relativeTimePattern-count-one": "{0} sekunda maŋŋilit",
               "relativeTimePattern-count-two": "{0} sekundda maŋŋilit",
               "relativeTimePattern-count-other": "{0} sekundda maŋŋilit"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} sekundda árat",
+              "relativeTimePattern-count-one": "{0} sekunda árat",
               "relativeTimePattern-count-two": "{0} sekundda árat",
               "relativeTimePattern-count-other": "{0} sekundda árat"
             }
@@ -469,12 +604,12 @@
             "displayName": "sekunda",
             "relative-type-0": "now",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} sekundda maŋŋilit",
+              "relativeTimePattern-count-one": "{0} sekunda maŋŋilit",
               "relativeTimePattern-count-two": "{0} sekundda maŋŋilit",
               "relativeTimePattern-count-other": "{0} sekundda maŋŋilit"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} sekundda árat",
+              "relativeTimePattern-count-one": "{0} sekunda árat",
               "relativeTimePattern-count-two": "{0} sekundda árat",
               "relativeTimePattern-count-other": "{0} sekundda árat"
             }

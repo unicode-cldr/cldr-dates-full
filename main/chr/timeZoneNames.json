@@ -3,8 +3,8 @@
     "chr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12307 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12876 $",
+          "_cldrVersion": "30"
         },
         "language": "chr"
       },
@@ -12,1171 +12,1192 @@
         "timeZoneNames": {
           "hourFormat": "+HH:mm;-HH:mm",
           "gmtFormat": "GMT{0}",
-          "gmtZeroFormat": "ᎢᎢᎢ",
-          "regionFormat": "{0} ᎢᏳᏩᎪᏗ",
-          "regionFormat-type-daylight": "{0} (+1)",
-          "regionFormat-type-standard": "{0} (+0)",
+          "gmtZeroFormat": "GMT",
+          "regionFormat": "{0} ᎠᏟᎢᎵᏒ",
+          "regionFormat-type-daylight": "{0} ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏍᏒᎩ",
+          "regionFormat-type-standard": "{0} ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
           "fallbackFormat": "{1} ({0})",
           "zone": {
             "America": {
               "Adak": {
-                "exemplarCity": "Adak"
+                "exemplarCity": "ᎠᏓᎧ"
               },
               "Anchorage": {
-                "exemplarCity": "Anchorage"
+                "exemplarCity": "ᎠᏂᎪᎴᏥ"
               },
               "Anguilla": {
-                "exemplarCity": "Anguilla"
+                "exemplarCity": "ᎠᏂᎩᎳ"
               },
               "Antigua": {
-                "exemplarCity": "Antigua"
+                "exemplarCity": "ᎤᏪᏘ"
               },
               "Araguaina": {
-                "exemplarCity": "Araguaina"
+                "exemplarCity": "ᎠᎳᎫᏩᏱᎾ"
               },
               "Argentina": {
                 "Rio_Gallegos": {
-                  "exemplarCity": "Rio Gallegos"
+                  "exemplarCity": "ᎦᏰᎪᏏ ᎤᏪᏴ"
                 },
                 "San_Juan": {
-                  "exemplarCity": "San Juan"
+                  "exemplarCity": "ᏌᏂ ᏩᏂ"
                 },
                 "Ushuaia": {
-                  "exemplarCity": "Ushuaia"
+                  "exemplarCity": "ᎤᏑᏩᏯ"
                 },
                 "La_Rioja": {
-                  "exemplarCity": "La Rioja"
+                  "exemplarCity": "Ꮃ ᎵᏲᎭ"
                 },
                 "San_Luis": {
-                  "exemplarCity": "San Luis"
+                  "exemplarCity": "ᎤᏓᏅᏗ ᎷᏫᏏ"
                 },
                 "Salta": {
-                  "exemplarCity": "Salta"
+                  "exemplarCity": "ᏌᎳᏔ"
                 },
                 "Tucuman": {
-                  "exemplarCity": "Tucuman"
+                  "exemplarCity": "ᏚᎫᎹᏂ"
                 }
               },
               "Aruba": {
-                "exemplarCity": "Aruba"
+                "exemplarCity": "ᎠᎷᏆ"
               },
               "Asuncion": {
-                "exemplarCity": "Asuncion"
+                "exemplarCity": "ᎠᏑᏏᏲᏅ"
               },
               "Bahia": {
-                "exemplarCity": "Bahia"
+                "exemplarCity": "ᏆᎯᏯ"
               },
               "Bahia_Banderas": {
-                "exemplarCity": "Bahia Banderas"
+                "exemplarCity": "ᏆᎯᏯ ᏆᏂᏕᎳᏏ"
               },
               "Barbados": {
-                "exemplarCity": "Barbados"
+                "exemplarCity": "ᏆᏇᏙᏍ"
               },
               "Belem": {
-                "exemplarCity": "Belem"
+                "exemplarCity": "ᏇᎴᎻ"
               },
               "Belize": {
-                "exemplarCity": "Belize"
+                "exemplarCity": "ᏇᎵᏍ"
               },
               "Blanc-Sablon": {
-                "exemplarCity": "Blanc-Sablon"
+                "exemplarCity": "ᏝᏂ-ᏌᏠᏂ"
               },
               "Boa_Vista": {
-                "exemplarCity": "Boa Vista"
+                "exemplarCity": "ᎣᏍᏓ ᎠᎪᎵᏰᏗ"
               },
               "Bogota": {
-                "exemplarCity": "Bogota"
+                "exemplarCity": "ᏉᎪᏔ"
               },
               "Boise": {
-                "exemplarCity": "Boise"
+                "exemplarCity": "ᏉᏱᏏ"
               },
               "Buenos_Aires": {
-                "exemplarCity": "Buenos Aires"
+                "exemplarCity": "ᎣᏍᏓ ᎤᏃᎴ"
               },
               "Cambridge_Bay": {
-                "exemplarCity": "Cambridge Bay"
+                "exemplarCity": "ᎨᎻᏈᏥ ᎡᏉᏄᎸᏗ"
               },
               "Campo_Grande": {
-                "exemplarCity": "Campo Grande"
+                "exemplarCity": "ᎤᏔᎾ ᏠᎨᏏ"
               },
               "Cancun": {
-                "exemplarCity": "Cancun"
+                "exemplarCity": "ᎨᏂᎫᏂ"
               },
               "Caracas": {
-                "exemplarCity": "Caracas"
+                "exemplarCity": "ᎧᎳᎧᏏ"
               },
               "Catamarca": {
-                "exemplarCity": "Catamarca"
+                "exemplarCity": "ᎧᏔᎹᎧ"
               },
               "Cayenne": {
-                "exemplarCity": "Cayenne"
+                "exemplarCity": "ᎧᏰᏂ"
               },
               "Cayman": {
-                "exemplarCity": "Cayman"
+                "exemplarCity": "ᎨᎢᎹᏂ"
               },
               "Chicago": {
-                "exemplarCity": "Chicago"
+                "exemplarCity": "ᏥᎧᎩ"
               },
               "Chihuahua": {
-                "exemplarCity": "Chihuahua"
+                "exemplarCity": "ᏥᏩᏩ"
               },
               "Coral_Harbour": {
-                "exemplarCity": "Atikokan"
+                "exemplarCity": "ᎠᏘᎪᎦᏂ"
               },
               "Cordoba": {
-                "exemplarCity": "Cordoba"
+                "exemplarCity": "ᎪᏙᏆ"
               },
               "Costa_Rica": {
-                "exemplarCity": "Costa Rica"
+                "exemplarCity": "ᎪᏍᏓᎵᎧ"
               },
               "Creston": {
-                "exemplarCity": "Creston"
+                "exemplarCity": "ᏞᏍᏔᏂ"
               },
               "Cuiaba": {
-                "exemplarCity": "Cuiaba"
+                "exemplarCity": "ᏧᏫᏆ"
               },
               "Curacao": {
-                "exemplarCity": "Curacao"
+                "exemplarCity": "ᎫᎳᎨᎣ"
               },
               "Danmarkshavn": {
-                "exemplarCity": "Danmarkshavn"
+                "exemplarCity": "ᏕᎾᎹᎧᏌᏩᏂ"
               },
               "Dawson": {
-                "exemplarCity": "Dawson"
+                "exemplarCity": "ᏓᏌᏂ"
               },
               "Dawson_Creek": {
-                "exemplarCity": "Dawson Creek"
+                "exemplarCity": "ᏓᏌᏂ ᎤᏪᏴ"
               },
               "Denver": {
-                "exemplarCity": "Denver"
+                "exemplarCity": "ᎦᎸᎳᏗ ᎦᏚᎲ"
               },
               "Detroit": {
-                "exemplarCity": "Detroit"
+                "exemplarCity": "ᏗᏠᏘ"
               },
               "Dominica": {
-                "exemplarCity": "Dominica"
+                "exemplarCity": "ᏙᎻᏂᎧ"
               },
               "Edmonton": {
-                "exemplarCity": "Edmonton"
+                "exemplarCity": "ᎡᏗᎹᏂᏔᏂ"
               },
               "Eirunepe": {
-                "exemplarCity": "Eirunepe"
+                "exemplarCity": "ᎡᎷᏁᏇ"
               },
               "El_Salvador": {
-                "exemplarCity": "El Salvador"
+                "exemplarCity": "ᎡᎵ ᏌᎵᏆᏙᎵ"
               },
               "Fort_Nelson": {
-                "exemplarCity": "Fort Nelson"
+                "exemplarCity": "ᏗᏐᏴ ᏁᎵᏌᏂ"
               },
               "Fortaleza": {
-                "exemplarCity": "Fortaleza"
+                "exemplarCity": "ᏬᏔᎴᏎ"
               },
               "Glace_Bay": {
-                "exemplarCity": "Glace Bay"
+                "exemplarCity": "ᏞᏏ ᎡᏉᏄᎸᏗ"
               },
               "Godthab": {
-                "exemplarCity": "Nuuk"
+                "exemplarCity": "ᏄᎩ"
               },
               "Goose_Bay": {
-                "exemplarCity": "Goose Bay"
+                "exemplarCity": "ᏌᏌ ᎡᏉᏄᎸᏗ"
               },
               "Grand_Turk": {
-                "exemplarCity": "Grand Turk"
+                "exemplarCity": "ᏄᎬᏫᏳᏒ ᎬᎾ"
               },
               "Grenada": {
-                "exemplarCity": "Grenada"
+                "exemplarCity": "ᏋᎾᏓ"
               },
               "Guadeloupe": {
-                "exemplarCity": "Guadeloupe"
+                "exemplarCity": "ᏩᏓᎷᏇ"
               },
               "Guatemala": {
-                "exemplarCity": "Guatemala"
+                "exemplarCity": "ᏩᏔᎹᎳ"
               },
               "Guayaquil": {
-                "exemplarCity": "Guayaquil"
+                "exemplarCity": "ᏆᏯᎩᎵ"
               },
               "Guyana": {
-                "exemplarCity": "Guyana"
+                "exemplarCity": "ᎦᏯᎾ"
               },
               "Halifax": {
-                "exemplarCity": "Halifax"
+                "exemplarCity": "ᎭᎵᏩᎧᏏ"
               },
               "Havana": {
-                "exemplarCity": "Havana"
+                "exemplarCity": "ᎭᏩᎾ"
               },
               "Hermosillo": {
-                "exemplarCity": "Hermosillo"
+                "exemplarCity": "ᎮᎼᏏᎶ"
               },
               "Indiana": {
                 "Vincennes": {
-                  "exemplarCity": "Vincennes, Indiana"
+                  "exemplarCity": "ᏫᏂᏎᏁᏏ, ᎢᏂᏗᏰᎾ"
                 },
                 "Petersburg": {
-                  "exemplarCity": "Petersburg, Indiana"
+                  "exemplarCity": "ᏈᏓᏈᎦ, ᎢᏂᏗᏰᎾ"
                 },
                 "Tell_City": {
-                  "exemplarCity": "Tell City, Indiana"
+                  "exemplarCity": "ᏖᎵ ᎦᏚᎲ, ᎢᏂᏗᏰᎾ"
                 },
                 "Knox": {
-                  "exemplarCity": "Knox, Indiana"
+                  "exemplarCity": "ᏃᏈᏏ, ᎢᏂᏗᏰᎾ"
                 },
                 "Winamac": {
-                  "exemplarCity": "Winamac, Indiana"
+                  "exemplarCity": "ᏫᎾᎹᎩ, ᎢᏂᏗᏰᎾ"
                 },
                 "Marengo": {
-                  "exemplarCity": "Marengo, Indiana"
+                  "exemplarCity": "ᎹᎴᏂᎪ, ᎢᏂᏗᏰᎾ"
                 },
                 "Vevay": {
-                  "exemplarCity": "Vevay, Indiana"
+                  "exemplarCity": "ᏪᏪ, ᎢᏂᏗᏰᎾ"
                 }
               },
               "Indianapolis": {
-                "exemplarCity": "Indianapolis"
+                "exemplarCity": "ᎢᏂᏗᎠᏂᎠᏉᎵᏏ"
               },
               "Inuvik": {
-                "exemplarCity": "Inuvik"
+                "exemplarCity": "ᎢᏄᏫᎩ"
               },
               "Iqaluit": {
-                "exemplarCity": "Iqaluit"
+                "exemplarCity": "ᎢᏆᎷᏱᏘ"
               },
               "Jamaica": {
-                "exemplarCity": "Jamaica"
+                "exemplarCity": "ᏣᎺᎢᎧ"
               },
               "Jujuy": {
-                "exemplarCity": "Jujuy"
+                "exemplarCity": "ᏧᏧᏫ"
               },
               "Juneau": {
-                "exemplarCity": "Juneau"
+                "exemplarCity": "ᏧᏃ"
               },
               "Kentucky": {
                 "Monticello": {
-                  "exemplarCity": "Monticello, Kentucky"
+                  "exemplarCity": "ᎹᏂᏔᏎᎶ, ᎬᏅᏓᎩ"
                 }
               },
               "Kralendijk": {
-                "exemplarCity": "Kralendijk"
+                "exemplarCity": "ᏆᎴᏂᏗ"
               },
               "La_Paz": {
-                "exemplarCity": "La Paz"
+                "exemplarCity": "ᏙᎯ"
               },
               "Lima": {
-                "exemplarCity": "Lima"
+                "exemplarCity": "ᎵᎹ"
               },
               "Los_Angeles": {
-                "exemplarCity": "Los Angeles"
+                "exemplarCity": "ᎾᏍᎩ ᏗᏂᎧᎿᏩᏗᏙᎯ"
               },
               "Louisville": {
-                "exemplarCity": "Louisville"
+                "exemplarCity": "ᎷᏫᏫᎵ"
               },
               "Lower_Princes": {
-                "exemplarCity": "Lower Prince’s Quarter"
+                "exemplarCity": "ᎡᎳᏗ ᏗᏜ ᎤᎬᏫᏳᎯ ᎩᏄᏙᏗ"
               },
               "Maceio": {
-                "exemplarCity": "Maceio"
+                "exemplarCity": "ᎹᏎᏲ"
               },
               "Managua": {
-                "exemplarCity": "Managua"
+                "exemplarCity": "ᎹᎾᏆ"
               },
               "Manaus": {
-                "exemplarCity": "Manaus"
+                "exemplarCity": "ᎹᎾᎤᏏ"
               },
               "Marigot": {
-                "exemplarCity": "Marigot"
+                "exemplarCity": "ᎹᎵᎦᏘ"
               },
               "Martinique": {
-                "exemplarCity": "Martinique"
+                "exemplarCity": "ᎹᏘᏂᏇ"
               },
               "Matamoros": {
-                "exemplarCity": "Matamoros"
+                "exemplarCity": "ᎹᏔᎼᎶᏏ"
               },
               "Mazatlan": {
-                "exemplarCity": "Mazatlan"
+                "exemplarCity": "ᎹᏌᏝᏂ"
               },
               "Mendoza": {
-                "exemplarCity": "Mendoza"
+                "exemplarCity": "ᎺᎾᏙᏌ"
               },
               "Menominee": {
-                "exemplarCity": "Menominee"
+                "exemplarCity": "ᎺᏃᎻᏂ"
               },
               "Merida": {
-                "exemplarCity": "Merida"
+                "exemplarCity": "ᎺᎵᏓ"
               },
               "Metlakatla": {
-                "exemplarCity": "Metlakatla"
+                "exemplarCity": "ᎺᏝᎧᏝ"
               },
               "Mexico_City": {
-                "exemplarCity": "Mexico City"
+                "exemplarCity": "ᎠᏂᏍᏆᏂ ᎦᏚᎲ"
               },
               "Miquelon": {
-                "exemplarCity": "Miquelon"
+                "exemplarCity": "ᎻᎨᎶᏂ"
               },
               "Moncton": {
-                "exemplarCity": "Moncton"
+                "exemplarCity": "ᎹᎾᏔᏂ"
               },
               "Monterrey": {
-                "exemplarCity": "Monterrey"
+                "exemplarCity": "ᎼᏖᎵ"
               },
               "Montevideo": {
-                "exemplarCity": "Montevideo"
+                "exemplarCity": "ᎼᏂᏖᏫᏕᏲ"
               },
               "Montserrat": {
-                "exemplarCity": "Montserrat"
+                "exemplarCity": "ᎹᏂᏘᏌᎳᏗ"
               },
               "Nassau": {
-                "exemplarCity": "Nassau"
+                "exemplarCity": "ᎾᏌᏫ"
               },
               "New_York": {
-                "exemplarCity": "New York"
+                "exemplarCity": "ᏄᏯᎩ"
               },
               "Nipigon": {
-                "exemplarCity": "Nipigon"
+                "exemplarCity": "ᏂᏈᎪᏂ"
               },
               "Nome": {
-                "exemplarCity": "Nome"
+                "exemplarCity": "ᏃᎺ"
               },
               "Noronha": {
-                "exemplarCity": "Noronha"
+                "exemplarCity": "ᏃᎶᎾᎭ"
               },
               "North_Dakota": {
                 "Beulah": {
-                  "exemplarCity": "Beulah, North Dakota"
+                  "exemplarCity": "ᏇᏳᎳ, ᏧᏴᏢ ᏓᎪᏔ"
                 },
                 "New_Salem": {
-                  "exemplarCity": "New Salem, North Dakota"
+                  "exemplarCity": "ᎢᏤ ᏎᎴᎻ, ᏧᏴᏢ ᏓᎪᏔ"
                 },
                 "Center": {
-                  "exemplarCity": "Center, North Dakota"
+                  "exemplarCity": "ᎠᏰᏟ, ᏧᏴᏢ ᏓᎪᏔ"
                 }
               },
               "Ojinaga": {
-                "exemplarCity": "Ojinaga"
+                "exemplarCity": "ᎣᏥᎾᎦ"
               },
               "Panama": {
-                "exemplarCity": "Panama"
+                "exemplarCity": "ᏆᎾᎹ"
               },
               "Pangnirtung": {
-                "exemplarCity": "Pangnirtung"
+                "exemplarCity": "ᏆᏂᏂᏚᏂᎦ"
               },
               "Paramaribo": {
-                "exemplarCity": "Paramaribo"
+                "exemplarCity": "ᏆᎳᎹᎴᏉ"
               },
               "Phoenix": {
-                "exemplarCity": "Phoenix"
+                "exemplarCity": "ᏧᎴᎯᏌᏅᎯ"
               },
               "Port-au-Prince": {
-                "exemplarCity": "Port-au-Prince"
+                "exemplarCity": "ᏥᏳᏗᏔᎳᏗᏍᏗ-ᎾᎿ-ᎤᎬᏫᏳᎯ"
               },
               "Port_of_Spain": {
-                "exemplarCity": "Port of Spain"
+                "exemplarCity": "ᏥᏳᏗᏔᎳᏗᏍᏗ ᏍᏆᏂᎨᏍᏛ"
               },
               "Porto_Velho": {
-                "exemplarCity": "Porto Velho"
+                "exemplarCity": "ᎤᏪᏘ ᏥᏳᏗᏔᎳᏗᏍᏗ"
               },
               "Puerto_Rico": {
-                "exemplarCity": "Puerto Rico"
+                "exemplarCity": "ᏇᎡᏙ ᎵᎢᎪ"
               },
               "Rainy_River": {
-                "exemplarCity": "Rainy River"
+                "exemplarCity": "ᎠᎦᏍᎦ ᎤᏪᏴ"
               },
               "Rankin_Inlet": {
-                "exemplarCity": "Rankin Inlet"
+                "exemplarCity": "ᎴᏂᎩᏂ ᎢᏂᎴᏘ"
               },
               "Recife": {
-                "exemplarCity": "Recife"
+                "exemplarCity": "ᎴᏏᏪ"
               },
               "Regina": {
-                "exemplarCity": "Regina"
+                "exemplarCity": "ᎴᎩᎾ"
               },
               "Resolute": {
-                "exemplarCity": "Resolute"
+                "exemplarCity": "ᎴᏐᎷᏘ"
               },
               "Rio_Branco": {
-                "exemplarCity": "Rio Branco"
+                "exemplarCity": "ᎤᏁᎦ ᎤᏪᏴ"
               },
               "Santarem": {
-                "exemplarCity": "Santarem"
+                "exemplarCity": "ᏌᏂᏔᎴᎻ"
               },
               "Santiago": {
-                "exemplarCity": "Santiago"
+                "exemplarCity": "ᏌᏂᏘᏯᎪ"
               },
               "Santo_Domingo": {
-                "exemplarCity": "Santo Domingo"
+                "exemplarCity": "ᏌᏂᏙ ᏙᎻᎪ"
               },
               "Sao_Paulo": {
-                "exemplarCity": "Sao Paulo"
+                "exemplarCity": "ᏌᎣ ᏆᎶ"
               },
               "Scoresbysund": {
-                "exemplarCity": "Ittoqqortoormiit"
+                "exemplarCity": "ᎢᏙᎪᏙᎻᏘ"
               },
               "Sitka": {
-                "exemplarCity": "Sitka"
+                "exemplarCity": "ᏏᏘᎧ"
               },
               "St_Barthelemy": {
-                "exemplarCity": "St. Barthelemy"
+                "exemplarCity": "ᎤᏓᏅᏘ ᏆᎵᏞᎴᎻ"
               },
               "St_Johns": {
-                "exemplarCity": "St. John’s"
+                "exemplarCity": "ᎤᏓᏅᏘ ᏣᏂ ᎤᏤᎵ"
               },
               "St_Kitts": {
-                "exemplarCity": "St. Kitts"
+                "exemplarCity": "ᎤᏓᏅᏘ ᎩᏘᏏ"
               },
               "St_Lucia": {
-                "exemplarCity": "St. Lucia"
+                "exemplarCity": "ᎤᏓᏅᏘ ᎷᏏᏯ"
               },
               "St_Thomas": {
-                "exemplarCity": "St. Thomas"
+                "exemplarCity": "ᎤᏓᏅᏘ ᏙᎹᏏ"
               },
               "St_Vincent": {
-                "exemplarCity": "St. Vincent"
+                "exemplarCity": "ᎤᏓᏅᏘ ᏫᏂᏎᏘ"
               },
               "Swift_Current": {
-                "exemplarCity": "Swift Current"
+                "exemplarCity": "ᎠᏯᏄᎵ ᎤᏃᎴ"
               },
               "Tegucigalpa": {
-                "exemplarCity": "Tegucigalpa"
+                "exemplarCity": "ᏖᎫᏏᎦᎵᏆ"
               },
               "Thule": {
-                "exemplarCity": "Thule"
+                "exemplarCity": "ᏡᎵ"
               },
               "Thunder_Bay": {
-                "exemplarCity": "Thunder Bay"
+                "exemplarCity": "ᎠᏴᏓᏆᎶᏍᎦ ᎡᏉᏄᎸᏗ"
               },
               "Tijuana": {
-                "exemplarCity": "Tijuana"
+                "exemplarCity": "ᏘᏳᏩᎾ"
               },
               "Toronto": {
-                "exemplarCity": "Toronto"
+                "exemplarCity": "ᏙᎳᎾᏙ"
               },
               "Tortola": {
-                "exemplarCity": "Tortola"
+                "exemplarCity": "ᏙᏙᎳ"
               },
               "Vancouver": {
-                "exemplarCity": "Vancouver"
+                "exemplarCity": "ᏪᏂᎫᏪᎵ"
               },
               "Whitehorse": {
-                "exemplarCity": "Whitehorse"
+                "exemplarCity": "ᎤᏁᎦ ᏐᏈᎵ"
               },
               "Winnipeg": {
-                "exemplarCity": "Winnipeg"
+                "exemplarCity": "ᏫᏂᏇᎩ"
               },
               "Yakutat": {
-                "exemplarCity": "Yakutat"
+                "exemplarCity": "ᏯᎫᏔᏘ"
               },
               "Yellowknife": {
-                "exemplarCity": "Yellowknife"
+                "exemplarCity": "ᏓᎶᏂᎨ ᎭᏰᏍᏗ"
               }
             },
             "Atlantic": {
               "Azores": {
-                "exemplarCity": "Azores"
+                "exemplarCity": "ᎠᏐᎴᏏ"
               },
               "Bermuda": {
-                "exemplarCity": "Bermuda"
+                "exemplarCity": "ᏆᏊᏓ"
               },
               "Canary": {
-                "exemplarCity": "Canary"
+                "exemplarCity": "ᏥᏍᏆ"
               },
               "Cape_Verde": {
-                "exemplarCity": "Cape Verde"
+                "exemplarCity": "ᎢᎬᎾᏕᎾ ᎢᏤᏳᏍᏗ"
               },
               "Faeroe": {
-                "exemplarCity": "Faroe"
+                "exemplarCity": "ᏪᎶ"
               },
               "Madeira": {
-                "exemplarCity": "Madeira"
+                "exemplarCity": "ᎹᏕᎳ"
               },
               "Reykjavik": {
-                "exemplarCity": "Reykjavik"
+                "exemplarCity": "ᎴᏣᏫᎩ"
               },
               "South_Georgia": {
-                "exemplarCity": "South Georgia"
+                "exemplarCity": "ᏧᎦᎾᏮ ᏣᎠᏥᎢ"
               },
               "St_Helena": {
-                "exemplarCity": "St. Helena"
+                "exemplarCity": "ᎤᏓᏅᏘ ᎮᎵᎾ"
               },
               "Stanley": {
-                "exemplarCity": "Stanley"
+                "exemplarCity": "ᏍᏕᏂᎵ"
               }
             },
             "Europe": {
               "Amsterdam": {
-                "exemplarCity": "Amsterdam"
+                "exemplarCity": "ᎠᎻᏍᏕᏓᎻ"
               },
               "Andorra": {
-                "exemplarCity": "Andorra"
+                "exemplarCity": "ᎠᏂᏙᏩ"
+              },
+              "Astrakhan": {
+                "exemplarCity": "ᎠᏝᎧᏂ"
               },
               "Athens": {
-                "exemplarCity": "Athens"
+                "exemplarCity": "ᎠᏖᏂᏏ"
               },
               "Belgrade": {
-                "exemplarCity": "Belgrade"
+                "exemplarCity": "ᏇᎵᏇᏗ"
               },
               "Berlin": {
-                "exemplarCity": "Berlin"
+                "exemplarCity": "ᏇᎵᏂ"
               },
               "Bratislava": {
-                "exemplarCity": "Bratislava"
+                "exemplarCity": "ᏆᏘᏍᎳᏩ"
               },
               "Brussels": {
-                "exemplarCity": "Brussels"
+                "exemplarCity": "ᏋᏎᎵᏏ"
               },
               "Bucharest": {
-                "exemplarCity": "Bucharest"
+                "exemplarCity": "ᏇᏣᎴᏍᏗ"
               },
               "Budapest": {
-                "exemplarCity": "Budapest"
+                "exemplarCity": "ᏊᏓᏇᏍᏗ"
               },
               "Busingen": {
-                "exemplarCity": "Busingen"
+                "exemplarCity": "ᏊᏏᏂᎨᏂ"
               },
               "Chisinau": {
-                "exemplarCity": "Chisinau"
+                "exemplarCity": "ᏥᏏᎾᏫ"
               },
               "Copenhagen": {
-                "exemplarCity": "Copenhagen"
+                "exemplarCity": "ᎪᏇᏂᎮᎨᏂ"
               },
               "Dublin": {
-                "exemplarCity": "Dublin"
+                "long": {
+                  "daylight": "ᎨᎵᎩ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"
+                },
+                "exemplarCity": "ᏛᎵᏂ"
               },
               "Gibraltar": {
-                "exemplarCity": "Gibraltar"
+                "exemplarCity": "ᏥᏆᎵᏓ"
               },
               "Guernsey": {
-                "exemplarCity": "Guernsey"
+                "exemplarCity": "ᎬᏂᏏ"
               },
               "Helsinki": {
-                "exemplarCity": "Helsinki"
+                "exemplarCity": "ᎮᎵᏏᏂᎩ"
               },
               "Isle_of_Man": {
-                "exemplarCity": "Isle of Man"
+                "exemplarCity": "ᎤᏍᏗᎤᎦᏚᏛ ᎾᎿ ᎠᏍᎦᏯ"
               },
               "Istanbul": {
-                "exemplarCity": "Istanbul"
+                "exemplarCity": "ᎢᏍᏔᏂᏊᎵ"
               },
               "Jersey": {
-                "exemplarCity": "Jersey"
+                "exemplarCity": "ᏨᎵᏏ"
               },
               "Kaliningrad": {
-                "exemplarCity": "Kaliningrad"
+                "exemplarCity": "ᎧᎵᏂᏆᏗ"
               },
               "Kiev": {
-                "exemplarCity": "Kiev"
+                "exemplarCity": "ᎩᏫ"
+              },
+              "Kirov": {
+                "exemplarCity": "ᎩᎶᏩ"
               },
               "Lisbon": {
-                "exemplarCity": "Lisbon"
+                "exemplarCity": "ᎵᏏᏉᏂ"
               },
               "Ljubljana": {
-                "exemplarCity": "Ljubljana"
+                "exemplarCity": "ᏧᏣᎾ"
               },
               "London": {
-                "exemplarCity": "London"
+                "long": {
+                  "daylight": "ᏈᏗᏏ ᎪᎩ ᎠᏟᎢᎵᏒ"
+                },
+                "exemplarCity": "ᎸᏂᏓᏂ"
               },
               "Luxembourg": {
-                "exemplarCity": "Luxembourg"
+                "exemplarCity": "ᎸᎧᏎᏋᎩ"
               },
               "Madrid": {
-                "exemplarCity": "Madrid"
+                "exemplarCity": "ᎹᏟᏗ"
               },
               "Malta": {
-                "exemplarCity": "Malta"
+                "exemplarCity": "ᎹᎵᏔ"
               },
               "Mariehamn": {
-                "exemplarCity": "Mariehamn"
+                "exemplarCity": "ᎺᎵᎭᎻ"
               },
               "Minsk": {
-                "exemplarCity": "Minsk"
+                "exemplarCity": "ᎺᏂᏍᎩ"
               },
               "Monaco": {
-                "exemplarCity": "Monaco"
+                "exemplarCity": "ᎼᎾᎪ"
               },
               "Moscow": {
-                "exemplarCity": "Moscow"
+                "exemplarCity": "ᎹᏍᎦᏫ"
               },
               "Oslo": {
-                "exemplarCity": "Oslo"
+                "exemplarCity": "ᎣᏏᎶ"
               },
               "Paris": {
-                "exemplarCity": "Paris"
+                "exemplarCity": "ᏇᏫᏏ"
               },
               "Podgorica": {
-                "exemplarCity": "Podgorica"
+                "exemplarCity": "ᏉᎪᎵᎧ"
               },
               "Prague": {
-                "exemplarCity": "Prague"
+                "exemplarCity": "ᏆᏇ"
               },
               "Riga": {
-                "exemplarCity": "Riga"
+                "exemplarCity": "ᎵᎦ"
               },
               "Rome": {
-                "exemplarCity": "Rome"
+                "exemplarCity": "ᎶᎻ"
               },
               "Samara": {
-                "exemplarCity": "Samara"
+                "exemplarCity": "ᏌᎹᎳ"
               },
               "San_Marino": {
-                "exemplarCity": "San Marino"
+                "exemplarCity": "ᎹᎵᏃ"
               },
               "Sarajevo": {
-                "exemplarCity": "Sarajevo"
+                "exemplarCity": "ᏌᎳᏤᏬ"
               },
               "Simferopol": {
-                "exemplarCity": "Simferopol"
+                "exemplarCity": "ᏏᎻᏪᎶᏉᎵ"
               },
               "Skopje": {
-                "exemplarCity": "Skopje"
+                "exemplarCity": "ᏍᎪᏤ"
               },
               "Sofia": {
-                "exemplarCity": "Sofia"
+                "exemplarCity": "ᏐᏟᎠ"
               },
               "Stockholm": {
-                "exemplarCity": "Stockholm"
+                "exemplarCity": "ᏍᏓᎩᎰᎻ"
               },
               "Tallinn": {
-                "exemplarCity": "Tallinn"
+                "exemplarCity": "ᏔᎵᏂ"
               },
               "Tirane": {
-                "exemplarCity": "Tirane"
+                "exemplarCity": "ᏘᎳᎾ"
+              },
+              "Ulyanovsk": {
+                "exemplarCity": "ᎤᎵᏯᏃᏬᏍᎧ"
               },
               "Uzhgorod": {
-                "exemplarCity": "Uzhgorod"
+                "exemplarCity": "ᎤᏍᎪᎶᏗ"
               },
               "Vaduz": {
-                "exemplarCity": "Vaduz"
+                "exemplarCity": "ᏩᏚᏏ"
               },
               "Vatican": {
-                "exemplarCity": "Vatican"
+                "exemplarCity": "ᎠᏥᎳᏁᏠ"
               },
               "Vienna": {
-                "exemplarCity": "Vienna"
+                "exemplarCity": "ᏫᏰᎾ"
               },
               "Vilnius": {
-                "exemplarCity": "Vilnius"
+                "exemplarCity": "ᏫᎵᏂᏴᏏ"
               },
               "Volgograd": {
-                "exemplarCity": "Volgograd"
+                "exemplarCity": "ᏬᎶᎪᏝᏗ"
               },
               "Warsaw": {
-                "exemplarCity": "Warsaw"
+                "exemplarCity": "ᏓᎿᏩ ᎤᎪᎲᎩ"
               },
               "Zagreb": {
-                "exemplarCity": "Zagreb"
+                "exemplarCity": "ᏌᏇᏈ"
               },
               "Zaporozhye": {
-                "exemplarCity": "Zaporozhye"
+                "exemplarCity": "ᏌᏉᎶᏌᏱ"
               },
               "Zurich": {
-                "exemplarCity": "Zurich"
+                "exemplarCity": "ᏑᎵᏥ"
               }
             },
             "Africa": {
               "Abidjan": {
-                "exemplarCity": "Abidjan"
+                "exemplarCity": "ᎠᏈᏣᏂ"
               },
               "Accra": {
-                "exemplarCity": "Accra"
+                "exemplarCity": "ᎠᏆ"
               },
               "Addis_Ababa": {
-                "exemplarCity": "Addis Ababa"
+                "exemplarCity": "ᎡᏗᏍ ᎠᏆᏆ"
               },
               "Algiers": {
-                "exemplarCity": "Algiers"
+                "exemplarCity": "ᎠᎵᏥᎵ"
               },
               "Asmera": {
-                "exemplarCity": "Asmara"
+                "exemplarCity": "ᎠᏏᎹᎳ"
               },
               "Bamako": {
-                "exemplarCity": "Bamako"
+                "exemplarCity": "ᏆᎹᎪ"
               },
               "Bangui": {
-                "exemplarCity": "Bangui"
+                "exemplarCity": "ᏇᏂᎫᏫ"
               },
               "Banjul": {
-                "exemplarCity": "Banjul"
+                "exemplarCity": "ᏆᏂᏧᎵ"
               },
               "Bissau": {
-                "exemplarCity": "Bissau"
+                "exemplarCity": "ᏇᏌᏫ"
               },
               "Blantyre": {
-                "exemplarCity": "Blantyre"
+                "exemplarCity": "ᏆᏘᎴ"
               },
               "Brazzaville": {
-                "exemplarCity": "Brazzaville"
+                "exemplarCity": "ᏆᏌᏩᎵ"
               },
               "Bujumbura": {
-                "exemplarCity": "Bujumbura"
+                "exemplarCity": "ᏊᏧᎻᏊᎳ"
               },
               "Cairo": {
-                "exemplarCity": "Cairo"
+                "exemplarCity": "ᎧᏯᎶ"
               },
               "Casablanca": {
-                "exemplarCity": "Casablanca"
+                "exemplarCity": "ᎤᏁᎦ ᎦᎵᏦᏕ"
               },
               "Ceuta": {
-                "exemplarCity": "Ceuta"
+                "exemplarCity": "ᏑᏔ"
               },
               "Conakry": {
-                "exemplarCity": "Conakry"
+                "exemplarCity": "ᎪᎾᏈ"
               },
               "Dakar": {
-                "exemplarCity": "Dakar"
+                "exemplarCity": "ᏓᎧᏩ"
               },
               "Dar_es_Salaam": {
-                "exemplarCity": "Dar es Salaam"
+                "exemplarCity": "Ꮣ ᎡᏏ ᏌᎳᎻ"
               },
               "Djibouti": {
-                "exemplarCity": "Djibouti"
+                "exemplarCity": "ᏥᏊᏗ"
               },
               "Douala": {
-                "exemplarCity": "Douala"
+                "exemplarCity": "ᏙᎤᏩᎳ"
               },
               "El_Aaiun": {
-                "exemplarCity": "El Aaiun"
+                "exemplarCity": "ᎡᎵ ᎠᏱᏳᏂ"
               },
               "Freetown": {
-                "exemplarCity": "Freetown"
+                "exemplarCity": "ᎠᏎᏇ ᎦᏚᎲ"
               },
               "Gaborone": {
-                "exemplarCity": "Gaborone"
+                "exemplarCity": "ᎦᏉᎶᏁ"
               },
               "Harare": {
-                "exemplarCity": "Harare"
+                "exemplarCity": "ᎭᎳᎴ"
               },
               "Johannesburg": {
-                "exemplarCity": "Johannesburg"
+                "exemplarCity": "ᏦᎭᏁᏍᏊᎦ"
               },
               "Juba": {
-                "exemplarCity": "Juba"
+                "exemplarCity": "ᏧᏆ"
               },
               "Kampala": {
-                "exemplarCity": "Kampala"
+                "exemplarCity": "ᎧᎻᏆᎳ"
               },
               "Khartoum": {
-                "exemplarCity": "Khartoum"
+                "exemplarCity": "ᎧᏚᎻ"
               },
               "Kigali": {
-                "exemplarCity": "Kigali"
+                "exemplarCity": "ᎩᎦᎵ"
               },
               "Kinshasa": {
-                "exemplarCity": "Kinshasa"
+                "exemplarCity": "ᎨᏂᏝᏌ"
               },
               "Lagos": {
-                "exemplarCity": "Lagos"
+                "exemplarCity": "ᎳᎪᏏ"
               },
               "Libreville": {
-                "exemplarCity": "Libreville"
+                "exemplarCity": "ᎵᏇᏫᎵ"
               },
               "Lome": {
-                "exemplarCity": "Lome"
+                "exemplarCity": "ᎶᎺ"
               },
               "Luanda": {
-                "exemplarCity": "Luanda"
+                "exemplarCity": "ᎷᏩᏂᏓ"
               },
               "Lubumbashi": {
-                "exemplarCity": "Lubumbashi"
+                "exemplarCity": "ᎷᏊᏆᏏ"
               },
               "Lusaka": {
-                "exemplarCity": "Lusaka"
+                "exemplarCity": "ᎵᏌᎧ"
               },
               "Malabo": {
-                "exemplarCity": "Malabo"
+                "exemplarCity": "ᎹᎳᏉ"
               },
               "Maputo": {
-                "exemplarCity": "Maputo"
+                "exemplarCity": "ᎹᏊᏙ"
               },
               "Maseru": {
-                "exemplarCity": "Maseru"
+                "exemplarCity": "ᎹᏎᎵ"
               },
               "Mbabane": {
-                "exemplarCity": "Mbabane"
+                "exemplarCity": "ᏆᏇᏁ"
               },
               "Mogadishu": {
-                "exemplarCity": "Mogadishu"
+                "exemplarCity": "ᎼᎦᏗᏡ"
               },
               "Monrovia": {
-                "exemplarCity": "Monrovia"
+                "exemplarCity": "ᎼᏂᎶᏫᏯ"
               },
               "Nairobi": {
-                "exemplarCity": "Nairobi"
+                "exemplarCity": "ᎾᏱᎶᏈ"
               },
               "Ndjamena": {
-                "exemplarCity": "Ndjamena"
+                "exemplarCity": "ᎾᏣᎺᎾ"
               },
               "Niamey": {
-                "exemplarCity": "Niamey"
+                "exemplarCity": "ᏂᏯᎺ"
               },
               "Nouakchott": {
-                "exemplarCity": "Nouakchott"
+                "exemplarCity": "ᎾᏬᏣᏘ"
               },
               "Ouagadougou": {
-                "exemplarCity": "Ouagadougou"
+                "exemplarCity": "ᎣᏩᎦᏚᎫ"
               },
               "Porto-Novo": {
-                "exemplarCity": "Porto-Novo"
+                "exemplarCity": "ᏥᏳᏗᏔᎳᏗᏍᏗ-ᏃᏬ"
               },
               "Sao_Tome": {
-                "exemplarCity": "Sao Tome"
+                "exemplarCity": "ᏌᎣᏙᎺ"
               },
               "Tripoli": {
-                "exemplarCity": "Tripoli"
+                "exemplarCity": "ᏟᏉᎵ"
               },
               "Tunis": {
-                "exemplarCity": "Tunis"
+                "exemplarCity": "ᏚᏂᏏ"
               },
               "Windhoek": {
-                "exemplarCity": "Windhoek"
+                "exemplarCity": "ᏪᏄᏗᎰᎩ"
               }
             },
             "Asia": {
               "Aden": {
-                "exemplarCity": "Aden"
+                "exemplarCity": "ᎡᏕᏂ"
               },
               "Almaty": {
-                "exemplarCity": "Almaty"
+                "exemplarCity": "ᎠᎵᎹᏘ"
               },
               "Amman": {
-                "exemplarCity": "Amman"
+                "exemplarCity": "ᎠᎹᏂ"
               },
               "Anadyr": {
-                "exemplarCity": "Anadyr"
+                "exemplarCity": "ᎠᎾᏗᎵ"
               },
               "Aqtau": {
-                "exemplarCity": "Aqtau"
+                "exemplarCity": "ᎠᎦᏔᏫ"
               },
               "Aqtobe": {
-                "exemplarCity": "Aqtobe"
+                "exemplarCity": "ᎠᎦᏙᏇ"
               },
               "Ashgabat": {
-                "exemplarCity": "Ashgabat"
+                "exemplarCity": "ᎠᏍᎦᏆᏘ"
               },
               "Baghdad": {
-                "exemplarCity": "Baghdad"
+                "exemplarCity": "ᏆᎩᏓᏗ"
               },
               "Bahrain": {
-                "exemplarCity": "Bahrain"
+                "exemplarCity": "ᏆᎭᎴᎢᏂ"
               },
               "Baku": {
-                "exemplarCity": "Baku"
+                "exemplarCity": "ᏆᎫ"
               },
               "Bangkok": {
-                "exemplarCity": "Bangkok"
+                "exemplarCity": "ᏇᏂᎩᎪᎩ"
+              },
+              "Barnaul": {
+                "exemplarCity": "ᏆᎾᎣᎵ"
               },
               "Beirut": {
-                "exemplarCity": "Beirut"
+                "exemplarCity": "ᏇᎷᏘ"
               },
               "Bishkek": {
-                "exemplarCity": "Bishkek"
+                "exemplarCity": "ᏇᏍᎨᎩ"
               },
               "Brunei": {
-                "exemplarCity": "Brunei"
+                "exemplarCity": "ᏊᎾᎢ"
               },
               "Calcutta": {
-                "exemplarCity": "Kolkata"
+                "exemplarCity": "ᎪᎵᎧᏔ"
               },
               "Chita": {
-                "exemplarCity": "Chita"
+                "exemplarCity": "ᏥᏔ"
               },
               "Choibalsan": {
-                "exemplarCity": "Choibalsan"
+                "exemplarCity": "ᏦᏱᏆᎵᏌᏂ"
               },
               "Colombo": {
-                "exemplarCity": "Colombo"
+                "exemplarCity": "ᎪᎶᎻᏉ"
               },
               "Damascus": {
-                "exemplarCity": "Damascus"
+                "exemplarCity": "ᏓᎹᏍᎬᏏ"
               },
               "Dhaka": {
-                "exemplarCity": "Dhaka"
+                "exemplarCity": "ᏓᎧ"
               },
               "Dili": {
-                "exemplarCity": "Dili"
+                "exemplarCity": "ᏗᎵ"
               },
               "Dubai": {
-                "exemplarCity": "Dubai"
+                "exemplarCity": "ᏚᏆᏱ"
               },
               "Dushanbe": {
-                "exemplarCity": "Dushanbe"
+                "exemplarCity": "ᏚᏝᎾᏇ"
               },
               "Gaza": {
-                "exemplarCity": "Gaza"
+                "exemplarCity": "ᎦᏌ"
               },
               "Hebron": {
-                "exemplarCity": "Hebron"
+                "exemplarCity": "ᎮᏉᏂ"
               },
               "Hong_Kong": {
-                "exemplarCity": "Hong Kong"
+                "exemplarCity": "ᎰᏂᎩ ᎪᏂᎩ"
               },
               "Hovd": {
-                "exemplarCity": "Hovd"
+                "exemplarCity": "ᎰᏩᏗ"
               },
               "Irkutsk": {
-                "exemplarCity": "Irkutsk"
+                "exemplarCity": "ᎢᎫᏥᎧ"
               },
               "Jakarta": {
-                "exemplarCity": "Jakarta"
+                "exemplarCity": "ᏣᎧᏔ"
               },
               "Jayapura": {
-                "exemplarCity": "Jayapura"
+                "exemplarCity": "ᏣᏯᏋᎳ"
               },
               "Jerusalem": {
-                "exemplarCity": "Jerusalem"
+                "exemplarCity": "ᏤᎷᏌᎴᎻ"
               },
               "Kabul": {
-                "exemplarCity": "Kabul"
+                "exemplarCity": "ᎧᏊᎵ"
               },
               "Kamchatka": {
-                "exemplarCity": "Kamchatka"
+                "exemplarCity": "ᎧᎻᏣᎧ"
               },
               "Karachi": {
-                "exemplarCity": "Karachi"
+                "exemplarCity": "ᎧᎳᏥ"
               },
               "Katmandu": {
-                "exemplarCity": "Kathmandu"
+                "exemplarCity": "ᎧᏘᎹᏂᏚ"
               },
               "Khandyga": {
-                "exemplarCity": "Khandyga"
+                "exemplarCity": "ᎧᏂᏗᎦ"
               },
               "Krasnoyarsk": {
-                "exemplarCity": "Krasnoyarsk"
+                "exemplarCity": "ᏝᏍᏃᏯᏍᎧ"
               },
               "Kuala_Lumpur": {
-                "exemplarCity": "Kuala Lumpur"
+                "exemplarCity": "ᎫᏩᎳ ᎸᎻᏋ"
               },
               "Kuching": {
-                "exemplarCity": "Kuching"
+                "exemplarCity": "ᎫᏥᏂᎦ"
               },
               "Kuwait": {
-                "exemplarCity": "Kuwait"
+                "exemplarCity": "ᎫᏪᏘ"
               },
               "Macau": {
-                "exemplarCity": "Macau"
+                "exemplarCity": "ᎹᎧᎤ"
               },
               "Magadan": {
-                "exemplarCity": "Magadan"
+                "exemplarCity": "ᎹᎦᏓᏂ"
               },
               "Makassar": {
-                "exemplarCity": "Makassar"
+                "exemplarCity": "ᎹᎧᏌᎵ"
               },
               "Manila": {
-                "exemplarCity": "Manila"
+                "exemplarCity": "ᎹᏂᎳ"
               },
               "Muscat": {
-                "exemplarCity": "Muscat"
+                "exemplarCity": "ᎽᏍᎦᏘ"
               },
               "Nicosia": {
-                "exemplarCity": "Nicosia"
+                "exemplarCity": "ᏂᎪᏏᏯ"
               },
               "Novokuznetsk": {
-                "exemplarCity": "Novokuznetsk"
+                "exemplarCity": "ᏃᏬᎫᏁᏖᏍᎧ"
               },
               "Novosibirsk": {
-                "exemplarCity": "Novosibirsk"
+                "exemplarCity": "ᏃᏬᏏᏈᏍᎧ"
               },
               "Omsk": {
-                "exemplarCity": "Omsk"
+                "exemplarCity": "ᎣᎻᏍᎧ"
               },
               "Oral": {
-                "exemplarCity": "Oral"
+                "exemplarCity": "ᎣᎳᎵ"
               },
               "Phnom_Penh": {
-                "exemplarCity": "Phnom Penh"
+                "exemplarCity": "ᎿᎻ ᏇᏂ"
               },
               "Pontianak": {
-                "exemplarCity": "Pontianak"
+                "exemplarCity": "ᏆᏂᏘᎠᎾᎩ"
               },
               "Pyongyang": {
-                "exemplarCity": "Pyongyang"
+                "exemplarCity": "ᏈᏯᏂᎩᏰᏂᎩ"
               },
               "Qatar": {
-                "exemplarCity": "Qatar"
+                "exemplarCity": "ᎧᏔᎵ"
               },
               "Qyzylorda": {
-                "exemplarCity": "Qyzylorda"
+                "exemplarCity": "ᎩᏏᎶᎳᏓ"
               },
               "Rangoon": {
-                "exemplarCity": "Rangoon"
+                "exemplarCity": "ᎳᏂᎫᏂ"
               },
               "Riyadh": {
-                "exemplarCity": "Riyadh"
+                "exemplarCity": "ᎵᏯᏗ"
               },
               "Saigon": {
-                "exemplarCity": "Ho Chi Minh"
+                "exemplarCity": "Ꮀ Ꮵ ᎻᏂ ᎦᏚᎲ"
               },
               "Sakhalin": {
-                "exemplarCity": "Sakhalin"
+                "exemplarCity": "ᏌᎧᎵᏂ"
               },
               "Samarkand": {
-                "exemplarCity": "Samarkand"
+                "exemplarCity": "ᏌᎹᎧᏂᏗ"
               },
               "Seoul": {
-                "exemplarCity": "Seoul"
+                "exemplarCity": "ᏐᎵ"
               },
               "Shanghai": {
-                "exemplarCity": "Shanghai"
+                "exemplarCity": "ᏎᏂᎦᎭᏱ"
               },
               "Singapore": {
-                "exemplarCity": "Singapore"
+                "exemplarCity": "ᏏᏂᎦᏉᎵ"
               },
               "Srednekolymsk": {
-                "exemplarCity": "Srednekolymsk"
+                "exemplarCity": "ᏍᎴᏗᏁᎪᎵᎻᏍᎧ"
               },
               "Taipei": {
-                "exemplarCity": "Taipei"
+                "exemplarCity": "ᏔᏱᏇ"
               },
               "Tashkent": {
-                "exemplarCity": "Tashkent"
+                "exemplarCity": "ᏔᏏᎨᏂᏘ"
               },
               "Tbilisi": {
-                "exemplarCity": "Tbilisi"
+                "exemplarCity": "ᏘᏈᎵᏏ"
               },
               "Tehran": {
-                "exemplarCity": "Tehran"
+                "exemplarCity": "ᏖᎳᏂ"
               },
               "Thimphu": {
-                "exemplarCity": "Thimphu"
+                "exemplarCity": "ᏞᎻᏡ"
               },
               "Tokyo": {
-                "exemplarCity": "Tokyo"
+                "exemplarCity": "ᏙᎩᏲ"
+              },
+              "Tomsk": {
+                "exemplarCity": "ᏙᎻᏍᎧ"
               },
               "Ulaanbaatar": {
-                "exemplarCity": "Ulaanbaatar"
+                "exemplarCity": "ᎤᎳᏂᏆᏔ"
               },
               "Urumqi": {
-                "exemplarCity": "Urumqi"
+                "exemplarCity": "ᎤᎷᎻᎩ"
               },
               "Ust-Nera": {
-                "exemplarCity": "Ust-Nera"
+                "exemplarCity": "ᎤᏍᏔ-ᏁᎳ"
               },
               "Vientiane": {
-                "exemplarCity": "Vientiane"
+                "exemplarCity": "ᏫᏰᏂᏘᏯᏁ"
               },
               "Vladivostok": {
-                "exemplarCity": "Vladivostok"
+                "exemplarCity": "ᏭᎳᏗᏬᏍᏙᎩ"
               },
               "Yakutsk": {
-                "exemplarCity": "Yakutsk"
+                "exemplarCity": "ᏯᎫᏥᎧ"
               },
               "Yekaterinburg": {
-                "exemplarCity": "Yekaterinburg"
+                "exemplarCity": "ᏰᎧᏖᎵᏂᏊᎦ"
               },
               "Yerevan": {
-                "exemplarCity": "Yerevan"
+                "exemplarCity": "ᏰᎴᏪᏂ"
               }
             },
             "Indian": {
               "Antananarivo": {
-                "exemplarCity": "Antananarivo"
+                "exemplarCity": "ᎠᏂᏔᎾᎾᎵᏬ"
               },
               "Chagos": {
-                "exemplarCity": "Chagos"
+                "exemplarCity": "ᏣᎪᏏ"
               },
               "Christmas": {
-                "exemplarCity": "Christmas"
+                "exemplarCity": "ᏓᏂᏍᏓᏲᎯᎲ"
               },
               "Cocos": {
-                "exemplarCity": "Cocos"
+                "exemplarCity": "ᎪᎪᏍ"
               },
               "Comoro": {
-                "exemplarCity": "Comoro"
+                "exemplarCity": "ᎪᎼᎳ"
               },
               "Kerguelen": {
-                "exemplarCity": "Kerguelen"
+                "exemplarCity": "ᎬᎵᎫᏰᎴᏂ"
               },
               "Mahe": {
-                "exemplarCity": "Mahe"
+                "exemplarCity": "ᎹᎮ"
               },
               "Maldives": {
-                "exemplarCity": "Maldives"
+                "exemplarCity": "ᎹᎵᏗᏫᏍ"
               },
               "Mauritius": {
-                "exemplarCity": "Mauritius"
+                "exemplarCity": "ᎼᎵᏏᎥᏍ"
               },
               "Mayotte": {
-                "exemplarCity": "Mayotte"
+                "exemplarCity": "ᎺᏯᏖ"
               },
               "Reunion": {
-                "exemplarCity": "Reunion"
+                "exemplarCity": "ᎴᏳᏂᎠᏂ"
               }
             },
             "Australia": {
               "Adelaide": {
-                "exemplarCity": "Adelaide"
+                "exemplarCity": "ᎡᏕᎴᏗ"
               },
               "Brisbane": {
-                "exemplarCity": "Brisbane"
+                "exemplarCity": "ᏇᏍᏇᏂ"
               },
               "Broken_Hill": {
-                "exemplarCity": "Broken Hill"
+                "exemplarCity": "ᎤᏲᏨᎯ ᎦᏚᏏ"
               },
               "Currie": {
-                "exemplarCity": "Currie"
+                "exemplarCity": "ᎫᎵ"
               },
               "Darwin": {
-                "exemplarCity": "Darwin"
+                "exemplarCity": "ᏓᏩᏂ"
               },
               "Eucla": {
-                "exemplarCity": "Eucla"
+                "exemplarCity": "ᏳᏝ"
               },
               "Hobart": {
-                "exemplarCity": "Hobart"
+                "exemplarCity": "ᎰᏆᏘ"
               },
               "Lindeman": {
-                "exemplarCity": "Lindeman"
+                "exemplarCity": "ᎴᎾᏕᎹᏂ"
               },
               "Lord_Howe": {
-                "exemplarCity": "Lord Howe"
+                "exemplarCity": "ᎤᎬᏫᏳᎯ ᎭᏫ"
               },
               "Melbourne": {
-                "exemplarCity": "Melbourne"
+                "exemplarCity": "ᎺᎵᏉᏁ"
               },
               "Perth": {
-                "exemplarCity": "Perth"
+                "exemplarCity": "ᏇᎵᏝ"
               },
               "Sydney": {
-                "exemplarCity": "Sydney"
+                "exemplarCity": "ᏏᏗᏂ"
               }
             },
             "Pacific": {
               "Apia": {
-                "exemplarCity": "Apia"
+                "exemplarCity": "ᎠᏈᎠ"
               },
               "Auckland": {
-                "exemplarCity": "Auckland"
+                "exemplarCity": "ᎠᎦᎳᎾᏗ"
               },
               "Bougainville": {
-                "exemplarCity": "Bougainville"
+                "exemplarCity": "ᏊᎨᏂᏫᎵ"
               },
               "Chatham": {
-                "exemplarCity": "Chatham"
+                "exemplarCity": "ᏣᏝᎻ"
               },
               "Easter": {
-                "exemplarCity": "Easter"
+                "exemplarCity": "ᏥᏌᏕᎴᎯᏌᏅ"
               },
               "Efate": {
-                "exemplarCity": "Efate"
+                "exemplarCity": "ᎡᏩᏖ"
               },
               "Enderbury": {
-                "exemplarCity": "Enderbury"
+                "exemplarCity": "ᎡᏂᏇᎵ"
               },
               "Fakaofo": {
-                "exemplarCity": "Fakaofo"
+                "exemplarCity": "ᏩᎧᎣᏬ"
               },
               "Fiji": {
-                "exemplarCity": "Fiji"
+                "exemplarCity": "ᏫᏥ"
               },
               "Funafuti": {
-                "exemplarCity": "Funafuti"
+                "exemplarCity": "ᏡᎾᏡᏘ"
               },
               "Galapagos": {
-                "exemplarCity": "Galapagos"
+                "exemplarCity": "ᎡᏆ ᏓᎦᏏ ᎤᎦᏚᏛᎢ"
               },
               "Gambier": {
-                "exemplarCity": "Gambier"
+                "exemplarCity": "ᎦᎻᏇᎵ"
               },
               "Guadalcanal": {
-                "exemplarCity": "Guadalcanal"
+                "exemplarCity": "ᏆᏓᎵᎧᎾᎵ"
               },
               "Guam": {
-                "exemplarCity": "Guam"
+                "exemplarCity": "ᏆᎻ"
               },
               "Honolulu": {
                 "short": {
@@ -1184,119 +1205,119 @@
                   "standard": "HST",
                   "daylight": "HDT"
                 },
-                "exemplarCity": "Honolulu"
+                "exemplarCity": "ᎭᏃᎷᎷ"
               },
               "Johnston": {
-                "exemplarCity": "Johnston"
+                "exemplarCity": "ᏣᏂᏏᏂ"
               },
               "Kiritimati": {
-                "exemplarCity": "Kiritimati"
+                "exemplarCity": "ᎩᎵᏘᎹᏘ"
               },
               "Kosrae": {
-                "exemplarCity": "Kosrae"
+                "exemplarCity": "ᎪᏍᎴ"
               },
               "Kwajalein": {
-                "exemplarCity": "Kwajalein"
+                "exemplarCity": "ᏆᏣᎴᎢᏂ"
               },
               "Majuro": {
-                "exemplarCity": "Majuro"
+                "exemplarCity": "ᎹᏧᎶ"
               },
               "Marquesas": {
-                "exemplarCity": "Marquesas"
+                "exemplarCity": "ᎹᎵᎨᏌᏏ"
               },
               "Midway": {
-                "exemplarCity": "Midway"
+                "exemplarCity": "ᎠᏰᏟᏴᏚ"
               },
               "Nauru": {
-                "exemplarCity": "Nauru"
+                "exemplarCity": "ᏃᎤᎷ"
               },
               "Niue": {
-                "exemplarCity": "Niue"
+                "exemplarCity": "ᏂᏳ"
               },
               "Norfolk": {
-                "exemplarCity": "Norfolk"
+                "exemplarCity": "ᏃᎵᏬᎵᎩ"
               },
               "Noumea": {
-                "exemplarCity": "Noumea"
+                "exemplarCity": "ᏃᎤᎺᎠ"
               },
               "Pago_Pago": {
-                "exemplarCity": "Pago Pago"
+                "exemplarCity": "ᏆᎪ ᏆᎪ"
               },
               "Palau": {
-                "exemplarCity": "Palau"
+                "exemplarCity": "ᏆᎴᎠᏫ"
               },
               "Pitcairn": {
-                "exemplarCity": "Pitcairn"
+                "exemplarCity": "ᏈᎧᎵᏂᎤ"
               },
               "Ponape": {
-                "exemplarCity": "Pohnpei"
+                "exemplarCity": "ᏉᏂᏇ"
               },
               "Port_Moresby": {
-                "exemplarCity": "Port Moresby"
+                "exemplarCity": "ᏥᏳᏗᏔᎳᏗᏍᏗ ᎼᎵᏍᏈ"
               },
               "Rarotonga": {
-                "exemplarCity": "Rarotonga"
+                "exemplarCity": "ᎳᎶᏙᏂᎦ"
               },
               "Saipan": {
-                "exemplarCity": "Saipan"
+                "exemplarCity": "ᏌᏱᏆᏂ"
               },
               "Tahiti": {
-                "exemplarCity": "Tahiti"
+                "exemplarCity": "ᏔᎯᏘ"
               },
               "Tarawa": {
-                "exemplarCity": "Tarawa"
+                "exemplarCity": "ᏔᎳᏩ"
               },
               "Tongatapu": {
-                "exemplarCity": "Tongatapu"
+                "exemplarCity": "ᏙᎾᎦᏔᏊ"
               },
               "Truk": {
-                "exemplarCity": "Chuuk"
+                "exemplarCity": "ᏧᎩ"
               },
               "Wake": {
-                "exemplarCity": "Wake"
+                "exemplarCity": "ᎤᏰᏨ"
               },
               "Wallis": {
-                "exemplarCity": "Wallis"
+                "exemplarCity": "ᏩᎵᏍ"
               }
             },
             "Arctic": {
               "Longyearbyen": {
-                "exemplarCity": "Longyearbyen"
+                "exemplarCity": "ᎦᏅᎯᏓ ᎤᏕᏘᏴᏌᏗᏒᎢ ᎦᏚᎲ"
               }
             },
             "Antarctica": {
               "Casey": {
-                "exemplarCity": "Casey"
+                "exemplarCity": "ᎨᏏ"
               },
               "Davis": {
-                "exemplarCity": "Davis"
+                "exemplarCity": "ᏕᏫᏏ"
               },
               "DumontDUrville": {
-                "exemplarCity": "Dumont d’Urville"
+                "exemplarCity": "ᏚᎼᎾᏘ-Ꮧ’ᎤᎵᏫᎵ"
               },
               "Macquarie": {
-                "exemplarCity": "Macquarie"
+                "exemplarCity": "ᎹᏇᎵ"
               },
               "Mawson": {
-                "exemplarCity": "Mawson"
+                "exemplarCity": "ᎹᏌᏂ"
               },
               "McMurdo": {
-                "exemplarCity": "McMurdo"
+                "exemplarCity": "ᎻᎦᎽᏙ"
               },
               "Palmer": {
-                "exemplarCity": "Palmer"
+                "exemplarCity": "ᏆᎵᎺᎵ"
               },
               "Rothera": {
-                "exemplarCity": "Rothera"
+                "exemplarCity": "ᎳᏞᎳ"
               },
               "Syowa": {
-                "exemplarCity": "Syowa"
+                "exemplarCity": "ᏏᏲᏩ"
               },
               "Troll": {
-                "exemplarCity": "Troll"
+                "exemplarCity": "ᏠᎵ"
               },
               "Vostok": {
-                "exemplarCity": "Vostok"
+                "exemplarCity": "ᏬᏍᏙᎧ"
               }
             },
             "Etc": {
@@ -1382,23 +1403,62 @@
                 "exemplarCity": "GMT-9"
               },
               "Unknown": {
-                "exemplarCity": "Unknown"
+                "exemplarCity": "ᏄᏬᎵᏍᏛᎾ ᎦᏚᎲ"
               }
             }
           },
           "metazone": {
+            "Afghanistan": {
+              "long": {
+                "standard": "ᎠᏫᎨᏂᏍᏖᏂ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Africa_Central": {
+              "long": {
+                "standard": "ᎠᏰᏟ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Africa_Eastern": {
+              "long": {
+                "standard": "ᏗᎧᎸᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Africa_Southern": {
+              "long": {
+                "standard": "ᏧᎦᎾᏮ ᎬᎿᎨᏍᏛ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Africa_Western": {
+              "long": {
+                "generic": "ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ",
+                "standard": "ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎪᎩ ᎠᏟᎢᎵᏒ"
+              }
+            },
             "Alaska": {
+              "long": {
+                "generic": "ᎠᎳᏍᎦ ᎠᏟᎢᎵᏒ",
+                "standard": "ᎠᎳᏍᎦ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᎠᎳᏍᎦ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏍᏒᎩ"
+              },
               "short": {
                 "generic": "AKT",
                 "standard": "AKST",
                 "daylight": "AKDT"
               }
             },
+            "Amazon": {
+              "long": {
+                "generic": "ᎠᎺᏌᏂ ᎠᏟᎢᎵᏒ",
+                "standard": "ᎠᎺᏌᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᎠᎺᏌᏂ ᎪᎩ ᎠᏟᎢᎵᏒ"
+              }
+            },
             "America_Central": {
               "long": {
-                "generic": "ᎠᏰᎵ ᎢᏳᏩᎪᏗ",
-                "standard": "ᎠᏰᎵ ᏰᎵᏊ ᏗᏙᎳᎩ ᎢᏳᏩᎪᏗ",
-                "daylight": "ᎠᏰᎵ ᎢᎦ ᎢᏳᏩᎪᏗ"
+                "generic": "ᎠᏰᏟ ᎠᏟᎢᎵᏒ",
+                "standard": "ᎠᏰᏟ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᎠᏰᏟ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏍᏒᎩ"
               },
               "short": {
                 "generic": "CT",
@@ -1408,9 +1468,9 @@
             },
             "America_Eastern": {
               "long": {
-                "generic": "ᎧᎸᎬᎢᏗᏢ ᎢᏳᏩᎪᏗ",
-                "standard": "ᎧᎸᎬᎢᏗᏢ ᏰᎵᏊ ᏗᏙᎳᎩ ᎢᏳᏩᎪᏗ",
-                "daylight": "ᎧᎸᎬᎢᏗᏢ ᎢᎦ ᎢᏳᏩᎪᏗ"
+                "generic": "ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ",
+                "standard": "ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏍᏒᎩ"
               },
               "short": {
                 "generic": "ET",
@@ -1420,9 +1480,9 @@
             },
             "America_Mountain": {
               "long": {
-                "generic": "ᎣᏓᎸ ᎢᏳᏩᎪᏗ",
-                "standard": "ᎣᏓᎸ ᏰᎵᏊ ᏗᏙᎳᎩ ᎢᏳᏩᎪᏗ",
-                "daylight": "ᎣᏓᎸ ᎢᎦ ᎢᏳᏩᎪᏗ"
+                "generic": "ᎣᏓᎸ ᎠᏟᎢᎵᏒ",
+                "standard": "ᎣᏓᎸ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᎣᏓᎸ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏍᏒᎩ"
               },
               "short": {
                 "generic": "MT",
@@ -1432,9 +1492,9 @@
             },
             "America_Pacific": {
               "long": {
-                "generic": "ᏭᏕᎵᎬ ᎢᏳᏩᎪᏗ",
-                "standard": "ᏭᏕᎵᎬ ᏰᎵᏊ ᏗᏙᎳᎩ ᎢᏳᏩᎪᏗ",
-                "daylight": "ᏭᏕᎵᎬ ᎢᎦ ᎢᏳᏩᎪᏗ"
+                "generic": "ᏭᏕᎵᎬ ᎠᏟᎢᎵᏒ",
+                "standard": "ᏭᏕᎵᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᏭᏕᎵᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏍᏒᎩ"
               },
               "short": {
                 "generic": "PT",
@@ -1442,23 +1502,824 @@
                 "daylight": "PDT"
               }
             },
+            "Apia": {
+              "long": {
+                "generic": "ᎠᏈᎠ ᎠᏟᎢᎵᏒ",
+                "standard": "ᎠᏈᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᎠᏈᎠ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒᎩ"
+              }
+            },
+            "Arabian": {
+              "long": {
+                "generic": "ᎠᎴᏈᏯ ᎠᏟᎢᎵᏒ",
+                "standard": "ᎠᎴᏈᏯ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᎠᎴᏈᏯ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒᎩ"
+              }
+            },
+            "Argentina": {
+              "long": {
+                "generic": "ᎠᏥᏂᏘᏂᎠ ᎠᏟᎢᎵᏒ",
+                "standard": "ᎠᏥᏂᏘᏂᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᎠᏥᏂᏘᏂᎠ ᎪᎩ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Argentina_Western": {
+              "long": {
+                "generic": "ᏭᏕᎵᎬ ᏗᏜ ᎠᏥᏂᏘᏂᎠ ᎠᏟᎢᎵᏒ",
+                "standard": "ᏭᏕᎵᎬ ᏗᏜ ᎠᏥᏂᏘᏂᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᏭᏕᎵᎬ ᏗᏜ ᎠᏥᏂᏘᏂᎠ ᎪᎩ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Armenia": {
+              "long": {
+                "generic": "ᎠᎵᎻᏂᎠ ᎠᏟᎢᎵᏒ",
+                "standard": "ᎠᎵᎻᏂᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᎠᎵᎻᏂᎠ ᎪᎩ ᎠᏟᎢᎵᏒ"
+              }
+            },
             "Atlantic": {
+              "long": {
+                "generic": "ᏗᎧᎸᎬ ᎠᏟᎢᎵᏒ",
+                "standard": "ᏗᎧᎸᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᏗᎧᎸᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏍᏒᎩ"
+              },
               "short": {
                 "generic": "AT",
                 "standard": "AST",
                 "daylight": "ADT"
               }
             },
+            "Australia_Central": {
+              "long": {
+                "generic": "ᎠᏰᏟ ᎡᎳᏗᏜ ᎠᏟᎢᎵᏒ",
+                "standard": "ᎠᏰᏟ ᎡᎳᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᎠᏰᏟ ᎡᎳᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒᎩ"
+              }
+            },
+            "Australia_CentralWestern": {
+              "long": {
+                "generic": "ᎠᏰᏟ ᎡᎳᏗᏜ ᏭᏕᎵᎬ ᏗᏜ ᎠᏟᎢᎵᏒ",
+                "standard": "ᎠᏰᏟ ᎡᎳᏗᏜ ᏭᏕᎵᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᎠᏰᏟ ᎡᎳᏗᏜ ᏭᏕᎵᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒᎩ"
+              }
+            },
+            "Australia_Eastern": {
+              "long": {
+                "generic": "ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ",
+                "standard": "ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒᎩ"
+              }
+            },
+            "Australia_Western": {
+              "long": {
+                "generic": "ᎡᎳᏗᏜ ᏭᏕᎵᎬ ᏗᏜ ᎠᏟᎢᎵᏒ",
+                "standard": "ᎡᎳᏗᏜ ᏭᏕᎵᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᎡᎳᏗᏜ ᏭᏕᎵᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒᎩ"
+              }
+            },
+            "Azerbaijan": {
+              "long": {
+                "generic": "ᎠᏏᎵᏆᏌᏂ ᎠᏟᎢᎵᏒ",
+                "standard": "ᎠᏏᎵᏆᏌᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᎠᏏᎵᏆᏌᏂ ᎪᎩ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Azores": {
+              "long": {
+                "generic": "ᎠᏐᎴᏏ ᎠᏟᎢᎵᏒ",
+                "standard": "ᎠᏐᎴᏏ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᎠᏐᎴᏏ ᎪᎩ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Bangladesh": {
+              "long": {
+                "generic": "ᏆᏂᎦᎵᏕᏍ ᎠᏟᎢᎵᏒ",
+                "standard": "ᏆᏂᎦᎵᏕᏍ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᏆᏂᎦᎵᏕᏍ ᎪᎩ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Bhutan": {
+              "long": {
+                "standard": "ᏊᏔᏂ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Bolivia": {
+              "long": {
+                "standard": "ᏉᎵᏫᎠ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Brasilia": {
+              "long": {
+                "generic": "ᏆᏏᎵᏯ ᎠᏟᎢᎵᏒ",
+                "standard": "ᏆᏏᎵᏯ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᏆᏏᎵᏯ ᎪᎩ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Brunei": {
+              "long": {
+                "standard": "ᏊᎾᎢ ᏓᎷᏌᎳᎻ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Cape_Verde": {
+              "long": {
+                "generic": "ᎢᎬᎾᏕᎾ ᎢᏤᏳᏍᏗ ᎠᏟᎢᎵᏒ",
+                "standard": "ᎢᎬᎾᏕᎾ ᎢᏤᏳᏍᏗ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᎢᎬᎾᏕᎾ ᎢᏤᏳᏍᏗ ᎪᎩ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Chamorro": {
+              "long": {
+                "standard": "ᏣᎼᎶ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Chatham": {
+              "long": {
+                "generic": "ᏣᏝᎻ ᎠᏟᎢᎵᏒ",
+                "standard": "ᏣᏝᎻ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᏣᏝᎻ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒᎩ"
+              }
+            },
+            "Chile": {
+              "long": {
+                "generic": "ᏥᎵ ᎠᏟᎢᎵᏒ",
+                "standard": "ᏥᎵ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᏥᎵ ᎪᎩ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "China": {
+              "long": {
+                "generic": "ᏓᎶᏂᎨᏍᏛ ᎠᏟᎢᎵᏒ",
+                "standard": "ᏓᎶᏂᎨᏍᏛ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᏓᎶᏂᎨᏍᏛ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒᎩ"
+              }
+            },
+            "Choibalsan": {
+              "long": {
+                "generic": "ᏦᏱᏆᎵᏌᏂ ᎠᏟᎢᎵᏒ",
+                "standard": "ᏦᏱᏆᎵᏌᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᏦᏱᏆᎵᏌᏂ ᎪᎩ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Christmas": {
+              "long": {
+                "standard": "ᏓᏂᏍᏓᏲᎯᎲ ᎤᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Cocos": {
+              "long": {
+                "standard": "ᎪᎪᏍ ᏚᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Colombia": {
+              "long": {
+                "generic": "ᎪᎸᎻᏈᎢᎠ ᎠᏟᎢᎵᏒ",
+                "standard": "ᎪᎸᎻᏈᎢᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᎪᎸᎻᏈᎢᎠ ᎪᎩ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Cook": {
+              "long": {
+                "generic": "ᎠᏓᏍᏓᏴᎲᏍᎩ ᏚᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ",
+                "standard": "ᎠᏓᏍᏓᏴᎲᏍᎩ ᏚᎦᏚᏛᎢ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᎠᏓᏍᏓᏴᎲᏍᎩ ᏚᎦᏚᏛᎢ ᎠᏰᏟ ᎪᎩ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Cuba": {
+              "long": {
+                "generic": "ᎫᏆ ᎠᏟᎢᎵᏒ",
+                "standard": "ᎫᏆ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᎫᏆ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏍᏒᎩ"
+              }
+            },
+            "Davis": {
+              "long": {
+                "standard": "ᏕᏫᏏ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "DumontDUrville": {
+              "long": {
+                "standard": "ᏚᎼᎾᏘ-Ꮧ’ᎤᎵᏫᎵ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "East_Timor": {
+              "long": {
+                "standard": "ᏗᎧᎸᎬ ᏘᎼᎵ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Easter": {
+              "long": {
+                "generic": "ᏥᏌᏕᎴᎯᏌᏅ ᎤᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ",
+                "standard": "ᏥᏌᏕᎴᎯᏌᏅ ᎤᎦᏚᏛᎢ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᏥᏌᏕᎴᎯᏌᏅ ᎤᎦᏚᏛᎢ ᎪᎩ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Ecuador": {
+              "long": {
+                "standard": "ᎡᏆᏙᎵ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Europe_Central": {
+              "long": {
+                "generic": "ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ",
+                "standard": "ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Europe_Eastern": {
+              "long": {
+                "generic": "ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ",
+                "standard": "ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Europe_Further_Eastern": {
+              "long": {
+                "standard": "ᏗᎧᎸᎬ ᏳᎳᏈ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Europe_Western": {
+              "long": {
+                "generic": "ᏭᏕᎵᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ",
+                "standard": "ᏭᏕᎵᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᏭᏕᎵᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Falkland": {
+              "long": {
+                "generic": "ᏩᎩ ᏚᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ",
+                "standard": "ᏩᎩ ᏚᎦᏚᏛᎢ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᏩᎩ ᏚᎦᏚᏛᎢ ᎪᎩ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Fiji": {
+              "long": {
+                "generic": "ᏫᏥ ᎠᏟᎢᎵᏒ",
+                "standard": "ᏫᏥ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᏫᏥ ᎪᎩ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "French_Guiana": {
+              "long": {
+                "standard": "ᎠᏂᎦᎸ ᏈᏯᎾ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "French_Southern": {
+              "long": {
+                "standard": "ᎠᏂᎦᎸᏥ ᎤᎦᏃᏮ ᎠᎴ ᎤᏁᏍᏓᎶ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Galapagos": {
+              "long": {
+                "standard": "ᎡᏆ ᏓᎦᏏ ᎤᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Gambier": {
+              "long": {
+                "standard": "ᎦᎻᏇᎵ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Georgia": {
+              "long": {
+                "generic": "ᏣᎠᏥᎢ ᎠᏟᎢᎵᏒ",
+                "standard": "ᏣᎠᏥᎢ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᏣᎠᏥᎢ ᎪᎩ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Gilbert_Islands": {
+              "long": {
+                "standard": "ᎩᎵᏇᏘ ᏚᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ"
+              }
+            },
             "GMT": {
               "long": {
-                "standard": "ᎢᏤ ᎢᏳᏍᏗ ᎢᏳᏩᎪᏗ"
+                "standard": "ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Greenland_Eastern": {
+              "long": {
+                "generic": "ᏗᎧᎸᎬ ᎢᏤᏍᏛᏱ ᎠᎵᎢᎵᏒ",
+                "standard": "ᏗᎧᎸᎬ ᎢᏤᏍᏛᏱ ᎠᏟᎶᏍᏗ ᎠᎵᎢᎵᏒ",
+                "daylight": "ᏗᎧᎸᎬ ᎢᏤᏍᏛᏱ ᎪᎩ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Greenland_Western": {
+              "long": {
+                "generic": "ᏭᏕᎵᎬ ᎢᏤᏍᏛᏱ ᎠᎵᎢᎵᏒ",
+                "standard": "ᏭᏕᎵᎬ ᎢᏤᏍᏛᏱ ᎠᏟᎶᏍᏗ ᎠᎵᎢᎵᏒ",
+                "daylight": "ᏭᏕᎵᎬ ᎢᏤᏍᏛᏱ ᎪᎩ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Gulf": {
+              "long": {
+                "standard": "ᎡᏉᏄᎸᏗ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Guyana": {
+              "long": {
+                "standard": "ᎦᏯᎾ ᎠᏟᎢᎵᏒ"
               }
             },
             "Hawaii_Aleutian": {
+              "long": {
+                "generic": "ᎭᏩᏱ-ᎠᎵᏳᏏᎠᏂ ᎠᏟᎢᎵᏒ",
+                "standard": "ᎭᏩᏱ-ᎠᎵᏳᏏᎠᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᎭᏩᏱ-ᎠᎵᏳᏏᎠᏂ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏍᏒᎩ"
+              },
               "short": {
                 "generic": "HAT",
                 "standard": "HAST",
                 "daylight": "HADT"
+              }
+            },
+            "Hong_Kong": {
+              "long": {
+                "generic": "ᎰᏂᎩ ᎪᏂᎩ ᎠᏟᎢᎵᏒ",
+                "standard": "ᎰᏂᎩ ᎪᏂᎩ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᎰᏂᎩ ᎪᏂᎩ ᎪᎩ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Hovd": {
+              "long": {
+                "generic": "ᎰᏩᏗ ᎠᏟᎢᎵᏒ",
+                "standard": "ᎰᏩᏗ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᎰᏩᏗ ᎪᎩ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "India": {
+              "long": {
+                "standard": "ᎢᏂᏗᎢᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Indian_Ocean": {
+              "long": {
+                "standard": "ᎠᏂᏴᏫᏯ ᎠᎺᏉᎯ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Indochina": {
+              "long": {
+                "standard": "ᎢᏂᏙᏓᎶᏂᎨᏍᏛ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Indonesia_Central": {
+              "long": {
+                "standard": "ᎠᏰᏟ ᎢᏂᏙᏂᏍᏯ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Indonesia_Eastern": {
+              "long": {
+                "standard": "ᏗᎧᎸᎬ ᏗᏜ ᎢᏂᏙᏂᏍᏯ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Indonesia_Western": {
+              "long": {
+                "standard": "ᏭᏕᎵᎬ ᏗᏜ ᎢᏂᏙᏂᏍᏯ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Iran": {
+              "long": {
+                "generic": "ᎢᎳᏂ ᎠᏟᎢᎵᏒ",
+                "standard": "ᎢᎳᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᎢᎳᏂ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒᎩ"
+              }
+            },
+            "Irkutsk": {
+              "long": {
+                "generic": "ᎢᎫᏥᎧ ᎠᏟᎢᎵᏒ",
+                "standard": "ᎢᎫᏥᎧ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᎢᎫᏥᎧ ᎪᎩ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Israel": {
+              "long": {
+                "generic": "ᎢᏏᎵᏱ ᎠᏟᎢᎵᏒ",
+                "standard": "ᎢᏏᎵᏱ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᎢᏏᎵᏱ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒᎩ"
+              }
+            },
+            "Japan": {
+              "long": {
+                "generic": "ᏣᏩᏂᏏ ᎠᏟᎢᎵᏒ",
+                "standard": "ᏣᏩᏂᏏ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᏣᏩᏂᏏ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒᎩ"
+              }
+            },
+            "Kazakhstan_Eastern": {
+              "long": {
+                "standard": "ᏗᎧᎸᎬ ᎧᏎᎧᏍᏕᏂ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Kazakhstan_Western": {
+              "long": {
+                "standard": "ᏭᏕᎵᎬ ᎧᏎᎧᏍᏕᏂ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Korea": {
+              "long": {
+                "generic": "ᎪᎵᎠᏂ ᎠᏟᎢᎵᏒ",
+                "standard": "ᎪᎵᎠᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᎪᎵᎠᏂ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒᎩ"
+              }
+            },
+            "Kosrae": {
+              "long": {
+                "standard": "ᎪᏍᎴ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Krasnoyarsk": {
+              "long": {
+                "generic": "ᏝᏍᏃᏯᏍᎧ ᎠᏟᎢᎵᏒ",
+                "standard": "ᏝᏍᏃᏯᏍᎧ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᏝᏍᏃᏯᏍᎧ ᎪᎩ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Kyrgystan": {
+              "long": {
+                "standard": "ᎩᎵᏣᎢᏍ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Line_Islands": {
+              "long": {
+                "standard": "ᎠᏍᏓᏅᏅ ᏚᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Lord_Howe": {
+              "long": {
+                "generic": "ᎤᎬᏫᏳᎯ ᎭᏫ ᎠᏟᎢᎵᏒ",
+                "standard": "ᎤᎬᏫᏳᎯ ᎭᏫ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᎤᎬᏫᏳᎯ ᎭᏫ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒᎩ"
+              }
+            },
+            "Macquarie": {
+              "long": {
+                "standard": "ᎹᏇᎵ ᎤᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Magadan": {
+              "long": {
+                "generic": "ᎹᎦᏓᏂ ᎠᏟᎢᎵᏒ",
+                "standard": "ᎹᎦᏓᏂ ᎠᏟᎢᎵᏒ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᎹᎦᏓᏂ ᎪᎩ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Malaysia": {
+              "long": {
+                "standard": "ᎹᎴᏏᎢᎠ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Maldives": {
+              "long": {
+                "standard": "ᎹᎵᏗᏫᏍ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Marquesas": {
+              "long": {
+                "standard": "ᎹᎵᎨᏌᏏ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Marshall_Islands": {
+              "long": {
+                "standard": "ᎹᏌᎵ ᏚᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Mauritius": {
+              "long": {
+                "generic": "ᎼᎵᏏᎥᏍ ᎠᏟᎢᎵᏒ",
+                "standard": "ᎼᎵᏏᎥᏍ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᎼᎵᏏᎥᏍ ᎪᎩ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Mawson": {
+              "long": {
+                "standard": "ᎹᏌᏂ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Mexico_Northwest": {
+              "long": {
+                "generic": "ᏧᏴᏢ ᏭᏕᎵᎬ ᎠᏂᏍᏆᏂ ᎠᏟᎢᎵᏒ",
+                "standard": "ᏧᏴᏢ ᏭᏕᎵᎬ ᎠᏂᏍᏆᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᏧᏴᏢ ᏭᏕᎵᎬ ᎠᏂᏍᏆᏂ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏍᏒᎩ"
+              }
+            },
+            "Mexico_Pacific": {
+              "long": {
+                "generic": "ᎠᏂᏍᏆᏂ ᏭᏕᎵᎬ ᎠᏟᎢᎵᏒ",
+                "standard": "ᎠᏂᏍᏆᏂ ᏭᏕᎵᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᎠᏂᏍᏆᏂ ᏭᏕᎵᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏍᏒᎩ"
+              }
+            },
+            "Mongolia": {
+              "long": {
+                "generic": "ᎤᎳᏂ ᏆᏙᎸ ᎠᏟᎢᎵᏒ",
+                "standard": "ᎤᎳᏂ ᏆᏙᎸ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᎤᎳᏂ ᏆᏙᎸ ᎪᎩ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Moscow": {
+              "long": {
+                "generic": "ᎹᏍᎦᏫ ᎠᏟᎢᎵᏒ",
+                "standard": "ᎹᏍᎦᏫ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᎹᏍᎦᏫ ᎪᎩ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Myanmar": {
+              "long": {
+                "standard": "ᎹᏯᎹᎵ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Nauru": {
+              "long": {
+                "standard": "ᎾᎷ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Nepal": {
+              "long": {
+                "standard": "ᏁᏆᎵ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "New_Caledonia": {
+              "long": {
+                "generic": "ᎢᏤ ᎧᎵᏙᏂᎠᏂ ᎠᏟᎢᎵᏒ",
+                "standard": "ᎢᏤ ᎧᎵᏙᏂᎠᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᎢᏤ ᎧᎵᏙᏂᎠᏂ ᎪᎩ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "New_Zealand": {
+              "long": {
+                "generic": "ᎢᏤ ᏏᎢᎴᏂᏗ ᎠᏟᎢᎵᏒ",
+                "standard": "ᎢᏤ ᏏᎢᎴᏂᏗ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᎢᏤ ᏏᎢᎴᏂᏗ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒᎩ"
+              }
+            },
+            "Newfoundland": {
+              "long": {
+                "generic": "ᎢᏤᎤᏂᏩᏛᏓᎦᏙᎯ ᎠᏟᎢᎵᏒ",
+                "standard": "ᎢᏤᎤᏂᏩᏛᏓᎦᏙᎯ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᎢᏤᎤᏂᏩᏛᏓᎦᏙᎯ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏍᏒᎩ"
+              }
+            },
+            "Niue": {
+              "long": {
+                "standard": "ᏂᏳ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Norfolk": {
+              "long": {
+                "standard": "ᏃᎵᏬᎵᎩ ᎤᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Noronha": {
+              "long": {
+                "generic": "ᏪᎾᏅᏙ Ꮥ ᏃᎶᎾᎭ ᎠᏟᎢᎵᏒ",
+                "standard": "ᏪᎾᏅᏙ Ꮥ ᏃᎶᎾᎭ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᏪᎾᏅᏙ Ꮥ ᏃᎶᎾᎭ ᎪᎩ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Novosibirsk": {
+              "long": {
+                "generic": "ᏃᏬᏏᏈᏍᎧ ᎠᏟᎢᎵᏒ",
+                "standard": "ᏃᏬᏏᏈᏍᎧ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᏃᏬᏏᏈᏍᎧ ᎪᎩ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Omsk": {
+              "long": {
+                "generic": "ᎣᎻᏍᎧ ᎠᏟᎢᎵᏒ",
+                "standard": "ᎣᎻᏍᎧ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᎣᎻᏍᎧ ᎪᎩ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Pakistan": {
+              "long": {
+                "generic": "ᏆᎩᏍᏖᏂ ᎠᏟᎢᎵᏒ",
+                "standard": "ᏆᎩᏍᏖᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᏆᎩᏍᏖᏂ ᎪᎩ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Palau": {
+              "long": {
+                "standard": "ᏆᎷ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Papua_New_Guinea": {
+              "long": {
+                "standard": "ᏆᏇ ᎢᏤ ᎩᎢᏂ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Paraguay": {
+              "long": {
+                "generic": "ᏆᎵᏇ ᎠᏟᎢᎵᏒ",
+                "standard": "ᏆᎵᏇ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᏆᎵᏇ ᎪᎩ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Peru": {
+              "long": {
+                "generic": "ᏇᎷ ᎠᏟᎢᎵᏒ",
+                "standard": "ᏇᎷ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᏇᎷ ᎪᎩ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Philippines": {
+              "long": {
+                "generic": "ᎠᏂᏈᎵᎩᏃ ᎠᏟᎢᎵᏒ",
+                "standard": "ᎠᏂᏈᎵᎩᏃ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᎠᏂᏈᎵᎩᏃ ᎪᎩ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Phoenix_Islands": {
+              "long": {
+                "standard": "ᏧᎴᎯᏌᏅᎯ ᏚᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Pierre_Miquelon": {
+              "long": {
+                "generic": "ᎤᏓᏅᏘ ᏈᏰ ᎠᎴ ᎻᏇᎶᏂ ᎠᏟᎢᎵᏒ",
+                "standard": "ᎤᏓᏅᏘ ᏈᏰ ᎠᎴ ᎻᏇᎶᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᎤᏓᏅᏘ ᏈᏰ ᎠᎴ ᎻᏇᎶᏂ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒᎩ"
+              }
+            },
+            "Pitcairn": {
+              "long": {
+                "standard": "ᏈᎧᎵᏂ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Ponape": {
+              "long": {
+                "standard": "ᏉᎾᏇ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Pyongyang": {
+              "long": {
+                "standard": "ᏈᏯᏂᎩᏰᏂᎩ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Reunion": {
+              "long": {
+                "standard": "ᎴᏳᏂᎠᏂ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Rothera": {
+              "long": {
+                "standard": "ᎳᏞᎳ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Sakhalin": {
+              "long": {
+                "generic": "ᏌᎧᎵᏂ ᎠᏟᎢᎵᏒ",
+                "standard": "ᏌᎧᎵᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᏌᎧᎵᏂ ᎪᎩ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Samoa": {
+              "long": {
+                "generic": "ᏌᎼᎠ ᎠᏟᎢᎵᏒ",
+                "standard": "ᏌᎼᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᏌᎼᎠ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒᎩ"
+              }
+            },
+            "Seychelles": {
+              "long": {
+                "standard": "ᏎᏤᎴᏏ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Singapore": {
+              "long": {
+                "standard": "ᏏᏂᎦᏉᎵ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Solomon": {
+              "long": {
+                "standard": "ᏐᎶᎹᏂ ᏚᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "South_Georgia": {
+              "long": {
+                "standard": "ᏧᎦᎾᏮ ᏣᎠᏥᎢ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Suriname": {
+              "long": {
+                "standard": "ᏒᎵᎾᎻ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Syowa": {
+              "long": {
+                "standard": "ᏏᏲᏩ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Tahiti": {
+              "long": {
+                "standard": "ᏔᎯᏘ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Taipei": {
+              "long": {
+                "generic": "ᏔᏱᏇ ᎠᏟᎢᎵᏒ",
+                "standard": "ᏔᏱᏇ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᏔᏱᏇ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒᎩ"
+              }
+            },
+            "Tajikistan": {
+              "long": {
+                "standard": "ᏔᏥᎩᏍᏕᏂ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Tokelau": {
+              "long": {
+                "standard": "ᏙᎨᎳᎤ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Tonga": {
+              "long": {
+                "generic": "ᏙᎾᎦ ᎠᏟᎢᎵᏒ",
+                "standard": "ᏙᎾᎦ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᏙᎾᎦ ᎪᎩ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Truk": {
+              "long": {
+                "standard": "ᏧᎩ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Turkmenistan": {
+              "long": {
+                "generic": "ᏛᎵᎩᎺᏂᏍᏔᏂ ᎠᏟᎢᎵᏒ",
+                "standard": "ᏛᎵᎩᎺᏂᏍᏔᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᏛᎵᎩᎺᏂᏍᏔᏂ ᎪᎩ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Tuvalu": {
+              "long": {
+                "standard": "ᏚᏩᎷ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Uruguay": {
+              "long": {
+                "generic": "ᏳᎷᏇ ᎠᏟᎢᎵᏒ",
+                "standard": "ᏳᎷᏇ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᏳᎷᏇ ᎪᎩ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Uzbekistan": {
+              "long": {
+                "generic": "ᎤᏍᏇᎩᏍᏖᏂ ᎠᏟᎢᎵᏒ",
+                "standard": "ᎤᏍᏇᎩᏍᏖᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᎤᏍᏇᎩᏍᏖᏂ ᎪᎩ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Vanuatu": {
+              "long": {
+                "generic": "ᏩᏄᏩᏚ ᎠᏟᎢᎵᏒ",
+                "standard": "ᏩᏄᏩᏚ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᏩᏄᏩᏚ ᎪᎩ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Venezuela": {
+              "long": {
+                "standard": "ᏪᏁᏑᏪᎳ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Vladivostok": {
+              "long": {
+                "generic": "ᏭᎳᏗᏬᏍᏙᎩ ᎠᏟᎢᎵᏒ",
+                "standard": "ᏭᎳᏗᏬᏍᏙᎩ ᎠᏟᎢᎵᏒ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᏭᎳᏗᏬᏍᏙᎩ ᎪᎩ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Volgograd": {
+              "long": {
+                "generic": "ᏬᎶᎪᏝᏗ ᎠᏟᎢᎵᏒ",
+                "standard": "ᏬᎶᎪᏝᏗ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᏬᎶᎪᏝᏗ ᎪᎩ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Vostok": {
+              "long": {
+                "standard": "ᏬᏍᏙᎧ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Wake": {
+              "long": {
+                "standard": "ᎤᏰᏨ ᎤᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Wallis": {
+              "long": {
+                "standard": "ᏩᎵᏍ ᎠᎴ ᏊᏚᎾ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Yakutsk": {
+              "long": {
+                "generic": "ᏯᎫᏥᎧ ᎠᏟᎢᎵᏒ",
+                "standard": "ᏯᎫᏥᎧ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᏯᎫᏥᎧ ᎪᎩ ᎠᏟᎢᎵᏒ"
+              }
+            },
+            "Yekaterinburg": {
+              "long": {
+                "generic": "ᏰᎧᏖᎵᏂᏊᎦ ᎠᏟᎢᎵᏒ",
+                "standard": "ᏰᎧᏖᎵᏂᏊᎦ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᏰᎧᏖᎵᏂᏊᎦ ᎪᎩ ᎠᏟᎢᎵᏒ"
               }
             }
           }

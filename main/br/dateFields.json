@@ -3,8 +3,8 @@
     "br": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12876 $",
+          "_cldrVersion": "30"
         },
         "language": "br"
       },
@@ -211,7 +211,8 @@
               "relativeTimePattern-count-few": "{0} sizhun zo",
               "relativeTimePattern-count-many": "{0} a sizhunioù zo",
               "relativeTimePattern-count-other": "{0} sizhun zo"
-            }
+            },
+            "relativePeriod": "the week of {0}"
           },
           "week-short": {
             "displayName": "sizhun",
@@ -222,16 +223,17 @@
               "relativeTimePattern-count-one": "a-benn {0} sizhun",
               "relativeTimePattern-count-two": "a-benn {0} sizhun",
               "relativeTimePattern-count-few": "a-benn {0} sizhun",
-              "relativeTimePattern-count-many": "a-benn {0} sizhun",
+              "relativeTimePattern-count-many": "a-benn {0} a sizhunioù",
               "relativeTimePattern-count-other": "a-benn {0} sizhun"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} sizhun zo",
               "relativeTimePattern-count-two": "{0} sizhun zo",
               "relativeTimePattern-count-few": "{0} sizhun zo",
-              "relativeTimePattern-count-many": "{0} sizhun zo",
+              "relativeTimePattern-count-many": "{0} a sizhunioù zo",
               "relativeTimePattern-count-other": "{0} sizhun zo"
-            }
+            },
+            "relativePeriod": "the week of {0}"
           },
           "week-narrow": {
             "displayName": "sizhun",
@@ -242,16 +244,17 @@
               "relativeTimePattern-count-one": "a-benn {0} sizhun",
               "relativeTimePattern-count-two": "a-benn {0} sizhun",
               "relativeTimePattern-count-few": "a-benn {0} sizhun",
-              "relativeTimePattern-count-many": "a-benn {0} sizhun",
+              "relativeTimePattern-count-many": "a-benn {0} a sizhunioù",
               "relativeTimePattern-count-other": "a-benn {0} sizhun"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} sizhun zo",
               "relativeTimePattern-count-two": "{0} sizhun zo",
               "relativeTimePattern-count-few": "{0} sizhun zo",
-              "relativeTimePattern-count-many": "{0} sizhun zo",
+              "relativeTimePattern-count-many": "{0} a sizhunioù zo",
               "relativeTimePattern-count-other": "{0} sizhun zo"
-            }
+            },
+            "relativePeriod": "the week of {0}"
           },
           "day": {
             "displayName": "deiz",
@@ -322,113 +325,240 @@
           "sun": {
             "relative-type--1": "Disul diwezhañ",
             "relative-type-0": "ar Sul-mañ",
-            "relative-type-1": "Disul a zeu"
+            "relative-type-1": "Disul a zeu",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Sundays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Sundays"
+            }
           },
           "sun-short": {
             "relative-type--1": "Sul diwezhañ",
             "relative-type-0": "Sul-mañ",
-            "relative-type-1": "Sul a zeu"
+            "relative-type-1": "Sul a zeu",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Sundays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Sundays"
+            }
           },
           "sun-narrow": {
             "relative-type--1": "Su diwezhañ",
             "relative-type-0": "Su-mañ",
-            "relative-type-1": "Su a zeu"
+            "relative-type-1": "Su a zeu",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Sundays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Sundays"
+            }
           },
           "mon": {
             "relative-type--1": "Dilun diwezhañ",
             "relative-type-0": "al Lun-mañ",
-            "relative-type-1": "Dilun a zeu"
+            "relative-type-1": "Dilun a zeu",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Mondays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Mondays"
+            }
           },
           "mon-short": {
             "relative-type--1": "Lun diwezhañ",
             "relative-type-0": "Lun-mañ",
-            "relative-type-1": "Lun a zeu"
+            "relative-type-1": "Lun a zeu",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Mondays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Mondays"
+            }
           },
           "mon-narrow": {
             "relative-type--1": "L diwezhañ",
             "relative-type-0": "L-mañ",
-            "relative-type-1": "L a zeu"
+            "relative-type-1": "L a zeu",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Mondays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Mondays"
+            }
           },
           "tue": {
             "relative-type--1": "Dimeurzh diwezhañ",
             "relative-type-0": "ar Meurzh-mañ",
-            "relative-type-1": "Dimeurzh a zeu"
+            "relative-type-1": "Dimeurzh a zeu",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Tuesdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Tuesdays"
+            }
           },
           "tue-short": {
             "relative-type--1": "Meu. diwezhañ",
             "relative-type-0": "Meu.-mañ",
-            "relative-type-1": "Meu. a zeu"
+            "relative-type-1": "Meu. a zeu",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Tuesdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Tuesdays"
+            }
           },
           "tue-narrow": {
             "relative-type--1": "Mz diwezhañ",
             "relative-type-0": "Mz-mañ",
-            "relative-type-1": "Mz a zeu"
+            "relative-type-1": "Mz a zeu",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Tuesdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Tuesdays"
+            }
           },
           "wed": {
             "relative-type--1": "Dimercʼher diwezhañ",
             "relative-type-0": "ar Mercʼher-mañ",
-            "relative-type-1": "Dimercʼher a zeu"
+            "relative-type-1": "Dimercʼher a zeu",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Wednesdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Wednesdays"
+            }
           },
           "wed-short": {
             "relative-type--1": "Mer. diwezhañ",
             "relative-type-0": "Mer.-mañ",
-            "relative-type-1": "Mer. a zeu"
+            "relative-type-1": "Mer. a zeu",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Wednesdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Wednesdays"
+            }
           },
           "wed-narrow": {
             "relative-type--1": "Mc diwezhañ",
             "relative-type-0": "Mc-mañ",
-            "relative-type-1": "Mc a zeu"
+            "relative-type-1": "Mc a zeu",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Wednesdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Wednesdays"
+            }
           },
           "thu": {
             "relative-type--1": "Diriaou diwezhañ",
             "relative-type-0": "ar Yaou-mañ",
-            "relative-type-1": "Diriaou a zeu"
+            "relative-type-1": "Diriaou a zeu",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Thursdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Thursdays"
+            }
           },
           "thu-short": {
             "relative-type--1": "Yaou diwezhañ",
             "relative-type-0": "Yaou-mañ",
-            "relative-type-1": "Yaou a zeu"
+            "relative-type-1": "Yaou a zeu",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Thursdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Thursdays"
+            }
           },
           "thu-narrow": {
             "relative-type--1": "Y diwezhañ",
             "relative-type-0": "Y-mañ",
-            "relative-type-1": "Yaou a zeu"
+            "relative-type-1": "Yaou a zeu",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Thursdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Thursdays"
+            }
           },
           "fri": {
             "relative-type--1": "Digwener diwezhañ",
             "relative-type-0": "ar Gwener-mañ",
-            "relative-type-1": "Digwener a zeu"
+            "relative-type-1": "Digwener a zeu",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Fridays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Fridays"
+            }
           },
           "fri-short": {
             "relative-type--1": "Gwe. diwezhañ",
             "relative-type-0": "Gwe.-mañ",
-            "relative-type-1": "Gwe. a zeu"
+            "relative-type-1": "Gwe. a zeu",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Fridays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Fridays"
+            }
           },
           "fri-narrow": {
             "relative-type--1": "G diwezhañ",
             "relative-type-0": "G-mañ",
-            "relative-type-1": "G a zeu"
+            "relative-type-1": "G a zeu",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Fridays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Fridays"
+            }
           },
           "sat": {
             "relative-type--1": "Disadorn diwezhañ",
             "relative-type-0": "ar Sadorn-mañ",
-            "relative-type-1": "Disadorn a zeu"
+            "relative-type-1": "Disadorn a zeu",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Saturdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Saturdays"
+            }
           },
           "sat-short": {
             "relative-type--1": "Sad. diwezhañ",
             "relative-type-0": "Sad.-mañ",
-            "relative-type-1": "Sad. a zeu"
+            "relative-type-1": "Sad. a zeu",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Saturdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Saturdays"
+            }
           },
           "sat-narrow": {
             "relative-type--1": "Sa diwezhañ",
             "relative-type-0": "Sa-mañ",
-            "relative-type-1": "Sa a zeu"
+            "relative-type-1": "Sa a zeu",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Saturdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Saturdays"
+            }
           },
           "dayperiod": {
             "displayName": "AM/GM"
           },
           "hour": {
             "displayName": "eur",
+            "relative-type-0": "this hour",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "a-benn {0} eur",
               "relativeTimePattern-count-two": "a-benn {0} eur",
@@ -446,6 +576,7 @@
           },
           "hour-short": {
             "displayName": "e",
+            "relative-type-0": "this hour",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "a-benn {0} e",
               "relativeTimePattern-count-two": "a-benn {0} e",
@@ -463,6 +594,7 @@
           },
           "hour-narrow": {
             "displayName": "e",
+            "relative-type-0": "this hour",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "+{0} h",
               "relativeTimePattern-count-two": "+{0} h",
@@ -480,6 +612,7 @@
           },
           "minute": {
             "displayName": "munut",
+            "relative-type-0": "this minute",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "a-benn {0} munut",
               "relativeTimePattern-count-two": "a-benn {0} vunut",
@@ -497,6 +630,7 @@
           },
           "minute-short": {
             "displayName": "min",
+            "relative-type-0": "this minute",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "a-benn {0} min",
               "relativeTimePattern-count-two": "a-benn {0} min",
@@ -514,6 +648,7 @@
           },
           "minute-narrow": {
             "displayName": "min",
+            "relative-type-0": "this minute",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "+{0} min",
               "relativeTimePattern-count-two": "+{0} min",

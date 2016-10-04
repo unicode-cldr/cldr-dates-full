@@ -3,8 +3,8 @@
     "mt": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12307 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12876 $",
+          "_cldrVersion": "30"
         },
         "language": "mt"
       },
@@ -190,7 +190,7 @@
                 "exemplarCity": "Guadeloupe"
               },
               "Guatemala": {
-                "exemplarCity": "Guatemala"
+                "exemplarCity": "il-Gwatemala"
               },
               "Guayaquil": {
                 "exemplarCity": "Guayaquil"
@@ -240,7 +240,7 @@
                 "exemplarCity": "Iqaluit"
               },
               "Jamaica": {
-                "exemplarCity": "Jamaica"
+                "exemplarCity": "il-Ġamajka"
               },
               "Jujuy": {
                 "exemplarCity": "Jujuy"
@@ -489,7 +489,7 @@
                 "exemplarCity": "Reykjavik"
               },
               "South_Georgia": {
-                "exemplarCity": "South Georgia"
+                "exemplarCity": "il-Georgia tan-Nofsinhar"
               },
               "St_Helena": {
                 "exemplarCity": "St. Helena"
@@ -505,11 +505,14 @@
               "Andorra": {
                 "exemplarCity": "Andorra"
               },
+              "Astrakhan": {
+                "exemplarCity": "Astrakhan"
+              },
               "Athens": {
-                "exemplarCity": "Athens"
+                "exemplarCity": "Ateni"
               },
               "Belgrade": {
-                "exemplarCity": "Belgrade"
+                "exemplarCity": "Belgrad"
               },
               "Berlin": {
                 "exemplarCity": "Berlin"
@@ -518,7 +521,7 @@
                 "exemplarCity": "Bratislava"
               },
               "Brussels": {
-                "exemplarCity": "Brussels"
+                "exemplarCity": "Brussell"
               },
               "Bucharest": {
                 "exemplarCity": "Bucharest"
@@ -539,7 +542,7 @@
                 "exemplarCity": "Dublin"
               },
               "Gibraltar": {
-                "exemplarCity": "Gibraltar"
+                "exemplarCity": "Ġibiltà"
               },
               "Guernsey": {
                 "exemplarCity": "Guernsey"
@@ -562,8 +565,11 @@
               "Kiev": {
                 "exemplarCity": "Kiev"
               },
+              "Kirov": {
+                "exemplarCity": "Kirov"
+              },
               "Lisbon": {
-                "exemplarCity": "Lisbon"
+                "exemplarCity": "Lisbona"
               },
               "Ljubljana": {
                 "exemplarCity": "Ljubljana"
@@ -572,7 +578,7 @@
                 "exemplarCity": "Londra"
               },
               "Luxembourg": {
-                "exemplarCity": "Luxembourg"
+                "exemplarCity": "il-Lussemburgu"
               },
               "Madrid": {
                 "exemplarCity": "Madrid"
@@ -590,25 +596,25 @@
                 "exemplarCity": "Monaco"
               },
               "Moscow": {
-                "exemplarCity": "Moscow"
+                "exemplarCity": "Moska"
               },
               "Oslo": {
                 "exemplarCity": "Oslo"
               },
               "Paris": {
-                "exemplarCity": "Paris"
+                "exemplarCity": "Pariġi"
               },
               "Podgorica": {
                 "exemplarCity": "Podgorica"
               },
               "Prague": {
-                "exemplarCity": "Prague"
+                "exemplarCity": "Praga"
               },
               "Riga": {
                 "exemplarCity": "Riga"
               },
               "Rome": {
-                "exemplarCity": "Rome"
+                "exemplarCity": "Ruma"
               },
               "Samara": {
                 "exemplarCity": "Samara"
@@ -626,16 +632,19 @@
                 "exemplarCity": "Skopje"
               },
               "Sofia": {
-                "exemplarCity": "Sofia"
+                "exemplarCity": "Sofija"
               },
               "Stockholm": {
-                "exemplarCity": "Stockholm"
+                "exemplarCity": "Stokkolma"
               },
               "Tallinn": {
                 "exemplarCity": "Tallinn"
               },
               "Tirane": {
-                "exemplarCity": "Tirane"
+                "exemplarCity": "Tirana"
+              },
+              "Ulyanovsk": {
+                "exemplarCity": "Ulyanovsk"
               },
               "Uzhgorod": {
                 "exemplarCity": "Uzhgorod"
@@ -644,10 +653,10 @@
                 "exemplarCity": "Vaduz"
               },
               "Vatican": {
-                "exemplarCity": "Vatican"
+                "exemplarCity": "il-belt tal-Vatikan"
               },
               "Vienna": {
-                "exemplarCity": "Vienna"
+                "exemplarCity": "Vjenna"
               },
               "Vilnius": {
                 "exemplarCity": "Vilnius"
@@ -656,7 +665,7 @@
                 "exemplarCity": "Volgograd"
               },
               "Warsaw": {
-                "exemplarCity": "Warsaw"
+                "exemplarCity": "Varsavja"
               },
               "Zagreb": {
                 "exemplarCity": "Zagreb"
@@ -679,7 +688,7 @@
                 "exemplarCity": "Addis Ababa"
               },
               "Algiers": {
-                "exemplarCity": "Algiers"
+                "exemplarCity": "l-Alġier"
               },
               "Asmera": {
                 "exemplarCity": "Asmara"
@@ -860,8 +869,11 @@
               "Bangkok": {
                 "exemplarCity": "Bangkok"
               },
+              "Barnaul": {
+                "exemplarCity": "Barnaul"
+              },
               "Beirut": {
-                "exemplarCity": "Beirut"
+                "exemplarCity": "Bejrut"
               },
               "Bishkek": {
                 "exemplarCity": "Bishkek"
@@ -882,7 +894,7 @@
                 "exemplarCity": "Colombo"
               },
               "Damascus": {
-                "exemplarCity": "Damascus"
+                "exemplarCity": "Damasku"
               },
               "Dhaka": {
                 "exemplarCity": "Dhaka"
@@ -918,7 +930,7 @@
                 "exemplarCity": "Jayapura"
               },
               "Jerusalem": {
-                "exemplarCity": "Jerusalem"
+                "exemplarCity": "Ġerusalemm"
               },
               "Kabul": {
                 "exemplarCity": "Kabul"
@@ -945,7 +957,7 @@
                 "exemplarCity": "Kuching"
               },
               "Kuwait": {
-                "exemplarCity": "Kuwait"
+                "exemplarCity": "il-Belt tal-Kuwajt"
               },
               "Macau": {
                 "exemplarCity": "Macau"
@@ -963,7 +975,7 @@
                 "exemplarCity": "Muscat"
               },
               "Nicosia": {
-                "exemplarCity": "Nicosia"
+                "exemplarCity": "Nikosija"
               },
               "Novokuznetsk": {
                 "exemplarCity": "Novokuznetsk"
@@ -1037,6 +1049,9 @@
               "Tokyo": {
                 "exemplarCity": "Tokyo"
               },
+              "Tomsk": {
+                "exemplarCity": "Tomsk"
+              },
               "Ulaanbaatar": {
                 "exemplarCity": "Ulaanbaatar"
               },
@@ -1085,7 +1100,7 @@
                 "exemplarCity": "Mahe"
               },
               "Maldives": {
-                "exemplarCity": "Maldives"
+                "exemplarCity": "il-Maldivi"
               },
               "Mauritius": {
                 "exemplarCity": "Mauritius"

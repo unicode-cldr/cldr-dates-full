@@ -3,8 +3,8 @@
     "br": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12876 $",
+          "_cldrVersion": "30"
         },
         "language": "br"
       },
@@ -246,8 +246,8 @@
                   "pm": "G.M."
                 },
                 "wide": {
-                  "am": "a-raok merenn",
-                  "pm": "goude merenn"
+                  "am": "A.M.",
+                  "pm": "G.M."
                 }
               }
             },
@@ -296,10 +296,10 @@
                 "EHm": "E HH:mm",
                 "Ehms": "E h:mm:ss a",
                 "EHms": "E HH:mm:ss",
-                "Gy": "y G",
-                "GyMMM": "MMM y G",
-                "GyMMMd": "d MMM y G",
-                "GyMMMEd": "E d MMM y G",
+                "Gy": "G y",
+                "GyMMM": "G y MMM",
+                "GyMMMd": "G y MMM d",
+                "GyMMMEd": "G y MMM d, E",
                 "h": "h a",
                 "H": "HH",
                 "hm": "h:mm a",
@@ -317,6 +317,11 @@
                 "MMMd": "d MMM",
                 "MMMEd": "E d MMM",
                 "MMMMd": "MMMM d",
+                "MMMMW": "'week' W 'of' MMM",
+                "MMMMW": "'week' W 'of' MMM",
+                "MMMMW": "'week' W 'of' MMM",
+                "MMMMW": "'week' W 'of' MMM",
+                "MMMMW": "'week' W 'of' MMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "MM/y",
@@ -327,7 +332,12 @@
                 "yMMMEd": "E d MMM y",
                 "yMMMM": "y MMMM",
                 "yQQQ": "QQQ y",
-                "yQQQQ": "QQQQ y"
+                "yQQQQ": "QQQQ y",
+                "yw": "'week' w 'of' y",
+                "yw": "'week' w 'of' y",
+                "yw": "'week' w 'of' y",
+                "yw": "'week' w 'of' y",
+                "yw": "'week' w 'of' y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",
