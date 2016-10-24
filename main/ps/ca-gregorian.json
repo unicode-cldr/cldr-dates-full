@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 12740 $",
-          "_cldrVersion": "30"
+          "_cldrVersion": "30.0.2"
         },
         "language": "ps"
       },
@@ -317,8 +317,8 @@
                 "MMMd": "MMM d",
                 "MMMEd": "MMM d, E",
                 "MMMMd": "d MMMM",
-                "MMMMW": "اونۍ W د MMM",
-                "MMMMW": "اونۍ W د MMM",
+                "MMMMW-count-one": "اونۍ W د MMM",
+                "MMMMW-count-other": "اونۍ W د MMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "y/M",
@@ -330,8 +330,8 @@
                 "yMMMM": "د y د MMMM",
                 "yQQQ": "y QQQ",
                 "yQQQQ": "y QQQQ",
-                "yw": "اونۍ w د y",
-                "yw": "اونۍ w د y"
+                "yw-count-one": "اونۍ w د y",
+                "yw-count-other": "اونۍ w د y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

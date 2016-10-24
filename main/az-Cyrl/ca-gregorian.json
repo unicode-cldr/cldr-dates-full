@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 12740 $",
-          "_cldrVersion": "30"
+          "_cldrVersion": "30.0.2"
         },
         "language": "az",
         "script": "Cyrl"
@@ -366,8 +366,8 @@
                 "MMMd": "d MMM",
                 "MMMEd": "d MMM, E",
                 "MMMMd": "MMMM d",
-                "MMMMW": "MMM, W 'һәфтә'",
-                "MMMMW": "MMM, W 'һәфтә'",
+                "MMMMW-count-one": "MMM, W 'һәфтә'",
+                "MMMMW-count-other": "MMM, W 'һәфтә'",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "MM.y",
@@ -379,8 +379,8 @@
                 "yMMMM": "y MMMM",
                 "yQQQ": "y QQQ",
                 "yQQQQ": "y QQQQ",
-                "yw": "y, w 'һәфтә'",
-                "yw": "y, w 'һәфтә'"
+                "yw-count-one": "y, w 'һәфтә'",
+                "yw-count-other": "y, w 'һәфтә'"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

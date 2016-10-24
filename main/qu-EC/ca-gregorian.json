@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 12740 $",
-          "_cldrVersion": "30"
+          "_cldrVersion": "30.0.2"
         },
         "language": "qu",
         "territory": "EC"
@@ -318,7 +318,7 @@
                 "MMMd": "MMM d",
                 "MMMEd": "MMM d, E",
                 "MMMMd": "MMMM d",
-                "MMMMW": "W 'semana' MMM 'killapa'",
+                "MMMMW-count-other": "W 'semana' MMM 'killapa'",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "y-MM",
@@ -330,7 +330,7 @@
                 "yMMMM": "y MMMM",
                 "yQQQ": "y QQQ",
                 "yQQQQ": "y QQQQ",
-                "yw": "w 'semana' y 'watapa'"
+                "yw-count-other": "w 'semana' y 'watapa'"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

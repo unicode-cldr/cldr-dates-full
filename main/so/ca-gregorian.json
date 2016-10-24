@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 12778 $",
-          "_cldrVersion": "30"
+          "_cldrVersion": "30.0.2"
         },
         "language": "so"
       },
@@ -318,8 +318,8 @@
                 "MMMEd": "E, MMM d",
                 "MMMMd": "MMMM d",
                 "MMMMEd": "E, MMMM d",
-                "MMMMW": "'usbuuc' W 'ee' MMMM",
-                "MMMMW": "'usbuuc' W 'ee' MMMM",
+                "MMMMW-count-one": "'usbuuc' W 'ee' MMMM",
+                "MMMMW-count-other": "'usbuuc' W 'ee' MMMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "M/y",
@@ -331,7 +331,7 @@
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ y",
-                "yw": "'week' w 'of' y"
+                "yw-count-other": "'week' w 'of' y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",
