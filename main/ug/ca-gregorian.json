@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 12876 $",
-          "_cldrVersion": "30.0.2"
+          "_cldrVersion": "30.0.3"
         },
         "language": "ug"
       },
@@ -317,8 +317,8 @@
                 "MMMd": "d-MMM",
                 "MMMEd": "d-MMM، E",
                 "MMMMd": "d-MMMM",
-                "MMMMW-count-one": "MMM، W-ھەپتە",
-                "MMMMW-count-other": "MMM، W-ھەپتە",
+                "MMMMW": "MMM، W-ھەپتە",
+                "MMMMW": "MMM، W-ھەپتە",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "M-y",
@@ -330,8 +330,8 @@
                 "yMMMM": "y MMMM",
                 "yQQQ": "y QQQ",
                 "yQQQQ": "y QQQQ",
-                "yw-count-one": "y، w-ھەپتە",
-                "yw-count-other": "y، w-ھەپتە"
+                "yw": "y، w-ھەپتە",
+                "yw": "y، w-ھەپتە"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 12740 $",
-          "_cldrVersion": "30.0.2"
+          "_cldrVersion": "30.0.3"
         },
         "language": "ti"
       },
@@ -319,8 +319,8 @@
                 "MMMEd": "MMM d, E",
                 "MMMMd": "MMMM d",
                 "MMMMdd": "dd MMMM",
-                "MMMMW-count-one": "ሰሙን W ናይ MMM",
-                "MMMMW-count-other": "ሰሙን W ናይ MMM",
+                "MMMMW": "ሰሙን W ናይ MMM",
+                "MMMMW": "ሰሙን W ናይ MMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "y-MM",
@@ -333,8 +333,8 @@
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "y QQQQ",
-                "yw-count-one": "መበል w ሰሙን ናይ y",
-                "yw-count-other": "መበል w ሰሙን ናይ y"
+                "yw": "መበል w ሰሙን ናይ y",
+                "yw": "መበል w ሰሙን ናይ y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

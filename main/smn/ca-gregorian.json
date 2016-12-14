@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 12740 $",
-          "_cldrVersion": "30.0.2"
+          "_cldrVersion": "30.0.3"
         },
         "language": "smn"
       },
@@ -317,9 +317,9 @@
                 "MMMd": "MMM d.",
                 "MMMEd": "E, MMM d.",
                 "MMMMd": "MMMM d.",
-                "MMMMW-count-one": "'okko' W, MMM",
-                "MMMMW-count-two": "'okko' W, MMM",
-                "MMMMW-count-other": "'okko' W, MMM",
+                "MMMMW": "'okko' W, MMM",
+                "MMMMW": "'okko' W, MMM",
+                "MMMMW": "'okko' W, MMM",
                 "ms": "m.ss.",
                 "y": "y",
                 "yM": "L.y",
@@ -331,9 +331,9 @@
                 "yMMMM": "LLLL y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ y",
-                "yw-count-one": "'okko' w, y",
-                "yw-count-two": "'okko' w, y",
-                "yw-count-other": "'okko' w, y"
+                "yw": "'okko' w, y",
+                "yw": "'okko' w, y",
+                "yw": "'okko' w, y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",
