@@ -3,14 +3,20 @@
     "ksh": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12876 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13186 $",
+          "_cldrVersion": "31"
         },
         "language": "ksh"
       },
       "dates": {
         "fields": {
           "era": {
+            "displayName": "Ähra"
+          },
+          "era-short": {
+            "displayName": "Ähra"
+          },
+          "era-narrow": {
             "displayName": "Ähra"
           },
           "year": {
@@ -172,6 +178,15 @@
             },
             "relativePeriod": "the week of {0}"
           },
+          "weekOfMonth": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-short": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-narrow": {
+            "displayName": "Week Of Month"
+          },
           "day": {
             "displayName": "Daach",
             "relative-type--2": "vörjestere",
@@ -214,8 +229,32 @@
               "relativeTimePattern-count-other": "-{0} d"
             }
           },
+          "dayOfYear": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-short": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-narrow": {
+            "displayName": "Day Of Year"
+          },
           "weekday": {
             "displayName": "Wochedaach"
+          },
+          "weekday-short": {
+            "displayName": "Wochedaach"
+          },
+          "weekday-narrow": {
+            "displayName": "Wochedaach"
+          },
+          "weekdayOfMonth": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-short": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-narrow": {
+            "displayName": "Weekday Of Month"
           },
           "sun": {
             "relative-type--1": "Sunndaach letzte Woche",
@@ -448,7 +487,13 @@
               "relativeTimePattern-count-other": "-{0} Saturdays"
             }
           },
+          "dayperiod-short": {
+            "displayName": "Daachteil"
+          },
           "dayperiod": {
+            "displayName": "Daachteil"
+          },
+          "dayperiod-narrow": {
             "displayName": "Daachteil"
           },
           "hour": {
@@ -542,6 +587,12 @@
             }
           },
           "zone": {
+            "displayName": "Zickzohn"
+          },
+          "zone-short": {
+            "displayName": "Zickzohn"
+          },
+          "zone-narrow": {
             "displayName": "Zickzohn"
           }
         }

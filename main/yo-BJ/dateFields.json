@@ -3,8 +3,8 @@
     "yo-BJ": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12954 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13133 $",
+          "_cldrVersion": "31"
         },
         "language": "yo",
         "territory": "BJ"
@@ -12,6 +12,12 @@
       "dates": {
         "fields": {
           "era": {
+            "displayName": "Ìgbà"
+          },
+          "era-short": {
+            "displayName": "Ìgbà"
+          },
+          "era-narrow": {
             "displayName": "Ìgbà"
           },
           "year": {
@@ -161,6 +167,15 @@
             },
             "relativePeriod": "the week of {0}"
           },
+          "weekOfMonth": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-short": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-narrow": {
+            "displayName": "Week Of Month"
+          },
           "day": {
             "displayName": "Ɔjɔ́",
             "relative-type--2": "íjɛta",
@@ -203,8 +218,32 @@
               "relativeTimePattern-count-other": "-{0} d"
             }
           },
+          "dayOfYear": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-short": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-narrow": {
+            "displayName": "Day Of Year"
+          },
           "weekday": {
             "displayName": "Ɔjɔ́ Ɔ̀sɛ̀"
+          },
+          "weekday-short": {
+            "displayName": "Ɔjɔ́ Ɔ̀sɛ̀"
+          },
+          "weekday-narrow": {
+            "displayName": "Ɔjɔ́ Ɔ̀sɛ̀"
+          },
+          "weekdayOfMonth": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-short": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-narrow": {
+            "displayName": "Weekday Of Month"
           },
           "sun": {
             "relative-type--1": "last Sunday",
@@ -437,7 +476,13 @@
               "relativeTimePattern-count-other": "-{0} Saturdays"
             }
           },
+          "dayperiod-short": {
+            "displayName": "Àárɔ̀/ɔ̀sán"
+          },
           "dayperiod": {
+            "displayName": "Àárɔ̀/ɔ̀sán"
+          },
+          "dayperiod-narrow": {
             "displayName": "Àárɔ̀/ɔ̀sán"
           },
           "hour": {
@@ -531,6 +576,12 @@
             }
           },
           "zone": {
+            "displayName": "Ibi Àkókò Àgbáyé"
+          },
+          "zone-short": {
+            "displayName": "Ibi Àkókò Àgbáyé"
+          },
+          "zone-narrow": {
             "displayName": "Ibi Àkókò Àgbáyé"
           }
         }

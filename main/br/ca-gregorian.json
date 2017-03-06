@@ -3,8 +3,8 @@
     "br": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12876 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13186 $",
+          "_cldrVersion": "31"
         },
         "language": "br"
       },
@@ -317,11 +317,11 @@
                 "MMMd": "d MMM",
                 "MMMEd": "E d MMM",
                 "MMMMd": "MMMM d",
-                "MMMMW": "'week' W 'of' MMM",
-                "MMMMW": "'week' W 'of' MMM",
-                "MMMMW": "'week' W 'of' MMM",
-                "MMMMW": "'week' W 'of' MMM",
-                "MMMMW": "'week' W 'of' MMM",
+                "MMMMW-count-one": "'week' W 'of' MMM",
+                "MMMMW-count-two": "'week' W 'of' MMM",
+                "MMMMW-count-few": "'week' W 'of' MMM",
+                "MMMMW-count-many": "'week' W 'of' MMM",
+                "MMMMW-count-other": "'week' W 'of' MMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "MM/y",
@@ -333,11 +333,11 @@
                 "yMMMM": "y MMMM",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ y",
-                "yw": "'week' w 'of' y",
-                "yw": "'week' w 'of' y",
-                "yw": "'week' w 'of' y",
-                "yw": "'week' w 'of' y",
-                "yw": "'week' w 'of' y"
+                "yw-count-one": "'week' w 'of' y",
+                "yw-count-two": "'week' w 'of' y",
+                "yw-count-few": "'week' w 'of' y",
+                "yw-count-many": "'week' w 'of' y",
+                "yw-count-other": "'week' w 'of' y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

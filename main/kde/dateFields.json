@@ -3,14 +3,20 @@
     "kde": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12740 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13133 $",
+          "_cldrVersion": "31"
         },
         "language": "kde"
       },
       "dates": {
         "fields": {
           "era": {
+            "displayName": "Mahiku"
+          },
+          "era-short": {
+            "displayName": "Mahiku"
+          },
+          "era-narrow": {
             "displayName": "Mahiku"
           },
           "year": {
@@ -160,6 +166,15 @@
             },
             "relativePeriod": "the week of {0}"
           },
+          "weekOfMonth": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-short": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-narrow": {
+            "displayName": "Week Of Month"
+          },
           "day": {
             "displayName": "Lihiku",
             "relative-type--1": "Lido",
@@ -196,8 +211,32 @@
               "relativeTimePattern-count-other": "-{0} d"
             }
           },
+          "dayOfYear": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-short": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-narrow": {
+            "displayName": "Day Of Year"
+          },
           "weekday": {
             "displayName": "Disiku dya lijuma"
+          },
+          "weekday-short": {
+            "displayName": "Disiku dya lijuma"
+          },
+          "weekday-narrow": {
+            "displayName": "Disiku dya lijuma"
+          },
+          "weekdayOfMonth": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-short": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-narrow": {
+            "displayName": "Weekday Of Month"
           },
           "sun": {
             "relative-type--1": "last Sunday",
@@ -430,7 +469,13 @@
               "relativeTimePattern-count-other": "-{0} Saturdays"
             }
           },
+          "dayperiod-short": {
+            "displayName": "Muhi/Chilo"
+          },
           "dayperiod": {
+            "displayName": "Muhi/Chilo"
+          },
+          "dayperiod-narrow": {
             "displayName": "Muhi/Chilo"
           },
           "hour": {
@@ -524,6 +569,12 @@
             }
           },
           "zone": {
+            "displayName": "Npanda wa muda"
+          },
+          "zone-short": {
+            "displayName": "Npanda wa muda"
+          },
+          "zone-narrow": {
             "displayName": "Npanda wa muda"
           }
         }

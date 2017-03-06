@@ -3,14 +3,20 @@
     "lb": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12876 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13186 $",
+          "_cldrVersion": "31"
         },
         "language": "lb"
       },
       "dates": {
         "fields": {
           "era": {
+            "displayName": "Epoch"
+          },
+          "era-short": {
+            "displayName": "Epoch"
+          },
+          "era-narrow": {
             "displayName": "Epoch"
           },
           "year": {
@@ -184,6 +190,15 @@
             },
             "relativePeriod": "the week of {0}"
           },
+          "weekOfMonth": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-short": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-narrow": {
+            "displayName": "Week Of Month"
+          },
           "day": {
             "displayName": "Dag",
             "relative-type--1": "gëschter",
@@ -226,8 +241,32 @@
               "relativeTimePattern-count-other": "-{0} D."
             }
           },
+          "dayOfYear": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-short": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-narrow": {
+            "displayName": "Day Of Year"
+          },
           "weekday": {
             "displayName": "Wochendag"
+          },
+          "weekday-short": {
+            "displayName": "Wochendag"
+          },
+          "weekday-narrow": {
+            "displayName": "Wochendag"
+          },
+          "weekdayOfMonth": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-short": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-narrow": {
+            "displayName": "Weekday Of Month"
           },
           "sun": {
             "relative-type--1": "leschte Sonndeg",
@@ -460,7 +499,13 @@
               "relativeTimePattern-count-other": "-{0} Saturdays"
             }
           },
+          "dayperiod-short": {
+            "displayName": "Dageshallschent"
+          },
           "dayperiod": {
+            "displayName": "Dageshallschent"
+          },
+          "dayperiod-narrow": {
             "displayName": "Dageshallschent"
           },
           "hour": {
@@ -572,6 +617,12 @@
             }
           },
           "zone": {
+            "displayName": "Zäitzon"
+          },
+          "zone-short": {
+            "displayName": "Zäitzon"
+          },
+          "zone-narrow": {
             "displayName": "Zäitzon"
           }
         }

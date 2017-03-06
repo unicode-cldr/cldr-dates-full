@@ -3,8 +3,8 @@
     "ast": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12876 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13186 $",
+          "_cldrVersion": "31"
         },
         "language": "ast"
       },
@@ -317,8 +317,8 @@
                 "MMMd": "d MMM",
                 "MMMEd": "E, d MMM",
                 "MMMMd": "d MMMM",
-                "MMMMW": "'selmana' W 'de' MMM",
-                "MMMMW": "'selmana' W 'de' MMM",
+                "MMMMW-count-one": "'selmana' W 'de' MMM",
+                "MMMMW-count-other": "'selmana' W 'de' MMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "M/y",
@@ -330,8 +330,8 @@
                 "yMMMM": "LLLL 'de' y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ 'de' y",
-                "yw": "'selmana' w 'de' y",
-                "yw": "'selmana' w 'de' y"
+                "yw-count-one": "'selmana' w 'de' y",
+                "yw-count-other": "'selmana' w 'de' y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

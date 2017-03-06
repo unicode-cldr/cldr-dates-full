@@ -3,14 +3,20 @@
     "chr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12876 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13174 $",
+          "_cldrVersion": "31"
         },
         "language": "chr"
       },
       "dates": {
         "fields": {
           "era": {
+            "displayName": "ᏗᏓᎴᏂᏍᎬ"
+          },
+          "era-short": {
+            "displayName": "ᏗᏓᎴᏂᏍᎬ"
+          },
+          "era-narrow": {
             "displayName": "ᏗᏓᎴᏂᏍᎬ"
           },
           "year": {
@@ -184,6 +190,15 @@
             },
             "relativePeriod": "Ꮎ ᏒᎾᏙᏓᏆᏍᏗ ᎾᏍᎩ {0}"
           },
+          "weekOfMonth": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-short": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-narrow": {
+            "displayName": "Week Of Month"
+          },
           "day": {
             "displayName": "ᎢᎦ",
             "relative-type--1": "ᏒᎯ",
@@ -226,8 +241,32 @@
               "relativeTimePattern-count-other": "{0} ᎯᎸᏍᎩ ᏧᏒᎯᏛ ᏥᎨᏒ"
             }
           },
+          "dayOfYear": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-short": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-narrow": {
+            "displayName": "Day Of Year"
+          },
           "weekday": {
             "displayName": "ᎢᎦ ᏕᎨᏌᏗᏒ"
+          },
+          "weekday-short": {
+            "displayName": "ᎢᎦ ᏕᎨᏌᏗᏒ"
+          },
+          "weekday-narrow": {
+            "displayName": "ᎢᎦ ᏕᎨᏌᏗᏒ"
+          },
+          "weekdayOfMonth": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-short": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-narrow": {
+            "displayName": "Weekday Of Month"
           },
           "sun": {
             "relative-type--1": "ᎤᎾᏙᏓᏆᏍᎬ ᏥᎨᏒ",
@@ -502,7 +541,13 @@
               "relativeTimePattern-count-other": "{0} ᎤᎾᏙᏓᏈᎨᎾ ᏥᎨᏒ"
             }
           },
+          "dayperiod-short": {
+            "displayName": "ᏌᎾᎴ/ᏒᎯᏱ"
+          },
           "dayperiod": {
+            "displayName": "ᏌᎾᎴ/ᏒᎯᏱ"
+          },
+          "dayperiod-narrow": {
             "displayName": "ᏌᎾᎴ/ᏒᎯᏱ"
           },
           "hour": {
@@ -614,6 +659,12 @@
             }
           },
           "zone": {
+            "displayName": "ᏂᎬᎾᏛ ᏧᏓᎴᏅᏓ ᏓᏟᎢᎵᏍᏒᎢ"
+          },
+          "zone-short": {
+            "displayName": "ᏂᎬᎾᏛ ᏧᏓᎴᏅᏓ ᏓᏟᎢᎵᏍᏒᎢ"
+          },
+          "zone-narrow": {
             "displayName": "ᏂᎬᎾᏛ ᏧᏓᎴᏅᏓ ᏓᏟᎢᎵᏍᏒᎢ"
           }
         }

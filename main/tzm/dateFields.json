@@ -3,14 +3,20 @@
     "tzm": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12740 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13133 $",
+          "_cldrVersion": "31"
         },
         "language": "tzm"
       },
       "dates": {
         "fields": {
           "era": {
+            "displayName": "Tallit"
+          },
+          "era-short": {
+            "displayName": "Tallit"
+          },
+          "era-narrow": {
             "displayName": "Tallit"
           },
           "year": {
@@ -160,6 +166,15 @@
             },
             "relativePeriod": "the week of {0}"
           },
+          "weekOfMonth": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-short": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-narrow": {
+            "displayName": "Week Of Month"
+          },
           "day": {
             "displayName": "Ass",
             "relative-type--1": "Assenaṭ",
@@ -196,8 +211,32 @@
               "relativeTimePattern-count-other": "-{0} d"
             }
           },
+          "dayOfYear": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-short": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-narrow": {
+            "displayName": "Day Of Year"
+          },
           "weekday": {
             "displayName": "Ass n Imalass"
+          },
+          "weekday-short": {
+            "displayName": "Ass n Imalass"
+          },
+          "weekday-narrow": {
+            "displayName": "Ass n Imalass"
+          },
+          "weekdayOfMonth": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-short": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-narrow": {
+            "displayName": "Weekday Of Month"
           },
           "sun": {
             "relative-type--1": "last Sunday",
@@ -430,7 +469,13 @@
               "relativeTimePattern-count-other": "-{0} Saturdays"
             }
           },
+          "dayperiod-short": {
+            "displayName": "Zdat azal/Deffir azal"
+          },
           "dayperiod": {
+            "displayName": "Zdat azal/Deffir azal"
+          },
+          "dayperiod-narrow": {
             "displayName": "Zdat azal/Deffir azal"
           },
           "hour": {
@@ -524,6 +569,12 @@
             }
           },
           "zone": {
+            "displayName": "Aseglem asergan"
+          },
+          "zone-short": {
+            "displayName": "Aseglem asergan"
+          },
+          "zone-narrow": {
             "displayName": "Aseglem asergan"
           }
         }

@@ -3,14 +3,20 @@
     "kea": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12746 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13174 $",
+          "_cldrVersion": "31"
         },
         "language": "kea"
       },
       "dates": {
         "fields": {
           "era": {
+            "displayName": "Era"
+          },
+          "era-short": {
+            "displayName": "Era"
+          },
+          "era-narrow": {
             "displayName": "Era"
           },
           "year": {
@@ -160,6 +166,15 @@
             },
             "relativePeriod": "the week of {0}"
           },
+          "weekOfMonth": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-short": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-narrow": {
+            "displayName": "Week Of Month"
+          },
           "day": {
             "displayName": "Dia",
             "relative-type--1": "onti",
@@ -196,8 +211,32 @@
               "relativeTimePattern-count-other": "a ten {0} dia"
             }
           },
+          "dayOfYear": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-short": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-narrow": {
+            "displayName": "Day Of Year"
+          },
           "weekday": {
             "displayName": "Dia di simana"
+          },
+          "weekday-short": {
+            "displayName": "Dia di simana"
+          },
+          "weekday-narrow": {
+            "displayName": "Dia di simana"
+          },
+          "weekdayOfMonth": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-short": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-narrow": {
+            "displayName": "Weekday Of Month"
           },
           "sun": {
             "relative-type--1": "dumingu pasadu",
@@ -430,7 +469,13 @@
               "relativeTimePattern-count-other": "-{0} Saturdays"
             }
           },
+          "dayperiod-short": {
+            "displayName": "am/pm"
+          },
           "dayperiod": {
+            "displayName": "am/pm"
+          },
+          "dayperiod-narrow": {
             "displayName": "am/pm"
           },
           "hour": {
@@ -524,6 +569,12 @@
             }
           },
           "zone": {
+            "displayName": "Ora lokal"
+          },
+          "zone-short": {
+            "displayName": "Ora lokal"
+          },
+          "zone-narrow": {
             "displayName": "Ora lokal"
           }
         }

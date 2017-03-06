@@ -3,14 +3,20 @@
     "ug": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12876 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13186 $",
+          "_cldrVersion": "31"
         },
         "language": "ug"
       },
       "dates": {
         "fields": {
           "era": {
+            "displayName": "مىلادىيە"
+          },
+          "era-short": {
+            "displayName": "مىلادىيە"
+          },
+          "era-narrow": {
             "displayName": "مىلادىيە"
           },
           "year": {
@@ -178,6 +184,15 @@
             },
             "relativePeriod": "the week of {0}"
           },
+          "weekOfMonth": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-short": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-narrow": {
+            "displayName": "Week Of Month"
+          },
           "day": {
             "displayName": "كۈن",
             "relative-type--1": "تۈنۈگۈن",
@@ -220,8 +235,32 @@
               "relativeTimePattern-count-other": "{0} كۈن ئىلگىرى"
             }
           },
+          "dayOfYear": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-short": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-narrow": {
+            "displayName": "Day Of Year"
+          },
           "weekday": {
             "displayName": "ھەپتە كۈنلىرى"
+          },
+          "weekday-short": {
+            "displayName": "ھەپتە كۈنلىرى"
+          },
+          "weekday-narrow": {
+            "displayName": "ھەپتە كۈنلىرى"
+          },
+          "weekdayOfMonth": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-short": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-narrow": {
+            "displayName": "Weekday Of Month"
           },
           "sun": {
             "relative-type--1": "ئۆتكەن يەكشەنبە",
@@ -454,7 +493,13 @@
               "relativeTimePattern-count-other": "-{0} Saturdays"
             }
           },
+          "dayperiod-short": {
+            "displayName": "چۈشتىن بۇرۇن/چۈشتىن كېيىن"
+          },
           "dayperiod": {
+            "displayName": "چۈشتىن بۇرۇن/چۈشتىن كېيىن"
+          },
+          "dayperiod-narrow": {
             "displayName": "چۈشتىن بۇرۇن/چۈشتىن كېيىن"
           },
           "hour": {
@@ -566,6 +611,12 @@
             }
           },
           "zone": {
+            "displayName": "ۋاقىت رايونى"
+          },
+          "zone-short": {
+            "displayName": "ۋاقىت رايونى"
+          },
+          "zone-narrow": {
             "displayName": "ۋاقىت رايونى"
           }
         }

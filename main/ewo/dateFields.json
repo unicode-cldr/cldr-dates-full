@@ -3,14 +3,20 @@
     "ewo": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12740 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13133 $",
+          "_cldrVersion": "31"
         },
         "language": "ewo"
       },
       "dates": {
         "fields": {
           "era": {
+            "displayName": "Abǒg"
+          },
+          "era-short": {
+            "displayName": "Abǒg"
+          },
+          "era-narrow": {
             "displayName": "Abǒg"
           },
           "year": {
@@ -160,6 +166,15 @@
             },
             "relativePeriod": "the week of {0}"
           },
+          "weekOfMonth": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-short": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-narrow": {
+            "displayName": "Week Of Month"
+          },
           "day": {
             "displayName": "Amǒs",
             "relative-type--1": "Angogé",
@@ -196,8 +211,32 @@
               "relativeTimePattern-count-other": "-{0} d"
             }
           },
+          "dayOfYear": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-short": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-narrow": {
+            "displayName": "Day Of Year"
+          },
           "weekday": {
             "displayName": "Amǒs yá sɔ́ndɔ"
+          },
+          "weekday-short": {
+            "displayName": "Amǒs yá sɔ́ndɔ"
+          },
+          "weekday-narrow": {
+            "displayName": "Amǒs yá sɔ́ndɔ"
+          },
+          "weekdayOfMonth": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-short": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-narrow": {
+            "displayName": "Weekday Of Month"
           },
           "sun": {
             "relative-type--1": "last Sunday",
@@ -430,7 +469,13 @@
               "relativeTimePattern-count-other": "-{0} Saturdays"
             }
           },
+          "dayperiod-short": {
+            "displayName": "Kírí / Ngəgógəle"
+          },
           "dayperiod": {
+            "displayName": "Kírí / Ngəgógəle"
+          },
+          "dayperiod-narrow": {
             "displayName": "Kírí / Ngəgógəle"
           },
           "hour": {
@@ -524,6 +569,12 @@
             }
           },
           "zone": {
+            "displayName": "Nkɔŋ Awola"
+          },
+          "zone-short": {
+            "displayName": "Nkɔŋ Awola"
+          },
+          "zone-narrow": {
             "displayName": "Nkɔŋ Awola"
           }
         }

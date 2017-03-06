@@ -3,8 +3,8 @@
     "gd": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12876 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13186 $",
+          "_cldrVersion": "31"
         },
         "language": "gd"
       },
@@ -318,10 +318,10 @@
                 "MMMd": "d MMM",
                 "MMMEd": "E, d MMM",
                 "MMMMd": "d'mh' MMMM",
-                "MMMMW": "'seachdain' W MMMM",
-                "MMMMW": "'seachdain' W MMMM",
-                "MMMMW": "'seachdain' W MMMM",
-                "MMMMW": "'seachdain' W MMMM",
+                "MMMMW-count-one": "'seachdain' W MMMM",
+                "MMMMW-count-two": "'seachdain' W MMMM",
+                "MMMMW-count-few": "'seachdain' W MMMM",
+                "MMMMW-count-other": "'seachdain' W MMMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "M/y",
@@ -334,10 +334,10 @@
                 "yMMMM": "LLLL y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ y",
-                "yw": "'seachdain' w 'dhe' y",
-                "yw": "'seachdain' w 'dhe' y",
-                "yw": "'seachdain' w 'dhe' y",
-                "yw": "'seachdain' w 'dhe' y"
+                "yw-count-one": "'seachdain' w 'dhe' y",
+                "yw-count-two": "'seachdain' w 'dhe' y",
+                "yw-count-few": "'seachdain' w 'dhe' y",
+                "yw-count-other": "'seachdain' w 'dhe' y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

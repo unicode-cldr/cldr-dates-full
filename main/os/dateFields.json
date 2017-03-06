@@ -3,14 +3,20 @@
     "os": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12740 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13133 $",
+          "_cldrVersion": "31"
         },
         "language": "os"
       },
       "dates": {
         "fields": {
           "era": {
+            "displayName": "Дуг"
+          },
+          "era-short": {
+            "displayName": "Дуг"
+          },
+          "era-narrow": {
             "displayName": "Дуг"
           },
           "year": {
@@ -160,6 +166,15 @@
             },
             "relativePeriod": "the week of {0}"
           },
+          "weekOfMonth": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-short": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-narrow": {
+            "displayName": "Week Of Month"
+          },
           "day": {
             "displayName": "Бон",
             "relative-type--2": "Ӕндӕрӕбон",
@@ -208,8 +223,32 @@
               "relativeTimePattern-count-other": "{0} боны размӕ"
             }
           },
+          "dayOfYear": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-short": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-narrow": {
+            "displayName": "Day Of Year"
+          },
           "weekday": {
             "displayName": "Къуырийы бон"
+          },
+          "weekday-short": {
+            "displayName": "Къуырийы бон"
+          },
+          "weekday-narrow": {
+            "displayName": "Къуырийы бон"
+          },
+          "weekdayOfMonth": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-short": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-narrow": {
+            "displayName": "Weekday Of Month"
           },
           "sun": {
             "relative-type--1": "last Sunday",
@@ -442,7 +481,13 @@
               "relativeTimePattern-count-other": "-{0} Saturdays"
             }
           },
+          "dayperiod-short": {
+            "displayName": "Боны период"
+          },
           "dayperiod": {
+            "displayName": "Боны период"
+          },
+          "dayperiod-narrow": {
             "displayName": "Боны период"
           },
           "hour": {
@@ -542,6 +587,12 @@
             }
           },
           "zone": {
+            "displayName": "Рӕстӕджы зонӕ"
+          },
+          "zone-short": {
+            "displayName": "Рӕстӕджы зонӕ"
+          },
+          "zone-narrow": {
             "displayName": "Рӕстӕджы зонӕ"
           }
         }

@@ -3,14 +3,20 @@
     "ee": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12876 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13186 $",
+          "_cldrVersion": "31"
         },
         "language": "ee"
       },
       "dates": {
         "fields": {
           "era": {
+            "displayName": "ŋɔli"
+          },
+          "era-short": {
+            "displayName": "ŋɔli"
+          },
+          "era-narrow": {
             "displayName": "ŋɔli"
           },
           "year": {
@@ -184,6 +190,15 @@
             },
             "relativePeriod": "the week of {0}"
           },
+          "weekOfMonth": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-short": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-narrow": {
+            "displayName": "Week Of Month"
+          },
           "day": {
             "displayName": "ŋkeke",
             "relative-type--2": "nyitsɔ si va yi",
@@ -232,8 +247,32 @@
               "relativeTimePattern-count-other": "ŋkeke {0} si wo va yi"
             }
           },
+          "dayOfYear": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-short": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-narrow": {
+            "displayName": "Day Of Year"
+          },
           "weekday": {
             "displayName": "kɔsiɖa me ŋkeke"
+          },
+          "weekday-short": {
+            "displayName": "kɔsiɖa me ŋkeke"
+          },
+          "weekday-narrow": {
+            "displayName": "kɔsiɖa me ŋkeke"
+          },
+          "weekdayOfMonth": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-short": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-narrow": {
+            "displayName": "Weekday Of Month"
           },
           "sun": {
             "relative-type--1": "kɔsiɖagbe si va yi",
@@ -466,7 +505,13 @@
               "relativeTimePattern-count-other": "-{0} Saturdays"
             }
           },
+          "dayperiod-short": {
+            "displayName": "ŋkekea me"
+          },
           "dayperiod": {
+            "displayName": "ŋkekea me"
+          },
+          "dayperiod-narrow": {
             "displayName": "ŋkekea me"
           },
           "hour": {
@@ -578,6 +623,12 @@
             }
           },
           "zone": {
+            "displayName": "nutomegaƒoƒo"
+          },
+          "zone-short": {
+            "displayName": "nutomegaƒoƒo"
+          },
+          "zone-narrow": {
             "displayName": "nutomegaƒoƒo"
           }
         }

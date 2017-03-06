@@ -3,14 +3,20 @@
     "mas": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12740 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13133 $",
+          "_cldrVersion": "31"
         },
         "language": "mas"
       },
       "dates": {
         "fields": {
           "era": {
+            "displayName": "Ɛnkátá"
+          },
+          "era-short": {
+            "displayName": "Ɛnkátá"
+          },
+          "era-narrow": {
             "displayName": "Ɛnkátá"
           },
           "year": {
@@ -160,6 +166,15 @@
             },
             "relativePeriod": "the week of {0}"
           },
+          "weekOfMonth": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-short": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-narrow": {
+            "displayName": "Week Of Month"
+          },
           "day": {
             "displayName": "Ɛnkɔlɔ́ŋ",
             "relative-type--1": "Ŋolé",
@@ -196,8 +211,32 @@
               "relativeTimePattern-count-other": "-{0} d"
             }
           },
+          "dayOfYear": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-short": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-narrow": {
+            "displayName": "Day Of Year"
+          },
           "weekday": {
             "displayName": "Ɛnkɔ́lɔŋ ewíkî"
+          },
+          "weekday-short": {
+            "displayName": "Ɛnkɔ́lɔŋ ewíkî"
+          },
+          "weekday-narrow": {
+            "displayName": "Ɛnkɔ́lɔŋ ewíkî"
+          },
+          "weekdayOfMonth": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-short": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-narrow": {
+            "displayName": "Weekday Of Month"
           },
           "sun": {
             "relative-type--1": "last Sunday",
@@ -430,7 +469,13 @@
               "relativeTimePattern-count-other": "-{0} Saturdays"
             }
           },
+          "dayperiod-short": {
+            "displayName": "Ɛnkakɛnyá/Ɛndámâ"
+          },
           "dayperiod": {
+            "displayName": "Ɛnkakɛnyá/Ɛndámâ"
+          },
+          "dayperiod-narrow": {
             "displayName": "Ɛnkakɛnyá/Ɛndámâ"
           },
           "hour": {
@@ -524,6 +569,12 @@
             }
           },
           "zone": {
+            "displayName": "Ɛ́sáâ o inkuapí"
+          },
+          "zone-short": {
+            "displayName": "Ɛ́sáâ o inkuapí"
+          },
+          "zone-narrow": {
             "displayName": "Ɛ́sáâ o inkuapí"
           }
         }

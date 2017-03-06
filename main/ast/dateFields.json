@@ -3,14 +3,20 @@
     "ast": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12876 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13186 $",
+          "_cldrVersion": "31"
         },
         "language": "ast"
       },
       "dates": {
         "fields": {
           "era": {
+            "displayName": "era"
+          },
+          "era-short": {
+            "displayName": "era"
+          },
+          "era-narrow": {
             "displayName": "era"
           },
           "year": {
@@ -184,6 +190,15 @@
             },
             "relativePeriod": "la selmana del {0}"
           },
+          "weekOfMonth": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-short": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-narrow": {
+            "displayName": "Week Of Month"
+          },
           "day": {
             "displayName": "día",
             "relative-type--2": "antayeri",
@@ -232,8 +247,32 @@
               "relativeTimePattern-count-other": "hai {0} d."
             }
           },
+          "dayOfYear": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-short": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-narrow": {
+            "displayName": "Day Of Year"
+          },
           "weekday": {
             "displayName": "día de la selmana"
+          },
+          "weekday-short": {
+            "displayName": "día de la selmana"
+          },
+          "weekday-narrow": {
+            "displayName": "día de la selmana"
+          },
+          "weekdayOfMonth": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-short": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-narrow": {
+            "displayName": "Weekday Of Month"
           },
           "sun": {
             "relative-type--1": "el domingu pasáu",
@@ -508,7 +547,13 @@
               "relativeTimePattern-count-other": "hai {0} sábados"
             }
           },
+          "dayperiod-short": {
+            "displayName": "periodu del día"
+          },
           "dayperiod": {
+            "displayName": "periodu del día"
+          },
+          "dayperiod-narrow": {
             "displayName": "periodu del día"
           },
           "hour": {
@@ -620,6 +665,12 @@
             }
           },
           "zone": {
+            "displayName": "estaya horaria"
+          },
+          "zone-short": {
+            "displayName": "estaya horaria"
+          },
+          "zone-narrow": {
             "displayName": "estaya horaria"
           }
         }

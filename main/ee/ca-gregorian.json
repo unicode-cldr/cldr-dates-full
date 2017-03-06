@@ -3,8 +3,8 @@
     "ee": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12876 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13186 $",
+          "_cldrVersion": "31"
         },
         "language": "ee"
       },
@@ -354,7 +354,7 @@
                 "MMMEd": "E, MMM d 'lia'",
                 "MMMMd": "MMMM d 'lia'",
                 "MMMMEd": "E, MMMM d 'lia'",
-                "MMMMW": "'week' W 'of' MMMM",
+                "MMMMW-count-other": "'week' W 'of' MMMM",
                 "ms": "'aɖabaƒoƒo' mm:ss",
                 "y": "y",
                 "yM": "M/y",
@@ -366,7 +366,7 @@
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ y",
-                "yw": "'week' w 'of' y"
+                "yw-count-other": "'week' w 'of' y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

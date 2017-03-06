@@ -3,14 +3,20 @@
     "sah": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12787 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13133 $",
+          "_cldrVersion": "31"
         },
         "language": "sah"
       },
       "dates": {
         "fields": {
           "era": {
+            "displayName": "Ээрэ"
+          },
+          "era-short": {
+            "displayName": "Ээрэ"
+          },
+          "era-narrow": {
             "displayName": "Ээрэ"
           },
           "year": {
@@ -160,6 +166,15 @@
             },
             "relativePeriod": "the week of {0}"
           },
+          "weekOfMonth": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-short": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-narrow": {
+            "displayName": "Week Of Month"
+          },
           "day": {
             "displayName": "Күн",
             "relative-type--2": "Иллэрээ күн",
@@ -202,8 +217,32 @@
               "relativeTimePattern-count-other": "{0} күн ынараа өттүгэр"
             }
           },
+          "dayOfYear": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-short": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-narrow": {
+            "displayName": "Day Of Year"
+          },
           "weekday": {
             "displayName": "Нэдиэлэ күнэ"
+          },
+          "weekday-short": {
+            "displayName": "Нэдиэлэ күнэ"
+          },
+          "weekday-narrow": {
+            "displayName": "Нэдиэлэ күнэ"
+          },
+          "weekdayOfMonth": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-short": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-narrow": {
+            "displayName": "Weekday Of Month"
           },
           "sun": {
             "relative-type--1": "ааспыт баскыһыанньа",
@@ -436,7 +475,13 @@
               "relativeTimePattern-count-other": "{0} сб. анараа өттүгэр"
             }
           },
+          "dayperiod-short": {
+            "displayName": "ЭИ/ЭК"
+          },
           "dayperiod": {
+            "displayName": "ЭИ/ЭК"
+          },
+          "dayperiod-narrow": {
             "displayName": "ЭИ/ЭК"
           },
           "hour": {
@@ -530,6 +575,12 @@
             }
           },
           "zone": {
+            "displayName": "Кэм балаһата"
+          },
+          "zone-short": {
+            "displayName": "Кэм балаһата"
+          },
+          "zone-narrow": {
             "displayName": "Кэм балаһата"
           }
         }

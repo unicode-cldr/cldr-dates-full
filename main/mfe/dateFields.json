@@ -3,14 +3,20 @@
     "mfe": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12740 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13133 $",
+          "_cldrVersion": "31"
         },
         "language": "mfe"
       },
       "dates": {
         "fields": {
           "era": {
+            "displayName": "Lepok"
+          },
+          "era-short": {
+            "displayName": "Lepok"
+          },
+          "era-narrow": {
             "displayName": "Lepok"
           },
           "year": {
@@ -160,6 +166,15 @@
             },
             "relativePeriod": "the week of {0}"
           },
+          "weekOfMonth": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-short": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-narrow": {
+            "displayName": "Week Of Month"
+          },
           "day": {
             "displayName": "Zour",
             "relative-type--1": "Yer",
@@ -196,8 +211,32 @@
               "relativeTimePattern-count-other": "-{0} d"
             }
           },
+          "dayOfYear": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-short": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-narrow": {
+            "displayName": "Day Of Year"
+          },
           "weekday": {
             "displayName": "Zour lasemenn"
+          },
+          "weekday-short": {
+            "displayName": "Zour lasemenn"
+          },
+          "weekday-narrow": {
+            "displayName": "Zour lasemenn"
+          },
+          "weekdayOfMonth": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-short": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-narrow": {
+            "displayName": "Weekday Of Month"
           },
           "sun": {
             "relative-type--1": "last Sunday",
@@ -430,7 +469,13 @@
               "relativeTimePattern-count-other": "-{0} Saturdays"
             }
           },
+          "dayperiod-short": {
+            "displayName": "Peryod dan lazourne"
+          },
           "dayperiod": {
+            "displayName": "Peryod dan lazourne"
+          },
+          "dayperiod-narrow": {
             "displayName": "Peryod dan lazourne"
           },
           "hour": {
@@ -524,6 +569,12 @@
             }
           },
           "zone": {
+            "displayName": "Peryod letan"
+          },
+          "zone-short": {
+            "displayName": "Peryod letan"
+          },
+          "zone-narrow": {
             "displayName": "Peryod letan"
           }
         }

@@ -3,14 +3,20 @@
     "mer": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12740 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13133 $",
+          "_cldrVersion": "31"
         },
         "language": "mer"
       },
       "dates": {
         "fields": {
           "era": {
+            "displayName": "Ĩgita"
+          },
+          "era-short": {
+            "displayName": "Ĩgita"
+          },
+          "era-narrow": {
             "displayName": "Ĩgita"
           },
           "year": {
@@ -160,6 +166,15 @@
             },
             "relativePeriod": "the week of {0}"
           },
+          "weekOfMonth": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-short": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-narrow": {
+            "displayName": "Week Of Month"
+          },
           "day": {
             "displayName": "Ntukũ",
             "relative-type--1": "Ĩgoro",
@@ -196,8 +211,32 @@
               "relativeTimePattern-count-other": "-{0} d"
             }
           },
+          "dayOfYear": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-short": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-narrow": {
+            "displayName": "Day Of Year"
+          },
           "weekday": {
             "displayName": "Ntukũ ya ngũgĩ"
+          },
+          "weekday-short": {
+            "displayName": "Ntukũ ya ngũgĩ"
+          },
+          "weekday-narrow": {
+            "displayName": "Ntukũ ya ngũgĩ"
+          },
+          "weekdayOfMonth": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-short": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-narrow": {
+            "displayName": "Weekday Of Month"
           },
           "sun": {
             "relative-type--1": "last Sunday",
@@ -430,7 +469,13 @@
               "relativeTimePattern-count-other": "-{0} Saturdays"
             }
           },
+          "dayperiod-short": {
+            "displayName": "Mũthenya"
+          },
           "dayperiod": {
+            "displayName": "Mũthenya"
+          },
+          "dayperiod-narrow": {
             "displayName": "Mũthenya"
           },
           "hour": {
@@ -524,6 +569,12 @@
             }
           },
           "zone": {
+            "displayName": "Gũntũ kwa thaa"
+          },
+          "zone-short": {
+            "displayName": "Gũntũ kwa thaa"
+          },
+          "zone-narrow": {
             "displayName": "Gũntũ kwa thaa"
           }
         }

@@ -3,14 +3,20 @@
     "hsb": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12876 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13186 $",
+          "_cldrVersion": "31"
         },
         "language": "hsb"
       },
       "dates": {
         "fields": {
           "era": {
+            "displayName": "doba"
+          },
+          "era-short": {
+            "displayName": "doba"
+          },
+          "era-narrow": {
             "displayName": "doba"
           },
           "year": {
@@ -232,6 +238,15 @@
             },
             "relativePeriod": "the week of {0}"
           },
+          "weekOfMonth": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-short": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-narrow": {
+            "displayName": "Week Of Month"
+          },
           "day": {
             "displayName": "dźeń",
             "relative-type--1": "wčera",
@@ -286,8 +301,32 @@
               "relativeTimePattern-count-other": "před {0} d"
             }
           },
+          "dayOfYear": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-short": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-narrow": {
+            "displayName": "Day Of Year"
+          },
           "weekday": {
             "displayName": "dźeń tydźenja"
+          },
+          "weekday-short": {
+            "displayName": "dźeń tydźenja"
+          },
+          "weekday-narrow": {
+            "displayName": "dźeń tydźenja"
+          },
+          "weekdayOfMonth": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-short": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-narrow": {
+            "displayName": "Weekday Of Month"
           },
           "sun": {
             "relative-type--1": "zašłu njedźelu",
@@ -520,7 +559,13 @@
               "relativeTimePattern-count-other": "-{0} Saturdays"
             }
           },
+          "dayperiod-short": {
+            "displayName": "połojca dnja"
+          },
           "dayperiod": {
+            "displayName": "połojca dnja"
+          },
+          "dayperiod-narrow": {
             "displayName": "połojca dnja"
           },
           "hour": {
@@ -668,6 +713,12 @@
             }
           },
           "zone": {
+            "displayName": "časowe pasmo"
+          },
+          "zone-short": {
+            "displayName": "časowe pasmo"
+          },
+          "zone-narrow": {
             "displayName": "časowe pasmo"
           }
         }

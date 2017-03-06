@@ -3,14 +3,20 @@
     "luo": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12740 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13133 $",
+          "_cldrVersion": "31"
         },
         "language": "luo"
       },
       "dates": {
         "fields": {
           "era": {
+            "displayName": "ndalo"
+          },
+          "era-short": {
+            "displayName": "ndalo"
+          },
+          "era-narrow": {
             "displayName": "ndalo"
           },
           "year": {
@@ -160,6 +166,15 @@
             },
             "relativePeriod": "the week of {0}"
           },
+          "weekOfMonth": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-short": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-narrow": {
+            "displayName": "Week Of Month"
+          },
           "day": {
             "displayName": "chieng’",
             "relative-type--1": "nyoro",
@@ -196,8 +211,32 @@
               "relativeTimePattern-count-other": "-{0} d"
             }
           },
+          "dayOfYear": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-short": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-narrow": {
+            "displayName": "Day Of Year"
+          },
           "weekday": {
             "displayName": "ndalo mar juma"
+          },
+          "weekday-short": {
+            "displayName": "ndalo mar juma"
+          },
+          "weekday-narrow": {
+            "displayName": "ndalo mar juma"
+          },
+          "weekdayOfMonth": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-short": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-narrow": {
+            "displayName": "Weekday Of Month"
           },
           "sun": {
             "relative-type--1": "last Sunday",
@@ -430,7 +469,13 @@
               "relativeTimePattern-count-other": "-{0} Saturdays"
             }
           },
+          "dayperiod-short": {
+            "displayName": "odieochieng’/otieno"
+          },
           "dayperiod": {
+            "displayName": "odieochieng’/otieno"
+          },
+          "dayperiod-narrow": {
             "displayName": "odieochieng’/otieno"
           },
           "hour": {
@@ -524,6 +569,12 @@
             }
           },
           "zone": {
+            "displayName": "kar saa"
+          },
+          "zone-short": {
+            "displayName": "kar saa"
+          },
+          "zone-narrow": {
             "displayName": "kar saa"
           }
         }

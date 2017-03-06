@@ -3,8 +3,8 @@
     "uz-Cyrl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12798 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13186 $",
+          "_cldrVersion": "31"
         },
         "language": "uz",
         "script": "Cyrl"
@@ -12,6 +12,12 @@
       "dates": {
         "fields": {
           "era": {
+            "displayName": "Эра"
+          },
+          "era-short": {
+            "displayName": "Эра"
+          },
+          "era-narrow": {
             "displayName": "Эра"
           },
           "year": {
@@ -179,6 +185,15 @@
             },
             "relativePeriod": "the week of {0}"
           },
+          "weekOfMonth": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-short": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-narrow": {
+            "displayName": "Week Of Month"
+          },
           "day": {
             "displayName": "Кун",
             "relative-type--1": "кеча",
@@ -221,8 +236,32 @@
               "relativeTimePattern-count-other": "{0} кун олдин"
             }
           },
+          "dayOfYear": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-short": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-narrow": {
+            "displayName": "Day Of Year"
+          },
           "weekday": {
             "displayName": "Ҳафта куни"
+          },
+          "weekday-short": {
+            "displayName": "Ҳафта куни"
+          },
+          "weekday-narrow": {
+            "displayName": "Ҳафта куни"
+          },
+          "weekdayOfMonth": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-short": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-narrow": {
+            "displayName": "Weekday Of Month"
           },
           "sun": {
             "relative-type--1": "ўтган якшанба",
@@ -455,7 +494,13 @@
               "relativeTimePattern-count-other": "-{0} Saturdays"
             }
           },
+          "dayperiod-short": {
+            "displayName": "Кун вақти"
+          },
           "dayperiod": {
+            "displayName": "Кун вақти"
+          },
+          "dayperiod-narrow": {
             "displayName": "Кун вақти"
           },
           "hour": {
@@ -567,6 +612,12 @@
             }
           },
           "zone": {
+            "displayName": "Минтақа"
+          },
+          "zone-short": {
+            "displayName": "Минтақа"
+          },
+          "zone-narrow": {
             "displayName": "Минтақа"
           }
         }

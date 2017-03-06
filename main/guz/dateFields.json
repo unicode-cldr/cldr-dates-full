@@ -3,14 +3,20 @@
     "guz": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12740 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13133 $",
+          "_cldrVersion": "31"
         },
         "language": "guz"
       },
       "dates": {
         "fields": {
           "era": {
+            "displayName": "Ebiro"
+          },
+          "era-short": {
+            "displayName": "Ebiro"
+          },
+          "era-narrow": {
             "displayName": "Ebiro"
           },
           "year": {
@@ -160,6 +166,15 @@
             },
             "relativePeriod": "the week of {0}"
           },
+          "weekOfMonth": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-short": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-narrow": {
+            "displayName": "Week Of Month"
+          },
           "day": {
             "displayName": "Rituko",
             "relative-type--1": "Igoro",
@@ -196,8 +211,32 @@
               "relativeTimePattern-count-other": "-{0} d"
             }
           },
+          "dayOfYear": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-short": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-narrow": {
+            "displayName": "Day Of Year"
+          },
           "weekday": {
             "displayName": "Rituko r’ewiki"
+          },
+          "weekday-short": {
+            "displayName": "Rituko r’ewiki"
+          },
+          "weekday-narrow": {
+            "displayName": "Rituko r’ewiki"
+          },
+          "weekdayOfMonth": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-short": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-narrow": {
+            "displayName": "Weekday Of Month"
           },
           "sun": {
             "relative-type--1": "last Sunday",
@@ -430,7 +469,13 @@
               "relativeTimePattern-count-other": "-{0} Saturdays"
             }
           },
+          "dayperiod-short": {
+            "displayName": "Mambia gose Morogoba"
+          },
           "dayperiod": {
+            "displayName": "Mambia gose Morogoba"
+          },
+          "dayperiod-narrow": {
             "displayName": "Mambia gose Morogoba"
           },
           "hour": {
@@ -524,6 +569,12 @@
             }
           },
           "zone": {
+            "displayName": "Chinse ‘chimo"
+          },
+          "zone-short": {
+            "displayName": "Chinse ‘chimo"
+          },
+          "zone-narrow": {
             "displayName": "Chinse ‘chimo"
           }
         }

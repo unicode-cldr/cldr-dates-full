@@ -3,14 +3,20 @@
     "wae": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12740 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13133 $",
+          "_cldrVersion": "31"
         },
         "language": "wae"
       },
       "dates": {
         "fields": {
           "era": {
+            "displayName": "Epoča"
+          },
+          "era-short": {
+            "displayName": "Epoča"
+          },
+          "era-narrow": {
             "displayName": "Epoča"
           },
           "year": {
@@ -178,6 +184,15 @@
             },
             "relativePeriod": "the week of {0}"
           },
+          "weekOfMonth": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-short": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-narrow": {
+            "displayName": "Week Of Month"
+          },
           "day": {
             "displayName": "Tag",
             "relative-type--2": "Vorgešter",
@@ -226,8 +241,32 @@
               "relativeTimePattern-count-other": "vor {0} täg"
             }
           },
+          "dayOfYear": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-short": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-narrow": {
+            "displayName": "Day Of Year"
+          },
           "weekday": {
             "displayName": "Wučetag"
+          },
+          "weekday-short": {
+            "displayName": "Wučetag"
+          },
+          "weekday-narrow": {
+            "displayName": "Wučetag"
+          },
+          "weekdayOfMonth": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-short": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-narrow": {
+            "displayName": "Weekday Of Month"
           },
           "sun": {
             "relative-type--1": "last Sunday",
@@ -460,7 +499,13 @@
               "relativeTimePattern-count-other": "-{0} Saturdays"
             }
           },
+          "dayperiod-short": {
+            "displayName": "AM/PM"
+          },
           "dayperiod": {
+            "displayName": "AM/PM"
+          },
+          "dayperiod-narrow": {
             "displayName": "AM/PM"
           },
           "hour": {
@@ -572,6 +617,12 @@
             }
           },
           "zone": {
+            "displayName": "Zitzóna"
+          },
+          "zone-short": {
+            "displayName": "Zitzóna"
+          },
+          "zone-narrow": {
             "displayName": "Zitzóna"
           }
         }

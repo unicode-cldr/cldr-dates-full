@@ -3,8 +3,8 @@
     "seh": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12740 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13133 $",
+          "_cldrVersion": "31"
         },
         "language": "seh"
       },
@@ -321,7 +321,7 @@
                 "MMMEd": "E, d MMM",
                 "MMMMd": "d MMMM",
                 "MMMMEd": "E, d MMMM",
-                "MMMMW": "'week' W 'of' MMMM",
+                "MMMMW-count-other": "'week' W 'of' MMMM",
                 "mmss": "mm:ss",
                 "ms": "mm:ss",
                 "y": "y",
@@ -335,7 +335,7 @@
                 "yMMMM": "MMMM 'de' y",
                 "yQQQ": "y QQQ",
                 "yQQQQ": "y QQQQ",
-                "yw": "'week' w 'of' y"
+                "yw-count-other": "'week' w 'of' y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

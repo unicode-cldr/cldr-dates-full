@@ -3,14 +3,20 @@
     "dz": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12961 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13134 $",
+          "_cldrVersion": "31"
         },
         "language": "dz"
       },
       "dates": {
         "fields": {
           "era": {
+            "displayName": "དུས་བསྐལ"
+          },
+          "era-short": {
+            "displayName": "དུས་བསྐལ"
+          },
+          "era-narrow": {
             "displayName": "དུས་བསྐལ"
           },
           "year": {
@@ -160,6 +166,15 @@
             },
             "relativePeriod": "the week of {0}"
           },
+          "weekOfMonth": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-short": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-narrow": {
+            "displayName": "Week Of Month"
+          },
           "day": {
             "displayName": "ཚེས་",
             "relative-type--2": "ཁ་ཉིམ",
@@ -202,8 +217,32 @@
               "relativeTimePattern-count-other": "ཉིནམ་ {0} ཧེ་མ་"
             }
           },
+          "dayOfYear": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-short": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-narrow": {
+            "displayName": "Day Of Year"
+          },
           "weekday": {
             "displayName": "བདུན་ཕྲག་གི་ཉིམ"
+          },
+          "weekday-short": {
+            "displayName": "བདུན་ཕྲག་གི་ཉིམ"
+          },
+          "weekday-narrow": {
+            "displayName": "བདུན་ཕྲག་གི་ཉིམ"
+          },
+          "weekdayOfMonth": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-short": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-narrow": {
+            "displayName": "Weekday Of Month"
           },
           "sun": {
             "relative-type--1": "last Sunday",
@@ -436,7 +475,13 @@
               "relativeTimePattern-count-other": "-{0} Saturdays"
             }
           },
+          "dayperiod-short": {
+            "displayName": "སྔ་ཆ/ཕྱི་ཆ་"
+          },
           "dayperiod": {
+            "displayName": "སྔ་ཆ/ཕྱི་ཆ་"
+          },
+          "dayperiod-narrow": {
             "displayName": "སྔ་ཆ/ཕྱི་ཆ་"
           },
           "hour": {
@@ -530,6 +575,12 @@
             }
           },
           "zone": {
+            "displayName": "དུས་ཀུལ"
+          },
+          "zone-short": {
+            "displayName": "དུས་ཀུལ"
+          },
+          "zone-narrow": {
             "displayName": "དུས་ཀུལ"
           }
         }

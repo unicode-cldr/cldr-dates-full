@@ -3,14 +3,20 @@
     "ce": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12876 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13186 $",
+          "_cldrVersion": "31"
         },
         "language": "ce"
       },
       "dates": {
         "fields": {
           "era": {
+            "displayName": "мур"
+          },
+          "era-short": {
+            "displayName": "мур"
+          },
+          "era-narrow": {
             "displayName": "мур"
           },
           "year": {
@@ -184,6 +190,15 @@
             },
             "relativePeriod": "the week of {0}"
           },
+          "weekOfMonth": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-short": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-narrow": {
+            "displayName": "Week Of Month"
+          },
           "day": {
             "displayName": "де",
             "relative-type--1": "селхана",
@@ -226,8 +241,32 @@
               "relativeTimePattern-count-other": "{0} де хьалха"
             }
           },
+          "dayOfYear": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-short": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-narrow": {
+            "displayName": "Day Of Year"
+          },
           "weekday": {
             "displayName": "кӀиран де"
+          },
+          "weekday-short": {
+            "displayName": "кӀиран де"
+          },
+          "weekday-narrow": {
+            "displayName": "кӀиран де"
+          },
+          "weekdayOfMonth": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-short": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-narrow": {
+            "displayName": "Weekday Of Month"
           },
           "sun": {
             "relative-type--1": "даханчу кӀиранан дийнахь",
@@ -460,7 +499,13 @@
               "relativeTimePattern-count-other": "-{0} Saturdays"
             }
           },
+          "dayperiod-short": {
+            "displayName": "делкъал тӀехьа"
+          },
           "dayperiod": {
+            "displayName": "делкъал тӀехьа"
+          },
+          "dayperiod-narrow": {
             "displayName": "делкъал тӀехьа"
           },
           "hour": {
@@ -572,6 +617,12 @@
             }
           },
           "zone": {
+            "displayName": "сахьтан аса"
+          },
+          "zone-short": {
+            "displayName": "сахьтан аса"
+          },
+          "zone-narrow": {
             "displayName": "сахьтан аса"
           }
         }

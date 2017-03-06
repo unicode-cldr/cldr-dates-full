@@ -3,14 +3,20 @@
     "sg": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12740 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13133 $",
+          "_cldrVersion": "31"
         },
         "language": "sg"
       },
       "dates": {
         "fields": {
           "era": {
+            "displayName": "Kùotângo"
+          },
+          "era-short": {
+            "displayName": "Kùotângo"
+          },
+          "era-narrow": {
             "displayName": "Kùotângo"
           },
           "year": {
@@ -160,6 +166,15 @@
             },
             "relativePeriod": "the week of {0}"
           },
+          "weekOfMonth": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-short": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-narrow": {
+            "displayName": "Week Of Month"
+          },
           "day": {
             "displayName": "Lâ",
             "relative-type--1": "Bîrï",
@@ -196,8 +211,32 @@
               "relativeTimePattern-count-other": "-{0} d"
             }
           },
+          "dayOfYear": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-short": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-narrow": {
+            "displayName": "Day Of Year"
+          },
           "weekday": {
             "displayName": "Bïkua"
+          },
+          "weekday-short": {
+            "displayName": "Bïkua"
+          },
+          "weekday-narrow": {
+            "displayName": "Bïkua"
+          },
+          "weekdayOfMonth": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-short": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-narrow": {
+            "displayName": "Weekday Of Month"
           },
           "sun": {
             "relative-type--1": "last Sunday",
@@ -430,7 +469,13 @@
               "relativeTimePattern-count-other": "-{0} Saturdays"
             }
           },
+          "dayperiod-short": {
+            "displayName": "Na lâ"
+          },
           "dayperiod": {
+            "displayName": "Na lâ"
+          },
+          "dayperiod-narrow": {
             "displayName": "Na lâ"
           },
           "hour": {
@@ -524,6 +569,12 @@
             }
           },
           "zone": {
+            "displayName": "Zukangbonga"
+          },
+          "zone-short": {
+            "displayName": "Zukangbonga"
+          },
+          "zone-narrow": {
             "displayName": "Zukangbonga"
           }
         }

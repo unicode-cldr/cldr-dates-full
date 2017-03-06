@@ -3,8 +3,8 @@
     "om-KE": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12799 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13133 $",
+          "_cldrVersion": "31"
         },
         "language": "om",
         "territory": "KE"
@@ -320,8 +320,8 @@
                 "MMMEd": "MMM d, E",
                 "MMMMd": "MMMM d",
                 "MMMMdd": "dd MMMM",
-                "MMMMW": "'week' W 'of' MMM",
-                "MMMMW": "'week' W 'of' MMM",
+                "MMMMW-count-one": "'week' W 'of' MMM",
+                "MMMMW-count-other": "'week' W 'of' MMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "y-MM",
@@ -334,8 +334,8 @@
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "y QQQQ",
-                "yw": "'week' w 'of' y",
-                "yw": "'week' w 'of' y"
+                "yw-count-one": "'week' w 'of' y",
+                "yw-count-other": "'week' w 'of' y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

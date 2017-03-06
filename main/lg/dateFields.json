@@ -3,14 +3,20 @@
     "lg": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12740 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13133 $",
+          "_cldrVersion": "31"
         },
         "language": "lg"
       },
       "dates": {
         "fields": {
           "era": {
+            "displayName": "Mulembe"
+          },
+          "era-short": {
+            "displayName": "Mulembe"
+          },
+          "era-narrow": {
             "displayName": "Mulembe"
           },
           "year": {
@@ -160,6 +166,15 @@
             },
             "relativePeriod": "the week of {0}"
           },
+          "weekOfMonth": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-short": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-narrow": {
+            "displayName": "Week Of Month"
+          },
           "day": {
             "displayName": "Lunaku",
             "relative-type--1": "Ggulo",
@@ -196,8 +211,32 @@
               "relativeTimePattern-count-other": "-{0} d"
             }
           },
+          "dayOfYear": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-short": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-narrow": {
+            "displayName": "Day Of Year"
+          },
           "weekday": {
             "displayName": "Lunaku lw’omu sabbiiti"
+          },
+          "weekday-short": {
+            "displayName": "Lunaku lw’omu sabbiiti"
+          },
+          "weekday-narrow": {
+            "displayName": "Lunaku lw’omu sabbiiti"
+          },
+          "weekdayOfMonth": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-short": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-narrow": {
+            "displayName": "Weekday Of Month"
           },
           "sun": {
             "relative-type--1": "last Sunday",
@@ -430,7 +469,13 @@
               "relativeTimePattern-count-other": "-{0} Saturdays"
             }
           },
+          "dayperiod-short": {
+            "displayName": "AM/PM"
+          },
           "dayperiod": {
+            "displayName": "AM/PM"
+          },
+          "dayperiod-narrow": {
             "displayName": "AM/PM"
           },
           "hour": {
@@ -524,6 +569,12 @@
             }
           },
           "zone": {
+            "displayName": "Ssaawa za:"
+          },
+          "zone-short": {
+            "displayName": "Ssaawa za:"
+          },
+          "zone-narrow": {
             "displayName": "Ssaawa za:"
           }
         }

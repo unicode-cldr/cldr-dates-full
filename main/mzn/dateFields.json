@@ -3,14 +3,20 @@
     "mzn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12876 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13186 $",
+          "_cldrVersion": "31"
         },
         "language": "mzn"
       },
       "dates": {
         "fields": {
           "era": {
+            "displayName": "تقویم"
+          },
+          "era-short": {
+            "displayName": "تقویم"
+          },
+          "era-narrow": {
             "displayName": "تقویم"
           },
           "year": {
@@ -160,6 +166,15 @@
             },
             "relativePeriod": "the week of {0}"
           },
+          "weekOfMonth": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-short": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-narrow": {
+            "displayName": "Week Of Month"
+          },
           "day": {
             "displayName": "روز",
             "relative-type--1": "دیروز",
@@ -196,8 +211,32 @@
               "relativeTimePattern-count-other": "{0} روز پیش"
             }
           },
+          "dayOfYear": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-short": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-narrow": {
+            "displayName": "Day Of Year"
+          },
           "weekday": {
             "displayName": "هفته‌ی ِروز"
+          },
+          "weekday-short": {
+            "displayName": "هفته‌ی ِروز"
+          },
+          "weekday-narrow": {
+            "displayName": "هفته‌ی ِروز"
+          },
+          "weekdayOfMonth": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-short": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-narrow": {
+            "displayName": "Weekday Of Month"
           },
           "sun": {
             "relative-type--1": "قبلی یکشنبه",
@@ -430,7 +469,13 @@
               "relativeTimePattern-count-other": "-{0} Saturdays"
             }
           },
+          "dayperiod-short": {
+            "displayName": "صواحی/ظُر"
+          },
           "dayperiod": {
+            "displayName": "صواحی/ظُر"
+          },
+          "dayperiod-narrow": {
             "displayName": "صواحی/ظُر"
           },
           "hour": {
@@ -524,6 +569,12 @@
             }
           },
           "zone": {
+            "displayName": "زمونی منقطه"
+          },
+          "zone-short": {
+            "displayName": "زمونی منقطه"
+          },
+          "zone-narrow": {
             "displayName": "زمونی منقطه"
           }
         }

@@ -3,8 +3,8 @@
     "se-FI": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12778 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13133 $",
+          "_cldrVersion": "31"
         },
         "language": "se",
         "territory": "FI"
@@ -12,6 +12,12 @@
       "dates": {
         "fields": {
           "era": {
+            "displayName": "áigodat"
+          },
+          "era-short": {
+            "displayName": "áigodat"
+          },
+          "era-narrow": {
             "displayName": "áigodat"
           },
           "year": {
@@ -197,6 +203,15 @@
             },
             "relativePeriod": "the week of {0}"
           },
+          "weekOfMonth": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-short": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-narrow": {
+            "displayName": "Week Of Month"
+          },
           "day": {
             "displayName": "beaivi",
             "relative-type--2": "oovdebpeivvi",
@@ -251,8 +266,32 @@
               "relativeTimePattern-count-other": "{0} jándora árat"
             }
           },
+          "dayOfYear": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-short": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-narrow": {
+            "displayName": "Day Of Year"
+          },
           "weekday": {
             "displayName": "vahkkobeaivi"
+          },
+          "weekday-short": {
+            "displayName": "vahkkobeaivi"
+          },
+          "weekday-narrow": {
+            "displayName": "vahkkobeaivi"
+          },
+          "weekdayOfMonth": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-short": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-narrow": {
+            "displayName": "Weekday Of Month"
           },
           "sun": {
             "relative-type--1": "last Sunday",
@@ -485,7 +524,13 @@
               "relativeTimePattern-count-other": "-{0} Saturdays"
             }
           },
+          "dayperiod-short": {
+            "displayName": "beaivi ráidodássi"
+          },
           "dayperiod": {
+            "displayName": "beaivi ráidodássi"
+          },
+          "dayperiod-narrow": {
             "displayName": "beaivi ráidodássi"
           },
           "hour": {
@@ -615,6 +660,12 @@
             }
           },
           "zone": {
+            "displayName": "áigeavádat"
+          },
+          "zone-short": {
+            "displayName": "áigeavádat"
+          },
+          "zone-narrow": {
             "displayName": "áigeavádat"
           }
         }

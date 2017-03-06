@@ -3,8 +3,8 @@
     "shi-Latn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12740 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13133 $",
+          "_cldrVersion": "31"
         },
         "language": "shi",
         "script": "Latn"
@@ -12,6 +12,12 @@
       "dates": {
         "fields": {
           "era": {
+            "displayName": "tasut"
+          },
+          "era-short": {
+            "displayName": "tasut"
+          },
+          "era-narrow": {
             "displayName": "tasut"
           },
           "year": {
@@ -161,6 +167,15 @@
             },
             "relativePeriod": "the week of {0}"
           },
+          "weekOfMonth": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-short": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-narrow": {
+            "displayName": "Week Of Month"
+          },
           "day": {
             "displayName": "ass",
             "relative-type--1": "iḍlli",
@@ -197,8 +212,32 @@
               "relativeTimePattern-count-other": "-{0} d"
             }
           },
+          "dayOfYear": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-short": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-narrow": {
+            "displayName": "Day Of Year"
+          },
           "weekday": {
             "displayName": "ass g imalass"
+          },
+          "weekday-short": {
+            "displayName": "ass g imalass"
+          },
+          "weekday-narrow": {
+            "displayName": "ass g imalass"
+          },
+          "weekdayOfMonth": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-short": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-narrow": {
+            "displayName": "Weekday Of Month"
           },
           "sun": {
             "relative-type--1": "last Sunday",
@@ -431,7 +470,13 @@
               "relativeTimePattern-count-other": "-{0} Saturdays"
             }
           },
+          "dayperiod-short": {
+            "displayName": "tizi g wass: tifawt / tadggʷat"
+          },
           "dayperiod": {
+            "displayName": "tizi g wass: tifawt / tadggʷat"
+          },
+          "dayperiod-narrow": {
             "displayName": "tizi g wass: tifawt / tadggʷat"
           },
           "hour": {
@@ -525,6 +570,12 @@
             }
           },
           "zone": {
+            "displayName": "akud n ugmmaḍ"
+          },
+          "zone-short": {
+            "displayName": "akud n ugmmaḍ"
+          },
+          "zone-narrow": {
             "displayName": "akud n ugmmaḍ"
           }
         }

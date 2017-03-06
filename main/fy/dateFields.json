@@ -3,14 +3,20 @@
     "fy": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12944 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13186 $",
+          "_cldrVersion": "31"
         },
         "language": "fy"
       },
       "dates": {
         "fields": {
           "era": {
+            "displayName": "Tiidsrin"
+          },
+          "era-short": {
+            "displayName": "Tiidsrin"
+          },
+          "era-narrow": {
             "displayName": "Tiidsrin"
           },
           "year": {
@@ -178,6 +184,15 @@
             },
             "relativePeriod": "the week of {0}"
           },
+          "weekOfMonth": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-short": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-narrow": {
+            "displayName": "Week Of Month"
+          },
           "day": {
             "displayName": "dei",
             "relative-type--2": "eergisteren",
@@ -226,8 +241,32 @@
               "relativeTimePattern-count-other": "{0} deien lyn"
             }
           },
+          "dayOfYear": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-short": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-narrow": {
+            "displayName": "Day Of Year"
+          },
           "weekday": {
             "displayName": "dei van de wike"
+          },
+          "weekday-short": {
+            "displayName": "dei van de wike"
+          },
+          "weekday-narrow": {
+            "displayName": "dei van de wike"
+          },
+          "weekdayOfMonth": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-short": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-narrow": {
+            "displayName": "Weekday Of Month"
           },
           "sun": {
             "relative-type--1": "ôfrûne snein",
@@ -460,7 +499,13 @@
               "relativeTimePattern-count-other": "-{0} Saturdays"
             }
           },
+          "dayperiod-short": {
+            "displayName": "AM/PM"
+          },
           "dayperiod": {
+            "displayName": "AM/PM"
+          },
+          "dayperiod-narrow": {
             "displayName": "AM/PM"
           },
           "hour": {
@@ -572,6 +617,12 @@
             }
           },
           "zone": {
+            "displayName": "Zone"
+          },
+          "zone-short": {
+            "displayName": "Zone"
+          },
+          "zone-narrow": {
             "displayName": "Zone"
           }
         }
