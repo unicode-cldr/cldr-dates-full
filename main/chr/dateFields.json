@@ -3,8 +3,8 @@
     "chr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13174 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "chr"
       },
@@ -71,7 +71,7 @@
               "relativeTimePattern-count-other": "ᎾᎿ {0} ᎩᏄᏙᏗ"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "ᎾᎿ {0} ᎩᏄᏙᏗ",
+              "relativeTimePattern-count-one": "ᎾᎿ {0} ᎩᏄᏙᏗ ᏥᎨᏒ",
               "relativeTimePattern-count-other": "ᎾᎿ {0} ᎩᏄᏙᏗ ᏥᎨᏒ"
             }
           },
@@ -191,13 +191,13 @@
             "relativePeriod": "Ꮎ ᏒᎾᏙᏓᏆᏍᏗ ᎾᏍᎩ {0}"
           },
           "weekOfMonth": {
-            "displayName": "Week Of Month"
+            "displayName": "ᏒᎾᏙᏓᏆᏍᏗ ᎧᎸᎢ"
           },
           "weekOfMonth-short": {
-            "displayName": "Week Of Month"
+            "displayName": "ᎡᎾ. ᎧᎸ."
           },
           "weekOfMonth-narrow": {
-            "displayName": "Week Of Month"
+            "displayName": "ᎡᎾ. ᎧᎸ."
           },
           "day": {
             "displayName": "ᎢᎦ",
@@ -242,31 +242,31 @@
             }
           },
           "dayOfYear": {
-            "displayName": "Day Of Year"
+            "displayName": "ᎢᎦ ᎤᏕᏘᏴᏌᏗᏒᎢ"
           },
           "dayOfYear-short": {
-            "displayName": "Day Of Year"
+            "displayName": "ᎢᎦ ᎤᏕ."
           },
           "dayOfYear-narrow": {
-            "displayName": "Day Of Year"
+            "displayName": "ᎢᎦ ᎤᏕ."
           },
           "weekday": {
             "displayName": "ᎢᎦ ᏕᎨᏌᏗᏒ"
           },
           "weekday-short": {
-            "displayName": "ᎢᎦ ᏕᎨᏌᏗᏒ"
+            "displayName": "ᎢᎦ ᏕᎨ."
           },
           "weekday-narrow": {
-            "displayName": "ᎢᎦ ᏕᎨᏌᏗᏒ"
+            "displayName": "ᎢᎦ ᏕᎨ."
           },
           "weekdayOfMonth": {
-            "displayName": "Weekday Of Month"
+            "displayName": "ᏒᎾᏙᏓᏆᏍᏗ ᎢᎦ ᎧᎸᎢ"
           },
           "weekdayOfMonth-short": {
-            "displayName": "Weekday Of Month"
+            "displayName": "ᏒᎾ. ᎢᎦ ᎧᎸ."
           },
           "weekdayOfMonth-narrow": {
-            "displayName": "Weekday Of Month"
+            "displayName": "ᏒᎾ. ᎢᎦ ᎧᎸ."
           },
           "sun": {
             "relative-type--1": "ᎤᎾᏙᏓᏆᏍᎬ ᏥᎨᏒ",
@@ -662,10 +662,10 @@
             "displayName": "ᏂᎬᎾᏛ ᏧᏓᎴᏅᏓ ᏓᏟᎢᎵᏍᏒᎢ"
           },
           "zone-short": {
-            "displayName": "ᏂᎬᎾᏛ ᏧᏓᎴᏅᏓ ᏓᏟᎢᎵᏍᏒᎢ"
+            "displayName": "ᏂᎬᎾᏛ ᏧᏓᎴᏅᏓ"
           },
           "zone-narrow": {
-            "displayName": "ᏂᎬᎾᏛ ᏧᏓᎴᏅᏓ ᏓᏟᎢᎵᏍᏒᎢ"
+            "displayName": "ᏂᎬᎾᏛ ᏧᏓᎴᏅᏓ"
           }
         }
       }

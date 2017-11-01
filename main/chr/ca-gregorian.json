@@ -3,8 +3,8 @@
     "chr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13174 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "chr"
       },
@@ -307,8 +307,13 @@
               "medium": "{1}, {0}",
               "short": "{1}, {0}",
               "availableFormats": {
+                "Bh": "h B",
+                "Bhm": "h:mm B",
+                "Bhms": "h:mm:ss B",
                 "d": "d",
                 "E": "ccc",
+                "EBhm": "E h:mm B",
+                "EBhms": "E h:mm:ss B",
                 "Ed": "d E",
                 "Ehm": "E h:mm a",
                 "EHm": "E HH:mm",
@@ -335,7 +340,8 @@
                 "MMMd": "MMM d",
                 "MMMEd": "E, MMM d",
                 "MMMMd": "MMMM d",
-                "MMMMW-count-other": "'week' W 'of' MMMM",
+                "MMMMW-count-one": "’ᏒᎾᏙᏓᏆᏍᏗ’ W ’ᎾᎿ’ MMMM",
+                "MMMMW-count-other": "’ᏒᎾᏙᏓᏆᏍᏗ’ W ’ᎾᎿ’ MMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "M/y",
@@ -347,7 +353,8 @@
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ y",
-                "yw-count-other": "'week' w 'of' y"
+                "yw-count-one": "’ᏒᎾᏙᏓᏆᏍᏗ’ w ’ᎾᎿ’ Y",
+                "yw-count-other": "’ᏒᎾᏙᏓᏆᏍᏗ’ w ’ᎾᎿ’ Y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",
@@ -414,7 +421,7 @@
                   "M": "MMM – MMM"
                 },
                 "MMMd": {
-                  "d": "MMM d–d",
+                  "d": "MMM d – d",
                   "M": "MMM d – MMM d"
                 },
                 "MMMEd": {
@@ -439,7 +446,7 @@
                   "y": "E, M/d/y – E, M/d/y"
                 },
                 "yMMM": {
-                  "M": "MMM–MMM y",
+                  "M": "MMM – MMM y",
                   "y": "MMM y – MMM y"
                 },
                 "yMMMd": {
@@ -453,7 +460,7 @@
                   "y": "E, MMM d, y – E, MMM d, y"
                 },
                 "yMMMM": {
-                  "M": "MMMM–MMMM y",
+                  "M": "MMMM – MMMM y",
                   "y": "MMMM y – MMMM y"
                 }
               }

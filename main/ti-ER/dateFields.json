@@ -3,8 +3,8 @@
     "ti-ER": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13706 $",
+          "_cldrVersion": "32"
         },
         "language": "ti",
         "territory": "ER"
@@ -12,571 +12,661 @@
       "dates": {
         "fields": {
           "era": {
-            "displayName": "Era"
+            "displayName": "ዘመን"
           },
           "era-short": {
-            "displayName": "Era"
+            "displayName": "ዘመን"
           },
           "era-narrow": {
-            "displayName": "Era"
+            "displayName": "ዘመን"
           },
           "year": {
-            "displayName": "Year",
-            "relative-type--1": "last year",
-            "relative-type-0": "this year",
-            "relative-type-1": "next year",
+            "displayName": "ዓመት",
+            "relative-type--1": "ዓሚ",
+            "relative-type-0": "ሎሚ ዓመት",
+            "relative-type-1": "ንዓመታ",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} y"
+              "relativeTimePattern-count-one": "ኣብ {0} ዓ",
+              "relativeTimePattern-count-other": "ኣብ {0} ዓ"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} y"
+              "relativeTimePattern-count-one": "ቅድሚ {0} ዓ",
+              "relativeTimePattern-count-other": "ቅድሚ {0} ዓ"
             }
           },
           "year-short": {
-            "displayName": "Year",
-            "relative-type--1": "last year",
-            "relative-type-0": "this year",
-            "relative-type-1": "next year",
+            "displayName": "ዓመት",
+            "relative-type--1": "ዓሚ",
+            "relative-type-0": "ሎሚ ዓመት",
+            "relative-type-1": "ንዓመታ",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} y"
+              "relativeTimePattern-count-one": "ኣብ {0} ዓ",
+              "relativeTimePattern-count-other": "ኣብ {0} ዓ"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} y"
+              "relativeTimePattern-count-one": "ቅድሚ -{0} ዓ",
+              "relativeTimePattern-count-other": "ቅድሚ {0} ዓ"
             }
           },
           "year-narrow": {
-            "displayName": "Year",
-            "relative-type--1": "last year",
-            "relative-type-0": "this year",
-            "relative-type-1": "next year",
+            "displayName": "ዓመት",
+            "relative-type--1": "ዓሚ",
+            "relative-type-0": "ሎሚ ዓመት",
+            "relative-type-1": "ንዓመታ",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} y"
+              "relativeTimePattern-count-one": "ኣብ {0} ዓ",
+              "relativeTimePattern-count-other": "ኣብ {0} ዓ"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} y"
+              "relativeTimePattern-count-one": "ቅድሚ {0} ዓ",
+              "relativeTimePattern-count-other": "ቅድሚ {0} ዓ"
             }
           },
           "quarter": {
-            "displayName": "Quarter",
-            "relative-type--1": "last quarter",
-            "relative-type-0": "this quarter",
-            "relative-type-1": "next quarter",
+            "displayName": "ርብዒ",
+            "relative-type--1": "ዝሓለፈ ርብዒ",
+            "relative-type-0": "ህሉው ርብዒ",
+            "relative-type-1": "ዝመጽእ ርብዒ",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Q"
+              "relativeTimePattern-count-one": "ኣብ {0} ርብዒ",
+              "relativeTimePattern-count-other": "ኣብ {0} ርብዒ"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Q"
+              "relativeTimePattern-count-one": "ቅድሚ {0} ርብዒ",
+              "relativeTimePattern-count-other": "ቅድሚ {0} ርብዒ"
             }
           },
           "quarter-short": {
-            "displayName": "Quarter",
-            "relative-type--1": "last quarter",
-            "relative-type-0": "this quarter",
-            "relative-type-1": "next quarter",
+            "displayName": "ርብዒ",
+            "relative-type--1": "ዝሓለፈ ርብዒ",
+            "relative-type-0": "ህሉው ርብዒ",
+            "relative-type-1": "ዝመጽእ ርብዒ",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Q"
+              "relativeTimePattern-count-one": "ኣብ {0} ርብዒ",
+              "relativeTimePattern-count-other": "ኣብ {0} ርብዒ"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Q"
+              "relativeTimePattern-count-one": "ቅድሚ {0} ርብዒ",
+              "relativeTimePattern-count-other": "ቅድሚ {0} ርብዒ"
             }
           },
           "quarter-narrow": {
-            "displayName": "Quarter",
-            "relative-type--1": "last quarter",
-            "relative-type-0": "this quarter",
-            "relative-type-1": "next quarter",
+            "displayName": "ርብዒ",
+            "relative-type--1": "ዝሓለፈ ርብዒ",
+            "relative-type-0": "ህሉው ርብዒ",
+            "relative-type-1": "ዝመጽእ ርብዒ",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Q"
+              "relativeTimePattern-count-one": "ኣብ {0} ርብዒ",
+              "relativeTimePattern-count-other": "ኣብ {0} ርብዒ"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Q"
+              "relativeTimePattern-count-one": "ቅድሚ {0} ርብዒ",
+              "relativeTimePattern-count-other": "ቅድሚ {0} ርብዒ"
             }
           },
           "month": {
-            "displayName": "Month",
+            "displayName": "ወርሒ",
             "relative-type--1": "last month",
-            "relative-type-0": "this month",
-            "relative-type-1": "next month",
+            "relative-type-0": "ህሉው ወርሒ",
+            "relative-type-1": "ዝመጽእ ወርሒ",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} m"
+              "relativeTimePattern-count-one": "ኣብ {0} ወርሒ",
+              "relativeTimePattern-count-other": "ኣብ {0} ወርሒ"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} m"
+              "relativeTimePattern-count-one": "ቅድሚ {0} ወርሒ",
+              "relativeTimePattern-count-other": "ቅድሚ {0} ወርሒ"
             }
           },
           "month-short": {
-            "displayName": "Month",
+            "displayName": "ወርሒ",
             "relative-type--1": "last month",
-            "relative-type-0": "this month",
-            "relative-type-1": "next month",
+            "relative-type-0": "ህሉው ወርሒ",
+            "relative-type-1": "ዝመጽእ ወርሒ",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} m"
+              "relativeTimePattern-count-one": "ኣብ {0} ወርሒ",
+              "relativeTimePattern-count-other": "ኣብ {0} ወርሒ"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} m"
+              "relativeTimePattern-count-one": "ቅድሚ {0} ወርሒ",
+              "relativeTimePattern-count-other": "ቅድሚ {0} ወርሒ"
             }
           },
           "month-narrow": {
-            "displayName": "Month",
+            "displayName": "ወርሒ",
             "relative-type--1": "last month",
-            "relative-type-0": "this month",
-            "relative-type-1": "next month",
+            "relative-type-0": "ህሉው ወርሒ",
+            "relative-type-1": "ዝመጽእ ወርሒ",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} m"
+              "relativeTimePattern-count-one": "ኣብ {0} ወርሒ",
+              "relativeTimePattern-count-other": "ኣብ {0} ወርሒ"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} m"
+              "relativeTimePattern-count-one": "ቅድሚ {0} ወርሒ",
+              "relativeTimePattern-count-other": "ቅድሚ {0} ወርሒ"
             }
           },
           "week": {
-            "displayName": "Week",
-            "relative-type--1": "last week",
-            "relative-type-0": "this week",
-            "relative-type-1": "next week",
+            "displayName": "ሰሙን",
+            "relative-type--1": "ዝሓለፈ ሰሙን",
+            "relative-type-0": "ህሉው ሰሙን",
+            "relative-type-1": "ዝመጽእ ሰሙን",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} w"
+              "relativeTimePattern-count-one": "ኣብ {0} ሰሙን",
+              "relativeTimePattern-count-other": "ኣብ {0} ሰሙን"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} w"
+              "relativeTimePattern-count-one": "ቅድሚ {0} ሰሙን",
+              "relativeTimePattern-count-other": "ቅድሚ {0} ሰሙን"
             },
-            "relativePeriod": "the week of {0}"
+            "relativePeriod": "ሰሙን ናይ {0}"
           },
           "week-short": {
-            "displayName": "Week",
-            "relative-type--1": "last week",
-            "relative-type-0": "this week",
-            "relative-type-1": "next week",
+            "displayName": "ሰሙን",
+            "relative-type--1": "ዝሓለፈ ሰሙን",
+            "relative-type-0": "ህሉው ሰሙን",
+            "relative-type-1": "ዝመጽእ ሰሙን",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} w"
+              "relativeTimePattern-count-one": "ኣብ {0} ሰሙን",
+              "relativeTimePattern-count-other": "ኣብ {0} ሰሙን"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} w"
+              "relativeTimePattern-count-one": "ቅድሚ {0} ሰሙን",
+              "relativeTimePattern-count-other": "ቅድሚ {0} ሰሙን"
             },
-            "relativePeriod": "the week of {0}"
+            "relativePeriod": "ሰሙን ናይ {0}"
           },
           "week-narrow": {
-            "displayName": "Week",
-            "relative-type--1": "last week",
-            "relative-type-0": "this week",
-            "relative-type-1": "next week",
+            "displayName": "ሰሙን",
+            "relative-type--1": "ዝሓለፈ ሰሙን",
+            "relative-type-0": "ህሉው ሰሙን",
+            "relative-type-1": "ዝመጽእ ሰሙን",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} w"
+              "relativeTimePattern-count-one": "ኣብ {0} ሰሙን",
+              "relativeTimePattern-count-other": "ኣብ {0} ሰሙን"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} w"
+              "relativeTimePattern-count-one": "ቅድሚ {0} ሰሙን",
+              "relativeTimePattern-count-other": "ቅድሚ {0} ሰሙን"
             },
-            "relativePeriod": "the week of {0}"
+            "relativePeriod": "ሰሙን ናይ {0}"
           },
           "weekOfMonth": {
-            "displayName": "Week Of Month"
+            "displayName": "ሰን ናይ ወርሒ"
           },
           "weekOfMonth-short": {
-            "displayName": "Week Of Month"
+            "displayName": "ሰሙ. ናይ ወር."
           },
           "weekOfMonth-narrow": {
-            "displayName": "Week Of Month"
+            "displayName": "ሰሙ. ናይ ወር."
           },
           "day": {
-            "displayName": "Day",
-            "relative-type--1": "yesterday",
-            "relative-type-0": "today",
-            "relative-type-1": "tomorrow",
+            "displayName": "መዓልቲ",
+            "relative-type--1": "ትማሊ",
+            "relative-type-0": "ሎሚ",
+            "relative-type-1": "ጽባሕ",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} d"
+              "relativeTimePattern-count-one": "ኣብ {0} መዓልቲ",
+              "relativeTimePattern-count-other": "ኣብ {0} መዓልቲ"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} d"
+              "relativeTimePattern-count-one": "ቅድሚ {0} መዓልቲ",
+              "relativeTimePattern-count-other": "ኣብ {0} መዓልቲ"
             }
           },
           "day-short": {
-            "displayName": "Day",
-            "relative-type--1": "yesterday",
-            "relative-type-0": "today",
-            "relative-type-1": "tomorrow",
+            "displayName": "መዓልቲ",
+            "relative-type--1": "ትማሊ",
+            "relative-type-0": "ሎሚ",
+            "relative-type-1": "ጽባሕ",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} d"
+              "relativeTimePattern-count-one": "ኣብ {0} መዓልቲ",
+              "relativeTimePattern-count-other": "ኣብ {0} መዓልቲ"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} d"
+              "relativeTimePattern-count-one": "ቅድሚ {0} መዓልቲ",
+              "relativeTimePattern-count-other": "ቅድሚ {0} መዓልቲ"
             }
           },
           "day-narrow": {
-            "displayName": "Day",
-            "relative-type--1": "yesterday",
-            "relative-type-0": "today",
-            "relative-type-1": "tomorrow",
+            "displayName": "መዓልቲ",
+            "relative-type--1": "ትማሊ",
+            "relative-type-0": "ሎሚ",
+            "relative-type-1": "ጽባሕ",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} d"
+              "relativeTimePattern-count-one": "ኣብ {0} መዓልቲ",
+              "relativeTimePattern-count-other": "ኣብ {0} መዓልቲ"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} d"
+              "relativeTimePattern-count-one": "ቅድሚ {0} መዓልቲ",
+              "relativeTimePattern-count-other": "ቅድሚ {0} መዓልቲ"
             }
           },
           "dayOfYear": {
-            "displayName": "Day Of Year"
+            "displayName": "መዓልቲ ናይ ዓመት"
           },
           "dayOfYear-short": {
-            "displayName": "Day Of Year"
+            "displayName": "መዓልቲ ናይ ዓ."
           },
           "dayOfYear-narrow": {
-            "displayName": "Day Of Year"
+            "displayName": "መዓልቲ ናይ ዓ."
           },
           "weekday": {
-            "displayName": "Day of the Week"
+            "displayName": "መዓልቲ ናይ ሰሙን"
           },
           "weekday-short": {
-            "displayName": "Day of the Week"
+            "displayName": "መዓልቲ ናይ ሰሙን"
           },
           "weekday-narrow": {
-            "displayName": "Day of the Week"
+            "displayName": "መዓልቲ ናይ ሰ."
           },
           "weekdayOfMonth": {
-            "displayName": "Weekday Of Month"
+            "displayName": "መዓልታት ስራሕ ናይ ወርሒ"
           },
           "weekdayOfMonth-short": {
-            "displayName": "Weekday Of Month"
+            "displayName": "መዓልታት ስራሕ ናይ ወርሒ"
           },
           "weekdayOfMonth-narrow": {
-            "displayName": "Weekday Of Month"
+            "displayName": "መ.ስራሕ ናይ ወርሒ"
           },
           "sun": {
-            "relative-type--1": "last Sunday",
-            "relative-type-0": "this Sunday",
-            "relative-type-1": "next Sunday",
+            "relative-type--1": "ዝሓለፈ ሰንበት",
+            "relative-type-0": "ሎሚ ሰንበት",
+            "relative-type-1": "ዝመጽእ ሰንበት",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Sundays"
+              "relativeTimePattern-count-one": "ኣብ {0} ሰንበት",
+              "relativeTimePattern-count-other": "ኣብ {0} ሰንበት"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Sundays"
+              "relativeTimePattern-count-one": "ቅድሚ {0} ሰንበት",
+              "relativeTimePattern-count-other": "ቅድሚ {0} ሰንበት"
             }
           },
           "sun-short": {
-            "relative-type--1": "last Sunday",
-            "relative-type-0": "this Sunday",
-            "relative-type-1": "next Sunday",
+            "relative-type--1": "ዝሓለፈ ሰንበት",
+            "relative-type-0": "ሎሚ ሰንበት",
+            "relative-type-1": "ዝመጽእ ሰንበት",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Sundays"
+              "relativeTimePattern-count-one": "ኣብ {0} ሰንበት",
+              "relativeTimePattern-count-other": "ኣብ {0} ሰንበት"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Sundays"
+              "relativeTimePattern-count-one": "ቅድሚ {0} ሰንበት",
+              "relativeTimePattern-count-other": "ቅድሚ {0} ሰንበት"
             }
           },
           "sun-narrow": {
-            "relative-type--1": "last Sunday",
-            "relative-type-0": "this Sunday",
-            "relative-type-1": "next Sunday",
+            "relative-type--1": "ዝሓለፈ ሰንበት",
+            "relative-type-0": "ሎሚ ሰንበት",
+            "relative-type-1": "ዝመጽእ ሰንበት",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Sundays"
+              "relativeTimePattern-count-one": "ኣብ {0} ሰንበት",
+              "relativeTimePattern-count-other": "ኣብ {0} ሰንበት"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Sundays"
+              "relativeTimePattern-count-one": "ቅድሚ {0} ሰንበት",
+              "relativeTimePattern-count-other": "ቅድሚ {0} ሰንበት"
             }
           },
           "mon": {
-            "relative-type--1": "last Monday",
-            "relative-type-0": "this Monday",
-            "relative-type-1": "next Monday",
+            "relative-type--1": "ዝሓለፈ ሰኑይ",
+            "relative-type-0": "ሎሚ ሰኑይ",
+            "relative-type-1": "ዝመጽእ ሰኑይ",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Mondays"
+              "relativeTimePattern-count-one": "ኣብ {0} ሰኑይ",
+              "relativeTimePattern-count-other": "ኣብ {0} ሰኑይ"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Mondays"
+              "relativeTimePattern-count-one": "ቅድሚ {0} ሰኑይ",
+              "relativeTimePattern-count-other": "ቅድሚ {0} ሰኑይ"
             }
           },
           "mon-short": {
-            "relative-type--1": "last Monday",
-            "relative-type-0": "this Monday",
-            "relative-type-1": "next Monday",
+            "relative-type--1": "ዝሓለፈ ሰኑይ",
+            "relative-type-0": "ሎሚ ሰኑይ",
+            "relative-type-1": "ዝመጽእ ሰኑይ",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Mondays"
+              "relativeTimePattern-count-one": "ኣብ {0} ሰኑይ",
+              "relativeTimePattern-count-other": "ኣብ {0} ሰኑይ"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Mondays"
+              "relativeTimePattern-count-one": "ቅድሚ {0} ሰኑይ",
+              "relativeTimePattern-count-other": "ቅድሚ {0} ሰኑይ"
             }
           },
           "mon-narrow": {
-            "relative-type--1": "last Monday",
-            "relative-type-0": "this Monday",
-            "relative-type-1": "next Monday",
+            "relative-type--1": "ዝሓለፈ ሰኑይ",
+            "relative-type-0": "ሎሚ ሰኑይ",
+            "relative-type-1": "ዝመጽእ ሰኑይ",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Mondays"
+              "relativeTimePattern-count-one": "ኣብ {0} ሰኑይ",
+              "relativeTimePattern-count-other": "ኣብ {0} ሰኑይ"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Mondays"
+              "relativeTimePattern-count-one": "ቅድሚ {0} ሰኑይ",
+              "relativeTimePattern-count-other": "ቅድሚ {0} ሰኑይ"
             }
           },
           "tue": {
-            "relative-type--1": "last Tuesday",
-            "relative-type-0": "this Tuesday",
-            "relative-type-1": "next Tuesday",
+            "relative-type--1": "ዝሓለፈ ሰሉስ",
+            "relative-type-0": "ሎሚ ሰሉስ",
+            "relative-type-1": "ዝመጽእ ሰሉስ",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Tuesdays"
+              "relativeTimePattern-count-one": "ኣብ {0} ሰሉስ",
+              "relativeTimePattern-count-other": "ኣብ {0} ሰሉስ"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Tuesdays"
+              "relativeTimePattern-count-one": "ቅድሚ {0} ሰሉስ",
+              "relativeTimePattern-count-other": "ቅድሚ {0} ሰሉስ"
             }
           },
           "tue-short": {
-            "relative-type--1": "last Tuesday",
-            "relative-type-0": "this Tuesday",
-            "relative-type-1": "next Tuesday",
+            "relative-type--1": "ዝሓለፈ ሰሉስ",
+            "relative-type-0": "ሎሚ ሰሉስ",
+            "relative-type-1": "ዝመጽእ ሰሉስ",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Tuesdays"
+              "relativeTimePattern-count-one": "ኣብ {0} ሰሉስ",
+              "relativeTimePattern-count-other": "ኣብ {0} ሰሉስ"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Tuesdays"
+              "relativeTimePattern-count-one": "ቅድሚ {0} ሰሉስ",
+              "relativeTimePattern-count-other": "ቅድሚ {0} ሰሉስ"
             }
           },
           "tue-narrow": {
-            "relative-type--1": "last Tuesday",
-            "relative-type-0": "this Tuesday",
-            "relative-type-1": "next Tuesday",
+            "relative-type--1": "ዝሓለፈ ሰሉስ",
+            "relative-type-0": "ሎሚ ሰሉስ",
+            "relative-type-1": "ዝመጽእ ሰሉስ",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Tuesdays"
+              "relativeTimePattern-count-one": "ኣብ {0} ሰሉስ",
+              "relativeTimePattern-count-other": "ኣብ {0} ሰሉስ"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Tuesdays"
+              "relativeTimePattern-count-one": "ቅድሚ {0} ሰሉስ",
+              "relativeTimePattern-count-other": "ቅድሚ {0} ሰሉስ"
             }
           },
           "wed": {
-            "relative-type--1": "last Wednesday",
-            "relative-type-0": "this Wednesday",
-            "relative-type-1": "next Wednesday",
+            "relative-type--1": "ዝሓለፈ ረቡዕ",
+            "relative-type-0": "ሎሚ ረቡዕ",
+            "relative-type-1": "ዝመጽእ ረቡዕ",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Wednesdays"
+              "relativeTimePattern-count-one": "ኣብ {0} ረቡዕ",
+              "relativeTimePattern-count-other": "ኣብ {0} ረቡዕ"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Wednesdays"
+              "relativeTimePattern-count-one": "ቅድሚ {0} ረቡዕ",
+              "relativeTimePattern-count-other": "ቅድሚ {0} ረቡዕ"
             }
           },
           "wed-short": {
-            "relative-type--1": "last Wednesday",
-            "relative-type-0": "this Wednesday",
-            "relative-type-1": "next Wednesday",
+            "relative-type--1": "ዝሓለፈ ረቡዕ",
+            "relative-type-0": "ሎሚ ረቡዕ",
+            "relative-type-1": "ዝመጽእ ረቡዕ",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Wednesdays"
+              "relativeTimePattern-count-one": "ኣብ {0} ረቡዕ",
+              "relativeTimePattern-count-other": "ኣብ {0} ረቡዕ"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Wednesdays"
+              "relativeTimePattern-count-one": "ቅድሚ {0} ረቡዕ",
+              "relativeTimePattern-count-other": "ቅድሚ {0} ረቡዕ"
             }
           },
           "wed-narrow": {
-            "relative-type--1": "last Wednesday",
-            "relative-type-0": "this Wednesday",
-            "relative-type-1": "next Wednesday",
+            "relative-type--1": "ዝሓለፈ ረቡዕ",
+            "relative-type-0": "ሎሚ ረቡዕ",
+            "relative-type-1": "ዝመጽእ ረቡዕ",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Wednesdays"
+              "relativeTimePattern-count-one": "ኣብ {0} ረቡዕ",
+              "relativeTimePattern-count-other": "ኣብ {0} ረቡዕ"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Wednesdays"
+              "relativeTimePattern-count-one": "ቅድሚ {0} ረቡዕ",
+              "relativeTimePattern-count-other": "ቅድሚ {0} ረቡዕ"
             }
           },
           "thu": {
-            "relative-type--1": "last Thursday",
-            "relative-type-0": "this Thursday",
-            "relative-type-1": "next Thursday",
+            "relative-type--1": "ዝሓለፈ ሓሙስ",
+            "relative-type-0": "ሎሚ ሓሙስ",
+            "relative-type-1": "ዝመጽእ ሓሙስ",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Thursdays"
+              "relativeTimePattern-count-one": "ኣብ {0} ሓሙስ",
+              "relativeTimePattern-count-other": "ኣብ {0} ሓሙስ"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Thursdays"
+              "relativeTimePattern-count-one": "ቅድሚ {0} ሓሙስ",
+              "relativeTimePattern-count-other": "ቅድሚ {0} ሓሙስ"
             }
           },
           "thu-short": {
-            "relative-type--1": "last Thursday",
-            "relative-type-0": "this Thursday",
-            "relative-type-1": "next Thursday",
+            "relative-type--1": "ዝሓለፈ ሓሙስ",
+            "relative-type-0": "ሎሚ ሓሙስ",
+            "relative-type-1": "ዝመጽእ ሓሙስ",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Thursdays"
+              "relativeTimePattern-count-one": "ኣብ {0} ሓሙስ",
+              "relativeTimePattern-count-other": "ኣብ {0} ሓሙስ"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Thursdays"
+              "relativeTimePattern-count-one": "ቅድሚ {0} ሓሙስ",
+              "relativeTimePattern-count-other": "ቅድሚ {0} ሓሙስ"
             }
           },
           "thu-narrow": {
-            "relative-type--1": "last Thursday",
-            "relative-type-0": "this Thursday",
-            "relative-type-1": "next Thursday",
+            "relative-type--1": "ዝሓለፈ ሓሙስ",
+            "relative-type-0": "ሎሚ ሓሙስ",
+            "relative-type-1": "ዝመጽእ ሓሙስ",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Thursdays"
+              "relativeTimePattern-count-one": "ኣብ {0} ሓሙስ",
+              "relativeTimePattern-count-other": "ኣብ {0} ሓሙስ"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Thursdays"
+              "relativeTimePattern-count-one": "ቅድሚ {0} ሓሙስ",
+              "relativeTimePattern-count-other": "ቅድሚ {0} ሓሙስ"
             }
           },
           "fri": {
-            "relative-type--1": "last Friday",
-            "relative-type-0": "this Friday",
-            "relative-type-1": "next Friday",
+            "relative-type--1": "ዝሓለፈ ዓርቢ",
+            "relative-type-0": "ሎሚ ዓርቢ",
+            "relative-type-1": "ዝመጽእ ዓርቢ",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Fridays"
+              "relativeTimePattern-count-one": "ኣብ {0} ዓርቢ",
+              "relativeTimePattern-count-other": "ኣብ {0} ዓርቢ"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Fridays"
+              "relativeTimePattern-count-one": "ኣብ {0} ዓርቢ",
+              "relativeTimePattern-count-other": "ቅድሚ {0} ዓርቢ"
             }
           },
           "fri-short": {
-            "relative-type--1": "last Friday",
-            "relative-type-0": "this Friday",
-            "relative-type-1": "next Friday",
+            "relative-type--1": "ዝሓለፈ ዓርቢ",
+            "relative-type-0": "ሎሚ ዓርቢ",
+            "relative-type-1": "ዝመጽእ ዓርቢ",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Fridays"
+              "relativeTimePattern-count-one": "ኣብ {0} ዓርቢ",
+              "relativeTimePattern-count-other": "ኣብ {0} ዓርቢ"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Fridays"
+              "relativeTimePattern-count-one": "ቅድሚ {0} ዓርቢ",
+              "relativeTimePattern-count-other": "ቅድሚ {0} ዓርቢ"
             }
           },
           "fri-narrow": {
-            "relative-type--1": "last Friday",
-            "relative-type-0": "this Friday",
-            "relative-type-1": "next Friday",
+            "relative-type--1": "ዝሓለፈ ዓርቢ",
+            "relative-type-0": "ሎሚ ዓርቢ",
+            "relative-type-1": "ዝመጽእ ዓርቢ",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Fridays"
+              "relativeTimePattern-count-one": "ኣብ {0} ዓርቢ",
+              "relativeTimePattern-count-other": "ኣብ {0} ዓርቢ"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Fridays"
+              "relativeTimePattern-count-one": "ቅድሚ {0} ዓርቢ",
+              "relativeTimePattern-count-other": "ቅድሚ {0} ዓርቢ"
             }
           },
           "sat": {
-            "relative-type--1": "last Saturday",
-            "relative-type-0": "this Saturday",
-            "relative-type-1": "next Saturday",
+            "relative-type--1": "ዝሓለፈ ቀዳም",
+            "relative-type-0": "ሎሚ ቀዳም",
+            "relative-type-1": "ዝመጽእ ቀዳም",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Saturdays"
+              "relativeTimePattern-count-one": "ኣብ {0} ቀዳም",
+              "relativeTimePattern-count-other": "ኣብ {0} ቀዳም"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Saturdays"
+              "relativeTimePattern-count-one": "ቅድሚ {0} ቀዳም",
+              "relativeTimePattern-count-other": "ቅድሚ {0} ቀዳም"
             }
           },
           "sat-short": {
-            "relative-type--1": "last Saturday",
-            "relative-type-0": "this Saturday",
-            "relative-type-1": "next Saturday",
+            "relative-type--1": "ዝሓለፈ ቀዳም",
+            "relative-type-0": "ሎሚ ቀዳም",
+            "relative-type-1": "ዝመጽእ ቀዳም",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Saturdays"
+              "relativeTimePattern-count-one": "ኣብ {0} ቀዳም",
+              "relativeTimePattern-count-other": "ኣብ {0} ቀዳም"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Saturdays"
+              "relativeTimePattern-count-one": "ቅድሚ {0} ቀዳም",
+              "relativeTimePattern-count-other": "ቅድሚ {0} ቀዳም"
             }
           },
           "sat-narrow": {
-            "relative-type--1": "last Saturday",
-            "relative-type-0": "this Saturday",
-            "relative-type-1": "next Saturday",
+            "relative-type--1": "ዝሓለፈ ቀዳም",
+            "relative-type-0": "ሎሚ ቀዳም",
+            "relative-type-1": "ዝመጽእ ቀዳም",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Saturdays"
+              "relativeTimePattern-count-one": "ኣብ {0} ቀዳም",
+              "relativeTimePattern-count-other": "ኣብ {0} ቀዳም"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Saturdays"
+              "relativeTimePattern-count-one": "ቅድሚ {0} ቀዳም",
+              "relativeTimePattern-count-other": "ቅድሚ {0} ቀዳም"
             }
           },
           "dayperiod-short": {
-            "displayName": "Dayperiod"
+            "displayName": "ክፍለ መዓልቲ"
           },
           "dayperiod": {
-            "displayName": "Dayperiod"
+            "displayName": "ክፍለ መዓልቲ"
           },
           "dayperiod-narrow": {
-            "displayName": "Dayperiod"
+            "displayName": "ክፍለ መዓልቲ"
           },
           "hour": {
-            "displayName": "Hour",
-            "relative-type-0": "this hour",
+            "displayName": "ሰዓት",
+            "relative-type-0": "ኣብዚ ሰዓት",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} h"
+              "relativeTimePattern-count-one": "ኣብ {0} ሰዓት",
+              "relativeTimePattern-count-other": "ኣብ {0} ሰዓት"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} h"
+              "relativeTimePattern-count-one": "ቅድሚ {0} ሰዓት",
+              "relativeTimePattern-count-other": "ቅድሚ {0} ሰዓት"
             }
           },
           "hour-short": {
-            "displayName": "Hour",
-            "relative-type-0": "this hour",
+            "displayName": "ሰዓት",
+            "relative-type-0": "ኣብዚ ሰዓት",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} h"
+              "relativeTimePattern-count-one": "ኣብ {0} ሰዓት",
+              "relativeTimePattern-count-other": "ኣብ {0} ሰዓት"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} h"
+              "relativeTimePattern-count-one": "ቅድሚ {0} ሰዓት",
+              "relativeTimePattern-count-other": "ቅድሚ {0} ሰዓት"
             }
           },
           "hour-narrow": {
-            "displayName": "Hour",
-            "relative-type-0": "this hour",
+            "displayName": "ሰዓት",
+            "relative-type-0": "ኣብዚ ሰዓት",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} h"
+              "relativeTimePattern-count-one": "ኣብ {0} ሰዓት",
+              "relativeTimePattern-count-other": "ኣብ {0} ሰዓት"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} h"
+              "relativeTimePattern-count-one": "ቅድሚ {0} ሰዓት",
+              "relativeTimePattern-count-other": "ቅድሚ {0} ሰዓት"
             }
           },
           "minute": {
-            "displayName": "Minute",
-            "relative-type-0": "this minute",
+            "displayName": "ደቒቕ",
+            "relative-type-0": "ኣብዚ ደቒቕ",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} min"
+              "relativeTimePattern-count-one": "ኣብ {0} ደቒቕ",
+              "relativeTimePattern-count-other": "ኣብ {0} ደቒቕ"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} min"
+              "relativeTimePattern-count-one": "ቅድሚ {0} ደቒቕ",
+              "relativeTimePattern-count-other": "ቅድሚ {0} ደቒቕ"
             }
           },
           "minute-short": {
-            "displayName": "Minute",
-            "relative-type-0": "this minute",
+            "displayName": "ደቒቕ",
+            "relative-type-0": "ኣብዚ ደቒቕ",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} min"
+              "relativeTimePattern-count-one": "ኣብ {0} ደቒቕ",
+              "relativeTimePattern-count-other": "ኣብ {0} ደቒቕ"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} min"
+              "relativeTimePattern-count-one": "ቅድሚ {0} ደቒቕ",
+              "relativeTimePattern-count-other": "ቅድሚ {0} ደቒቕ"
             }
           },
           "minute-narrow": {
-            "displayName": "Minute",
-            "relative-type-0": "this minute",
+            "displayName": "ደቒ.",
+            "relative-type-0": "ኣብዚ ደቒቕ",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} min"
+              "relativeTimePattern-count-one": "ኣብ {0} ደቒቕ",
+              "relativeTimePattern-count-other": "ኣብ {0} ደቒቕ"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} min"
+              "relativeTimePattern-count-one": "ቅድሚ {0} ደቒቕ",
+              "relativeTimePattern-count-other": "ቅድሚ {0} ደቒቕ"
             }
           },
           "second": {
-            "displayName": "Second",
-            "relative-type-0": "now",
+            "displayName": "ካልኢት",
+            "relative-type-0": "ሕጂ",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} s"
+              "relativeTimePattern-count-one": "ኣብ {0} ካልኢት",
+              "relativeTimePattern-count-other": "ኣብ {0} ካልኢት"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} s"
+              "relativeTimePattern-count-one": "ቅድሚ {0} ካልኢት",
+              "relativeTimePattern-count-other": "ቅድሚ {0} ካልኢት"
             }
           },
           "second-short": {
-            "displayName": "Second",
-            "relative-type-0": "now",
+            "displayName": "ካልኢት",
+            "relative-type-0": "ሕጂ",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} s"
+              "relativeTimePattern-count-one": "ኣብ {0} ካልኢት",
+              "relativeTimePattern-count-other": "ኣብ {0} ካልኢት"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} s"
+              "relativeTimePattern-count-one": "ቅድሚ {0} ካልኢት",
+              "relativeTimePattern-count-other": "ቅድሚ {0} ካልኢት"
             }
           },
           "second-narrow": {
-            "displayName": "Second",
-            "relative-type-0": "now",
+            "displayName": "ካልኢት",
+            "relative-type-0": "ሕጂ",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} s"
+              "relativeTimePattern-count-one": "ኣብ {0} ካልኢት",
+              "relativeTimePattern-count-other": "ኣብ {0} ካልኢት"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} s"
+              "relativeTimePattern-count-one": "ቅድሚ {0} ካልኢት",
+              "relativeTimePattern-count-other": "ቅድሚ {0} ካልኢት"
             }
           },
           "zone": {
-            "displayName": "Zone"
+            "displayName": "ክልል"
           },
           "zone-short": {
-            "displayName": "Zone"
+            "displayName": "ክልል"
           },
           "zone-narrow": {
-            "displayName": "Zone"
+            "displayName": "ክልል"
           }
         }
       }

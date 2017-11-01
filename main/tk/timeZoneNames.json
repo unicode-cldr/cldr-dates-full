@@ -3,8 +3,8 @@
     "tk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "tk"
       },
@@ -14,8 +14,8 @@
           "gmtFormat": "GMT{0}",
           "gmtZeroFormat": "GMT",
           "regionFormat": "{0} wagty",
-          "regionFormat-type-daylight": "{0}, tomusky wagt",
-          "regionFormat-type-standard": "{0}, standart wagt",
+          "regionFormat-type-daylight": "{0} tomusky wagty",
+          "regionFormat-type-standard": "{0} standart wagty",
           "fallbackFormat": "{1} ({0})",
           "zone": {
             "America": {
@@ -118,7 +118,7 @@
                 "exemplarCity": "Çikago"
               },
               "Chihuahua": {
-                "exemplarCity": "Çiuaua"
+                "exemplarCity": "Çihuahua"
               },
               "Coral_Harbour": {
                 "exemplarCity": "Atikokan"
@@ -145,13 +145,13 @@
                 "exemplarCity": "Douson"
               },
               "Dawson_Creek": {
-                "exemplarCity": "Dowson-Krik"
+                "exemplarCity": "Douson-Krik"
               },
               "Denver": {
                 "exemplarCity": "Denwer"
               },
               "Detroit": {
-                "exemplarCity": "Detroit"
+                "exemplarCity": "Detroýt"
               },
               "Dominica": {
                 "exemplarCity": "Dominika"
@@ -163,7 +163,7 @@
                 "exemplarCity": "Eýrunepe"
               },
               "El_Salvador": {
-                "exemplarCity": "El Salwador"
+                "exemplarCity": "Salwador"
               },
               "Fort_Nelson": {
                 "exemplarCity": "Fort Nelson"
@@ -181,7 +181,7 @@
                 "exemplarCity": "Gus-Beý"
               },
               "Grand_Turk": {
-                "exemplarCity": "Grand Türk"
+                "exemplarCity": "Grand-Terk"
               },
               "Grenada": {
                 "exemplarCity": "Grenada"
@@ -375,6 +375,9 @@
               "Puerto_Rico": {
                 "exemplarCity": "Puerto-Riko"
               },
+              "Punta_Arenas": {
+                "exemplarCity": "Punta-Arenas"
+              },
               "Rainy_River": {
                 "exemplarCity": "Reýni-Riwer"
               },
@@ -400,7 +403,7 @@
                 "exemplarCity": "Santarem"
               },
               "Santiago": {
-                "exemplarCity": "Santiago"
+                "exemplarCity": "Santýago"
               },
               "Santo_Domingo": {
                 "exemplarCity": "Santo-Domingo"
@@ -415,7 +418,7 @@
                 "exemplarCity": "Sitka"
               },
               "St_Barthelemy": {
-                "exemplarCity": "Sen-Bartelmi"
+                "exemplarCity": "Sen-Bartelemi"
               },
               "St_Johns": {
                 "exemplarCity": "Sent-Džons"
@@ -424,7 +427,7 @@
                 "exemplarCity": "Sent-Kits"
               },
               "St_Lucia": {
-                "exemplarCity": "Sent-Lýusia"
+                "exemplarCity": "Sent-Lýusiýa"
               },
               "St_Thomas": {
                 "exemplarCity": "Sent-Tomas"
@@ -495,7 +498,7 @@
                 "exemplarCity": "Günorta Georgiýa"
               },
               "St_Helena": {
-                "exemplarCity": "Keramatly Elena adalary"
+                "exemplarCity": "Keramatly Ýelena adasy"
               },
               "Stanley": {
                 "exemplarCity": "Stenli"
@@ -509,7 +512,7 @@
                 "exemplarCity": "Andorra"
               },
               "Astrakhan": {
-                "exemplarCity": "Astrakhan"
+                "exemplarCity": "Astrahan"
               },
               "Athens": {
                 "exemplarCity": "Afiny"
@@ -543,7 +546,7 @@
               },
               "Dublin": {
                 "long": {
-                  "daylight": "Irlandiýa, standart wagt"
+                  "daylight": "Irlandiýa standart wagty"
                 },
                 "exemplarCity": "Dublin"
               },
@@ -572,7 +575,7 @@
                 "exemplarCity": "Kiýew"
               },
               "Kirov": {
-                "exemplarCity": "Kirov"
+                "exemplarCity": "Kirow"
               },
               "Lisbon": {
                 "exemplarCity": "Lissabon"
@@ -582,7 +585,7 @@
               },
               "London": {
                 "long": {
-                  "daylight": "Beýik Britaniýa, tomusky wagt"
+                  "daylight": "Beýik Britaniýa tomusky wagty"
                 },
                 "exemplarCity": "London"
               },
@@ -634,6 +637,9 @@
               "Sarajevo": {
                 "exemplarCity": "Saraýewo"
               },
+              "Saratov": {
+                "exemplarCity": "Saratow"
+              },
               "Simferopol": {
                 "exemplarCity": "Simferopol"
               },
@@ -653,7 +659,7 @@
                 "exemplarCity": "Tirana"
               },
               "Ulyanovsk": {
-                "exemplarCity": "Ulyanovsk"
+                "exemplarCity": "Ulýanowsk"
               },
               "Uzhgorod": {
                 "exemplarCity": "Užgorod"
@@ -683,7 +689,7 @@
                 "exemplarCity": "Zaporožýe"
               },
               "Zurich": {
-                "exemplarCity": "Tsýürih"
+                "exemplarCity": "Sýurih"
               }
             },
             "Africa": {
@@ -694,10 +700,10 @@
                 "exemplarCity": "Akkra"
               },
               "Addis_Ababa": {
-                "exemplarCity": "Addid-Abeba"
+                "exemplarCity": "Addis-Abeba"
               },
               "Algiers": {
-                "exemplarCity": "Aljir"
+                "exemplarCity": "Alžir"
               },
               "Asmera": {
                 "exemplarCity": "Asmera"
@@ -866,6 +872,9 @@
               "Ashgabat": {
                 "exemplarCity": "Aşgabat"
               },
+              "Atyrau": {
+                "exemplarCity": "Atyrau"
+              },
               "Baghdad": {
                 "exemplarCity": "Bagdat"
               },
@@ -916,6 +925,9 @@
               },
               "Dushanbe": {
                 "exemplarCity": "Duşanbe"
+              },
+              "Famagusta": {
+                "exemplarCity": "Famagusta"
               },
               "Gaza": {
                 "exemplarCity": "Gaza"
@@ -1056,7 +1068,7 @@
                 "exemplarCity": "Timpu"
               },
               "Tokyo": {
-                "exemplarCity": "Tokýo"
+                "exemplarCity": "Tokio"
               },
               "Tomsk": {
                 "exemplarCity": "Tomsk"
@@ -1065,7 +1077,7 @@
                 "exemplarCity": "Ulan-Bator"
               },
               "Urumqi": {
-                "exemplarCity": "Urumçy"
+                "exemplarCity": "Urumçi"
               },
               "Ust-Nera": {
                 "exemplarCity": "Ust-Nera"
@@ -1094,7 +1106,7 @@
                 "exemplarCity": "Çagos"
               },
               "Christmas": {
-                "exemplarCity": "Krismas"
+                "exemplarCity": "Roždestwo"
               },
               "Cocos": {
                 "exemplarCity": "Kokos"
@@ -1118,12 +1130,12 @@
                 "exemplarCity": "Maýotta"
               },
               "Reunion": {
-                "exemplarCity": "Reýunion"
+                "exemplarCity": "Reýunýon"
               }
             },
             "Australia": {
               "Adelaide": {
-                "exemplarCity": "Adelaýda"
+                "exemplarCity": "Adelaida"
               },
               "Brisbane": {
                 "exemplarCity": "Brisben"
@@ -1161,7 +1173,7 @@
             },
             "Pacific": {
               "Apia": {
-                "exemplarCity": "Apiýa"
+                "exemplarCity": "Apia"
               },
               "Auckland": {
                 "exemplarCity": "Oklend"
@@ -1224,7 +1236,7 @@
                 "exemplarCity": "Markiz adalary"
               },
               "Midway": {
-                "exemplarCity": "Midweý"
+                "exemplarCity": "Midueý"
               },
               "Nauru": {
                 "exemplarCity": "Nauru"
@@ -1260,7 +1272,7 @@
                 "exemplarCity": "Saýpan"
               },
               "Tahiti": {
-                "exemplarCity": "Taýiti"
+                "exemplarCity": "Taiti"
               },
               "Tarawa": {
                 "exemplarCity": "Tarawa"
@@ -1275,7 +1287,7 @@
                 "exemplarCity": "Weýk"
               },
               "Wallis": {
-                "exemplarCity": "Wollis"
+                "exemplarCity": "Uollis"
               }
             },
             "Arctic": {
@@ -1294,7 +1306,7 @@
                 "exemplarCity": "Dýumon-d-Ýurwil"
               },
               "Macquarie": {
-                "exemplarCity": "Makkuari"
+                "exemplarCity": "Makkuori"
               },
               "Mawson": {
                 "exemplarCity": "Mouson"
@@ -1319,449 +1331,370 @@
               }
             },
             "Etc": {
-              "GMT": {
-                "exemplarCity": "GMT"
-              },
-              "GMT1": {
-                "exemplarCity": "GMT+1"
-              },
-              "GMT10": {
-                "exemplarCity": "GMT+10"
-              },
-              "GMT11": {
-                "exemplarCity": "GMT+11"
-              },
-              "GMT12": {
-                "exemplarCity": "GMT+12"
-              },
-              "GMT2": {
-                "exemplarCity": "GMT+2"
-              },
-              "GMT3": {
-                "exemplarCity": "GMT+3"
-              },
-              "GMT4": {
-                "exemplarCity": "GMT+4"
-              },
-              "GMT5": {
-                "exemplarCity": "GMT+5"
-              },
-              "GMT6": {
-                "exemplarCity": "GMT+6"
-              },
-              "GMT7": {
-                "exemplarCity": "GMT+7"
-              },
-              "GMT8": {
-                "exemplarCity": "GMT+8"
-              },
-              "GMT9": {
-                "exemplarCity": "GMT+9"
-              },
-              "GMT-1": {
-                "exemplarCity": "GMT-1"
-              },
-              "GMT-10": {
-                "exemplarCity": "GMT-10"
-              },
-              "GMT-11": {
-                "exemplarCity": "GMT-11"
-              },
-              "GMT-12": {
-                "exemplarCity": "GMT-12"
-              },
-              "GMT-13": {
-                "exemplarCity": "GMT-13"
-              },
-              "GMT-14": {
-                "exemplarCity": "GMT-14"
-              },
-              "GMT-2": {
-                "exemplarCity": "GMT-2"
-              },
-              "GMT-3": {
-                "exemplarCity": "GMT-3"
-              },
-              "GMT-4": {
-                "exemplarCity": "GMT-4"
-              },
-              "GMT-5": {
-                "exemplarCity": "GMT-5"
-              },
-              "GMT-6": {
-                "exemplarCity": "GMT-6"
-              },
-              "GMT-7": {
-                "exemplarCity": "GMT-7"
-              },
-              "GMT-8": {
-                "exemplarCity": "GMT-8"
-              },
-              "GMT-9": {
-                "exemplarCity": "GMT-9"
-              },
               "UTC": {
+                "long": {
+                  "standard": "Utgaşdyrylýan ähliumumy wagt"
+                },
                 "short": {
                   "standard": "UTC"
-                },
-                "exemplarCity": "UTC"
+                }
               },
               "Unknown": {
-                "exemplarCity": "Näbelli"
+                "exemplarCity": "Näbelli şäher"
               }
             }
           },
           "metazone": {
             "Afghanistan": {
               "long": {
-                "standard": "Owganystan"
+                "standard": "Owganystan wagty"
               }
             },
             "Africa_Central": {
               "long": {
-                "standard": "Merkezi Afrika"
+                "standard": "Merkezi Afrika wagty"
               }
             },
             "Africa_Eastern": {
               "long": {
-                "standard": "Gündogar Afrika"
+                "standard": "Gündogar Afrika wagty"
               }
             },
             "Africa_Southern": {
               "long": {
-                "standard": "Günorta Afrika, standart wagt"
+                "standard": "Günorta Afrika standart wagty"
               }
             },
             "Africa_Western": {
               "long": {
-                "generic": "Günbatar Afrika",
-                "standard": "Günbatar Afrika, standart wagt",
-                "daylight": "Günbatar Afrika, tomusky wagt"
+                "generic": "Günbatar Afrika wagty",
+                "standard": "Günbatar Afrika standart wagty",
+                "daylight": "Günbatar Afrika tomusky wagty"
               }
             },
             "Alaska": {
               "long": {
-                "generic": "Alýaska",
-                "standard": "Alýaska, standart wagt",
-                "daylight": "Alýaska, tomusky wagt"
+                "generic": "Alýaska wagty",
+                "standard": "Alýaska standart wagty",
+                "daylight": "Alýaska tomusky wagty"
               }
             },
             "Amazon": {
               "long": {
-                "generic": "Amazonka",
-                "standard": "Amazonka, standart wagt",
-                "daylight": "Amazonka, tomusky wagt"
+                "generic": "Amazan wagty",
+                "standard": "Amazon standart wagty",
+                "daylight": "Amazon tomusky wagty"
               }
             },
             "America_Central": {
               "long": {
                 "generic": "Merkezi Amerika",
-                "standard": "Merkezi Amerika, standart wagt",
-                "daylight": "Merkezi Amerika, tomusky wagt"
+                "standard": "Merkezi Amerika standart wagty",
+                "daylight": "Merkezi Amerika tomusky wagty"
               }
             },
             "America_Eastern": {
               "long": {
-                "generic": "Günorta Amerika",
-                "standard": "Günorta Amerika, standart wagt",
-                "daylight": "Günorta Amerika, tomusky wagt"
+                "generic": "Demirgazyk Amerika gündogar wagty",
+                "standard": "Demirgazyk Amerika gündogar standart wagty",
+                "daylight": "Demirgazyk Amerika gündogar tomusky wagty"
               }
             },
             "America_Mountain": {
               "long": {
-                "generic": "Daglyk ýeri (ABŞ)",
-                "standard": "Daglyk ýeri, standart wagt (ABŞ)",
-                "daylight": "Daglyk ýeri, tomusky wagt (ABŞ)"
+                "generic": "Demirgazyk Amerika dag wagty",
+                "standard": "Demirgazyk Amerika dag standart wagty",
+                "daylight": "Demirgazyk Amerika dag tomusky wagty"
               }
             },
             "America_Pacific": {
               "long": {
-                "generic": "Ýuwaş umman",
-                "standard": "Ýuwaş umman, standart wagt",
-                "daylight": "Ýuwaş umman, tomusky wagt"
+                "generic": "Demirgazyk Amerika Ýuwaş umman wagty",
+                "standard": "Demirgazyk Amerika Ýuwaş umman standart wagty",
+                "daylight": "Demirgazyk Amerika Ýuwaş umman tomusky wagty"
               }
             },
             "Apia": {
               "long": {
-                "generic": "Apia",
-                "standard": "Apia, standart wagt",
-                "daylight": "Apia, tomusky wagt"
+                "generic": "Apia wagty",
+                "standard": "Apia standart wagty",
+                "daylight": "Apia tomusky wagty"
               }
             },
             "Arabian": {
               "long": {
-                "generic": "Arap ýurtlary",
-                "standard": "Arap ýurtlary, standart wagt",
-                "daylight": "Arap ýurtlary, tomusky wagt"
+                "generic": "Arap ýurtlary wagty",
+                "standard": "Arap ýurtlary standart wagty",
+                "daylight": "Arap ýurtlary tomusky wagty"
               }
             },
             "Argentina": {
               "long": {
-                "generic": "Argentina",
-                "standard": "Argentina, standart wagt",
-                "daylight": "Argentina, tomusky wagt"
+                "generic": "Argentina wagty",
+                "standard": "Argentina standart wagty",
+                "daylight": "Argentina tomusky wagty"
               }
             },
             "Argentina_Western": {
               "long": {
-                "generic": "Günbatar Argentina",
-                "standard": "Günbatar Argentina, standart wagt",
-                "daylight": "Günbatar Argentina, tomusky wagt"
+                "generic": "Günbatar Argentina wagty",
+                "standard": "Günbatar Argentina standart wagty",
+                "daylight": "Günbatar Argentina tomusky wagty"
               }
             },
             "Armenia": {
               "long": {
-                "generic": "Ermenistan",
-                "standard": "Ermenistan, standart wagt",
-                "daylight": "Ermenistan, tomusky wagt"
+                "generic": "Ermenistan wagty",
+                "standard": "Ermenistan standart wagty",
+                "daylight": "Ermenistan tomusky wagty"
               }
             },
             "Atlantic": {
               "long": {
-                "generic": "Atlantika",
-                "standard": "Atlantika, standart wagt",
-                "daylight": "Atlantika, tomusky wagt"
+                "generic": "Atlantik wagty",
+                "standard": "Atlantik standart wagty",
+                "daylight": "Atlantik tomusky wagty"
               }
             },
             "Australia_Central": {
               "long": {
-                "generic": "Merkezi Awstraliýa",
-                "standard": "Merkezi Awstraliýa, standart wagt",
-                "daylight": "Merkezi Awstraliýa, tomusky wagt"
+                "generic": "Merkezi Awstraliýa wagty",
+                "standard": "Merkezi Awstraliýa standart wagty",
+                "daylight": "Merkezi Awstraliýa tomusky wagty"
               }
             },
             "Australia_CentralWestern": {
               "long": {
-                "generic": "Merkezi Awstraliýa, günbatar tarap",
-                "standard": "Merkezi Awstraliýa, günbatar tarap, standart wagt",
-                "daylight": "Merkezi Awstraliýa, günbatar tarap, tomusky wagt"
+                "generic": "Merkezi Awstraliýa günbatar wagty",
+                "standard": "Merkezi Awstraliýa günbatar standart wagty",
+                "daylight": "Merkezi Awstraliýa günbatar tomusky wagty"
               }
             },
             "Australia_Eastern": {
               "long": {
-                "generic": "Gündogar Awstraliýa",
-                "standard": "Gündogar Awstraliýa, standart wagt",
-                "daylight": "Gündogar Awstraliýa, tomusky wagt"
+                "generic": "Gündogar Awstraliýa wagty",
+                "standard": "Gündogar Awstraliýa standart wagty",
+                "daylight": "Gündogar Awstraliýa tomusky wagty"
               }
             },
             "Australia_Western": {
               "long": {
-                "generic": "Günbatar Awstraliýa",
-                "standard": "Günbatar Awstraliýa, standart wagt",
-                "daylight": "Günbatar Awstraliýa, tomusky wagt"
+                "generic": "Günbatar Awstraliýa wagty",
+                "standard": "Günbatar Awstraliýa standart wagty",
+                "daylight": "Günbatar Awstraliýa tomusky wagty"
               }
             },
             "Azerbaijan": {
               "long": {
-                "generic": "Azerbaýjan",
-                "standard": "Azerbaýjan, standart wagt",
-                "daylight": "Azerbaýjan, tomusky wagt"
+                "generic": "Azerbaýjan wagty",
+                "standard": "Azerbaýjan standart wagty",
+                "daylight": "Azerbaýjan tomusky wagty"
               }
             },
             "Azores": {
               "long": {
-                "generic": "Azor adalary",
-                "standard": "Azor adalary, standart wagt",
-                "daylight": "Azor adalary, tomusky wagt"
+                "generic": "Azor adalary wagty",
+                "standard": "Azor adalary standart wagty",
+                "daylight": "Azor adalary tomusky wagty"
               }
             },
             "Bangladesh": {
               "long": {
-                "generic": "Bangladeş",
-                "standard": "Bangladeş, standart wagt",
-                "daylight": "Bangladeş, tomusky wagt"
+                "generic": "Bangladeş wagty",
+                "standard": "Bangladeş standart wagty",
+                "daylight": "Bangladeş tomusky wagty"
               }
             },
             "Bhutan": {
               "long": {
-                "standard": "Butan"
+                "standard": "Butan wagty"
               }
             },
             "Bolivia": {
               "long": {
-                "standard": "Boliwiýa"
+                "standard": "Boliwiýa wagty"
               }
             },
             "Brasilia": {
               "long": {
-                "generic": "Braziliýa",
-                "standard": "Braziliýa, standart wagt",
-                "daylight": "Braziliýa, tomusky wagt"
+                "generic": "Braziliýa wagty",
+                "standard": "Braziliýa standart wagty",
+                "daylight": "Braziliýa tomusky wagty"
               }
             },
             "Brunei": {
               "long": {
-                "standard": "Bruneý-Darussalam"
+                "standard": "Bruneý-Darussalam wagty"
               }
             },
             "Cape_Verde": {
               "long": {
-                "generic": "Kabo-Werde",
-                "standard": "Kabo-Werde, standart wagt",
-                "daylight": "Kabo-Werde, tomusky wagt"
+                "generic": "Kabo-Werde wagty",
+                "standard": "Kabo-Werde standart wagty",
+                "daylight": "Kabo-Werde tomusky wagty"
               }
             },
             "Chamorro": {
               "long": {
-                "standard": "Çamorro"
+                "standard": "Çamorro wagty"
               }
             },
             "Chatham": {
               "long": {
-                "generic": "Çatem",
-                "standard": "Çatem, standart wagt",
-                "daylight": "Çatem, tomusky wagt"
+                "generic": "Çatem wagty",
+                "standard": "Çatem standart wagty",
+                "daylight": "Çatem tomusky wagty"
               }
             },
             "Chile": {
               "long": {
-                "generic": "Çili",
-                "standard": "Çili, standart wagt",
-                "daylight": "Çili, tomusky wagt"
+                "generic": "Çili wagty",
+                "standard": "Çili standart wagty",
+                "daylight": "Çili tomusky wagty"
               }
             },
             "China": {
               "long": {
-                "generic": "Hytaý",
-                "standard": "Hytaý, standart wagt",
-                "daylight": "Hytaý, tomusky wagt"
+                "generic": "Hytaý wagty",
+                "standard": "Hytaý standart wagty",
+                "daylight": "Hytaý tomusky wagty"
               }
             },
             "Choibalsan": {
               "long": {
-                "generic": "Çoýbalsan",
-                "standard": "Çoýbalsan, standart wagt",
-                "daylight": "Çoýbalsan, tomusky wagt"
+                "generic": "Çoýbalsan wagty",
+                "standard": "Çoýbalsan standart wagty",
+                "daylight": "Çoýbalsan tomusky wagt"
               }
             },
             "Christmas": {
               "long": {
-                "standard": "Krismas adasy"
+                "standard": "Roždestwo adasy wagty"
               }
             },
             "Cocos": {
               "long": {
-                "standard": "Kokos adalary"
+                "standard": "Kokos adalary wagty"
               }
             },
             "Colombia": {
               "long": {
-                "generic": "Kolumbiýa",
-                "standard": "Kolumbiýa, standart wagt",
-                "daylight": "Kolumbiýa, tomusky wagt"
+                "generic": "Kolumbiýa wagty",
+                "standard": "Kolumbiýa standart wagty",
+                "daylight": "Kolumbiýa tomusky wagty"
               }
             },
             "Cook": {
               "long": {
-                "generic": "Kuka adalary",
-                "standard": "Kuka adalary, standart wagt",
-                "daylight": "Kuka adalary, tomusky wagt"
+                "generic": "Kuk adalary wagty",
+                "standard": "Kuk adalary standart wagty",
+                "daylight": "Kuk adalary tomusky wagty"
               }
             },
             "Cuba": {
               "long": {
-                "generic": "Kuba",
-                "standard": "Kuba, standart wagt",
-                "daylight": "Kuba, tomusky wagt"
+                "generic": "Kuba wagty",
+                "standard": "Kuba standart wagty",
+                "daylight": "Kuba tomusky wagty"
               }
             },
             "Davis": {
               "long": {
-                "standard": "Deýwis"
+                "standard": "Deýwis wagty"
               }
             },
             "DumontDUrville": {
               "long": {
-                "standard": "Dýumon-d-Ýurwil"
+                "standard": "Dýumon-d-Ýurwil wagty"
               }
             },
             "East_Timor": {
               "long": {
-                "standard": "Gündogar Timor"
+                "standard": "Gündogar Timor wagty"
               }
             },
             "Easter": {
               "long": {
-                "generic": "Pasha adasy",
-                "standard": "Pasha adasy, standart wagt",
-                "daylight": "Pasha adasy, tomusky wagt"
+                "generic": "Pasha adasy wagty",
+                "standard": "Pasha adasy standart wagty",
+                "daylight": "Pasha adasy tomusky wagty"
               }
             },
             "Ecuador": {
               "long": {
-                "standard": "Ekwador"
+                "standard": "Ekwador wagty"
               }
             },
             "Europe_Central": {
               "long": {
-                "generic": "Merkezi Ýewropa",
-                "standard": "Merkezi Ýewropa, standart wagt",
-                "daylight": "Merkezi Ýewropa, tomusky wagt"
+                "generic": "Merkezi Ýewropa wagty",
+                "standard": "Merkezi Ýewropa standart wagty",
+                "daylight": "Merkezi Ýewropa tomusky wagty"
               }
             },
             "Europe_Eastern": {
               "long": {
-                "generic": "Gündogar Ýewropa",
-                "standard": "Gündogar Ýewropa, standart wagt",
-                "daylight": "Gündogar Ýewropa, tomusky wagt"
+                "generic": "Gündogar Ýewropa wagty",
+                "standard": "Gündogar Ýewropa standart wagty",
+                "daylight": "Gündogar Ýewropa tomusky wagty"
               }
             },
             "Europe_Further_Eastern": {
               "long": {
-                "standard": "Uzak Gündogar Ýewropa"
+                "standard": "Uzak Gündogar Ýewropa wagty"
               }
             },
             "Europe_Western": {
               "long": {
-                "generic": "Günbatar Ýewropa",
-                "standard": "Günbatar Ýewropa, standart wagt",
-                "daylight": "Günbatar Ýewropa, tomusky wagt"
+                "generic": "Günbatar Ýewropa wagty",
+                "standard": "Günbatar Ýewropa standart wagty",
+                "daylight": "Günbatar Ýewropa tomusky wagty"
               }
             },
             "Falkland": {
               "long": {
-                "generic": "Folklend adalary",
-                "standard": "Folklend adalary, standart wagt",
-                "daylight": "Folklend adalary, tomusky wagt"
+                "generic": "Folklend adalary wagty",
+                "standard": "Folklend adalary standart wagty",
+                "daylight": "Folklend adalary tomusky wagty"
               }
             },
             "Fiji": {
               "long": {
-                "generic": "Fiji",
-                "standard": "Fiji, standart wagt",
-                "daylight": "Fiji, tomusky wagt"
+                "generic": "Fiji wagty",
+                "standard": "Fiji standart wagty",
+                "daylight": "Fiji tomusky wagty"
               }
             },
             "French_Guiana": {
               "long": {
-                "standard": "Fransuz Gwiana"
+                "standard": "Fransuz Gwianasy wagty"
               }
             },
             "French_Southern": {
               "long": {
-                "standard": "Günorta Fransuz we Antarktika"
+                "standard": "Fransuz Günorta we Antarktika ýerleri wagty"
               }
             },
             "Galapagos": {
               "long": {
-                "standard": "Galapagos adalary"
+                "standard": "Galapagos adalary wagty"
               }
             },
             "Gambier": {
               "long": {
-                "standard": "Gambýe"
+                "standard": "Gambýe wagty"
               }
             },
             "Georgia": {
               "long": {
-                "generic": "Gruziýa",
-                "standard": "Gruziýa, standart wagt",
-                "daylight": "Gruziýa, tomusky wagt"
+                "generic": "Gruziýa wagty",
+                "standard": "Gruziýa standart wagty",
+                "daylight": "Gruziýa tomusky wagty"
               }
             },
             "Gilbert_Islands": {
               "long": {
-                "standard": "Gilberta adalary"
+                "standard": "Gilberta adalary wagty"
               }
             },
             "GMT": {
@@ -1771,519 +1704,524 @@
             },
             "Greenland_Eastern": {
               "long": {
-                "generic": "Gündogar Grenlandiýa",
-                "standard": "Gündogar Grenlandiýa, standart wagt",
-                "daylight": "Gündogar Grenlandiýa, tomusky wagt"
+                "generic": "Gündogar Grenlandiýa wagty",
+                "standard": "Gündogar Grenlandiýa standart wagty",
+                "daylight": "Gündogar Grenlandiýa tomusky wagty"
               }
             },
             "Greenland_Western": {
               "long": {
-                "generic": "Günbatar Grenlandiýa",
-                "standard": "Günbatar Grenlandiýa, standart wagt",
-                "daylight": "Günbatar Grenlandiýa, tomusky wagt"
+                "generic": "Günbatar Grenlandiýa wagty",
+                "standard": "Günbatar Grenlandiýa standart wagty",
+                "daylight": "Günbatar Grenlandiýa tomusky wagty"
               }
             },
             "Gulf": {
               "long": {
-                "standard": "Pars aýlagy, standart wagt"
+                "standard": "Pars aýlagy standart wagty"
               }
             },
             "Guyana": {
               "long": {
-                "standard": "Gaýana"
+                "standard": "Gaýana wagty"
               }
             },
             "Hawaii_Aleutian": {
               "long": {
-                "generic": "Gawaý-Aleut",
-                "standard": "Gawaý-Aleut, standart wagt",
-                "daylight": "Gawaý-Aleut, tomusky wagt"
+                "generic": "Gawaý-Aleut wagty",
+                "standard": "Gawaý-Aleut standart wagty",
+                "daylight": "Gawaý-Aleut tomusky wagty"
               }
             },
             "Hong_Kong": {
               "long": {
-                "generic": "Gonkong",
-                "standard": "Gonkong, standart wagt",
-                "daylight": "Gonkong, tomusky wagt"
+                "generic": "Gonkong wagty",
+                "standard": "Gonkong standart wagty",
+                "daylight": "Gonkong tomusky wagty"
               }
             },
             "Hovd": {
               "long": {
-                "generic": "Howd",
-                "standard": "Howd, standart wagt",
-                "daylight": "Howd, tomusky wagt"
+                "generic": "Howd wagty",
+                "standard": "Howd standart wagty",
+                "daylight": "Howd tomusky wagty"
               }
             },
             "India": {
               "long": {
-                "standard": "Hindistan"
+                "standard": "Hindistan standart wagty"
               }
             },
             "Indian_Ocean": {
               "long": {
-                "standard": "Hindi ummany"
+                "standard": "Hindi ummany wagty"
               }
             },
             "Indochina": {
               "long": {
-                "standard": "Hindihytaý"
+                "standard": "Hindihytaý wagty"
               }
             },
             "Indonesia_Central": {
               "long": {
-                "standard": "Merkezi Indoneziýa"
+                "standard": "Merkezi Indoneziýa wagty"
               }
             },
             "Indonesia_Eastern": {
               "long": {
-                "standard": "Gündogar Indoneziýa"
+                "standard": "Gündogar Indoneziýa wagty"
               }
             },
             "Indonesia_Western": {
               "long": {
-                "standard": "Günbatar Indoneziýa"
+                "standard": "Günbatar Indoneziýa wagty"
               }
             },
             "Iran": {
               "long": {
-                "generic": "Eýran",
-                "standard": "Eýran, standart wagt",
-                "daylight": "Eýran, tomusky wagt"
+                "generic": "Eýran wagty",
+                "standard": "Eýran standart wagty",
+                "daylight": "Eýran tomusky wagty"
               }
             },
             "Irkutsk": {
               "long": {
-                "generic": "Irkutsk",
-                "standard": "Irkutsk, standart wagt",
-                "daylight": "Irkutsk, tomusky wagt"
+                "generic": "Irkutsk wagty",
+                "standard": "Irkutsk standart wagty",
+                "daylight": "Irkutsk tomusky wagty"
               }
             },
             "Israel": {
               "long": {
-                "generic": "Ysraýyl",
-                "standard": "Ysraýyl, standart wagt",
-                "daylight": "Ysraýyl, tomusky wagt"
+                "generic": "Ysraýyl wagty",
+                "standard": "Ysraýyl standart wagty",
+                "daylight": "Ysraýyl tomusky wagty"
               }
             },
             "Japan": {
               "long": {
-                "generic": "Ýaponiýa",
-                "standard": "Ýaponiýa, standart wagt",
-                "daylight": "Ýaponiýa, tomusky wagt"
+                "generic": "Ýaponiýa wagty",
+                "standard": "Ýaponiýa standart wagty",
+                "daylight": "Ýaponiýa tomusky wagty"
               }
             },
             "Kazakhstan_Eastern": {
               "long": {
-                "standard": "Gündogar Gazagystan"
+                "standard": "Gündogar Gazagystan wagty"
               }
             },
             "Kazakhstan_Western": {
               "long": {
-                "standard": "Günbatar Gazagystan"
+                "standard": "Günbatar Gazagystan wagty"
               }
             },
             "Korea": {
               "long": {
-                "generic": "Koreýa",
-                "standard": "Koreýa, standart wagt",
-                "daylight": "Koreýa, tomusky wagt"
+                "generic": "Koreýa wagty",
+                "standard": "Koreýa standart wagty",
+                "daylight": "Koreýa tomusky wagty"
               }
             },
             "Kosrae": {
               "long": {
-                "standard": "Kosraýe"
+                "standard": "Kosraýe wagty"
               }
             },
             "Krasnoyarsk": {
               "long": {
-                "generic": "Krasnoýarsk",
-                "standard": "Krasnoýarsk, standart wagt",
-                "daylight": "Krasnoýarsk, tomusky wagt"
+                "generic": "Krasnoýarsk wagty",
+                "standard": "Krasnoýarsk standart wagty",
+                "daylight": "Krasnoýarsk tomusky wagty"
               }
             },
             "Kyrgystan": {
               "long": {
-                "standard": "Gyrgyzstan"
+                "standard": "Gyrgyzystan wagty"
               }
             },
             "Line_Islands": {
               "long": {
-                "standard": "Laýn adalary"
+                "standard": "Laýn adalary wagty"
               }
             },
             "Lord_Howe": {
               "long": {
-                "generic": "Lord-Hau",
-                "standard": "Lord-Hau, standart wagt",
-                "daylight": "Lord-Hau, tomusky wagt"
+                "generic": "Lord-Hau wagty",
+                "standard": "Lord-Hau standart wagty",
+                "daylight": "Lord-Hau tomusky wagty"
               }
             },
             "Macquarie": {
               "long": {
-                "standard": "Makkuori"
+                "standard": "Makkuori adasy wagty"
               }
             },
             "Magadan": {
               "long": {
-                "generic": "Magadan",
-                "standard": "Magadan, standart wagt",
-                "daylight": "Magadan, tomusky wagt"
+                "generic": "Magadan wagty",
+                "standard": "Magadan standart wagty",
+                "daylight": "Magadan tomusky wagty"
               }
             },
             "Malaysia": {
               "long": {
-                "standard": "Malaýziýa"
+                "standard": "Malaýziýa wagty"
               }
             },
             "Maldives": {
               "long": {
-                "standard": "Maldiwler"
+                "standard": "Maldiwler wagty"
               }
             },
             "Marquesas": {
               "long": {
-                "standard": "Markiz adalary"
+                "standard": "Markiz adalary wagty"
               }
             },
             "Marshall_Islands": {
               "long": {
-                "standard": "Marşal adalary"
+                "standard": "Marşall adalary wagty"
               }
             },
             "Mauritius": {
               "long": {
-                "generic": "Mawrikiý",
-                "standard": "Mawrikiý, standart wagt",
-                "daylight": "Mawrikiý, tomusky wagt"
+                "generic": "Mawrikiý wagty",
+                "standard": "Mawrikiý standart wagty",
+                "daylight": "Mawrikiý tomusky wagty"
               }
             },
             "Mawson": {
               "long": {
-                "standard": "Mouson"
+                "standard": "Mouson wagty"
               }
             },
             "Mexico_Northwest": {
               "long": {
-                "generic": "D.g.-G.b. Meksika",
-                "standard": "D.g.-G.b. Meksika, standart wagt",
-                "daylight": "D.g.-G.b. Meksika, tomusky wagt"
+                "generic": "Demirgazyk-günbatar Meksika wagty",
+                "standard": "Demirgazyk-günbatar Meksika standart wagty",
+                "daylight": "Demirgazyk-günbatar Meksika tomusky wagty"
               }
             },
             "Mexico_Pacific": {
               "long": {
-                "generic": "Meksikan Ýuwaş umman",
-                "standard": "Meksikan Ýuwaş umman, standart wagt",
-                "daylight": "Meksikan Ýuwaş umman, tomusky wagt"
+                "generic": "Meksikan Ýuwaş umman wagty",
+                "standard": "Meksikan Ýuwaş umman standart wagty",
+                "daylight": "Meksikan Ýuwaş umman tomusky wagty"
               }
             },
             "Mongolia": {
               "long": {
-                "generic": "Ulan-Bator",
-                "standard": "Ulan-Bator, standart wagt",
-                "daylight": "Ulan-Bator, tomusky wagt"
+                "generic": "Ulan-Bator wagty",
+                "standard": "Ulan-Bator standart wagty",
+                "daylight": "Ulan-Bator tomusky wagty"
               }
             },
             "Moscow": {
               "long": {
-                "generic": "Moskwa",
-                "standard": "Moskwa, standart wagt",
-                "daylight": "Moskwa, tomusky wagt"
+                "generic": "Moskwa wagty",
+                "standard": "Moskwa standart wagty",
+                "daylight": "Moskwa tomusky wagty"
               }
             },
             "Myanmar": {
               "long": {
-                "standard": "Mýanma"
+                "standard": "Mýanma wagty"
               }
             },
             "Nauru": {
               "long": {
-                "standard": "Nauru"
+                "standard": "Nauru wagty"
               }
             },
             "Nepal": {
               "long": {
-                "standard": "Nepal"
+                "standard": "Nepal wagty"
               }
             },
             "New_Caledonia": {
               "long": {
-                "generic": "Täze Kaledoniýa",
-                "standard": "Täze Kaledoniýa, standart wagt",
-                "daylight": "Täze Kaledoniýa, tomusky wagt"
+                "generic": "Täze Kaledoniýa wagty",
+                "standard": "Täze Kaledoniýa standart wagty",
+                "daylight": "Täze Kaledoniýa tomusky wagty"
               }
             },
             "New_Zealand": {
               "long": {
-                "generic": "Täze Zelandiýa",
-                "standard": "Täze Zelandiýa, standart wagt",
-                "daylight": "Täze Zelandiýa, tomusky wagt"
+                "generic": "Täze Zelandiýa wagty",
+                "standard": "Täze Zelandiýa standart wagty",
+                "daylight": "Täze Zelandiýa tomusky wagty"
               }
             },
             "Newfoundland": {
               "long": {
-                "generic": "Nýufaundlend",
-                "standard": "Nýufaundlend, standart wagt",
-                "daylight": "Nýufaundlend, tomusky wagt"
+                "generic": "Nýufaundlend wagty",
+                "standard": "Nýufaundlend standart wagty",
+                "daylight": "Nýufaundlend tomusky wagty"
               }
             },
             "Niue": {
               "long": {
-                "standard": "Niue"
+                "standard": "Niue wagty"
               }
             },
             "Norfolk": {
               "long": {
-                "standard": "Norfolk"
+                "standard": "Norfolk adasy wagty"
               }
             },
             "Noronha": {
               "long": {
-                "generic": "Fernandu-di-Noronýa",
-                "standard": "Fernandu-di-Noronýa, standart wagt",
-                "daylight": "Fernandu-di-Noronýa, tomusky wagt"
+                "generic": "Fernandu-di-Noronýa wagty",
+                "standard": "Fernandu-di-Noronýa standart wagty",
+                "daylight": "Fernandu-di-Noronýa tomusky wagty"
               }
             },
             "Novosibirsk": {
               "long": {
-                "generic": "Nowosibirsk",
-                "standard": "Nowosibirsk, standart wagt",
-                "daylight": "Nowosibisk, tomusky wagt"
+                "generic": "Nowosibirsk wagty",
+                "standard": "Nowosibirsk standart wagty",
+                "daylight": "Nowosibisk tomusky wagty"
               }
             },
             "Omsk": {
               "long": {
-                "generic": "Omsk",
-                "standard": "Omsk, standart wagt",
-                "daylight": "Omsk, tomusky wagt"
+                "generic": "Omsk wagty",
+                "standard": "Omsk standart wagty",
+                "daylight": "Omsk tomusky wagty"
               }
             },
             "Pakistan": {
               "long": {
-                "generic": "Päkistan",
-                "standard": "Päkistan, standart wagt",
-                "daylight": "Päkistan, tomusky wagt"
+                "generic": "Pakistan wagty",
+                "standard": "Pakistan standart wagty",
+                "daylight": "Pakistan tomusky wagty"
               }
             },
             "Palau": {
               "long": {
-                "standard": "Palau"
+                "standard": "Palau wagty"
               }
             },
             "Papua_New_Guinea": {
               "long": {
-                "standard": "Papua - Täze Gwineýa"
+                "standard": "Papua - Täze Gwineýa wagty"
               }
             },
             "Paraguay": {
               "long": {
-                "generic": "Paragwaý",
-                "standard": "Paragwaý, standart wagt",
-                "daylight": "Paragwaý, tomusky wagt"
+                "generic": "Paragwaý wagty",
+                "standard": "Paragwaý standart wagty",
+                "daylight": "Paragwaý tomusky wagty"
               }
             },
             "Peru": {
               "long": {
-                "generic": "Peru",
-                "standard": "Peru, standart wagt",
-                "daylight": "Peru, tomusky wagt"
+                "generic": "Peru wagty",
+                "standard": "Peru standart wagty",
+                "daylight": "Peru tomusky wagty"
               }
             },
             "Philippines": {
               "long": {
-                "generic": "Filippinler",
-                "standard": "Filippinler, standart wagt",
-                "daylight": "Filippinler, tomusky wagt"
+                "generic": "Filippinler wagty",
+                "standard": "Filippinler standart wagty",
+                "daylight": "Filippinler tomusky wagty"
               }
             },
             "Phoenix_Islands": {
               "long": {
-                "standard": "Feniks adalary"
+                "standard": "Feniks adalary wagty"
               }
             },
             "Pierre_Miquelon": {
               "long": {
-                "generic": "Sen Pýer we Mikelon",
-                "standard": "Sen Pýer we Mikelon, standart wagt",
-                "daylight": "Sen Pýer we Mikelon, tomusky wagt"
+                "generic": "Sen-Pýer we Mikelon",
+                "standard": "Sen-Pýer we Mikelon standart wagty",
+                "daylight": "Sen-Pýer we Mikelon tomusky wagty"
               }
             },
             "Pitcairn": {
               "long": {
-                "standard": "Pitkern"
+                "standard": "Pitkern wagty"
               }
             },
             "Ponape": {
               "long": {
-                "standard": "Ponape"
+                "standard": "Ponape wagty"
+              }
+            },
+            "Pyongyang": {
+              "long": {
+                "standard": "Phenýan wagty"
               }
             },
             "Reunion": {
               "long": {
-                "standard": "Reýunýon"
+                "standard": "Reýunýon wagty"
               }
             },
             "Rothera": {
               "long": {
-                "standard": "Rotera"
+                "standard": "Rotera wagty"
               }
             },
             "Sakhalin": {
               "long": {
-                "generic": "Sahalin",
-                "standard": "Sahalin, standart wagt",
-                "daylight": "Sahalin, tomusky wagt"
+                "generic": "Sahalin wagty",
+                "standard": "Sahalin standart wagty",
+                "daylight": "Sahalin tomusky wagty"
               }
             },
             "Samoa": {
               "long": {
-                "generic": "Samoa",
-                "standard": "Samoa, standart wagt",
-                "daylight": "Samoa, tomusky wagt"
+                "generic": "Samoa wagty",
+                "standard": "Samoa standart wagty",
+                "daylight": "Samoa tomusky wagty"
               }
             },
             "Seychelles": {
               "long": {
-                "standard": "Seýşel adalary"
+                "standard": "Seýşel adalary wagty"
               }
             },
             "Singapore": {
               "long": {
-                "standard": "Singapur, standart wagt"
+                "standard": "Singapur wagty"
               }
             },
             "Solomon": {
               "long": {
-                "standard": "Solomon adalary"
+                "standard": "Solomon adalary wagty"
               }
             },
             "South_Georgia": {
               "long": {
-                "standard": "Günorta Georgiýa"
+                "standard": "Günorta Georgiýa wagty"
               }
             },
             "Suriname": {
               "long": {
-                "standard": "Surinam"
+                "standard": "Surinam wagty"
               }
             },
             "Syowa": {
               "long": {
-                "standard": "Sýowa"
+                "standard": "Sýowa wagty"
               }
             },
             "Tahiti": {
               "long": {
-                "standard": "Taýiti"
+                "standard": "Taiti wagty"
               }
             },
             "Taipei": {
               "long": {
-                "generic": "Taýbeý",
-                "standard": "Taýbeý, standart wagt",
-                "daylight": "Taýbeý, tomusky wagt"
+                "generic": "Taýbeý wagty",
+                "standard": "Taýbeý standart wagty",
+                "daylight": "Taýbeý tomusky wagty"
               }
             },
             "Tajikistan": {
               "long": {
-                "standard": "Täjigistan"
+                "standard": "Täjigistan wagty"
               }
             },
             "Tokelau": {
               "long": {
-                "standard": "Tokelau"
+                "standard": "Tokelau wagty"
               }
             },
             "Tonga": {
               "long": {
-                "generic": "Tonga",
-                "standard": "Tonga, standart wagt",
-                "daylight": "Tonga, tomusky wagt"
+                "generic": "Tonga wagty",
+                "standard": "Tonga standart wagty",
+                "daylight": "Tonga tomusky wagty"
               }
             },
             "Truk": {
               "long": {
-                "standard": "Çuuk"
+                "standard": "Çuuk wagty"
               }
             },
             "Turkmenistan": {
               "long": {
-                "generic": "Türkmenistan",
-                "standard": "Türkmenistan, standart wagt",
-                "daylight": "Türkmenistan, tomusky wagt"
+                "generic": "Türkmenistan wagty",
+                "standard": "Türkmenistan standart wagty",
+                "daylight": "Türkmenistan tomusky wagty"
               }
             },
             "Tuvalu": {
               "long": {
-                "standard": "Tuwalu"
+                "standard": "Tuwalu wagty"
               }
             },
             "Uruguay": {
               "long": {
-                "generic": "Urugwaý",
-                "standard": "Urugwaý, standart wagt",
-                "daylight": "Urugwaý, tomusky wagt"
+                "generic": "Urugwaý wagty",
+                "standard": "Urugwaý standart wagty",
+                "daylight": "Urugwaý tomusky wagty"
               }
             },
             "Uzbekistan": {
               "long": {
-                "generic": "Özbekistan",
-                "standard": "Özbekistan, standart wagt",
-                "daylight": "Özbekistan, tomusky wagt"
+                "generic": "Özbegistan wagty",
+                "standard": "Özbegistan standart wagty",
+                "daylight": "Özbegistan tomusky wagty"
               }
             },
             "Vanuatu": {
               "long": {
-                "generic": "Wanuatu",
-                "standard": "Wanuatu, standart wagt",
-                "daylight": "Wanuatu, tomusky wagt"
+                "generic": "Wanuatu wagty",
+                "standard": "Wanuatu standart wagty",
+                "daylight": "Wanuatu tomusky wagty"
               }
             },
             "Venezuela": {
               "long": {
-                "standard": "Wenesuela"
+                "standard": "Wenesuela wagty"
               }
             },
             "Vladivostok": {
               "long": {
-                "generic": "Wladiwostok",
-                "standard": "Wladiwostok, standart wagt",
-                "daylight": "Wladiwostok, tomusky wagt"
+                "generic": "Wladiwostok wagty",
+                "standard": "Wladiwostok standart wagty",
+                "daylight": "Wladiwostok tomusky wagty"
               }
             },
             "Volgograd": {
               "long": {
-                "generic": "Wolgograd",
-                "standard": "Wolgograd, standart wagt",
-                "daylight": "Wolgograd, tomusky wagt"
+                "generic": "Wolgograd wagty",
+                "standard": "Wolgograd standart wagty",
+                "daylight": "Wolgograd tomusky wagty"
               }
             },
             "Vostok": {
               "long": {
-                "standard": "Wostok"
+                "standard": "Wostok wagty"
               }
             },
             "Wake": {
               "long": {
-                "standard": "Weýk adasy"
+                "standard": "Weýk adasy wagty"
               }
             },
             "Wallis": {
               "long": {
-                "standard": "Wollis we Futuna"
+                "standard": "Uollis we Futuna wagty"
               }
             },
             "Yakutsk": {
               "long": {
-                "generic": "Ýakutsk",
-                "standard": "Ýakutsk, standart wagt",
-                "daylight": "Ýakutsk, tomusky wagt"
+                "generic": "Ýakutsk wagty",
+                "standard": "Ýakutsk standart wagty",
+                "daylight": "Ýakutsk tomusky wagty"
               }
             },
             "Yekaterinburg": {
               "long": {
-                "generic": "Ýekaterinburg",
-                "standard": "Ýekaterinburg, standart wagt",
-                "daylight": "Ýekaterinburg, tomusky wagt"
+                "generic": "Ýekaterinburg wagty",
+                "standard": "Ýekaterinburg standart wagty",
+                "daylight": "Ýekaterinburg tomusky wagty"
               }
             }
           }

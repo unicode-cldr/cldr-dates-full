@@ -3,8 +3,8 @@
     "ee": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "ee"
       },
@@ -289,19 +289,19 @@
             },
             "eras": {
               "eraNames": {
-                "0": "Hafi Yesu Va Do ŋgɔ",
+                "0": "Hafi Yesu Va",
                 "0-alt-variant": "Bŋ",
-                "1": "Yesu Ŋɔli",
+                "1": "Yesu ŋɔli",
                 "1-alt-variant": "Eŋ"
               },
               "eraAbbr": {
-                "0": "hY",
+                "0": "HYV",
                 "0-alt-variant": "Bŋ",
                 "1": "Yŋ",
                 "1-alt-variant": "Eŋ"
               },
               "eraNarrow": {
-                "0": "hY",
+                "0": "HYV",
                 "0-alt-variant": "Bŋ",
                 "1": "Yŋ",
                 "1-alt-variant": "Eŋ"
@@ -325,13 +325,18 @@
               "medium": "{0} {1}",
               "short": "{0} {1}",
               "availableFormats": {
+                "Bh": "'ga' h 'le' B 'me'",
+                "Bhm": "'ga' h 'aɖabaƒoƒo' mm 'le' B 'me'",
+                "Bhms": "h:mm:ss 'le' B 'me'",
                 "d": "d",
                 "E": "ccc",
+                "EBhm": "'ga' h:mm 'le' E B 'me'",
+                "EBhms": "'ga' h:mm:ss 'le' E B 'me'",
                 "Ed": "E d",
                 "Ehm": "E a 'ga' h:mm",
-                "EHm": "E HH:mm",
+                "EHm": "E 'ga' HH:mm",
                 "Ehms": "E a 'ga' h:mm:ss",
-                "EHms": "E HH:mm:ss",
+                "EHms": "E 'ga' HH:mm:ss",
                 "Gy": "y G",
                 "GyMMM": "MMM y G",
                 "GyMMMd": "MMM d 'lia', y G",
@@ -342,10 +347,10 @@
                 "Hm": "HH:mm",
                 "hms": "a 'ga' h:mm:ss",
                 "Hms": "HH:mm:ss",
-                "hmsv": "h:mm:ss a v",
-                "Hmsv": "HH:mm:ss v",
-                "hmv": "h:mm a v",
-                "Hmv": "HH:mm v",
+                "hmsv": "a 'ga' h:mm:ss 'le' v",
+                "Hmsv": "'ga' HH:mm:ss 'le' v",
+                "hmv": "a 'ga' h:mm 'le' v",
+                "Hmv": "'ga' HH:mm 'le' v",
                 "M": "L",
                 "Md": "M/d",
                 "MEd": "E, M/d",
@@ -354,7 +359,8 @@
                 "MMMEd": "E, MMM d 'lia'",
                 "MMMMd": "MMMM d 'lia'",
                 "MMMMEd": "E, MMMM d 'lia'",
-                "MMMMW-count-other": "'week' W 'of' MMMM",
+                "MMMMW-count-one": "MMMM 'ƒe' 'kɔsiɖa' W 'lia'",
+                "MMMMW-count-other": "MMMM 'ƒe' 'kɔsiɖa' W 'lia'",
                 "ms": "'aɖabaƒoƒo' mm:ss",
                 "y": "y",
                 "yM": "M/y",
@@ -366,7 +372,8 @@
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ y",
-                "yw-count-other": "'week' w 'of' y"
+                "yw-count-one": "'kɔsiɖa' w 'lia' 'le' 'ƒe' Y 'me'",
+                "yw-count-other": "'kɔsiɖa' w 'lia' 'le' 'ƒe' Y 'me'"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

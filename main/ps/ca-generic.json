@@ -3,8 +3,8 @@
     "ps": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13686 $",
+          "_cldrVersion": "32"
         },
         "language": "ps"
       },
@@ -104,13 +104,13 @@
             "days": {
               "format": {
                 "abbreviated": {
-                  "sun": "یکشنبه",
-                  "mon": "دوشنبه",
-                  "tue": "سه‌شنبه",
-                  "wed": "چهارشنبه",
-                  "thu": "پنجشنبه",
+                  "sun": "يونۍ",
+                  "mon": "دونۍ",
+                  "tue": "درېنۍ",
+                  "wed": "څلرنۍ",
+                  "thu": "پينځنۍ",
                   "fri": "جمعه",
-                  "sat": "شنبه"
+                  "sat": "اونۍ"
                 },
                 "narrow": {
                   "sun": "S",
@@ -122,33 +122,33 @@
                   "sat": "S"
                 },
                 "short": {
-                  "sun": "یکشنبه",
-                  "mon": "دوشنبه",
-                  "tue": "سه‌شنبه",
-                  "wed": "چهارشنبه",
-                  "thu": "پنجشنبه",
+                  "sun": "يونۍ",
+                  "mon": "دونۍ",
+                  "tue": "درېنۍ",
+                  "wed": "څلرنۍ",
+                  "thu": "پينځنۍ",
                   "fri": "جمعه",
-                  "sat": "شنبه"
+                  "sat": "اونۍ"
                 },
                 "wide": {
-                  "sun": "یکشنبه",
-                  "mon": "دوشنبه",
-                  "tue": "سه‌شنبه",
-                  "wed": "چهارشنبه",
-                  "thu": "پنجشنبه",
+                  "sun": "يونۍ",
+                  "mon": "دونۍ",
+                  "tue": "درېنۍ",
+                  "wed": "څلرنۍ",
+                  "thu": "پينځنۍ",
                   "fri": "جمعه",
-                  "sat": "شنبه"
+                  "sat": "اونۍ"
                 }
               },
               "stand-alone": {
                 "abbreviated": {
-                  "sun": "یکشنبه",
-                  "mon": "دوشنبه",
-                  "tue": "سه‌شنبه",
-                  "wed": "چهارشنبه",
-                  "thu": "پنجشنبه",
+                  "sun": "يونۍ",
+                  "mon": "دونۍ",
+                  "tue": "درېنۍ",
+                  "wed": "څلرنۍ",
+                  "thu": "پينځنۍ",
                   "fri": "جمعه",
-                  "sat": "شنبه"
+                  "sat": "اونۍ"
                 },
                 "narrow": {
                   "sun": "S",
@@ -160,22 +160,22 @@
                   "sat": "S"
                 },
                 "short": {
-                  "sun": "یکشنبه",
-                  "mon": "دوشنبه",
-                  "tue": "سه‌شنبه",
-                  "wed": "چهارشنبه",
-                  "thu": "پنجشنبه",
+                  "sun": "يونۍ",
+                  "mon": "دونۍ",
+                  "tue": "درېنۍ",
+                  "wed": "څلرنۍ",
+                  "thu": "پينځنۍ",
                   "fri": "جمعه",
-                  "sat": "شنبه"
+                  "sat": "اونۍ"
                 },
                 "wide": {
-                  "sun": "یکشنبه",
-                  "mon": "دوشنبه",
-                  "tue": "سه‌شنبه",
-                  "wed": "چهارشنبه",
-                  "thu": "پنجشنبه",
+                  "sun": "يونۍ",
+                  "mon": "دونۍ",
+                  "tue": "درېنۍ",
+                  "wed": "څلرنۍ",
+                  "thu": "پينځنۍ",
                   "fri": "جمعه",
-                  "sat": "شنبه"
+                  "sat": "اونۍ"
                 }
               }
             },
@@ -283,8 +283,13 @@
               "medium": "{1} {0}",
               "short": "{1} {0}",
               "availableFormats": {
+                "Bh": "h B",
+                "Bhm": "h:mm B",
+                "Bhms": "h:mm:ss B",
                 "d": "d",
                 "E": "ccc",
+                "EBhm": "E h:mm B",
+                "EBhms": "E h:mm:ss B",
                 "Ed": "d, E",
                 "Ehm": "E h:mm a",
                 "EHm": "E HH:mm",
@@ -301,14 +306,16 @@
                 "hms": "h:mm:ss a",
                 "Hms": "H:mm:ss",
                 "M": "L",
-                "Md": "MM-dd",
+                "Md": "M/d",
                 "MEd": "MM-dd, E",
                 "MMM": "LLL",
                 "MMMd": "MMM d",
                 "MMMEd": "MMM d, E",
-                "MMMMd": "MMMM d",
+                "MMMMd": "d MMMM",
                 "ms": "mm:ss",
                 "y": "G y",
+                "yM": "G y/M",
+                "yMMMM": "د G y د MMMM",
                 "yyyy": "G y",
                 "yyyyM": "GGGGG y-MM",
                 "yyyyMd": "GGGGG y-MM-dd",

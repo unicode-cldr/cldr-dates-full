@@ -3,8 +3,8 @@
     "as": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "as"
       },
@@ -375,6 +375,9 @@
               "Puerto_Rico": {
                 "exemplarCity": "Puerto Rico"
               },
+              "Punta_Arenas": {
+                "exemplarCity": "Punta Arenas"
+              },
               "Rainy_River": {
                 "exemplarCity": "Rainy River"
               },
@@ -539,6 +542,9 @@
                 "exemplarCity": "Copenhagen"
               },
               "Dublin": {
+                "long": {
+                  "daylight": "আইৰিচ মান সময়"
+                },
                 "exemplarCity": "Dublin"
               },
               "Gibraltar": {
@@ -575,6 +581,9 @@
                 "exemplarCity": "Ljubljana"
               },
               "London": {
+                "long": {
+                  "daylight": "ব্ৰিটিচ গ্ৰীষ্মকালীন সময়"
+                },
                 "exemplarCity": "London"
               },
               "Luxembourg": {
@@ -624,6 +633,9 @@
               },
               "Sarajevo": {
                 "exemplarCity": "Sarajevo"
+              },
+              "Saratov": {
+                "exemplarCity": "Saratov"
               },
               "Simferopol": {
                 "exemplarCity": "Simferopol"
@@ -857,6 +869,9 @@
               "Ashgabat": {
                 "exemplarCity": "Ashgabat"
               },
+              "Atyrau": {
+                "exemplarCity": "Atyrau"
+              },
               "Baghdad": {
                 "exemplarCity": "Baghdad"
               },
@@ -882,7 +897,7 @@
                 "exemplarCity": "Brunei"
               },
               "Calcutta": {
-                "exemplarCity": "এলাহাৱাদ"
+                "exemplarCity": "Kolkata"
               },
               "Chita": {
                 "exemplarCity": "Chita"
@@ -907,6 +922,9 @@
               },
               "Dushanbe": {
                 "exemplarCity": "Dushanbe"
+              },
+              "Famagusta": {
+                "exemplarCity": "Famagusta"
               },
               "Gaza": {
                 "exemplarCity": "Gaza"
@@ -1005,7 +1023,7 @@
                 "exemplarCity": "Qyzylorda"
               },
               "Rangoon": {
-                "exemplarCity": "Rangoon"
+                "exemplarCity": "য়াঙ্গুন"
               },
               "Riyadh": {
                 "exemplarCity": "Riyadh"
@@ -1193,9 +1211,6 @@
               "Guam": {
                 "exemplarCity": "Guam"
               },
-              "Honolulu": {
-                "exemplarCity": "Honolulu"
-              },
               "Johnston": {
                 "exemplarCity": "Johnston"
               },
@@ -1310,105 +1325,797 @@
               }
             },
             "Etc": {
-              "GMT": {
-                "exemplarCity": "GMT"
-              },
-              "GMT1": {
-                "exemplarCity": "GMT+1"
-              },
-              "GMT10": {
-                "exemplarCity": "GMT+10"
-              },
-              "GMT11": {
-                "exemplarCity": "GMT+11"
-              },
-              "GMT12": {
-                "exemplarCity": "GMT+12"
-              },
-              "GMT2": {
-                "exemplarCity": "GMT+2"
-              },
-              "GMT3": {
-                "exemplarCity": "GMT+3"
-              },
-              "GMT4": {
-                "exemplarCity": "GMT+4"
-              },
-              "GMT5": {
-                "exemplarCity": "GMT+5"
-              },
-              "GMT6": {
-                "exemplarCity": "GMT+6"
-              },
-              "GMT7": {
-                "exemplarCity": "GMT+7"
-              },
-              "GMT8": {
-                "exemplarCity": "GMT+8"
-              },
-              "GMT9": {
-                "exemplarCity": "GMT+9"
-              },
-              "GMT-1": {
-                "exemplarCity": "GMT-1"
-              },
-              "GMT-10": {
-                "exemplarCity": "GMT-10"
-              },
-              "GMT-11": {
-                "exemplarCity": "GMT-11"
-              },
-              "GMT-12": {
-                "exemplarCity": "GMT-12"
-              },
-              "GMT-13": {
-                "exemplarCity": "GMT-13"
-              },
-              "GMT-14": {
-                "exemplarCity": "GMT-14"
-              },
-              "GMT-2": {
-                "exemplarCity": "GMT-2"
-              },
-              "GMT-3": {
-                "exemplarCity": "GMT-3"
-              },
-              "GMT-4": {
-                "exemplarCity": "GMT-4"
-              },
-              "GMT-5": {
-                "exemplarCity": "GMT-5"
-              },
-              "GMT-6": {
-                "exemplarCity": "GMT-6"
-              },
-              "GMT-7": {
-                "exemplarCity": "GMT-7"
-              },
-              "GMT-8": {
-                "exemplarCity": "GMT-8"
-              },
-              "GMT-9": {
-                "exemplarCity": "GMT-9"
-              },
               "UTC": {
+                "long": {
+                  "standard": "সমন্বিত সাৰ্বজনীন সময়"
+                },
                 "short": {
                   "standard": "UTC"
-                },
-                "exemplarCity": "UTC"
+                }
               },
               "Unknown": {
-                "exemplarCity": "Unknown"
+                "exemplarCity": "অজ্ঞাত চহৰ"
               }
             }
           },
           "metazone": {
+            "Afghanistan": {
+              "long": {
+                "standard": "আফগানিস্তান সময়"
+              }
+            },
+            "Africa_Central": {
+              "long": {
+                "standard": "মধ্য আফ্রিকা সময়"
+              }
+            },
+            "Africa_Eastern": {
+              "long": {
+                "standard": "পূর্ব আফ্রিকা সময়"
+              }
+            },
+            "Africa_Southern": {
+              "long": {
+                "standard": "দক্ষিণ আফ্রিকা মান সময়"
+              }
+            },
+            "Africa_Western": {
+              "long": {
+                "generic": "পশ্চিম আফ্রিকা সময়",
+                "standard": "পশ্চিম আফ্রিকার মান সময়",
+                "daylight": "পশ্চিম আফ্রিকার গ্রীষ্মকালীন সময়"
+              }
+            },
+            "Amazon": {
+              "long": {
+                "generic": "আমজান সময়",
+                "standard": "আমজান মান সময়",
+                "daylight": "আমজান গ্রীষ্মের সময়"
+              }
+            },
+            "Apia": {
+              "long": {
+                "generic": "আপিয়া সময়",
+                "standard": "আপিয়া স্ট্যান্ডার্ড টাইম",
+                "daylight": "আপিয়া ডেলাইট টাইম"
+              }
+            },
+            "Arabian": {
+              "long": {
+                "generic": "আরবীয় সময়",
+                "standard": "আরবীয় মান সময়",
+                "daylight": "আরবীয় দিনের আলো"
+              }
+            },
+            "Argentina": {
+              "long": {
+                "generic": "আৰ্জেণ্টিনা সময়",
+                "standard": "আৰ্জেণ্টিনা মান সময়",
+                "daylight": "আৰ্জেণ্টিনা গ্ৰীষ্ম সময়"
+              }
+            },
+            "Argentina_Western": {
+              "long": {
+                "generic": "ওয়েস্টার্ন আর্জেন্টিনা সময়",
+                "standard": "ওয়েস্টার্ন আর্জেন্টিনা মান সময়",
+                "daylight": "ওয়েস্টার্ন আর্জেন্টিনা গ্রীষ্মকালীন সময়"
+              }
+            },
+            "Armenia": {
+              "long": {
+                "generic": "আর্মেনিয়া টাইম",
+                "standard": "আর্মেনিয়া স্ট্যান্ডার্ড টাইম",
+                "daylight": "আর্মেনিয়া গ্রীষ্মকালীন সময়"
+              }
+            },
+            "Australia_Central": {
+              "long": {
+                "generic": "কেন্দ্রীয় অস্ট্রেলিয়া সময়",
+                "standard": "অস্ট্রেলিয়ান কেন্দ্রীয় স্ট্যান্ডার্ড টাইম",
+                "daylight": "অস্ট্রেলিয়ান কেন্দ্রীয় দিবালোক সময়"
+              }
+            },
+            "Australia_CentralWestern": {
+              "long": {
+                "generic": "অস্ট্রেলিয়ান সেন্ট্রাল ওয়েস্টার্ন টাইম",
+                "standard": "অস্ট্রেলিয়ান সেন্ট্রাল ওয়েস্টার্ন স্ট্যান্ডার্ড টাইম",
+                "daylight": "অস্ট্রেলিয়ান সেন্ট্রাল ওয়েস্টার্ন ডেলাইট টাইম"
+              }
+            },
+            "Australia_Eastern": {
+              "long": {
+                "generic": "পূর্ব অস্ট্রেলিয়া সময়",
+                "standard": "অস্ট্রেলিয়ান ইস্টার্ন স্ট্যান্ডার্ড টাইম",
+                "daylight": "অস্ট্রেলিয়ান পূর্ব দিবালোক সময়"
+              }
+            },
+            "Australia_Western": {
+              "long": {
+                "generic": "ওয়েস্টার্ন অস্ট্রেলিয়া টাইম",
+                "standard": "অস্ট্রেলিয়ান ওয়েস্টার্ন স্ট্যান্ডার্ড টাইম",
+                "daylight": "অস্ট্রেলিয়ান ওয়েস্টার্ন ডেলাইট টাইম"
+              }
+            },
+            "Azerbaijan": {
+              "long": {
+                "generic": "আজারবাইজান সময়",
+                "standard": "আজারবাইজান স্ট্যান্ডার্ড টাইম",
+                "daylight": "আজারবাইজান গ্রীষ্মকালীন সময়"
+              }
+            },
+            "Azores": {
+              "long": {
+                "generic": "Azores সময়",
+                "standard": "Azores মান সময়",
+                "daylight": "Azores গ্রীষ্মের সময়"
+              }
+            },
+            "Bangladesh": {
+              "long": {
+                "generic": "বাংলাদেশ সময়",
+                "standard": "বাংলাদেশ স্ট্যান্ডার্ড টাইম",
+                "daylight": "বাংলাদেশ গ্রীষ্মকালীন সময়"
+              }
+            },
+            "Bhutan": {
+              "long": {
+                "standard": "ভুটান টাইম"
+              }
+            },
+            "Bolivia": {
+              "long": {
+                "standard": "বলিভিয়া সময়"
+              }
+            },
+            "Brasilia": {
+              "long": {
+                "generic": "ব্ৰাছিলিয়া সময়",
+                "standard": "ব্ৰাছিলিয়া মান সময়",
+                "daylight": "ব্ৰাছিলিয়া গ্ৰীষ্ম সময়"
+              }
+            },
+            "Brunei": {
+              "long": {
+                "standard": "ব্রুনেই দারুসসালাম সময়"
+              }
+            },
+            "Cape_Verde": {
+              "long": {
+                "generic": "কেপ ভার্দে সময়",
+                "standard": "কেপ ওয়ার্ড স্ট্যান্ডার্ড টাইম",
+                "daylight": "কেপ ভার্দে গ্রীষ্মকালীন সময়"
+              }
+            },
+            "Chamorro": {
+              "long": {
+                "standard": "চামেরো স্ট্যান্ডার্ড টাইম"
+              }
+            },
+            "Chatham": {
+              "long": {
+                "generic": "চ্যাথাম টাইম",
+                "standard": "চ্যাথাম স্ট্যান্ডার্ড টাইম",
+                "daylight": "চ্যাথাম ডেইলাইট টাইম"
+              }
+            },
+            "Chile": {
+              "long": {
+                "generic": "চিলি সময়",
+                "standard": "চিলি স্ট্যান্ডার্ড টাইম",
+                "daylight": "চিলি গ্রীষ্মকালীন সময়"
+              }
+            },
+            "China": {
+              "long": {
+                "generic": "চীন সময়",
+                "standard": "চীন স্ট্যান্ডার্ড টাইম",
+                "daylight": "চীন ডেইলাইট টাইম"
+              }
+            },
+            "Choibalsan": {
+              "long": {
+                "generic": "চিব্বালান টাইম",
+                "standard": "চিব্বলসন স্ট্যান্ডার্ড টাইম",
+                "daylight": "চিব্বলসন গ্রীষ্মকালীন সময়"
+              }
+            },
+            "Christmas": {
+              "long": {
+                "standard": "ক্রিসমাস আইল্যান্ড সময়"
+              }
+            },
+            "Cocos": {
+              "long": {
+                "standard": "কোকোস দ্বীপপুঞ্জ সময়"
+              }
+            },
+            "Colombia": {
+              "long": {
+                "generic": "কলম্বিয়া সময়",
+                "standard": "কলম্বিয়া মান সময়",
+                "daylight": "কলম্বিয়া গ্ৰীষ্ম সময়"
+              }
+            },
+            "Cook": {
+              "long": {
+                "generic": "কুক দ্বীপপুঞ্জ সময়",
+                "standard": "কুক দ্বীপপুঞ্জ স্ট্যান্ডার্ড টাইম",
+                "daylight": "কুক দ্বীপপুঞ্জ হাফ গ্রীষ্মকালীন সময়"
+              }
+            },
+            "Davis": {
+              "long": {
+                "standard": "ডেভিস টাইম"
+              }
+            },
+            "DumontDUrville": {
+              "long": {
+                "standard": "ডামমন্ট-ডি‘উরিভ্যাল টাইম"
+              }
+            },
+            "East_Timor": {
+              "long": {
+                "standard": "পূর্ব তিমুর সময়"
+              }
+            },
+            "Easter": {
+              "long": {
+                "generic": "ইষ্টাৰ দ্বীপ সময়",
+                "standard": "ইষ্টাৰ দ্বীপ মান সময়",
+                "daylight": "ইষ্টাৰ দ্বীপ গ্ৰীষ্ম সময়"
+              }
+            },
+            "Ecuador": {
+              "long": {
+                "standard": "ইকুৱেডৰ সময়"
+              }
+            },
+            "Europe_Central": {
+              "long": {
+                "generic": "কেন্দ্রীয় ইউরোপীয় সময়",
+                "standard": "কেন্দ্রীয় ইউরোপীয় স্ট্যান্ডার্ড টাইম",
+                "daylight": "মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়"
+              }
+            },
+            "Europe_Eastern": {
+              "long": {
+                "generic": "পূর্ব ইউরোপীয় সময়",
+                "standard": "পূর্ব ইউরোপীয় মান সময়",
+                "daylight": "পূর্ব ইউরোপীয় গ্রীষ্মকালীন সময়"
+              }
+            },
+            "Europe_Further_Eastern": {
+              "long": {
+                "standard": "আরও পূর্ব ইউরোপীয় সময়"
+              }
+            },
+            "Europe_Western": {
+              "long": {
+                "generic": "পশ্চিম ইউরোপীয় সময়",
+                "standard": "পশ্চিম ইউরোপীয় মান সময়",
+                "daylight": "পশ্চিম ইউরোপীয় গ্রীষ্মকালীন সময়"
+              }
+            },
+            "Falkland": {
+              "long": {
+                "generic": "ফকল্যান্ড দ্বীপপুঞ্জ সময়",
+                "standard": "ফকল্যান্ড দ্বীপ স্ট্যান্ডার্ড টাইম",
+                "daylight": "ফকল্যান্ড দ্বীপপুঞ্জ গ্রীষ্মকালীন সময়"
+              }
+            },
+            "Fiji": {
+              "long": {
+                "generic": "ফিজি সময়",
+                "standard": "ফিজি স্ট্যান্ডার্ড টাইম",
+                "daylight": "ফিজি গ্রীষ্মকালীন সময়"
+              }
+            },
+            "French_Guiana": {
+              "long": {
+                "standard": "ফরাসি গায়ানা সময়"
+              }
+            },
+            "French_Southern": {
+              "long": {
+                "standard": "ফরাসি দক্ষিণ ও অ্যান্টার্কটিক সময়"
+              }
+            },
+            "Galapagos": {
+              "long": {
+                "standard": "গালাপাগোস টাইম"
+              }
+            },
+            "Gambier": {
+              "long": {
+                "standard": "গাম্বুর সময়"
+              }
+            },
+            "Georgia": {
+              "long": {
+                "generic": "জর্জিয়া টাইম",
+                "standard": "জর্জিয়া স্ট্যান্ডার্ড টাইম",
+                "daylight": "জর্জিয়া গ্রীষ্মকালীন সময়"
+              }
+            },
+            "Gilbert_Islands": {
+              "long": {
+                "standard": "গিলবার্ট দ্বীপপুঞ্জ সময়"
+              }
+            },
+            "GMT": {
+              "long": {
+                "standard": "মক্কার সময়"
+              }
+            },
+            "Gulf": {
+              "long": {
+                "standard": "উপসাগরীয় স্ট্যান্ডার্ড টাইম"
+              }
+            },
+            "Guyana": {
+              "long": {
+                "standard": "গায়ানা টাইম"
+              }
+            },
+            "Hong_Kong": {
+              "long": {
+                "generic": "হংকং সময়",
+                "standard": "হংকং স্ট্যান্ডার্ড টাইম",
+                "daylight": "হংকং গ্রীষ্মকালীন সময়"
+              }
+            },
+            "Hovd": {
+              "long": {
+                "generic": "হওড টাইম",
+                "standard": "হোভড স্ট্যান্ডার্ড টাইম",
+                "daylight": "হওগড গ্রীষ্মকালীন সময়"
+              }
+            },
             "India": {
               "long": {
                 "standard": "ভাৰতীয় সময়"
               },
               "short": {
                 "standard": "ভা. স."
+              }
+            },
+            "Indian_Ocean": {
+              "long": {
+                "standard": "ভারত মহাসাগর সময়"
+              }
+            },
+            "Indochina": {
+              "long": {
+                "standard": "ইন্দোচীনা টাইম"
+              }
+            },
+            "Indonesia_Central": {
+              "long": {
+                "standard": "মধ্য ইন্দোনেশিয়া সময়"
+              }
+            },
+            "Indonesia_Eastern": {
+              "long": {
+                "standard": "ইস্টার্ন ইন্দোনেশিয়া সময়"
+              }
+            },
+            "Indonesia_Western": {
+              "long": {
+                "standard": "ওয়েস্টার্ন ইন্দোনেশিয়া সময়"
+              }
+            },
+            "Iran": {
+              "long": {
+                "generic": "ইরান সময়",
+                "standard": "ইরান স্ট্যান্ডার্ড টাইম",
+                "daylight": "ইরান দিবালোক সময়"
+              }
+            },
+            "Irkutsk": {
+              "long": {
+                "generic": "ইর্কুক্স্ক সময়",
+                "standard": "ইঙ্কুক্টক স্ট্যান্ডার্ড টাইম",
+                "daylight": "ইর্কুষস্ক গ্রীষ্মকালীন সময়"
+              }
+            },
+            "Israel": {
+              "long": {
+                "generic": "ইস্রায়েল সময়",
+                "standard": "ইস্রায়েল স্ট্যান্ডার্ড টাইম",
+                "daylight": "ইস্রায়েল দিবালোক সময়"
+              }
+            },
+            "Japan": {
+              "long": {
+                "generic": "জাপান সময়",
+                "standard": "জাপান স্ট্যান্ডার্ড টাইম",
+                "daylight": "জাপান দিনের হালকা সময়"
+              }
+            },
+            "Kazakhstan_Eastern": {
+              "long": {
+                "standard": "পূর্ব কাজাখস্তান সময়"
+              }
+            },
+            "Kazakhstan_Western": {
+              "long": {
+                "standard": "পশ্চিম কাসাবালান সময়"
+              }
+            },
+            "Korea": {
+              "long": {
+                "generic": "কোরিয়ান সময়",
+                "standard": "কোরিয়ান স্ট্যান্ডার্ড টাইম",
+                "daylight": "কোরিয়ান দিনের আলো"
+              }
+            },
+            "Kosrae": {
+              "long": {
+                "standard": "কোসরা টাইম"
+              }
+            },
+            "Krasnoyarsk": {
+              "long": {
+                "generic": "ক্রোশোয়েয়ার্স্ক টাইম",
+                "standard": "ক্রোশনোয়ার্স্ক মান সময়",
+                "daylight": "ক্রোয়েশোয়ারস্ক গ্রীষ্মকালীন সময়"
+              }
+            },
+            "Line_Islands": {
+              "long": {
+                "standard": "লাইন দ্বীপপুঞ্জ সময়"
+              }
+            },
+            "Lord_Howe": {
+              "long": {
+                "generic": "লর্ড হাভী সময়",
+                "standard": "লর্ড হাভী স্ট্যান্ডার্ড টাইম",
+                "daylight": "লর্ড হ্যালো দিবালোক সময়"
+              }
+            },
+            "Macquarie": {
+              "long": {
+                "standard": "ম্যাককুরি আইল্যান্ড টাইম"
+              }
+            },
+            "Magadan": {
+              "long": {
+                "generic": "ম্যাগাদান টাইম",
+                "standard": "ম্যাগাদান মান সময়",
+                "daylight": "ম্যাগাদান গ্রীষ্মকালীন সময়"
+              }
+            },
+            "Malaysia": {
+              "long": {
+                "standard": "মালয়েশিয়া সময়"
+              }
+            },
+            "Maldives": {
+              "long": {
+                "standard": "মালদ্বীপের সময়"
+              }
+            },
+            "Marquesas": {
+              "long": {
+                "standard": "মারকাসাস সময়"
+              }
+            },
+            "Marshall_Islands": {
+              "long": {
+                "standard": "মার্শাল দ্বীপপুঞ্জ সময়"
+              }
+            },
+            "Mauritius": {
+              "long": {
+                "generic": "Mauritus সময়",
+                "standard": "Mauritius মান সময়",
+                "daylight": "Mauritius গ্রীষ্মকালীন সময়"
+              }
+            },
+            "Mawson": {
+              "long": {
+                "standard": "মোসন টাইম"
+              }
+            },
+            "Mongolia": {
+              "long": {
+                "generic": "উলানবাটার টাইম",
+                "standard": "উলানবাটার মান সময়",
+                "daylight": "উলানবাটার গ্রীষ্মকালীন সময়"
+              }
+            },
+            "Moscow": {
+              "long": {
+                "generic": "মস্কো সময়",
+                "standard": "মস্কো স্ট্যান্ডার্ড টাইম",
+                "daylight": "মস্কো গ্রীষ্মকালীন সময়"
+              }
+            },
+            "Myanmar": {
+              "long": {
+                "standard": "মায়ানমার টাইম"
+              }
+            },
+            "Nauru": {
+              "long": {
+                "standard": "নাউরু টাইম"
+              }
+            },
+            "Nepal": {
+              "long": {
+                "standard": "নেপাল সময়"
+              }
+            },
+            "New_Caledonia": {
+              "long": {
+                "generic": "নিউ ক্যালেডোনিয়া সময়",
+                "standard": "নিউ ক্যালেডোনিয়া স্ট্যান্ডার্ড টাইম",
+                "daylight": "নিউ ক্যালেডোনিয়া গ্রীষ্মকালীন সময়"
+              }
+            },
+            "New_Zealand": {
+              "long": {
+                "generic": "নিউজিল্যান্ড সময়",
+                "standard": "নিউজিল্যান্ড স্ট্যান্ডার্ড টাইম",
+                "daylight": "নিউজিল্যান্ড ডেলাইট টাইম"
+              }
+            },
+            "Niue": {
+              "long": {
+                "standard": "নিউইয় টাইম"
+              }
+            },
+            "Norfolk": {
+              "long": {
+                "standard": "নরফোক দ্বীপ সময়"
+              }
+            },
+            "Noronha": {
+              "long": {
+                "generic": "ফাৰ্নাণ্ডো ডি নোৰোন্বা",
+                "standard": "ফাৰ্নাণ্ডো ডি নোৰোন্বা মান সময়",
+                "daylight": "ফাৰ্নাণ্ডো ডি নোৰোন্বা গ্ৰীষ্ম সময়"
+              }
+            },
+            "Novosibirsk": {
+              "long": {
+                "generic": "নোভোসিবিরস্ক সময়",
+                "standard": "নোভোসিবিরস্ক স্ট্যান্ডার্ড টাইম",
+                "daylight": "নোভোসিবিরস্ক গ্রীষ্মকালীন সময়"
+              }
+            },
+            "Omsk": {
+              "long": {
+                "generic": "Omsk সময়",
+                "standard": "Omsk আদর্শ সময়",
+                "daylight": "Omsk গ্রীষ্মকালীন সময়"
+              }
+            },
+            "Pakistan": {
+              "long": {
+                "generic": "পাকিস্তান টাইম",
+                "standard": "পাকিস্তান স্ট্যান্ডার্ড টাইম",
+                "daylight": "পাকিস্তান গ্রীষ্মকালীন সময়"
+              }
+            },
+            "Palau": {
+              "long": {
+                "standard": "পালাউ সময়"
+              }
+            },
+            "Papua_New_Guinea": {
+              "long": {
+                "standard": "পাপুয়া নিউ গিনি সময়"
+              }
+            },
+            "Paraguay": {
+              "long": {
+                "generic": "পাৰাগুৱে সময়",
+                "standard": "পাৰাগুৱে মান সময়",
+                "daylight": "পাৰাগুৱে গ্ৰীষ্ম সময়"
+              }
+            },
+            "Peru": {
+              "long": {
+                "generic": "পেরু সময়",
+                "standard": "পেরু মান সময়",
+                "daylight": "পেরু গ্রীষ্মকালীন সময়"
+              }
+            },
+            "Philippines": {
+              "long": {
+                "generic": "ফিলিপাইন টাইম",
+                "standard": "ফিলিপাইন স্ট্যান্ডার্ড টাইম",
+                "daylight": "ফিলিপাইন গ্রীষ্মকালীন সময়"
+              }
+            },
+            "Phoenix_Islands": {
+              "long": {
+                "standard": "ফিনিক্স দ্বীপপুঞ্জ সময়"
+              }
+            },
+            "Pitcairn": {
+              "long": {
+                "standard": "পিটারকনার টাইম"
+              }
+            },
+            "Ponape": {
+              "long": {
+                "standard": "পনাপ সময়"
+              }
+            },
+            "Pyongyang": {
+              "long": {
+                "standard": "পিয়ংইয়ং টাইম"
+              }
+            },
+            "Reunion": {
+              "long": {
+                "standard": "রিয়ানিয়ন টাইম"
+              }
+            },
+            "Rothera": {
+              "long": {
+                "standard": "রোথেরা টাইম"
+              }
+            },
+            "Sakhalin": {
+              "long": {
+                "generic": "সাখালিন টাইম",
+                "standard": "সাখালিন মান টাইম",
+                "daylight": "সাখালিন গ্রীষ্মের সময়"
+              }
+            },
+            "Samoa": {
+              "long": {
+                "generic": "সামোয়া সময়",
+                "standard": "সামোয়া স্ট্যান্ডার্ড টাইম",
+                "daylight": "সামোয়া ডেলাইট সময়"
+              }
+            },
+            "Seychelles": {
+              "long": {
+                "standard": "সেশেলস সময়"
+              }
+            },
+            "Singapore": {
+              "long": {
+                "standard": "সিঙ্গাপুর স্ট্যান্ডার্ড টাইম"
+              }
+            },
+            "Solomon": {
+              "long": {
+                "standard": "সলোমন দ্বীপপুঞ্জ সময়"
+              }
+            },
+            "South_Georgia": {
+              "long": {
+                "standard": "দক্ষিণ জর্জিয়া টাইম"
+              }
+            },
+            "Suriname": {
+              "long": {
+                "standard": "সুরিনাম টাইম"
+              }
+            },
+            "Syowa": {
+              "long": {
+                "standard": "Syowa টাইম"
+              }
+            },
+            "Tahiti": {
+              "long": {
+                "standard": "তাহিতি টাইম"
+              }
+            },
+            "Taipei": {
+              "long": {
+                "generic": "তাইপে সময়",
+                "standard": "তাইপে স্ট্যান্ডার্ড টাইম",
+                "daylight": "তাইপে দিনের হালকা সময়"
+              }
+            },
+            "Tajikistan": {
+              "long": {
+                "standard": "তাজিকিস্তান টাইম"
+              }
+            },
+            "Tokelau": {
+              "long": {
+                "standard": "টোকেলাউ সময়"
+              }
+            },
+            "Tonga": {
+              "long": {
+                "generic": "টোঙ্গা টাইম",
+                "standard": "টোঙ্গা স্ট্যান্ডার্ড টাইম",
+                "daylight": "টঙ্গা গ্রীষ্মকালীন সময়"
+              }
+            },
+            "Truk": {
+              "long": {
+                "standard": "চুুক টাইম"
+              }
+            },
+            "Turkmenistan": {
+              "long": {
+                "generic": "তুর্কমেনিস্তান সময়",
+                "standard": "তুর্কমেনিস্তান মান সময়",
+                "daylight": "তুর্কমেনিস্তান গ্রীষ্ম সময়"
+              }
+            },
+            "Tuvalu": {
+              "long": {
+                "standard": "টুভালু সময়"
+              }
+            },
+            "Uruguay": {
+              "long": {
+                "generic": "উৰুগুৱে সময়",
+                "standard": "উৰুগুৱে মান সময়",
+                "daylight": "উৰুগুৱে গ্ৰীষ্ম সময়"
+              }
+            },
+            "Uzbekistan": {
+              "long": {
+                "generic": "উজবেকিস্তান সময়",
+                "standard": "উজবেকিস্তান মান সময়",
+                "daylight": "উজবেকিস্তান গ্রীষ্মের সময়"
+              }
+            },
+            "Vanuatu": {
+              "long": {
+                "generic": "ভানুয়াতু সময়",
+                "standard": "ভানুয়াতু স্ট্যান্ডার্ড টাইম",
+                "daylight": "ভানুয়াতু গ্রীষ্মকালীন সময়"
+              }
+            },
+            "Venezuela": {
+              "long": {
+                "standard": "ভেনিজুয়েলা সময়"
+              }
+            },
+            "Vladivostok": {
+              "long": {
+                "generic": "ভ্লাদভোস্টক টাইম",
+                "standard": "ভ্লাদভোস্টোক স্ট্যান্ডার্ড টাইম",
+                "daylight": "ভ্লাদভোস্টক সামার সময়"
+              }
+            },
+            "Volgograd": {
+              "long": {
+                "generic": "ভলগোগ্রাদ টাইম",
+                "standard": "ভোলগোগ্রাদ মান সময়",
+                "daylight": "ভলগোগ্রেড গ্রীষ্মকালীন সময়"
+              }
+            },
+            "Vostok": {
+              "long": {
+                "standard": "ভোস্টোক টাইম"
+              }
+            },
+            "Wake": {
+              "long": {
+                "standard": "ওয়াক আইল্যান্ড টাইম"
+              }
+            },
+            "Wallis": {
+              "long": {
+                "standard": "ওয়ালিস ও ফুটুনা সময়"
+              }
+            },
+            "Yakutsk": {
+              "long": {
+                "generic": "Yakutsk সময়",
+                "standard": "Yakutsk মান সময়",
+                "daylight": "Yakutsk গ্রীষ্মের সময়"
+              }
+            },
+            "Yekaterinburg": {
+              "long": {
+                "generic": "ইয়েকাতেরিনবার্গ সময়",
+                "standard": "ইয়েকাতেরিনবার্গ স্ট্যান্ডার্ড সময়",
+                "daylight": "ইয়েকাতেরিনবার্গ গ্রীষ্মকালীন সময়"
               }
             }
           }

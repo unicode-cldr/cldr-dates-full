@@ -3,8 +3,8 @@
     "bs-Cyrl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13272 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "bs",
         "script": "Cyrl"
@@ -132,8 +132,8 @@
                   "sat": "суб"
                 },
                 "wide": {
-                  "sun": "недеља",
-                  "mon": "понедељак",
+                  "sun": "недјеља",
+                  "mon": "понедјељак",
                   "tue": "уторак",
                   "wed": "сриједа",
                   "thu": "четвртак",
@@ -170,8 +170,8 @@
                   "sat": "суб"
                 },
                 "wide": {
-                  "sun": "недеља",
-                  "mon": "понедељак",
+                  "sun": "недјеља",
+                  "mon": "понедјељак",
                   "tue": "уторак",
                   "wed": "сриједа",
                   "thu": "четвртак",
@@ -284,8 +284,13 @@
               "medium": "{1} {0}",
               "short": "{1} {0}",
               "availableFormats": {
+                "Bh": "h B",
+                "Bhm": "h:mm B",
+                "Bhms": "h:mm:ss B",
                 "d": "d",
                 "E": "ccc",
+                "EBhm": "E h:mm B",
+                "EBhms": "E h:mm:ss B",
                 "Ed": "E, d.",
                 "Ehm": "E h:mm a",
                 "EHm": "E HH:mm",

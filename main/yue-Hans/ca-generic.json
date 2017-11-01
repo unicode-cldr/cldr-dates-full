@@ -1,31 +1,32 @@
 {
   "main": {
-    "yue": {
+    "yue-Hans": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13708 $",
+          "_cldrVersion": "32"
         },
-        "language": "yue"
+        "language": "yue",
+        "script": "Hans"
       },
       "dates": {
         "calendars": {
-          "gregorian": {
+          "generic": {
             "months": {
               "format": {
                 "abbreviated": {
-                  "1": "1月",
-                  "2": "2月",
-                  "3": "3月",
-                  "4": "4月",
-                  "5": "5月",
-                  "6": "6月",
-                  "7": "7月",
-                  "8": "8月",
-                  "9": "9月",
-                  "10": "10月",
-                  "11": "11月",
-                  "12": "12月"
+                  "1": "M01",
+                  "2": "M02",
+                  "3": "M03",
+                  "4": "M04",
+                  "5": "M05",
+                  "6": "M06",
+                  "7": "M07",
+                  "8": "M08",
+                  "9": "M09",
+                  "10": "M10",
+                  "11": "M11",
+                  "12": "M12"
                 },
                 "narrow": {
                   "1": "1",
@@ -42,34 +43,34 @@
                   "12": "12"
                 },
                 "wide": {
-                  "1": "1月",
-                  "2": "2月",
-                  "3": "3月",
-                  "4": "4月",
-                  "5": "5月",
-                  "6": "6月",
-                  "7": "7月",
-                  "8": "8月",
-                  "9": "9月",
-                  "10": "10月",
-                  "11": "11月",
-                  "12": "12月"
+                  "1": "M01",
+                  "2": "M02",
+                  "3": "M03",
+                  "4": "M04",
+                  "5": "M05",
+                  "6": "M06",
+                  "7": "M07",
+                  "8": "M08",
+                  "9": "M09",
+                  "10": "M10",
+                  "11": "M11",
+                  "12": "M12"
                 }
               },
               "stand-alone": {
                 "abbreviated": {
-                  "1": "1月",
-                  "2": "2月",
-                  "3": "3月",
-                  "4": "4月",
-                  "5": "5月",
-                  "6": "6月",
-                  "7": "7月",
-                  "8": "8月",
-                  "9": "9月",
-                  "10": "10月",
-                  "11": "11月",
-                  "12": "12月"
+                  "1": "M01",
+                  "2": "M02",
+                  "3": "M03",
+                  "4": "M04",
+                  "5": "M05",
+                  "6": "M06",
+                  "7": "M07",
+                  "8": "M08",
+                  "9": "M09",
+                  "10": "M10",
+                  "11": "M11",
+                  "12": "M12"
                 },
                 "narrow": {
                   "1": "1",
@@ -86,31 +87,31 @@
                   "12": "12"
                 },
                 "wide": {
-                  "1": "1月",
-                  "2": "2月",
-                  "3": "3月",
-                  "4": "4月",
-                  "5": "5月",
-                  "6": "6月",
-                  "7": "7月",
-                  "8": "8月",
-                  "9": "9月",
-                  "10": "10月",
-                  "11": "11月",
-                  "12": "12月"
+                  "1": "M01",
+                  "2": "M02",
+                  "3": "M03",
+                  "4": "M04",
+                  "5": "M05",
+                  "6": "M06",
+                  "7": "M07",
+                  "8": "M08",
+                  "9": "M09",
+                  "10": "M10",
+                  "11": "M11",
+                  "12": "M12"
                 }
               }
             },
             "days": {
               "format": {
                 "abbreviated": {
-                  "sun": "週日",
-                  "mon": "週一",
-                  "tue": "週二",
-                  "wed": "週三",
-                  "thu": "週四",
-                  "fri": "週五",
-                  "sat": "週六"
+                  "sun": "周日",
+                  "mon": "周一",
+                  "tue": "周二",
+                  "wed": "周三",
+                  "thu": "周四",
+                  "fri": "周五",
+                  "sat": "周六"
                 },
                 "narrow": {
                   "sun": "日",
@@ -122,13 +123,13 @@
                   "sat": "六"
                 },
                 "short": {
-                  "sun": "日",
-                  "mon": "一",
-                  "tue": "二",
-                  "wed": "三",
-                  "thu": "四",
-                  "fri": "五",
-                  "sat": "六"
+                  "sun": "周日",
+                  "mon": "周一",
+                  "tue": "周二",
+                  "wed": "周三",
+                  "thu": "周四",
+                  "fri": "周五",
+                  "sat": "周六"
                 },
                 "wide": {
                   "sun": "星期日",
@@ -142,13 +143,13 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "sun": "週日",
-                  "mon": "週一",
-                  "tue": "週二",
-                  "wed": "週三",
-                  "thu": "週四",
-                  "fri": "週五",
-                  "sat": "週六"
+                  "sun": "周日",
+                  "mon": "周一",
+                  "tue": "周二",
+                  "wed": "周三",
+                  "thu": "周四",
+                  "fri": "周五",
+                  "sat": "周六"
                 },
                 "narrow": {
                   "sun": "日",
@@ -160,13 +161,13 @@
                   "sat": "六"
                 },
                 "short": {
-                  "sun": "日",
-                  "mon": "一",
-                  "tue": "二",
-                  "wed": "三",
-                  "thu": "四",
-                  "fri": "五",
-                  "sat": "六"
+                  "sun": "周日",
+                  "mon": "周一",
+                  "tue": "周二",
+                  "wed": "周三",
+                  "thu": "周四",
+                  "fri": "周五",
+                  "sat": "周六"
                 },
                 "wide": {
                   "sun": "星期日",
@@ -230,7 +231,7 @@
                   "morning1": "清晨",
                   "morning2": "朝早",
                   "afternoon1": "中午",
-                  "afternoon2": "下晝",
+                  "afternoon2": "下昼",
                   "evening1": "夜晚",
                   "night1": "凌晨"
                 },
@@ -241,7 +242,7 @@
                   "morning1": "清晨",
                   "morning2": "朝早",
                   "afternoon1": "中午",
-                  "afternoon2": "下晝",
+                  "afternoon2": "下昼",
                   "evening1": "夜晚",
                   "night1": "凌晨"
                 },
@@ -252,7 +253,7 @@
                   "morning1": "清晨",
                   "morning2": "朝早",
                   "afternoon1": "中午",
-                  "afternoon2": "下晝",
+                  "afternoon2": "下昼",
                   "evening1": "夜晚",
                   "night1": "凌晨"
                 }
@@ -265,7 +266,7 @@
                   "morning1": "清晨",
                   "morning2": "朝早",
                   "afternoon1": "中午",
-                  "afternoon2": "下晝",
+                  "afternoon2": "下昼",
                   "evening1": "夜晚",
                   "night1": "凌晨"
                 },
@@ -276,7 +277,7 @@
                   "morning1": "清晨",
                   "morning2": "朝早",
                   "afternoon1": "中午",
-                  "afternoon2": "下晝",
+                  "afternoon2": "下昼",
                   "evening1": "夜晚",
                   "night1": "凌晨"
                 },
@@ -287,7 +288,7 @@
                   "morning1": "清晨",
                   "morning2": "朝早",
                   "afternoon1": "中午",
-                  "afternoon2": "下晝",
+                  "afternoon2": "下昼",
                   "evening1": "夜晚",
                   "night1": "凌晨"
                 }
@@ -295,33 +296,27 @@
             },
             "eras": {
               "eraNames": {
-                "0": "西元前",
-                "0-alt-variant": "公元前",
-                "1": "西元",
-                "1-alt-variant": "公元"
+                "0": "ERA0",
+                "1": "ERA1"
               },
               "eraAbbr": {
-                "0": "西元前",
-                "0-alt-variant": "公元前",
-                "1": "西元",
-                "1-alt-variant": "公元"
+                "0": "ERA0",
+                "1": "ERA1"
               },
               "eraNarrow": {
-                "0": "西元前",
-                "0-alt-variant": "公元前",
-                "1": "西元",
-                "1-alt-variant": "公元"
+                "0": "ERA0",
+                "1": "ERA1"
               }
             },
             "dateFormats": {
-              "full": "y年M月d日 EEEE",
-              "long": "y年M月d日",
-              "medium": "y年M月d日",
-              "short": "y/M/d"
+              "full": "Gy年MM月d日EEEE",
+              "long": "Gy年MM月d日",
+              "medium": "Gy年MM月d日",
+              "short": "Gy/M/d"
             },
             "timeFormats": {
-              "full": "ah:mm:ss [zzzz]",
-              "long": "ah:mm:ss [z]",
+              "full": "zzzz ah:mm:ss",
+              "long": "z ah:mm:ss",
               "medium": "ah:mm:ss",
               "short": "ah:mm"
             },
@@ -331,49 +326,47 @@
               "medium": "{1} {0}",
               "short": "{1} {0}",
               "availableFormats": {
+                "Bh": "Bh时",
+                "Bhm": "Bh:mm",
+                "Bhms": "Bh:mm:ss",
                 "d": "d日",
                 "E": "ccc",
-                "Ed": "d E",
-                "Ehm": "E ah:mm",
+                "EBhm": "E h:mm B",
+                "EBhms": "E h:mm:ss B",
+                "Ed": "d日E",
+                "Ehm": "ah:mmE",
                 "EHm": "E HH:mm",
-                "Ehms": "E ah:mm:ss",
+                "Ehms": "ah:mm:ssE",
                 "EHms": "E HH:mm:ss",
                 "Gy": "Gy年",
-                "GyMMM": "Gy年M月",
-                "GyMMMd": "Gy年M月d日",
-                "GyMMMEd": "Gy年M月d日 E",
-                "h": "ah時",
-                "H": "H時",
+                "GyMMM": "Gy年MM月",
+                "GyMMMd": "Gy年MM月d日",
+                "GyMMMEd": "Gy年MM月d日E",
+                "h": "ah时",
+                "H": "H时",
                 "hm": "ah:mm",
                 "Hm": "HH:mm",
                 "hms": "ah:mm:ss",
                 "Hms": "HH:mm:ss",
-                "hmsv": "ah:mm:ss [v]",
-                "Hmsv": "HH:mm:ss [v]",
-                "hmv": "ah:mm [v]",
-                "Hmv": "HH:mm [v]",
-                "M": "M月",
+                "M": "L",
                 "Md": "M/d",
-                "MEd": "M/d（E）",
-                "MMdd": "MM/dd",
-                "MMM": "LLL",
+                "MEd": "M/dE",
+                "MMM": "LL",
                 "MMMd": "M月d日",
-                "MMMEd": "M月d日 E",
+                "MMMEd": "M月d日E",
                 "MMMMd": "M月d日",
-                "MMMMW-count-other": "M月第W個星期",
                 "ms": "mm:ss",
-                "y": "y年",
-                "yM": "y/M",
-                "yMd": "y/M/d",
-                "yMEd": "y/M/d（E）",
-                "yMM": "y/MM",
-                "yMMM": "y年M月",
-                "yMMMd": "y年M月d日",
-                "yMMMEd": "y年M月d日 E",
-                "yMMMM": "y年M月",
-                "yQQQ": "y年QQQ",
-                "yQQQQ": "y年QQQQ",
-                "yw-count-other": "y年第w個星期"
+                "y": "Gy年",
+                "yyyy": "Gy年",
+                "yyyyM": "Gy年M月",
+                "yyyyMd": "G y/M/d",
+                "yyyyMEd": "G y/M/dE",
+                "yyyyMMM": "Gy年MM月",
+                "yyyyMMMd": "Gy年MM月d日",
+                "yyyyMMMEd": "Gy年MM月d日E",
+                "yyyyMMMM": "Gy年M月",
+                "yyyyQQQ": "Gy年第Q季度",
+                "yyyyQQQQ": "Gy年第Q季度"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",
@@ -389,13 +382,13 @@
                 "Year": "{1} {0}"
               },
               "intervalFormats": {
-                "intervalFormatFallback": "{0}至{1}",
+                "intervalFormatFallback": "{0} – {1}",
                 "d": {
-                  "d": "d日至d日"
+                  "d": "d至d日"
                 },
                 "h": {
-                  "a": "ah時至ah時",
-                  "h": "ah時至h時"
+                  "a": "ah时至ah时",
+                  "h": "ah时至h时"
                 },
                 "H": {
                   "H": "HH–HH"
@@ -407,37 +400,37 @@
                 },
                 "Hm": {
                   "H": "HH:mm–HH:mm",
-                  "m": "HH:mm至HH:mm"
+                  "m": "HH:mm–HH:mm"
                 },
                 "hmv": {
-                  "a": "ah:mm至ah:mm [v]",
-                  "h": "ah:mm至h:mm [v]",
-                  "m": "ah:mm至h:mm [v]"
+                  "a": "vah:mm至ah:mm",
+                  "h": "vah:mm至h:mm",
+                  "m": "vah:mm至h:mm"
                 },
                 "Hmv": {
-                  "H": "HH:mm–HH:mm [v]",
-                  "m": "HH:mm–HH:mm [v]"
+                  "H": "v HH:mm – HH:mm",
+                  "m": "v HH:mm – HH:mm"
                 },
                 "hv": {
-                  "a": "ah時至ah時 [v]",
-                  "h": "ah時至h時 [v]"
+                  "a": "vah时至ah时",
+                  "h": "vah时至h时"
                 },
                 "Hv": {
-                  "H": "HH–HH [v]"
+                  "H": "HH–HH v"
                 },
                 "M": {
-                  "M": "M月至M月"
+                  "M": "M–M月"
                 },
                 "Md": {
-                  "d": "M/d至M/d",
-                  "M": "M/d至M/d"
+                  "d": "M/d – M/d",
+                  "M": "M/d – M/d"
                 },
                 "MEd": {
-                  "d": "d/M (E) 至 d/M (E)",
-                  "M": "d/M (E) 至 d/M (E)"
+                  "d": "M/dE至M/dE",
+                  "M": "M/dE至M/dE"
                 },
                 "MMM": {
-                  "M": "LLL至LLL"
+                  "M": "MMM – MMM"
                 },
                 "MMMd": {
                   "d": "M月d日至d日",
@@ -451,39 +444,39 @@
                   "M": "LLLL至LLLL"
                 },
                 "y": {
-                  "y": "y至y"
+                  "y": "Gy–y年"
                 },
                 "yM": {
-                  "M": "y/M至y/M",
-                  "y": "y/M至y/M"
+                  "M": "Gy年M月至M月",
+                  "y": "Gy年M月至y年M月"
                 },
                 "yMd": {
-                  "d": "y/M/d至y/M/d",
-                  "M": "y/M/d至y/M/d",
-                  "y": "y/M/d至y/M/d"
+                  "d": "Gy/M/d – y/M/d",
+                  "M": "Gy/M/d – y/M/d",
+                  "y": "Gy/M/d – y/M/d"
                 },
                 "yMEd": {
-                  "d": "d/M/y (E) 至 d/M/y (E)",
-                  "M": "d/M/y (E) 至 d/M/y (E)",
-                  "y": "d/M/y (E) 至 d/M/y (E)"
+                  "d": "Gy/M/dE至y/M/dE",
+                  "M": "Gy/M/dE至y/M/dE",
+                  "y": "Gy/M/dE至y/M/dE"
                 },
                 "yMMM": {
-                  "M": "y年M月至M月",
-                  "y": "y年M月至y年M月"
+                  "M": "Gy年M月至M月",
+                  "y": "Gy年M月至y年M月"
                 },
                 "yMMMd": {
-                  "d": "y年M月d日至d日",
-                  "M": "y年M月d日至M月d日",
-                  "y": "y年M月d日至y年M月d日"
+                  "d": "Gy年M月d日至d日",
+                  "M": "Gy年M月d日至M月d日",
+                  "y": "Gy年M月d日至y年M月d日"
                 },
                 "yMMMEd": {
-                  "d": "y年M月d日E至d日E",
-                  "M": "y年M月d日E至M月d日E",
-                  "y": "y年M月d日E至y年M月d日E"
+                  "d": "Gy年M月d日E至d日E",
+                  "M": "Gy年M月d日E至M月d日E",
+                  "y": "Gy年M月d日E至y年M月d日E"
                 },
                 "yMMMM": {
-                  "M": "y年M月至M月",
-                  "y": "y年M月至y年M月"
+                  "M": "Gy年M月至M月",
+                  "y": "Gy年M月至y年M月"
                 }
               }
             }

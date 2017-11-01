@@ -3,8 +3,8 @@
     "or": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13757 $",
+          "_cldrVersion": "32"
         },
         "language": "or"
       },
@@ -182,10 +182,10 @@
             "quarters": {
               "format": {
                 "abbreviated": {
-                  "1": "Q1",
-                  "2": "Q2",
-                  "3": "Q3",
-                  "4": "Q4"
+                  "1": "1ମ ତ୍ରୟମାସ",
+                  "2": "2ୟ ତ୍ରୟମାସ",
+                  "3": "3ୟ ତ୍ରୟମାସ",
+                  "4": "4ର୍ଥ ତ୍ରୟମାସ"
                 },
                 "narrow": {
                   "1": "1",
@@ -194,10 +194,10 @@
                   "4": "4"
                 },
                 "wide": {
-                  "1": "Q1",
-                  "2": "Q2",
-                  "3": "Q3",
-                  "4": "Q4"
+                  "1": "1ମ ତ୍ରୟମାସ",
+                  "2": "2ୟ ତ୍ରୟମାସ",
+                  "3": "3ୟ ତ୍ରୟମାସ",
+                  "4": "4ର୍ଥ ତ୍ରୟମାସ"
                 }
               },
               "stand-alone": {
@@ -214,10 +214,10 @@
                   "4": "4"
                 },
                 "wide": {
-                  "1": "Q1",
-                  "2": "Q2",
-                  "3": "Q3",
-                  "4": "Q4"
+                  "1": "1ମ ତ୍ରୟମାସ",
+                  "2": "2ୟ ତ୍ରୟମାସ",
+                  "3": "3ୟ ତ୍ରୟମାସ",
+                  "4": "4ର୍ଥ ତ୍ରୟମାସ"
                 }
               }
             },
@@ -228,54 +228,54 @@
                   "pm": "pm"
                 },
                 "narrow": {
-                  "am": "am",
-                  "pm": "pm"
+                  "am": "ପୂ",
+                  "pm": "ଅ"
                 },
                 "wide": {
-                  "am": "am",
-                  "pm": "pm"
+                  "am": "AM",
+                  "pm": "PM"
                 }
               },
               "stand-alone": {
                 "abbreviated": {
-                  "am": "am",
-                  "pm": "pm"
+                  "am": "ପୂର୍ବାହ୍ନ",
+                  "pm": "ଅପରାହ୍ନ"
                 },
                 "narrow": {
-                  "am": "am",
-                  "pm": "pm"
+                  "am": "AM",
+                  "pm": "ଅପରାହ୍ନ"
                 },
                 "wide": {
-                  "am": "am",
-                  "pm": "pm"
+                  "am": "ପୂର୍ବାହ୍ନ",
+                  "pm": "ଅପରାହ୍ନ"
                 }
               }
             },
             "eras": {
               "eraNames": {
-                "0": "BCE",
-                "0-alt-variant": "BCE",
-                "1": "CE",
-                "1-alt-variant": "CE"
+                "0": "ଖ୍ରୀଷ୍ଟପୂର୍ବ",
+                "0-alt-variant": "ସାମ୍ପ୍ରତିକ ଯୁଗ ପୂର୍ବରୁ",
+                "1": "ଖ୍ରୀଷ୍ଟାବ୍ଦ",
+                "1-alt-variant": "ସାମ୍ପ୍ରତିକ ଯୁଗ"
               },
               "eraAbbr": {
-                "0": "BCE",
+                "0": "BC",
                 "0-alt-variant": "BCE",
-                "1": "CE",
+                "1": "AD",
                 "1-alt-variant": "CE"
               },
               "eraNarrow": {
-                "0": "BCE",
+                "0": "BC",
                 "0-alt-variant": "BCE",
-                "1": "CE",
+                "1": "AD",
                 "1-alt-variant": "CE"
               }
             },
             "dateFormats": {
-              "full": "EEEE, d MMMM y",
-              "long": "d MMMM y",
-              "medium": "d MMM y",
-              "short": "d-M-yy"
+              "full": "EEEE, MMMM d, y",
+              "long": "MMMM d, y",
+              "medium": "MMM d, y",
+              "short": "M/d/yy"
             },
             "timeFormats": {
               "full": "h:mm:ss a zzzz",
@@ -284,22 +284,27 @@
               "short": "h:mm a"
             },
             "dateTimeFormats": {
-              "full": "{1} {0}",
-              "long": "{1} {0}",
-              "medium": "{1} {0}",
-              "short": "{1} {0}",
+              "full": "{0} ଠାରେ {1}",
+              "long": "{0} ଠାରେ {1}",
+              "medium": "{1}, {0}",
+              "short": "{1}, {0}",
               "availableFormats": {
+                "Bh": "h B",
+                "Bhm": "h:mm B",
+                "Bhms": "h:mm:ss B",
                 "d": "d",
                 "E": "ccc",
-                "Ed": "d, E",
+                "EBhm": "E h:mm B",
+                "EBhms": "E h:mm:ss B",
+                "Ed": "d E",
                 "Ehm": "E h:mm a",
                 "EHm": "E HH:mm",
                 "Ehms": "E h:mm:ss a",
                 "EHms": "E HH:mm:ss",
-                "Gy": "G y",
-                "GyMMM": "G y MMM",
-                "GyMMMd": "G y MMM d",
-                "GyMMMEd": "G y MMM d, E",
+                "Gy": "y G",
+                "GyMMM": "MMM y G",
+                "GyMMMd": "MMM d, y G",
+                "GyMMMEd": "E, MMM d, y G",
                 "h": "h a",
                 "H": "HH",
                 "hm": "h:mm a",
@@ -311,27 +316,29 @@
                 "hmv": "h:mm a v",
                 "Hmv": "HH:mm v",
                 "M": "L",
-                "Md": "MM-dd",
-                "MEd": "MM-dd, E",
+                "Md": "M/d",
+                "MEd": "E, M/d",
                 "MMdd": "dd-MM",
                 "MMM": "LLL",
                 "MMMd": "MMM d",
-                "MMMEd": "MMM d, E",
+                "MMMEd": "E, MMM d",
                 "MMMMd": "MMMM d",
-                "MMMMW-count-other": "'week' W 'of' MMMM",
+                "MMMMW-count-one": "MMMM ର ସପ୍ତାହ W",
+                "MMMMW-count-other": "MMMM ର ସପ୍ତାହ W",
                 "ms": "mm:ss",
                 "y": "y",
-                "yM": "y-MM",
-                "yMd": "y-MM-dd",
-                "yMEd": "y-MM-dd, E",
+                "yM": "M/y",
+                "yMd": "M/d/y",
+                "yMEd": "E, M/d/y",
                 "yMM": "MM-y",
-                "yMMM": "y MMM",
-                "yMMMd": "y MMM d",
-                "yMMMEd": "y MMM d, E",
+                "yMMM": "MMM y",
+                "yMMMd": "MMM d, y",
+                "yMMMEd": "E, MMM d, y",
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ y",
-                "yQQQQ": "y QQQQ",
-                "yw-count-other": "'week' w 'of' y"
+                "yQQQQ": "QQQQ y",
+                "yw-count-one": "Y ର ସପ୍ତାହ w",
+                "yw-count-other": "Y ର ସପ୍ତାହ w"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

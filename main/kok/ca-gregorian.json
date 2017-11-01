@@ -3,8 +3,8 @@
     "kok": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13686 $",
+          "_cldrVersion": "32"
         },
         "language": "kok"
       },
@@ -20,10 +20,10 @@
                   "4": "एप्रिल",
                   "5": "मे",
                   "6": "जून",
-                  "7": "जुलै",
-                  "8": "ओगस्ट",
-                  "9": "सेप्टेंबर",
-                  "10": "ओक्टोबर",
+                  "7": "जुलाय",
+                  "8": "आगोस्त",
+                  "9": "सप्टेंबर",
+                  "10": "ऑक्टोबर",
                   "11": "नोव्हेंबर",
                   "12": "डिसेंबर"
                 },
@@ -48,10 +48,10 @@
                   "4": "एप्रिल",
                   "5": "मे",
                   "6": "जून",
-                  "7": "जुलै",
-                  "8": "ओगस्ट",
-                  "9": "सेप्टेंबर",
-                  "10": "ओक्टोबर",
+                  "7": "जुलाय",
+                  "8": "आगोस्त",
+                  "9": "सप्टेंबर",
+                  "10": "ऑक्टोबर",
                   "11": "नोव्हेंबर",
                   "12": "डिसेंबर"
                 }
@@ -64,10 +64,10 @@
                   "4": "एप्रिल",
                   "5": "मे",
                   "6": "जून",
-                  "7": "जुलै",
-                  "8": "ओगस्ट",
-                  "9": "सेप्टेंबर",
-                  "10": "ओक्टोबर",
+                  "7": "जुलाय",
+                  "8": "आगोस्त",
+                  "9": "सप्टेंबर",
+                  "10": "ऑक्टोबर",
                   "11": "नोव्हेंबर",
                   "12": "डिसेंबर"
                 },
@@ -92,10 +92,10 @@
                   "4": "एप्रिल",
                   "5": "मे",
                   "6": "जून",
-                  "7": "जुलै",
-                  "8": "ओगस्ट",
-                  "9": "सेप्टेंबर",
-                  "10": "ओक्टोबर",
+                  "7": "जुलाय",
+                  "8": "आगोस्त",
+                  "9": "सप्टेंबर",
+                  "10": "ऑक्टोबर",
                   "11": "नोव्हेंबर",
                   "12": "डिसेंबर"
                 }
@@ -104,78 +104,78 @@
             "days": {
               "format": {
                 "abbreviated": {
-                  "sun": "रवि",
-                  "mon": "सोम",
-                  "tue": "मंगळ",
-                  "wed": "बुध",
-                  "thu": "गुरु",
-                  "fri": "शुक्र",
-                  "sat": "शनि"
-                },
-                "narrow": {
-                  "sun": "S",
-                  "mon": "M",
-                  "tue": "T",
-                  "wed": "W",
-                  "thu": "T",
-                  "fri": "F",
-                  "sat": "S"
-                },
-                "short": {
-                  "sun": "रवि",
-                  "mon": "सोम",
-                  "tue": "मंगळ",
-                  "wed": "बुध",
-                  "thu": "गुरु",
-                  "fri": "शुक्र",
-                  "sat": "शनि"
-                },
-                "wide": {
-                  "sun": "आदित्यवार",
-                  "mon": "सोमवार",
+                  "sun": "आयतार",
+                  "mon": "सोमार",
                   "tue": "मंगळार",
                   "wed": "बुधवार",
                   "thu": "गुरुवार",
-                  "fri": "शुक्रवार",
-                  "sat": "शनिवार"
+                  "fri": "शुक्रार",
+                  "sat": "शेनवार"
+                },
+                "narrow": {
+                  "sun": "आ",
+                  "mon": "सो",
+                  "tue": "मं",
+                  "wed": "बु",
+                  "thu": "गु",
+                  "fri": "शु",
+                  "sat": "शे"
+                },
+                "short": {
+                  "sun": "आय",
+                  "mon": "सोम",
+                  "tue": "मंगळ",
+                  "wed": "बुध",
+                  "thu": "गुरु",
+                  "fri": "शुक्र",
+                  "sat": "शेन"
+                },
+                "wide": {
+                  "sun": "आयतार",
+                  "mon": "सोमार",
+                  "tue": "मंगळार",
+                  "wed": "बुधवार",
+                  "thu": "गुरुवार",
+                  "fri": "शुक्रार",
+                  "sat": "शेनवार"
                 }
               },
               "stand-alone": {
                 "abbreviated": {
-                  "sun": "रवि",
-                  "mon": "सोम",
-                  "tue": "मंगळ",
-                  "wed": "बुध",
-                  "thu": "गुरु",
-                  "fri": "शुक्र",
-                  "sat": "शनि"
-                },
-                "narrow": {
-                  "sun": "S",
-                  "mon": "M",
-                  "tue": "T",
-                  "wed": "W",
-                  "thu": "T",
-                  "fri": "F",
-                  "sat": "S"
-                },
-                "short": {
-                  "sun": "रवि",
-                  "mon": "सोम",
-                  "tue": "मंगळ",
-                  "wed": "बुध",
-                  "thu": "गुरु",
-                  "fri": "शुक्र",
-                  "sat": "शनि"
-                },
-                "wide": {
-                  "sun": "आदित्यवार",
-                  "mon": "सोमवार",
+                  "sun": "आयतार",
+                  "mon": "सोमार",
                   "tue": "मंगळार",
                   "wed": "बुधवार",
                   "thu": "गुरुवार",
-                  "fri": "शुक्रवार",
-                  "sat": "शनिवार"
+                  "fri": "शुक्रार",
+                  "sat": "शेनवार"
+                },
+                "narrow": {
+                  "sun": "आ",
+                  "mon": "सो",
+                  "tue": "मं",
+                  "wed": "बु",
+                  "thu": "गु",
+                  "fri": "शु",
+                  "sat": "शे"
+                },
+                "short": {
+                  "sun": "आय",
+                  "mon": "सोम",
+                  "tue": "मंगळ",
+                  "wed": "बुध",
+                  "thu": "गुरु",
+                  "fri": "शुक्र",
+                  "sat": "शेन"
+                },
+                "wide": {
+                  "sun": "आयतार",
+                  "mon": "सोमार",
+                  "tue": "मंगळार",
+                  "wed": "बुधवार",
+                  "thu": "गुरुवार",
+                  "fri": "शुक्रार",
+                  "sat": "शेनवार"
                 }
               }
             },
@@ -272,16 +272,16 @@
               }
             },
             "dateFormats": {
-              "full": "y MMMM d, EEEE",
-              "long": "y MMMM d",
-              "medium": "y MMM d",
-              "short": "y-MM-dd"
+              "full": "EEEE d MMMM y",
+              "long": "d MMMM y",
+              "medium": "dd-MM-y",
+              "short": "d-M-yy"
             },
             "timeFormats": {
-              "full": "HH:mm:ss zzzz",
-              "long": "HH:mm:ss z",
-              "medium": "HH:mm:ss",
-              "short": "HH:mm"
+              "full": "h:mm:ss a zzzz",
+              "long": "h:mm:ss a z",
+              "medium": "h:mm:ss a",
+              "short": "h:mm a"
             },
             "dateTimeFormats": {
               "full": "{1} {0}",
@@ -289,8 +289,13 @@
               "medium": "{1} {0}",
               "short": "{1} {0}",
               "availableFormats": {
+                "Bh": "h B",
+                "Bhm": "h:mm B",
+                "Bhms": "h:mm:ss B",
                 "d": "d",
                 "E": "ccc",
+                "EBhm": "E h:mm B",
+                "EBhms": "E h:mm:ss B",
                 "Ed": "d, E",
                 "Ehm": "E h:mm a",
                 "EHm": "E HH:mm",
@@ -329,7 +334,7 @@
                 "yMMMM": "y MMMM",
                 "yQQQ": "y QQQ",
                 "yQQQQ": "y QQQQ",
-                "yw-count-other": "'week' w 'of' y"
+                "yw-count-other": "'week' w 'of' Y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",
@@ -385,15 +390,15 @@
                   "M": "MM–MM"
                 },
                 "Md": {
-                  "d": "MM-dd – MM-dd",
-                  "M": "MM-dd – MM-dd"
+                  "d": "dd-MM –dd-MM",
+                  "M": "dd-MM –dd-MM"
                 },
                 "MEd": {
                   "d": "MM-dd, E – MM-dd, E",
                   "M": "MM-dd, E – MM-dd, E"
                 },
                 "MMM": {
-                  "M": "LLL–LLL"
+                  "M": "MMM – MMM"
                 },
                 "MMMd": {
                   "d": "MMM d–d",
@@ -407,36 +412,36 @@
                   "y": "y–y"
                 },
                 "yM": {
-                  "M": "y-MM – y-MM",
-                  "y": "y-MM – y-MM"
+                  "M": "MM-y – MM-y",
+                  "y": "MM-y – MM-y"
                 },
                 "yMd": {
-                  "d": "y-MM-dd – y-MM-dd",
-                  "M": "y-MM-dd – y-MM-dd",
-                  "y": "y-MM-dd – y-MM-dd"
+                  "d": "dd-MM-y – dd-MM-y",
+                  "M": "dd-MM-y – dd-MM-y",
+                  "y": "dd-MM-y – dd-MM-y"
                 },
                 "yMEd": {
-                  "d": "y-MM-dd, E – y-MM-dd, E",
-                  "M": "y-MM-dd, E – y-MM-dd, E",
-                  "y": "y-MM-dd, E – y-MM-dd, E"
+                  "d": "dd-MM-y, E – dd-MM-y, E",
+                  "M": "dd-MM-y, E – dd-MM-y, E",
+                  "y": "dd-MM-y, E – dd-MM-y, E"
                 },
                 "yMMM": {
-                  "M": "y MMM–MMM",
-                  "y": "y MMM – y MMM"
+                  "M": "MMM–MMM y",
+                  "y": "MMM y– MMM y"
                 },
                 "yMMMd": {
-                  "d": "y MMM d–d",
-                  "M": "y MMM d – MMM d",
-                  "y": "y MMM d – y MMM d"
+                  "d": "d–d MMM y",
+                  "M": "d MMM – d MMM y",
+                  "y": "d MMM y – d MMM y"
                 },
                 "yMMMEd": {
-                  "d": "y MMM d, E – MMM d, E",
-                  "M": "y MMM d, E – MMM d, E",
-                  "y": "y MMM d, E – y MMM d, E"
+                  "d": "E, d MMM –E, d MMM y",
+                  "M": "E, d MMM – E, d MMM y",
+                  "y": "E, d MMM y – E, d MMM y"
                 },
                 "yMMMM": {
-                  "M": "y MMMM–MMMM",
-                  "y": "y MMMM – y MMMM"
+                  "M": "MMMM – MMMM y",
+                  "y": "MMMM y – MMMM y"
                 }
               }
             }
