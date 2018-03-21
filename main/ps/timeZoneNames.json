@@ -3,8 +3,8 @@
     "ps": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13686 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13911 $",
+          "_cldrVersion": "33"
         },
         "language": "ps"
       },
@@ -1153,7 +1153,7 @@
                 "exemplarCity": "هوبارټ"
               },
               "Lindeman": {
-                "exemplarCity": "Lindeman"
+                "exemplarCity": "لینډامین"
               },
               "Lord_Howe": {
                 "exemplarCity": "رب هیله"
@@ -1215,7 +1215,7 @@
                 "exemplarCity": "هینولولو"
               },
               "Johnston": {
-                "exemplarCity": "Johnston"
+                "exemplarCity": "جانستون"
               },
               "Kiritimati": {
                 "exemplarCity": "Kiritimati"
@@ -2011,6 +2011,11 @@
                 "daylight": "سینټ پییرا و ميکلين رڼا ورځې وخت"
               }
             },
+            "Pitcairn": {
+              "long": {
+                "standard": "پیټ کارین وخت"
+              }
+            },
             "Ponape": {
               "long": {
                 "standard": "پونپپ وخت"
@@ -2053,6 +2058,11 @@
             "Singapore": {
               "long": {
                 "standard": "د سنګاپور معیاري وخت"
+              }
+            },
+            "Solomon": {
+              "long": {
+                "standard": "د سلیمان ټاپوګانو وخت"
               }
             },
             "South_Georgia": {

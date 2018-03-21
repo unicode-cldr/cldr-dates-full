@@ -3,8 +3,8 @@
     "chr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13701 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13911 $",
+          "_cldrVersion": "33"
         },
         "language": "chr"
       },
@@ -226,7 +226,7 @@
                 "abbreviated": {
                   "am": "ᏌᎾᎴ",
                   "noon": "ᎢᎦ",
-                  "pm": "ᏒᎯᏱᎢᏗᏢ",
+                  "pm": "ᏒᎯᏱᎢ",
                   "morning1": "ᏌᎾᎴ",
                   "afternoon1": "ᏒᎯᏱᎢᏗᏢ"
                 },
@@ -249,14 +249,14 @@
                 "abbreviated": {
                   "am": "ᏌᎾᎴ",
                   "noon": "ᎢᎦ",
-                  "pm": "ᏒᎯᏱᎢᏗᏢ",
+                  "pm": "ᏒᎯᏱᎢ",
                   "morning1": "ᏌᎾᎴ",
                   "afternoon1": "ᏒᎯᏱᎢᏗᏢ"
                 },
                 "narrow": {
                   "am": "ᏌᎾᎴ",
                   "noon": "ᎢᎦ",
-                  "pm": "ᏒᎯᏱᎢᏗᏢ",
+                  "pm": "ᏒᎯᏱᎢ",
                   "morning1": "ᏌᎾᎴ",
                   "afternoon1": "ᏒᎯᏱᎢᏗᏢ"
                 },

@@ -3,8 +3,8 @@
     "tt": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13705 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13872 $",
+          "_cldrVersion": "33"
         },
         "language": "tt"
       },
@@ -334,7 +334,7 @@
                 "yMMMM": "MMMM, y 'ел'",
                 "yQQQ": "QQQ, y 'ел'",
                 "yQQQQ": "QQQQ, y 'ел'",
-                "yw-count-other": "Y 'елның' w 'атнасы'"
+                "yw-count-other": "y 'елның' w 'атнасы'"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

@@ -3,8 +3,8 @@
     "ti-ER": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13706 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13873 $",
+          "_cldrVersion": "33"
         },
         "language": "ti",
         "territory": "ER"
@@ -339,8 +339,8 @@
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "y QQQQ",
-                "yw-count-one": "መበል w ሰሙን ናይ Y",
-                "yw-count-other": "መበል w ሰሙን ናይ Y"
+                "yw-count-one": "መበል w ሰሙን ናይ y",
+                "yw-count-other": "መበል w ሰሙን ናይ y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

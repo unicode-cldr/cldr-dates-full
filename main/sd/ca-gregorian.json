@@ -3,8 +3,8 @@
     "sd": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13705 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13911 $",
+          "_cldrVersion": "33"
         },
         "language": "sd"
       },
@@ -322,7 +322,8 @@
                 "MMMd": "MMM d",
                 "MMMEd": "MMM d, E",
                 "MMMMd": "MMMM d",
-                "MMMMW-count-other": "'week' W 'of' MMMM",
+                "MMMMW-count-one": "ھفتو W جو MMMM",
+                "MMMMW-count-other": "ھفتو W جو MMMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "y-MM",
@@ -334,7 +335,8 @@
                 "yMMMM": "y MMMM",
                 "yQQQ": "y QQQ",
                 "yQQQQ": "y QQQQ",
-                "yw-count-other": "'week' w 'of' Y"
+                "yw-count-one": "ھفتو w جو Y",
+                "yw-count-other": "ھفتو w جو Y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

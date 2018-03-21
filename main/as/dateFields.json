@@ -3,8 +3,8 @@
     "as": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13705 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13911 $",
+          "_cldrVersion": "33"
         },
         "language": "as"
       },
@@ -548,13 +548,13 @@
             }
           },
           "dayperiod-short": {
-            "displayName": "পূৰ্বাহ্ণ/অপৰাহ্ণ"
+            "displayName": "পূৰ্বাহ্ন/অপৰাহ্ন"
           },
           "dayperiod": {
-            "displayName": "পূৰ্বাহ্ণ/অপৰাহ্ণ"
+            "displayName": "পূৰ্বাহ্ন/অপৰাহ্ন"
           },
           "dayperiod-narrow": {
-            "displayName": "পূৰ্বাহ্ণ/অপৰাহ্ণ"
+            "displayName": "পূৰ্বাহ্ন/অপৰাহ্ন"
           },
           "hour": {
             "displayName": "ঘণ্টা",
@@ -665,7 +665,7 @@
             }
           },
           "zone": {
-            "displayName": "ক্ষেত্ৰ"
+            "displayName": "সময় ক্ষেত্ৰ"
           },
           "zone-short": {
             "displayName": "ক্ষেত্ৰ"

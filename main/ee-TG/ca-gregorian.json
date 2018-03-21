@@ -3,8 +3,8 @@
     "ee-TG": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13869 $",
+          "_cldrVersion": "33"
         },
         "language": "ee",
         "territory": "TG"
@@ -373,8 +373,8 @@
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ y",
-                "yw-count-one": "'kɔsiɖa' w 'lia' 'le' 'ƒe' Y 'me'",
-                "yw-count-other": "'kɔsiɖa' w 'lia' 'le' 'ƒe' Y 'me'"
+                "yw-count-one": "'kɔsiɖa' w 'lia' 'le' 'ƒe' y 'me'",
+                "yw-count-other": "'kɔsiɖa' w 'lia' 'le' 'ƒe' y 'me'"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

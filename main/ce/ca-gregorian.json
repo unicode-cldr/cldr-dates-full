@@ -3,8 +3,8 @@
     "ce": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13705 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13911 $",
+          "_cldrVersion": "33"
         },
         "language": "ce"
       },
@@ -260,13 +260,13 @@
               },
               "eraAbbr": {
                 "0": "в. э. тӀ. я",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "МАССО",
                 "1": "в. э",
                 "1-alt-variant": "CE"
               },
               "eraNarrow": {
                 "0": "в. э. тӀ. я",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "МАССО",
                 "1": "в. э",
                 "1-alt-variant": "CE"
               }

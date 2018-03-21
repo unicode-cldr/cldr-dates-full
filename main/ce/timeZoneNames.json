@@ -3,8 +3,8 @@
     "ce": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13705 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13911 $",
+          "_cldrVersion": "33"
         },
         "language": "ce"
       },
@@ -166,7 +166,7 @@
                 "exemplarCity": "Сальвадор"
               },
               "Fort_Nelson": {
-                "exemplarCity": "Fort Nelson"
+                "exemplarCity": "Форт Нельсон"
               },
               "Fortaleza": {
                 "exemplarCity": "Форталеза"
@@ -376,7 +376,7 @@
                 "exemplarCity": "Пуэрто-Рико"
               },
               "Punta_Arenas": {
-                "exemplarCity": "Punta Arenas"
+                "exemplarCity": "Пунта-Аренас"
               },
               "Rainy_River": {
                 "exemplarCity": "Рейни-Ривер"
@@ -927,7 +927,7 @@
                 "exemplarCity": "Душанбе"
               },
               "Famagusta": {
-                "exemplarCity": "Famagusta"
+                "exemplarCity": "Фамагуста"
               },
               "Gaza": {
                 "exemplarCity": "Газа"
@@ -1344,7 +1344,7 @@
           "metazone": {
             "Afghanistan": {
               "long": {
-                "standard": "ОвхӀан мохк"
+                "standard": "ОвхӀан"
               }
             },
             "Africa_Central": {
@@ -1552,9 +1552,9 @@
             },
             "China": {
               "long": {
-                "generic": "Китай",
-                "standard": "Китай, стандартан хан",
-                "daylight": "Китай, аьхкенан хан"
+                "generic": "Цийчоь",
+                "standard": "Цийчоьнан, стандартан хан",
+                "daylight": "Цийчоьнан, аьхкенан хан"
               }
             },
             "Choibalsan": {
@@ -1746,7 +1746,7 @@
             },
             "India": {
               "long": {
-                "standard": "Инди"
+                "standard": "ХӀинди"
               }
             },
             "Indian_Ocean": {
@@ -1797,9 +1797,9 @@
             },
             "Japan": {
               "long": {
-                "generic": "Япони",
-                "standard": "Япони, стандартан хан",
-                "daylight": "Япони, аьхкенан хан"
+                "generic": "Япон",
+                "standard": "Япон, стандартан хан",
+                "daylight": "Япон, аьхкенан хан"
               }
             },
             "Kazakhstan_Eastern": {
@@ -2045,6 +2045,11 @@
             "Ponape": {
               "long": {
                 "standard": "Понапе, гӀ-наш"
+              }
+            },
+            "Pyongyang": {
+              "long": {
+                "standard": "Пхеньян"
               }
             },
             "Reunion": {

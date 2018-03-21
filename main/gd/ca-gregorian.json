@@ -3,8 +3,8 @@
     "gd": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13701 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13911 $",
+          "_cldrVersion": "33"
         },
         "language": "gd"
       },
@@ -339,10 +339,10 @@
                 "yMMMM": "LLLL y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ y",
-                "yw-count-one": "'seachdain' w 'dhe' Y",
-                "yw-count-two": "'seachdain' w 'dhe' Y",
-                "yw-count-few": "'seachdain' w 'dhe' Y",
-                "yw-count-other": "'seachdain' w 'dhe' Y"
+                "yw-count-one": "'seachdain' w 'dhe' y",
+                "yw-count-two": "'seachdain' w 'dhe' y",
+                "yw-count-few": "'seachdain' w 'dhe' y",
+                "yw-count-other": "'seachdain' w 'dhe' y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

@@ -3,8 +3,8 @@
     "ug": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13705 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13911 $",
+          "_cldrVersion": "33"
         },
         "language": "ug"
       },
@@ -335,8 +335,8 @@
                 "yMMMM": "y MMMM",
                 "yQQQ": "y QQQ",
                 "yQQQQ": "y QQQQ",
-                "yw-count-one": "Y، w-ھەپتە",
-                "yw-count-other": "Y، w-ھەپتە"
+                "yw-count-one": "y، w-ھەپتە",
+                "yw-count-other": "y، w-ھەپتە"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

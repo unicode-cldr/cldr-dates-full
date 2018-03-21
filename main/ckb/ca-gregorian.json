@@ -3,8 +3,8 @@
     "ckb": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13686 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13871 $",
+          "_cldrVersion": "33"
         },
         "language": "ckb"
       },
@@ -335,8 +335,8 @@
                 "yMMMM": "y MMMM",
                 "yQQQ": "y QQQ",
                 "yQQQQ": "y QQQQ",
-                "yw-count-one": "هەفتەی w ی Y",
-                "yw-count-other": "هەفتەی w ی Y"
+                "yw-count-one": "هەفتەی w ی y",
+                "yw-count-other": "هەفتەی w ی y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

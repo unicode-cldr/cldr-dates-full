@@ -3,8 +3,8 @@
     "or": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13757 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13911 $",
+          "_cldrVersion": "33"
         },
         "language": "or"
       },
@@ -23,10 +23,10 @@
                 "exemplarCity": "ଆଡାକ୍"
               },
               "Anchorage": {
-                "exemplarCity": "ଆନଚୋରାଗେ"
+                "exemplarCity": "ଆଙ୍କରେଜ୍"
               },
               "Anguilla": {
-                "exemplarCity": "ଆନଗୁଇଲା"
+                "exemplarCity": "ଆଙ୍ଗୁଇଲା"
               },
               "Antigua": {
                 "exemplarCity": "ଆଣ୍ଟିଗୁଆ"
@@ -70,7 +70,7 @@
                 "exemplarCity": "ବାହିଆ ବ୍ୟାଣ୍ଡେରାସ୍"
               },
               "Barbados": {
-                "exemplarCity": "ବାରବାଡୋସ୍"
+                "exemplarCity": "ବାର୍ବାଡୋସ୍"
               },
               "Belem": {
                 "exemplarCity": "ବେଲେମ"
@@ -166,7 +166,7 @@
                 "exemplarCity": "ଏଲ୍ ସାଲଭାଡୋର୍"
               },
               "Fort_Nelson": {
-                "exemplarCity": "ଫୋର୍ଟ୍ ନେଲସୋନ୍"
+                "exemplarCity": "ଫୋର୍ଟ୍ ନେଲସନ୍"
               },
               "Fortaleza": {
                 "exemplarCity": "ଫୋର୍ଟେଲେଜା"
@@ -178,10 +178,10 @@
                 "exemplarCity": "ନୁଉକ୍"
               },
               "Goose_Bay": {
-                "exemplarCity": "ଗୋସେ ବେ"
+                "exemplarCity": "ଗୁସ୍ ବେ"
               },
               "Grand_Turk": {
-                "exemplarCity": "ଗ୍ରାଣ୍ଡ୍ ଟୁର୍କ୍"
+                "exemplarCity": "ଗ୍ରାଣ୍ଡ୍ ଟର୍କ୍"
               },
               "Grenada": {
                 "exemplarCity": "ଗ୍ରେନାଡା"
@@ -342,7 +342,7 @@
                   "exemplarCity": "ବେଉଲାହ, ଉତ୍ତର ଡାକୋଟା"
                 },
                 "New_Salem": {
-                  "exemplarCity": "ନ୍ୟୁ ସଲିମ୍, ଉତ୍ତର ଡାକୋଟା"
+                  "exemplarCity": "ନ୍ୟୁ ସାଲେମ୍, ଉତ୍ତର ଡାକୋଟା"
                 },
                 "Center": {
                   "exemplarCity": "କେନ୍ଦ୍ର, ଉତ୍ତର ଡାକୋଟା"
@@ -355,7 +355,7 @@
                 "exemplarCity": "ପାନାମା"
               },
               "Pangnirtung": {
-                "exemplarCity": "ପାନଗନିରଟୁଙ୍ଗ"
+                "exemplarCity": "ପାଙ୍ଗନିର୍ଟୁଙ୍ଗ"
               },
               "Paramaribo": {
                 "exemplarCity": "ପାରାମାରିବୋ"
@@ -403,7 +403,7 @@
                 "exemplarCity": "ସାଣ୍ଟିଆଗୋ"
               },
               "Santo_Domingo": {
-                "exemplarCity": "ସାନ୍ଟୋ ଡୋମିନଗୋ"
+                "exemplarCity": "ସାଣ୍ଟୋ ଡୋମିଙ୍ଗୋ"
               },
               "Sao_Paulo": {
                 "exemplarCity": "ସାଓ ପାଓଲୋ"
@@ -421,7 +421,7 @@
                 "exemplarCity": "ସେଣ୍ଟ୍. ଜନସ୍"
               },
               "St_Kitts": {
-                "exemplarCity": "ସେଣ୍ଟ୍ କିଟ୍ଟିସ୍"
+                "exemplarCity": "ସେଣ୍ଟ୍ କିଟ୍ସ୍"
               },
               "St_Lucia": {
                 "exemplarCity": "ସେଣ୍ଟ୍. ଲୁସିଆ"
@@ -442,7 +442,7 @@
                 "exemplarCity": "ଥୁଲେ"
               },
               "Thunder_Bay": {
-                "exemplarCity": "ଥୁଣ୍ଡେର୍ ବେ"
+                "exemplarCity": "ଥଣ୍ଡର୍ ବେ"
               },
               "Tijuana": {
                 "exemplarCity": "ତିଜୁଆନା"
@@ -454,7 +454,7 @@
                 "exemplarCity": "ଟୋରଟୋଲା"
               },
               "Vancouver": {
-                "exemplarCity": "ଭାଲକୌଭେର୍"
+                "exemplarCity": "ଭାଙ୍କୁଭର୍"
               },
               "Whitehorse": {
                 "exemplarCity": "ହ୍ଵାଇଟହର୍ସ୍"
@@ -474,7 +474,7 @@
                 "exemplarCity": "ଆଜୋରେସ୍"
               },
               "Bermuda": {
-                "exemplarCity": "ବେରମୁଡା"
+                "exemplarCity": "ବର୍ମୁଡା"
               },
               "Canary": {
                 "exemplarCity": "କାନାରେ"
@@ -524,7 +524,7 @@
                 "exemplarCity": "ବ୍ରାଟିସଲାଭା"
               },
               "Brussels": {
-                "exemplarCity": "ବ୍ରୁସସେଲସ୍"
+                "exemplarCity": "ବ୍ରସଲ୍ସ୍"
               },
               "Bucharest": {
                 "exemplarCity": "ବୁଚାରେଷ୍ଟ୍"
@@ -582,7 +582,7 @@
               },
               "London": {
                 "long": {
-                  "daylight": "ବ୍ରିଟିଶ୍‌ ମାନାଙ୍କ ସମୟ"
+                  "daylight": "ବ୍ରିଟିଶ୍‌ ଗ୍ରୀଷ୍ମକାଳୀନ ସମୟ"
                 },
                 "exemplarCity": "ଲଣ୍ଡନ୍"
               },
@@ -617,7 +617,7 @@
                 "exemplarCity": "ପୋଡଗୋରିକା"
               },
               "Prague": {
-                "exemplarCity": "ପ୍ରାଗୁଏ"
+                "exemplarCity": "ପ୍ରାଗ୍"
               },
               "Riga": {
                 "exemplarCity": "ରିଗା"
@@ -680,7 +680,7 @@
                 "exemplarCity": "ୱାରସୱା"
               },
               "Zagreb": {
-                "exemplarCity": "ଜାଗ୍ରିବ୍"
+                "exemplarCity": "ଜାଗ୍ରେବ୍"
               },
               "Zaporozhye": {
                 "exemplarCity": "ଜାପୋରୋଜହୟେ"
@@ -724,7 +724,7 @@
                 "exemplarCity": "ବ୍ରାଜାଭିଲ୍ଲେ"
               },
               "Bujumbura": {
-                "exemplarCity": "ବାଜୁମବୁରା"
+                "exemplarCity": "ବୁଜୁମ୍ବୁରା"
               },
               "Cairo": {
                 "exemplarCity": "କାଇରୋ"
@@ -915,7 +915,7 @@
                 "exemplarCity": "ଢାକା"
               },
               "Dili": {
-                "exemplarCity": "ଦିଲି"
+                "exemplarCity": "ଦିଲ୍ଲୀ"
               },
               "Dubai": {
                 "exemplarCity": "ଦୁବାଇ"
@@ -1071,7 +1071,7 @@
                 "exemplarCity": "ଟୋମସ୍କ"
               },
               "Ulaanbaatar": {
-                "exemplarCity": "ଉଲାନବାଟର"
+                "exemplarCity": "ଉଲାନ୍‌ବାଟର୍‌"
               },
               "Urumqi": {
                 "exemplarCity": "ଉରୁମକି"
@@ -1109,7 +1109,7 @@
                 "exemplarCity": "କୋକୋସ୍‌"
               },
               "Comoro": {
-                "exemplarCity": "କର୍ଣ୍ଣୋରୋ"
+                "exemplarCity": "କୋମୋରୋ"
               },
               "Kerguelen": {
                 "exemplarCity": "କେରୁଗେଲେନ"
@@ -1215,7 +1215,7 @@
                 "exemplarCity": "ହୋନୋଲୁଲୁ"
               },
               "Johnston": {
-                "exemplarCity": "Johnston"
+                "exemplarCity": "ଜନଷ୍ଟନ୍"
               },
               "Kiritimati": {
                 "exemplarCity": "କିରିତିମାଟି"
@@ -1378,9 +1378,9 @@
             },
             "Amazon": {
               "long": {
-                "generic": "ଆମାଜାନ ସମୟ",
-                "standard": "ଆମାଜାନ ମାନାଙ୍କ ସମୟ",
-                "daylight": "ଆମାଜାନ ଗ୍ରୀଷ୍ମକାଳ ସମୟ"
+                "generic": "ଆମାଜନ୍ ସମୟ",
+                "standard": "ଆମାଜନ୍ ମାନାଙ୍କ ସମୟ",
+                "daylight": "ଆମାଜନ୍ ଗ୍ରୀଷ୍ମକାଳୀନ ସମୟ"
               }
             },
             "America_Central": {
@@ -1443,7 +1443,7 @@
               "long": {
                 "generic": "ଆର୍ମେନିଆ ସମୟ",
                 "standard": "ଆର୍ମେନିଆ ମାନାଙ୍କ ସମୟ",
-                "daylight": "ଆର୍ମେନିଆ ଖରାଦିନ ସମୟ"
+                "daylight": "ଆର୍ମେନିଆ ଗ୍ରୀଷ୍ମକାଳ ସମୟ"
               }
             },
             "Atlantic": {
@@ -1585,7 +1585,7 @@
               "long": {
                 "generic": "କୁକ୍‌ ଦ୍ୱୀପପୁଞ୍ଜ ସମୟ",
                 "standard": "କୁକ୍‌ ଦ୍ୱୀପପୁଞ୍ଜ ମାନାଙ୍କ ସମୟ",
-                "daylight": "କୁକ୍‌ ଦ୍ୱୀପପୁଞ୍ଜ ଅଧା ଗ୍ରୀଷ୍ମକାଳ ସମୟ"
+                "daylight": "କୁକ୍‌ ଦ୍ୱୀପପୁଞ୍ଜ ଅର୍ଦ୍ଧ ଗୀଷ୍ମକାଳୀନ ସମୟ"
               }
             },
             "Cuba": {
@@ -1788,7 +1788,7 @@
               "long": {
                 "generic": "ଇଅରକୁଟସ୍କ ସମୟ",
                 "standard": "ଇଅରକୁଟସ୍କ ମାନାଙ୍କ ସମୟ",
-                "daylight": "ଇଅରକୁଟସ୍କ ଗ୍ରୀଷ୍ମକାଳ ସମୟ"
+                "daylight": "ଇର୍କୁଟସ୍କ୍ ଗ୍ରୀଷ୍ମକାଳୀନ ସମୟ"
               }
             },
             "Israel": {
@@ -1807,7 +1807,7 @@
             },
             "Kazakhstan_Eastern": {
               "long": {
-                "standard": "କାଜାକସ୍ତାନ ସମୟ"
+                "standard": "ପୂର୍ବ କାଜାକସ୍ତାନ୍ ସମୟ"
               }
             },
             "Kazakhstan_Western": {
@@ -1904,15 +1904,15 @@
             },
             "Mexico_Pacific": {
               "long": {
-                "generic": "ମେକ୍ସିକୋ ପାସିଫିକ୍ ସମୟ",
-                "standard": "ମେକ୍ସିକୋ ପାସିଫିକ୍ ମାନାଙ୍କ ସମୟ",
-                "daylight": "ମେକ୍ସିକୋ ପାସିଫିକ୍ ଦିବାଲୋକ ସମୟ"
+                "generic": "ମେକ୍ସିକାନ୍ ପାସିଫିକ୍ ସମୟ",
+                "standard": "ମେକ୍ସିକାନ୍ ପାସିଫିକ୍ ମାନାଙ୍କ ସମୟ",
+                "daylight": "ମେକ୍ସିକାନ୍ ପାସିଫିକ୍ ଦିବାଲୋକ ସମୟ"
               }
             },
             "Mongolia": {
               "long": {
-                "generic": "ଉଲାନ୍ ବାଟର୍‌ ସମୟ",
-                "standard": "ଉଲାନ୍‌ ବାଟର୍‌ ମାନାଙ୍କ ସମୟ",
+                "generic": "ଉଲାନ୍‌ବାଟର୍‌ ସମୟ",
+                "standard": "ଉଲାନ୍‌ବାଟର୍‌ ମାନାଙ୍କ ସମୟ",
                 "daylight": "ଉଲାନ୍‌ ବାଟର୍‌ ଗ୍ରୀଷ୍ମକାଳ ସମୟ"
               }
             },

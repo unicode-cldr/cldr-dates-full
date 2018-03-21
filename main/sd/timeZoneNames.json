@@ -3,8 +3,8 @@
     "sd": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13705 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13911 $",
+          "_cldrVersion": "33"
         },
         "language": "sd"
       },
@@ -1215,7 +1215,7 @@
                 "exemplarCity": "هونو لولو"
               },
               "Johnston": {
-                "exemplarCity": "Johnston"
+                "exemplarCity": "جانسٹن"
               },
               "Kiritimati": {
                 "exemplarCity": "ڪريٽمٽي"
@@ -1333,7 +1333,7 @@
                   "standard": "گڏيل دنياوي وقت"
                 },
                 "short": {
-                  "standard": "UTC"
+                  "standard": "م ع و"
                 }
               },
               "Unknown": {
@@ -1509,12 +1509,12 @@
             },
             "Bolivia": {
               "long": {
-                "standard": "بولیویا جو وقت"
+                "standard": "بولويائي وقت"
               }
             },
             "Brasilia": {
               "long": {
-                "generic": "براسیلیا جو وقت",
+                "generic": "بريسيليائي وقت",
                 "standard": "براسيليا جو معياري وقت",
                 "daylight": "براسيليا جي اونهاري جو وقت"
               }
@@ -1720,7 +1720,7 @@
             },
             "Guyana": {
               "long": {
-                "standard": "گیانا جو وقت"
+                "standard": "گيانائي وقت"
               }
             },
             "Hawaii_Aleutian": {
@@ -2032,8 +2032,8 @@
             },
             "Pierre_Miquelon": {
               "long": {
-                "generic": "سینٽ پیئر و میڪوئیلون جو وقت",
-                "standard": "سینٽ پیئر و میڪوئیلون جو معياري وقت",
+                "generic": "سينٽ پيئر ائن ميڪوئلون جو وقت",
+                "standard": "سینٽ پیئر اَئن میڪوئلون جو مانائتو وقت",
                 "daylight": "سینٽ پیئر و میڪوئیلون جي ڏينهن جو وقت"
               }
             },

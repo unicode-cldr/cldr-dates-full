@@ -3,8 +3,8 @@
     "ast": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13701 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13911 $",
+          "_cldrVersion": "33"
         },
         "language": "ast"
       },
@@ -335,8 +335,8 @@
                 "yMMMM": "LLLL 'de' y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ 'de' y",
-                "yw-count-one": "'selmana' w 'de' Y",
-                "yw-count-other": "'selmana' w 'de' Y"
+                "yw-count-one": "'selmana' w 'de' y",
+                "yw-count-other": "'selmana' w 'de' y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",
