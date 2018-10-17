@@ -3,8 +3,8 @@
     "sd": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14394 $",
+          "_cldrVersion": "34"
         },
         "language": "sd"
       },
@@ -151,13 +151,13 @@
                   "sat": "ڇنڇر"
                 },
                 "narrow": {
-                  "sun": "آچ",
+                  "sun": "آچر",
                   "mon": "سو",
-                  "tue": "اڱ",
-                  "wed": "ار",
+                  "tue": "اڱارو",
+                  "wed": "اربع",
                   "thu": "خم",
-                  "fri": "جم",
-                  "sat": "ڇن"
+                  "fri": "جمعو",
+                  "sat": "ڇنڇر"
                 },
                 "short": {
                   "sun": "آچر",
@@ -182,10 +182,10 @@
             "quarters": {
               "format": {
                 "abbreviated": {
-                  "1": "پهرين ٽي ماهي",
-                  "2": "ٻين ٽي ماهي",
-                  "3": "ٽين ٽي ماهي",
-                  "4": "چوٿين ٽي ماهي"
+                  "1": "Q1",
+                  "2": "Q2",
+                  "3": "Q3",
+                  "4": "Q5"
                 },
                 "narrow": {
                   "1": "1",
@@ -202,10 +202,10 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "1": "پهرين ٽي ماهي",
-                  "2": "ٻين ٽي ماهي",
-                  "3": "ٽين ٽي ماهي",
-                  "4": "چوٿين ٽي ماهي"
+                  "1": "Q1",
+                  "2": "Q2",
+                  "3": "Q3",
+                  "4": "Q4"
                 },
                 "narrow": {
                   "1": "1",
@@ -342,6 +342,44 @@
                 "intervalFormatFallback": "{0} – {1}",
                 "d": {
                   "d": "d–d"
+                },
+                "Gy": {
+                  "G": "G y – G y",
+                  "y": "G y–y"
+                },
+                "GyM": {
+                  "G": "GGGGG y-MM – GGGGG y-MM",
+                  "M": "GGGGG y-MM – y-MM",
+                  "y": "GGGGG y-MM – y-MM"
+                },
+                "GyMd": {
+                  "d": "GGGGG y-MM-dd – y-MM-dd",
+                  "G": "GGGGG y-MM-dd – GGGGG y-MM-dd",
+                  "M": "GGGGG y-MM-dd – y-MM-dd",
+                  "y": "GGGGG y-MM-dd – y-MM-dd"
+                },
+                "GyMEd": {
+                  "d": "GGGGG y-MM-dd, E – y-MM-dd, E",
+                  "G": "GGGGG y-MM-dd, E – GGGGG y-MM-dd, E",
+                  "M": "GGGGG y-MM-dd, E – y-MM-dd, E",
+                  "y": "GGGGG y-MM-dd, E – y-MM-dd, E"
+                },
+                "GyMMM": {
+                  "G": "G y MMM – G y MMM",
+                  "M": "G y MMM–MMM",
+                  "y": "G y MMM – y MMM"
+                },
+                "GyMMMd": {
+                  "d": "G y MMM d–d",
+                  "G": "G y MMM d – G y MMM d",
+                  "M": "G y MMM d – MMM d",
+                  "y": "G y MMM d – y MMM d"
+                },
+                "GyMMMEd": {
+                  "d": "G y MMM d, E – MMM d, E",
+                  "G": "G y MMM d, E – G y MMM d, E",
+                  "M": "G y MMM d, E – MMM d, E",
+                  "y": "G y MMM d, E – y MMM d, E"
                 },
                 "h": {
                   "a": "h a – h a",

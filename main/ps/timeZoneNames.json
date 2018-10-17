@@ -3,8 +3,8 @@
     "ps": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14394 $",
+          "_cldrVersion": "34"
         },
         "language": "ps"
       },
@@ -139,7 +139,7 @@
                 "exemplarCity": "کیکاو"
               },
               "Danmarkshavn": {
-                "exemplarCity": "Danmarkshavn"
+                "exemplarCity": "ډنمارک هاربر"
               },
               "Dawson": {
                 "exemplarCity": "داوسن"
@@ -212,7 +212,7 @@
                   "exemplarCity": "وینینسین، انډا"
                 },
                 "Petersburg": {
-                  "exemplarCity": "Petersburg, Indiana"
+                  "exemplarCity": "پیتربورګ، انډيانا"
                 },
                 "Tell_City": {
                   "exemplarCity": "ښار، انډیا ته ووایی"
@@ -339,13 +339,13 @@
               },
               "North_Dakota": {
                 "Beulah": {
-                  "exemplarCity": "Beulah, North Dakota"
+                  "exemplarCity": "بيلاه، شمالي داکوتا"
                 },
                 "New_Salem": {
-                  "exemplarCity": "New Salem, North Dakota"
+                  "exemplarCity": "نوی سلیم، شمالي داکوتا"
                 },
                 "Center": {
-                  "exemplarCity": "Center, North Dakota"
+                  "exemplarCity": "مرکز، د شمالي ټاپو"
                 }
               },
               "Ojinaga": {
@@ -509,7 +509,7 @@
                 "exemplarCity": "اندورا"
               },
               "Astrakhan": {
-                "exemplarCity": "Astrakhan"
+                "exemplarCity": "آسترخان"
               },
               "Athens": {
                 "exemplarCity": "ایترین"
@@ -650,7 +650,7 @@
                 "exemplarCity": "استولوم"
               },
               "Tallinn": {
-                "exemplarCity": "Tallinn"
+                "exemplarCity": "تالين"
               },
               "Tirane": {
                 "exemplarCity": "Tirane"
@@ -802,7 +802,7 @@
                 "exemplarCity": "مالابو"
               },
               "Maputo": {
-                "exemplarCity": "Maputo"
+                "exemplarCity": "ماپوټو"
               },
               "Maseru": {
                 "exemplarCity": "مسرو"
@@ -820,7 +820,7 @@
                 "exemplarCity": "نايروبي"
               },
               "Ndjamena": {
-                "exemplarCity": "Ndjamena"
+                "exemplarCity": "نجامینا"
               },
               "Niamey": {
                 "exemplarCity": "نیمي"
@@ -858,7 +858,7 @@
                 "exemplarCity": "اممان"
               },
               "Anadyr": {
-                "exemplarCity": "Anadyr"
+                "exemplarCity": "اناډير"
               },
               "Aqtau": {
                 "exemplarCity": "اکاټو"
@@ -1529,6 +1529,11 @@
                 "daylight": "کیپ وردډ سمر وخت"
               }
             },
+            "Chamorro": {
+              "long": {
+                "standard": "چمارو معياري وخت"
+              }
+            },
             "Chatham": {
               "long": {
                 "generic": "چامام وخت",
@@ -1619,7 +1624,7 @@
               "long": {
                 "generic": "منځنۍ اروپا وخت",
                 "standard": "د مرکزي اروپا معیاري وخت",
-                "daylight": "د مرکزي اروپا د اوړي وخت"
+                "daylight": "وسطي اروپايي د اوړي وخت"
               }
             },
             "Europe_Further_Eastern": {
@@ -1666,6 +1671,13 @@
             "Gambier": {
               "long": {
                 "standard": "د ګیمبریر وخت"
+              }
+            },
+            "Georgia": {
+              "long": {
+                "generic": "جورجیا وخت",
+                "standard": "جورجیا معیاري وخت",
+                "daylight": "د جورجيا د اوړي وخت"
               }
             },
             "Gilbert_Islands": {
@@ -2089,7 +2101,7 @@
               "long": {
                 "generic": "تاپي وخت",
                 "standard": "تاپي معياري وخت",
-                "daylight": "تاپي د ورځې د رڼا وخت"
+                "daylight": "د تاپي د رڼا ورځۍ وخت"
               }
             },
             "Tajikistan": {
@@ -2119,6 +2131,11 @@
                 "generic": "ترکمانستان وخت",
                 "standard": "ترکمنستان معياري وخت",
                 "daylight": "ترکمنستان اوړي وخت"
+              }
+            },
+            "Tuvalu": {
+              "long": {
+                "standard": "د تووالو وخت"
               }
             },
             "Uruguay": {
@@ -2156,14 +2173,19 @@
             },
             "Volgograd": {
               "long": {
-                "generic": "د ولګاجرا وخت",
-                "standard": "دګګراډر معياري وخت",
-                "daylight": "د ولگګراډ سمر وخت"
+                "generic": "د والګوګراد وخت",
+                "standard": "د والګوګراد معياري وخت",
+                "daylight": "د والګوګراد د اوړي وخت"
               }
             },
             "Vostok": {
               "long": {
                 "standard": "د واستوک وخت"
+              }
+            },
+            "Wake": {
+              "long": {
+                "standard": "دک ټاپو وخت"
               }
             },
             "Wallis": {
@@ -2173,16 +2195,16 @@
             },
             "Yakutsk": {
               "long": {
-                "generic": "داککوس وخت",
-                "standard": "داککوسک معياري وخت",
-                "daylight": "داککوسک سمر وخت"
+                "generic": "ياکوټسک وخت",
+                "standard": "ياکوټسک معياري وخت",
+                "daylight": "ياکوټسک د اوړي وخت"
               }
             },
             "Yekaterinburg": {
               "long": {
-                "generic": "د یاراتینګینګ وخت",
-                "standard": "د یاراتینګینبرین معياري وخت",
-                "daylight": "د یاراتینګینګ ګرم موسم"
+                "generic": "د ياکيټرنبرګ وخت",
+                "standard": "د ياکيټرنبرګ معياري وخت",
+                "daylight": "د ياکټرنبرګ د اوړي وخت"
               }
             }
           }

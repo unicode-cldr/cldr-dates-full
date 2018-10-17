@@ -1,8 +1,8 @@
 {
   "name": "cldr-dates-full",
-  "version": "33.0.0",
+  "version": "34.0.0",
   "dependencies": {
-    "cldr-numbers-full": "33.0.0"
+    "cldr-numbers-full": "34.0.0"
   },
   "main": "main/**/*.json",
   "ignore": [

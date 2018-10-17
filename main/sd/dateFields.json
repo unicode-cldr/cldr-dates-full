@@ -3,8 +3,8 @@
     "sd": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14394 $",
+          "_cldrVersion": "34"
         },
         "language": "sd"
       },
@@ -545,7 +545,7 @@
             "displayName": "صبح، منجهند/منجهند، شام"
           },
           "dayperiod": {
-            "displayName": "صبح، منجهند/منجهند، شام"
+            "displayName": "صبح/شام"
           },
           "dayperiod-narrow": {
             "displayName": "صبح، منجهند/منجهند، شام"

@@ -3,8 +3,8 @@
     "kok": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13869 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14488 $",
+          "_cldrVersion": "34"
         },
         "language": "kok"
       },
@@ -13,460 +13,460 @@
           "hourFormat": "+HH:mm;-HH:mm",
           "gmtFormat": "GMT{0}",
           "gmtZeroFormat": "GMT",
-          "regionFormat": "{0}",
-          "regionFormat-type-daylight": "{0} (+1)",
-          "regionFormat-type-standard": "{0} (+0)",
+          "regionFormat": "{0} वेळ",
+          "regionFormat-type-daylight": "{0} डेलायट वेळ",
+          "regionFormat-type-standard": "{0} प्रमाणित वेळ",
           "fallbackFormat": "{1} ({0})",
           "zone": {
             "America": {
               "Adak": {
-                "exemplarCity": "Adak"
+                "exemplarCity": "अडाक"
               },
               "Anchorage": {
-                "exemplarCity": "Anchorage"
+                "exemplarCity": "ऐंकरज"
               },
               "Anguilla": {
-                "exemplarCity": "Anguilla"
+                "exemplarCity": "अंगुला"
               },
               "Antigua": {
-                "exemplarCity": "Antigua"
+                "exemplarCity": "एँटिगुआ"
               },
               "Araguaina": {
-                "exemplarCity": "Araguaina"
+                "exemplarCity": "अरगुयेना"
               },
               "Argentina": {
                 "Rio_Gallegos": {
-                  "exemplarCity": "Rio Gallegos"
+                  "exemplarCity": "रियो गलेगॉस"
                 },
                 "San_Juan": {
-                  "exemplarCity": "San Juan"
+                  "exemplarCity": "सान जुआन"
                 },
                 "Ushuaia": {
-                  "exemplarCity": "Ushuaia"
+                  "exemplarCity": "उशुआइया"
                 },
                 "La_Rioja": {
-                  "exemplarCity": "La Rioja"
+                  "exemplarCity": "ला रियोजा"
                 },
                 "San_Luis": {
-                  "exemplarCity": "San Luis"
+                  "exemplarCity": "सान लुईस"
                 },
                 "Salta": {
-                  "exemplarCity": "Salta"
+                  "exemplarCity": "साल्टा"
                 },
                 "Tucuman": {
-                  "exemplarCity": "Tucuman"
+                  "exemplarCity": "टुकुमॅन"
                 }
               },
               "Aruba": {
-                "exemplarCity": "Aruba"
+                "exemplarCity": "अरुबा"
               },
               "Asuncion": {
-                "exemplarCity": "Asuncion"
+                "exemplarCity": "असंसियन"
               },
               "Bahia": {
-                "exemplarCity": "Bahia"
+                "exemplarCity": "बहिया"
               },
               "Bahia_Banderas": {
-                "exemplarCity": "Bahia Banderas"
+                "exemplarCity": "बहिया बंदेरस"
               },
               "Barbados": {
-                "exemplarCity": "Barbados"
+                "exemplarCity": "बारबाडोस"
               },
               "Belem": {
-                "exemplarCity": "Belem"
+                "exemplarCity": "बेलेम"
               },
               "Belize": {
-                "exemplarCity": "Belize"
+                "exemplarCity": "बेलिझ"
               },
               "Blanc-Sablon": {
-                "exemplarCity": "Blanc-Sablon"
+                "exemplarCity": "ब्लांक-साब्लोन"
               },
               "Boa_Vista": {
-                "exemplarCity": "Boa Vista"
+                "exemplarCity": "बाओ विस्टा"
               },
               "Bogota": {
-                "exemplarCity": "Bogota"
+                "exemplarCity": "बोगोटा"
               },
               "Boise": {
-                "exemplarCity": "Boise"
+                "exemplarCity": "बोयस"
               },
               "Buenos_Aires": {
-                "exemplarCity": "Buenos Aires"
+                "exemplarCity": "ब्यूनस आयर्स"
               },
               "Cambridge_Bay": {
-                "exemplarCity": "Cambridge Bay"
+                "exemplarCity": "केंब्रिज बे"
               },
               "Campo_Grande": {
-                "exemplarCity": "Campo Grande"
+                "exemplarCity": "कॅम्पो ग्रांड"
               },
               "Cancun": {
-                "exemplarCity": "Cancun"
+                "exemplarCity": "कानकुन"
               },
               "Caracas": {
-                "exemplarCity": "Caracas"
+                "exemplarCity": "कराकस"
               },
               "Catamarca": {
-                "exemplarCity": "Catamarca"
+                "exemplarCity": "काटामारका"
               },
               "Cayenne": {
-                "exemplarCity": "Cayenne"
+                "exemplarCity": "केइन"
               },
               "Cayman": {
-                "exemplarCity": "Cayman"
+                "exemplarCity": "कैमेन"
               },
               "Chicago": {
-                "exemplarCity": "Chicago"
+                "exemplarCity": "शिकागो"
               },
               "Chihuahua": {
-                "exemplarCity": "Chihuahua"
+                "exemplarCity": "चिहुआहुआ"
               },
               "Coral_Harbour": {
-                "exemplarCity": "Atikokan"
+                "exemplarCity": "अतिकोकॉन"
               },
               "Cordoba": {
-                "exemplarCity": "Cordoba"
+                "exemplarCity": "कोरडोबा"
               },
               "Costa_Rica": {
-                "exemplarCity": "Costa Rica"
+                "exemplarCity": "कोस्ता रिका"
               },
               "Creston": {
-                "exemplarCity": "Creston"
+                "exemplarCity": "क्रेस्टोन"
               },
               "Cuiaba": {
-                "exemplarCity": "Cuiaba"
+                "exemplarCity": "कुययबा"
               },
               "Curacao": {
-                "exemplarCity": "Curacao"
+                "exemplarCity": "कुराकाओ"
               },
               "Danmarkshavn": {
-                "exemplarCity": "Danmarkshavn"
+                "exemplarCity": "डेन्मार्कशॉन"
               },
               "Dawson": {
-                "exemplarCity": "Dawson"
+                "exemplarCity": "डौसन"
               },
               "Dawson_Creek": {
-                "exemplarCity": "Dawson Creek"
+                "exemplarCity": "डौसन क्रिक"
               },
               "Denver": {
-                "exemplarCity": "Denver"
+                "exemplarCity": "डेन्वेर"
               },
               "Detroit": {
-                "exemplarCity": "Detroit"
+                "exemplarCity": "डेट्रॉईट"
               },
               "Dominica": {
-                "exemplarCity": "Dominica"
+                "exemplarCity": "डोमिनीका"
               },
               "Edmonton": {
-                "exemplarCity": "Edmonton"
+                "exemplarCity": "ऍडमोंटन"
               },
               "Eirunepe": {
-                "exemplarCity": "Eirunepe"
+                "exemplarCity": "ईरुनेपे"
               },
               "El_Salvador": {
-                "exemplarCity": "El Salvador"
+                "exemplarCity": "एल साल्वाडोर"
               },
               "Fort_Nelson": {
-                "exemplarCity": "Fort Nelson"
+                "exemplarCity": "फोर्ट नेल्सन"
               },
               "Fortaleza": {
-                "exemplarCity": "Fortaleza"
+                "exemplarCity": "फोर्टालेझा"
               },
               "Glace_Bay": {
-                "exemplarCity": "Glace Bay"
+                "exemplarCity": "ग्लेस बे"
               },
               "Godthab": {
-                "exemplarCity": "Nuuk"
+                "exemplarCity": "नूक"
               },
               "Goose_Bay": {
-                "exemplarCity": "Goose Bay"
+                "exemplarCity": "गूस बे"
               },
               "Grand_Turk": {
-                "exemplarCity": "Grand Turk"
+                "exemplarCity": "ग्रँड तुर्क"
               },
               "Grenada": {
-                "exemplarCity": "Grenada"
+                "exemplarCity": "ग्रेनॅडा"
               },
               "Guadeloupe": {
-                "exemplarCity": "Guadeloupe"
+                "exemplarCity": "ग्वाडेलोप"
               },
               "Guatemala": {
-                "exemplarCity": "Guatemala"
+                "exemplarCity": "ग्वाटेमाला"
               },
               "Guayaquil": {
-                "exemplarCity": "Guayaquil"
+                "exemplarCity": "ग्वायेकिल"
               },
               "Guyana": {
-                "exemplarCity": "Guyana"
+                "exemplarCity": "गुयाना"
               },
               "Halifax": {
-                "exemplarCity": "Halifax"
+                "exemplarCity": "हेलिफॅक्स"
               },
               "Havana": {
-                "exemplarCity": "Havana"
+                "exemplarCity": "हवाना"
               },
               "Hermosillo": {
-                "exemplarCity": "Hermosillo"
+                "exemplarCity": "हर्मोसिलो"
               },
               "Indiana": {
                 "Vincennes": {
-                  "exemplarCity": "Vincennes, Indiana"
+                  "exemplarCity": "विंसेनस, इंडियाना"
                 },
                 "Petersburg": {
-                  "exemplarCity": "Petersburg, Indiana"
+                  "exemplarCity": "पिटर्सबर्ग, इंडियाना"
                 },
                 "Tell_City": {
-                  "exemplarCity": "Tell City, Indiana"
+                  "exemplarCity": "टेल सिटी, इंडियाना"
                 },
                 "Knox": {
-                  "exemplarCity": "Knox, Indiana"
+                  "exemplarCity": "नॉक्स, इंडियाना"
                 },
                 "Winamac": {
-                  "exemplarCity": "Winamac, Indiana"
+                  "exemplarCity": "विनामॅक, इंडियाना"
                 },
                 "Marengo": {
-                  "exemplarCity": "Marengo, Indiana"
+                  "exemplarCity": "मारेंगो, इंडियाना"
                 },
                 "Vevay": {
-                  "exemplarCity": "Vevay, Indiana"
+                  "exemplarCity": "वेवय, इंडियाना"
                 }
               },
               "Indianapolis": {
-                "exemplarCity": "Indianapolis"
+                "exemplarCity": "इंडियानापोलीस"
               },
               "Inuvik": {
-                "exemplarCity": "Inuvik"
+                "exemplarCity": "इनुविक"
               },
               "Iqaluit": {
-                "exemplarCity": "Iqaluit"
+                "exemplarCity": "इकालुयीट"
               },
               "Jamaica": {
-                "exemplarCity": "Jamaica"
+                "exemplarCity": "जमैका"
               },
               "Jujuy": {
-                "exemplarCity": "Jujuy"
+                "exemplarCity": "जुजेय"
               },
               "Juneau": {
-                "exemplarCity": "Juneau"
+                "exemplarCity": "जूनो"
               },
               "Kentucky": {
                 "Monticello": {
-                  "exemplarCity": "Monticello, Kentucky"
+                  "exemplarCity": "मोंटीसॅलो, केंटुकाय"
                 }
               },
               "Kralendijk": {
-                "exemplarCity": "Kralendijk"
+                "exemplarCity": "क्रालेनडीक"
               },
               "La_Paz": {
-                "exemplarCity": "La Paz"
+                "exemplarCity": "ला पाझ"
               },
               "Lima": {
-                "exemplarCity": "Lima"
+                "exemplarCity": "लिमा"
               },
               "Los_Angeles": {
-                "exemplarCity": "Los Angeles"
+                "exemplarCity": "लॉस एंजलीस"
               },
               "Louisville": {
-                "exemplarCity": "Louisville"
+                "exemplarCity": "लुईजविले"
               },
               "Lower_Princes": {
-                "exemplarCity": "Lower Prince’s Quarter"
+                "exemplarCity": "लोवर प्रिंसेस क्वार्टर"
               },
               "Maceio": {
-                "exemplarCity": "Maceio"
+                "exemplarCity": "मासियो"
               },
               "Managua": {
-                "exemplarCity": "Managua"
+                "exemplarCity": "मॅनाग्वा"
               },
               "Manaus": {
-                "exemplarCity": "Manaus"
+                "exemplarCity": "मनौस"
               },
               "Marigot": {
-                "exemplarCity": "Marigot"
+                "exemplarCity": "मेरीगॉट"
               },
               "Martinique": {
-                "exemplarCity": "Martinique"
+                "exemplarCity": "मार्टिनिक"
               },
               "Matamoros": {
-                "exemplarCity": "Matamoros"
+                "exemplarCity": "माटामोरोस"
               },
               "Mazatlan": {
-                "exemplarCity": "Mazatlan"
+                "exemplarCity": "माझाट्लान"
               },
               "Mendoza": {
-                "exemplarCity": "Mendoza"
+                "exemplarCity": "मेन्डोझा"
               },
               "Menominee": {
-                "exemplarCity": "Menominee"
+                "exemplarCity": "मेनोमिनी"
               },
               "Merida": {
-                "exemplarCity": "Merida"
+                "exemplarCity": "मेरिडा"
               },
               "Metlakatla": {
-                "exemplarCity": "Metlakatla"
+                "exemplarCity": "मेट्लाकाट्ला"
               },
               "Mexico_City": {
-                "exemplarCity": "Mexico City"
+                "exemplarCity": "मेक्सिको शार"
               },
               "Miquelon": {
-                "exemplarCity": "Miquelon"
+                "exemplarCity": "मिक्वेलोन"
               },
               "Moncton": {
-                "exemplarCity": "Moncton"
+                "exemplarCity": "मोंक्टॉन"
               },
               "Monterrey": {
-                "exemplarCity": "Monterrey"
+                "exemplarCity": "मोंटेरी"
               },
               "Montevideo": {
-                "exemplarCity": "Montevideo"
+                "exemplarCity": "मोंटेव्हिडियो"
               },
               "Montserrat": {
-                "exemplarCity": "Montserrat"
+                "exemplarCity": "मॉन्टसेराट"
               },
               "Nassau": {
-                "exemplarCity": "Nassau"
+                "exemplarCity": "नसाऊ"
               },
               "New_York": {
-                "exemplarCity": "New York"
+                "exemplarCity": "न्यु यॉर्क"
               },
               "Nipigon": {
-                "exemplarCity": "Nipigon"
+                "exemplarCity": "निपिगोन"
               },
               "Nome": {
-                "exemplarCity": "Nome"
+                "exemplarCity": "नोमे"
               },
               "Noronha": {
-                "exemplarCity": "Noronha"
+                "exemplarCity": "नोरोन्हा"
               },
               "North_Dakota": {
                 "Beulah": {
-                  "exemplarCity": "Beulah, North Dakota"
+                  "exemplarCity": "ब्यूल्लाह, उत्तर डाकोटा"
                 },
                 "New_Salem": {
-                  "exemplarCity": "New Salem, North Dakota"
+                  "exemplarCity": "न्यु सालेम, उत्तर डाकोटा"
                 },
                 "Center": {
-                  "exemplarCity": "Center, North Dakota"
+                  "exemplarCity": "मध्य, उत्तर डाकोटा"
                 }
               },
               "Ojinaga": {
-                "exemplarCity": "Ojinaga"
+                "exemplarCity": "ओजिनागा"
               },
               "Panama": {
-                "exemplarCity": "Panama"
+                "exemplarCity": "पनामा"
               },
               "Pangnirtung": {
-                "exemplarCity": "Pangnirtung"
+                "exemplarCity": "पंगनिर्टुंग"
               },
               "Paramaribo": {
-                "exemplarCity": "Paramaribo"
+                "exemplarCity": "परामारिबो"
               },
               "Phoenix": {
-                "exemplarCity": "Phoenix"
+                "exemplarCity": "फिनिक्स"
               },
               "Port-au-Prince": {
-                "exemplarCity": "Port-au-Prince"
+                "exemplarCity": "पोर्ट-औ-प्रिन्स"
               },
               "Port_of_Spain": {
-                "exemplarCity": "Port of Spain"
+                "exemplarCity": "पोर्ट ऑफ स्पेन"
               },
               "Porto_Velho": {
-                "exemplarCity": "Porto Velho"
+                "exemplarCity": "पोर्टो वेल्हो"
               },
               "Puerto_Rico": {
-                "exemplarCity": "Puerto Rico"
+                "exemplarCity": "पिर्टो रिको"
               },
               "Punta_Arenas": {
-                "exemplarCity": "Punta Arenas"
+                "exemplarCity": "पुंटा अरेनास"
               },
               "Rainy_River": {
-                "exemplarCity": "Rainy River"
+                "exemplarCity": "पावसाळी न्हय"
               },
               "Rankin_Inlet": {
-                "exemplarCity": "Rankin Inlet"
+                "exemplarCity": "रँकिन इनलॅट"
               },
               "Recife": {
-                "exemplarCity": "Recife"
+                "exemplarCity": "रेसीफ"
               },
               "Regina": {
-                "exemplarCity": "Regina"
+                "exemplarCity": "रेजीना"
               },
               "Resolute": {
-                "exemplarCity": "Resolute"
+                "exemplarCity": "रिसोल्युट"
               },
               "Rio_Branco": {
-                "exemplarCity": "Rio Branco"
+                "exemplarCity": "रियो ब्रांको"
               },
               "Santarem": {
-                "exemplarCity": "Santarem"
+                "exemplarCity": "सांतारेम"
               },
               "Santiago": {
-                "exemplarCity": "Santiago"
+                "exemplarCity": "सँटियागो"
               },
               "Santo_Domingo": {
-                "exemplarCity": "Santo Domingo"
+                "exemplarCity": "सांतो डोमिंगो"
               },
               "Sao_Paulo": {
-                "exemplarCity": "Sao Paulo"
+                "exemplarCity": "साओ पावलो"
               },
               "Scoresbysund": {
-                "exemplarCity": "Ittoqqortoormiit"
+                "exemplarCity": "इटोकॉरटॉर्मीट"
               },
               "Sitka": {
-                "exemplarCity": "Sitka"
+                "exemplarCity": "सिट्का"
               },
               "St_Barthelemy": {
-                "exemplarCity": "St. Barthelemy"
+                "exemplarCity": "सेंट बार्थेलेमी"
               },
               "St_Johns": {
-                "exemplarCity": "St. John’s"
+                "exemplarCity": "सेंट जॉन्स"
               },
               "St_Kitts": {
-                "exemplarCity": "St. Kitts"
+                "exemplarCity": "सेंट किट्स"
               },
               "St_Lucia": {
-                "exemplarCity": "St. Lucia"
+                "exemplarCity": "सेंट लुसीया"
               },
               "St_Thomas": {
-                "exemplarCity": "St. Thomas"
+                "exemplarCity": "सेंट थॉमस"
               },
               "St_Vincent": {
-                "exemplarCity": "St. Vincent"
+                "exemplarCity": "सेंट विन्सेंट"
               },
               "Swift_Current": {
-                "exemplarCity": "Swift Current"
+                "exemplarCity": "स्विफ्ट करंट"
               },
               "Tegucigalpa": {
-                "exemplarCity": "Tegucigalpa"
+                "exemplarCity": "तेगुसिगल्पा"
               },
               "Thule": {
-                "exemplarCity": "Thule"
+                "exemplarCity": "थुले"
               },
               "Thunder_Bay": {
-                "exemplarCity": "Thunder Bay"
+                "exemplarCity": "थंडर बे"
               },
               "Tijuana": {
-                "exemplarCity": "Tijuana"
+                "exemplarCity": "तिजुआना"
               },
               "Toronto": {
-                "exemplarCity": "Toronto"
+                "exemplarCity": "टॉरंटो"
               },
               "Tortola": {
-                "exemplarCity": "Tortola"
+                "exemplarCity": "टोरटोला"
               },
               "Vancouver": {
-                "exemplarCity": "Vancouver"
+                "exemplarCity": "व्हँकुव्हर"
               },
               "Whitehorse": {
-                "exemplarCity": "Whitehorse"
+                "exemplarCity": "व्हायटहॉर्स"
               },
               "Winnipeg": {
-                "exemplarCity": "Winnipeg"
+                "exemplarCity": "विनीपेग"
               },
               "Yakutat": {
-                "exemplarCity": "Yakutat"
+                "exemplarCity": "याकुटाट"
               },
               "Yellowknife": {
-                "exemplarCity": "Yellowknife"
+                "exemplarCity": "यलोक्नायफ"
               }
             },
             "Atlantic": {
@@ -474,7 +474,7 @@
                 "exemplarCity": "Azores"
               },
               "Bermuda": {
-                "exemplarCity": "Bermuda"
+                "exemplarCity": "बर्मुडा"
               },
               "Canary": {
                 "exemplarCity": "Canary"
@@ -1182,7 +1182,7 @@
                 "exemplarCity": "Chatham"
               },
               "Easter": {
-                "exemplarCity": "Easter"
+                "exemplarCity": "ईस्टर"
               },
               "Efate": {
                 "exemplarCity": "Efate"
@@ -1200,7 +1200,7 @@
                 "exemplarCity": "Funafuti"
               },
               "Galapagos": {
-                "exemplarCity": "Galapagos"
+                "exemplarCity": "गालापागोस"
               },
               "Gambier": {
                 "exemplarCity": "Gambier"
@@ -1339,12 +1339,256 @@
             }
           },
           "metazone": {
+            "Africa_Central": {
+              "long": {
+                "standard": "मध्य आफ्रिका वेळ"
+              }
+            },
+            "Africa_Eastern": {
+              "long": {
+                "standard": "उदेंत आफ्रिका वेळ"
+              }
+            },
+            "Africa_Southern": {
+              "long": {
+                "standard": "दक्षिण आफ्रिका प्रमाणित वेळ"
+              }
+            },
+            "Africa_Western": {
+              "long": {
+                "generic": "अस्तंत आफ्रिका वेळ",
+                "standard": "अस्तंत आफ्रिका प्रमाणित वेळ",
+                "daylight": "अस्तंत आफ्रिका ग्रीष्म वेळ"
+              }
+            },
+            "Alaska": {
+              "long": {
+                "generic": "अलास्का वेळ",
+                "standard": "अलास्का प्रमाणित वेळ",
+                "daylight": "अलास्का डेलायट वेळ"
+              }
+            },
+            "Amazon": {
+              "long": {
+                "generic": "अमेझोन वेळ",
+                "standard": "अमेझोन प्रमाणित वेळ",
+                "daylight": "अमेझोन ग्रीष्म वेळ"
+              }
+            },
+            "America_Central": {
+              "long": {
+                "generic": "मध्य वेळ",
+                "standard": "मध्य प्रमाणित वेळ",
+                "daylight": "मध्य डेलायट वेळ"
+              }
+            },
+            "America_Eastern": {
+              "long": {
+                "generic": "उदेंत वेळ",
+                "standard": "उदेंत प्रमाणित वेळ",
+                "daylight": "उदेंतेचो डेलायट वेळ"
+              }
+            },
+            "America_Mountain": {
+              "long": {
+                "generic": "पर्वतीय वेळ",
+                "standard": "पर्वतीय प्रमाणित वेळ",
+                "daylight": "पर्वतीय डेलायट वेळ"
+              }
+            },
+            "America_Pacific": {
+              "long": {
+                "generic": "प्रशांत वेळ",
+                "standard": "प्रशांत प्रमाणित वेळ",
+                "daylight": "प्रशांत डेलायट वेळ"
+              }
+            },
+            "Argentina": {
+              "long": {
+                "generic": "अर्जेंटिना वेळ",
+                "standard": "अर्जेंटिना प्रमाणित वेळ",
+                "daylight": "अर्जेंटिना ग्रीष्म वेळ"
+              }
+            },
+            "Argentina_Western": {
+              "long": {
+                "generic": "अस्तंत अर्जेंटिना वेळ",
+                "standard": "अस्तंत अर्जेंटिना प्रमाणित वेळ",
+                "daylight": "अस्तंत अर्जेंटिना ग्रीष्म वेळ"
+              }
+            },
+            "Atlantic": {
+              "long": {
+                "generic": "अटलांटीक वेळ",
+                "standard": "अटलांटीक प्रमाणित वेळ",
+                "daylight": "अटलांटीक डेलायट वेळ"
+              }
+            },
+            "Bolivia": {
+              "long": {
+                "standard": "बोलिव्हिया वेळ"
+              }
+            },
+            "Brasilia": {
+              "long": {
+                "generic": "ब्राझिलिया वेळ",
+                "standard": "ब्राझिलिया प्रमाणित वेळ",
+                "daylight": "ब्राझिलिया ग्रीष्म वेळ"
+              }
+            },
+            "Chile": {
+              "long": {
+                "generic": "चिली वेळ",
+                "standard": "चिली प्रमाणित वेळ",
+                "daylight": "चिली ग्रीष्म वेळ"
+              }
+            },
+            "Colombia": {
+              "long": {
+                "generic": "कोलंबिया",
+                "standard": "कोलंबिया प्रमाणित वेळ",
+                "daylight": "कोलंबिया ग्रीष्म वेळ"
+              }
+            },
+            "Cuba": {
+              "long": {
+                "generic": "क्युबा वेळ",
+                "standard": "क्युबा प्रमाणित वेळ",
+                "daylight": "क्युबा डेलायट वेळ"
+              }
+            },
+            "Easter": {
+              "long": {
+                "generic": "ईस्टर आयलँड वेळ",
+                "standard": "ईस्टर आयलँड प्रमाणित वेळ",
+                "daylight": "ईस्टर आयलँड ग्रीष्म वेळ"
+              }
+            },
+            "Ecuador": {
+              "long": {
+                "standard": "इक्वेडोर वेळ"
+              }
+            },
+            "Falkland": {
+              "long": {
+                "generic": "फॉकलँड आयलँड्स वेळ",
+                "standard": "फॉकलँड आयलँड्स प्रमाणित वेळ",
+                "daylight": "फॉकलँड आयलँड्स ग्रीष्म वेळ"
+              }
+            },
+            "French_Guiana": {
+              "long": {
+                "standard": "फ्रेंच गयाना वेळ"
+              }
+            },
+            "Galapagos": {
+              "long": {
+                "standard": "गालापागोस वेळ"
+              }
+            },
+            "Greenland_Eastern": {
+              "long": {
+                "generic": "उदेंत ग्रीनलँड वेळ",
+                "standard": "उदेंत ग्रीनलँड प्रमाणित वेळ",
+                "daylight": "उदेंत ग्रीनलँड ग्रीष्म वेळ"
+              }
+            },
+            "Greenland_Western": {
+              "long": {
+                "generic": "अस्तंत ग्रीनलँड वेळ",
+                "standard": "अस्तंत ग्रीनलँड प्रमाणित वेळ",
+                "daylight": "अस्तंत ग्रीनलँड ग्रीष्म वेळ"
+              }
+            },
+            "Guyana": {
+              "long": {
+                "standard": "गुयाना वेळ"
+              }
+            },
+            "Hawaii_Aleutian": {
+              "long": {
+                "generic": "हवाई-अलेयुशिन वेळ",
+                "standard": "हवाई-अलेयुशिन प्रमाणित वेळ",
+                "daylight": "हवाई-अलेयुशिन डेलायट वेळ"
+              }
+            },
             "India": {
               "long": {
                 "standard": "भारतीय समय"
               },
               "short": {
                 "standard": "IST"
+              }
+            },
+            "Mexico_Northwest": {
+              "long": {
+                "generic": "वायव्य मेक्सिको वेळ",
+                "standard": "वायव्य मेक्सिको प्रमाणित वेळ",
+                "daylight": "वायव्य मेक्सिको डेलायट वेळ"
+              }
+            },
+            "Mexico_Pacific": {
+              "long": {
+                "generic": "मेक्सिकन प्रशांत वेळ",
+                "standard": "मेक्सिकन प्रशांत प्रमाणित वेळ",
+                "daylight": "मेक्सिकन प्रशांत डेलायट वेळ"
+              }
+            },
+            "Newfoundland": {
+              "long": {
+                "generic": "न्युफावंडलँड वेळ",
+                "standard": "न्युफावंडलँड प्रमाणित वेळ",
+                "daylight": "न्युफावंडलँड डेलायट वेळ"
+              }
+            },
+            "Noronha": {
+              "long": {
+                "generic": "फर्नांडो दी नोरोन्हा वेळ",
+                "standard": "फर्नांडो दी नोरोन्हा प्रमाणित वेळ",
+                "daylight": "Vote फर्नांडो दी नोरोन्हा ग्रीष्म वेळ"
+              }
+            },
+            "Paraguay": {
+              "long": {
+                "generic": "परागुआ वेळ",
+                "standard": "परागुआ प्रमाणित वेळ",
+                "daylight": "परागुआ ग्रीष्म वेळ"
+              }
+            },
+            "Peru": {
+              "long": {
+                "generic": "पेरू वेळ",
+                "standard": "पेरू प्रमाणित वेळ",
+                "daylight": "पेरू ग्रीष्म वेळ"
+              }
+            },
+            "Pierre_Miquelon": {
+              "long": {
+                "generic": "सेंट पियर आनी मिकलान वेळ",
+                "standard": "सेंट पियर आनी मिकलान प्रमाणित वेळ",
+                "daylight": "सेंट पियर आनी मिकलान डेलायट वेळ"
+              }
+            },
+            "South_Georgia": {
+              "long": {
+                "standard": "दक्षिण जॉर्जिया वेळ"
+              }
+            },
+            "Suriname": {
+              "long": {
+                "standard": "सुरिनाम वेळ"
+              }
+            },
+            "Uruguay": {
+              "long": {
+                "generic": "उरुग्वे वेळ",
+                "standard": "उरुग्वे प्रमाणित वेळ",
+                "daylight": "उरुग्वे ग्रीष्म वेळ"
+              }
+            },
+            "Venezuela": {
+              "long": {
+                "standard": "वेनेझुएला वेळ"
               }
             }
           }

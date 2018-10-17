@@ -3,8 +3,8 @@
     "tk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14365 $",
+          "_cldrVersion": "34"
         },
         "language": "tk"
       },
@@ -39,12 +39,12 @@
             "relative-type-0": "şu ýyl",
             "relative-type-1": "indiki ýyl",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0}ý.-dan",
-              "relativeTimePattern-count-other": "{0}ý.-dan"
+              "relativeTimePattern-count-one": "{0} ý-dan",
+              "relativeTimePattern-count-other": "{0} ý-dan"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0}ý. öň",
-              "relativeTimePattern-count-other": "{0}ý. öň"
+              "relativeTimePattern-count-one": "{0} ý. öň",
+              "relativeTimePattern-count-other": "{0} ý. öň"
             }
           },
           "year-narrow": {
@@ -53,16 +53,16 @@
             "relative-type-0": "şu ýyl",
             "relative-type-1": "indiki ýyl",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0}ý.-dan",
-              "relativeTimePattern-count-other": "{0}ý.-dan"
+              "relativeTimePattern-count-one": "{0} ý-dan",
+              "relativeTimePattern-count-other": "{0} ý-dan"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0}ý. öň",
-              "relativeTimePattern-count-other": "{0}ý. öň"
+              "relativeTimePattern-count-one": "{0} ý. öň",
+              "relativeTimePattern-count-other": "{0} ý. öň"
             }
           },
           "quarter": {
-            "displayName": "çarýek",
+            "displayName": "çärýek",
             "relative-type--1": "geçen çärýek",
             "relative-type-0": "şu çärýek",
             "relative-type-1": "indiki çärýek",
@@ -81,8 +81,8 @@
             "relative-type-0": "şu çärýek",
             "relative-type-1": "indiki çärýek",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} çär.-den",
-              "relativeTimePattern-count-other": "{0} çär.-den"
+              "relativeTimePattern-count-one": "{0} çär-den",
+              "relativeTimePattern-count-other": "{0} çär-den"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} çär. öň",
@@ -95,8 +95,8 @@
             "relative-type-0": "şu çärýek",
             "relative-type-1": "indiki çärýek",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} ç.-den",
-              "relativeTimePattern-count-other": "{0} ç.-den"
+              "relativeTimePattern-count-one": "{0} ç-den",
+              "relativeTimePattern-count-other": "{0} ç-den"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} ç. öň",
@@ -286,8 +286,8 @@
             "relative-type-0": "şu ýek.",
             "relative-type-1": "indiki ýek.",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} ýek.-den",
-              "relativeTimePattern-count-other": "{0} ýek.-den"
+              "relativeTimePattern-count-one": "{0} ýek-den",
+              "relativeTimePattern-count-other": "{0} ýek-den"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} ýek. öň",
@@ -325,8 +325,8 @@
             "relative-type-0": "şu duş.",
             "relative-type-1": "indiki duş.",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} duş.-den",
-              "relativeTimePattern-count-other": "{0} duş.-den"
+              "relativeTimePattern-count-one": "{0} duş-den",
+              "relativeTimePattern-count-other": "{0} duş-den"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} duş. öň",
@@ -338,8 +338,8 @@
             "relative-type-0": "şu db",
             "relative-type-1": "indiki db",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} db.-den",
-              "relativeTimePattern-count-other": "{0} db.-den"
+              "relativeTimePattern-count-one": "{0} db-den",
+              "relativeTimePattern-count-other": "{0} db-den"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} db öň",
@@ -364,8 +364,8 @@
             "relative-type-0": "şu siş.",
             "relative-type-1": "indiki siş.",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} siş.-den",
-              "relativeTimePattern-count-other": "{0} siş.-den"
+              "relativeTimePattern-count-one": "{0} siş-den",
+              "relativeTimePattern-count-other": "{0} siş-den"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} siş. öň",
@@ -377,8 +377,8 @@
             "relative-type-0": "şu sb",
             "relative-type-1": "indiki sb",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} sb.-den",
-              "relativeTimePattern-count-other": "{0} sb.-den"
+              "relativeTimePattern-count-one": "{0} sb-den",
+              "relativeTimePattern-count-other": "{0} sb-den"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} sb öň",
@@ -403,8 +403,8 @@
             "relative-type-0": "şu çar.",
             "relative-type-1": "indiki çar.",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} çar.-den",
-              "relativeTimePattern-count-other": "{0} çar.-den"
+              "relativeTimePattern-count-one": "{0} çar-den",
+              "relativeTimePattern-count-other": "{0} çar-den"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} çar. öň",
@@ -416,8 +416,8 @@
             "relative-type-0": "şu çb",
             "relative-type-1": "indiki çb",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} çb.-den",
-              "relativeTimePattern-count-other": "{0} çb.-den"
+              "relativeTimePattern-count-one": "{0} çb-den",
+              "relativeTimePattern-count-other": "{0} çb-den"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} çb öň",
@@ -442,8 +442,8 @@
             "relative-type-0": "şu pen.",
             "relative-type-1": "indiki pen.",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} pen.-den",
-              "relativeTimePattern-count-other": "{0} pen.-den"
+              "relativeTimePattern-count-one": "{0} pen-den",
+              "relativeTimePattern-count-other": "{0} pen-den"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} pen. öň",
@@ -455,8 +455,8 @@
             "relative-type-0": "şu pb",
             "relative-type-1": "indiki pb",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} pb.-den",
-              "relativeTimePattern-count-other": "{0} pb.-den"
+              "relativeTimePattern-count-one": "{0} pb-den",
+              "relativeTimePattern-count-other": "{0} pb-den"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} pb öň",
@@ -481,8 +481,8 @@
             "relative-type-0": "şu an.",
             "relative-type-1": "indiki an.",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} an.-dan",
-              "relativeTimePattern-count-other": "{0} an.-dan."
+              "relativeTimePattern-count-one": "{0} an-dan",
+              "relativeTimePattern-count-other": "{0} an-dan"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} an. öň",
@@ -520,8 +520,8 @@
             "relative-type-0": "şu şen.",
             "relative-type-1": "indiki şen.",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} şen.-den",
-              "relativeTimePattern-count-other": "{0} şen.-den"
+              "relativeTimePattern-count-one": "{0} şen-den",
+              "relativeTimePattern-count-other": "{0} şen-den"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} şen. öň",
@@ -533,8 +533,8 @@
             "relative-type-0": "şu şb",
             "relative-type-1": "indiki şb",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} şb.-den",
-              "relativeTimePattern-count-other": "{0} şb.-den"
+              "relativeTimePattern-count-one": "{0} şb-den",
+              "relativeTimePattern-count-other": "{0} şb-den"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} şb öň",
@@ -542,13 +542,13 @@
             }
           },
           "dayperiod-short": {
-            "displayName": "öýländen öň/öýländen soň"
+            "displayName": "GÖ/GS"
           },
           "dayperiod": {
-            "displayName": "öýländen öň/öýländen soň"
+            "displayName": "günortadan öň/günortadan soň"
           },
           "dayperiod-narrow": {
-            "displayName": "öýländen öň/öýländen soň"
+            "displayName": "GÖ/GS"
           },
           "hour": {
             "displayName": "sagat",

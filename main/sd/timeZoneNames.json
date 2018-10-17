@@ -3,8 +3,8 @@
     "sd": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14394 $",
+          "_cldrVersion": "34"
         },
         "language": "sd"
       },
@@ -14,8 +14,8 @@
           "gmtFormat": "GMT{0}",
           "gmtZeroFormat": "GMT",
           "regionFormat": "{0} وقت",
-          "regionFormat-type-daylight": "{0} (+1)",
-          "regionFormat-type-standard": "{0} (+0)",
+          "regionFormat-type-daylight": "{0} ڏينهن جو وقت",
+          "regionFormat-type-standard": "{0} معياري وقت",
           "fallbackFormat": "{1} ({0})",
           "zone": {
             "America": {

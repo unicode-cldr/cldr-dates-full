@@ -3,32 +3,35 @@
     "mt": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14394 $",
+          "_cldrVersion": "34"
         },
         "language": "mt"
       },
       "dates": {
         "fields": {
           "era": {
-            "displayName": "Epoka"
+            "displayName": "Era"
           },
           "era-short": {
-            "displayName": "Epoka"
+            "displayName": "Era"
           },
           "era-narrow": {
-            "displayName": "Epoka"
+            "displayName": "Era"
           },
           "year": {
             "displayName": "Sena",
-            "relative-type--1": "Is-sena li għaddiet",
+            "relative-type--1": "is-sena l-oħra",
             "relative-type-0": "din is-sena",
-            "relative-type-1": "Is-sena d-dieħla",
+            "relative-type-1": "is-sena d-dieħla",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} y"
+              "relativeTimePattern-count-one": "fi żmien sena",
+              "relativeTimePattern-count-few": "fi żmien {0} snin oħra",
+              "relativeTimePattern-count-many": "fi żmien {0} snin oħra",
+              "relativeTimePattern-count-other": "fi żmien {0} snin oħra"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} sena ilu",
+              "relativeTimePattern-count-one": "sena ilu",
               "relativeTimePattern-count-few": "{0} snin ilu",
               "relativeTimePattern-count-many": "{0} snin ilu",
               "relativeTimePattern-count-other": "{0} snin ilu"
@@ -36,14 +39,17 @@
           },
           "year-short": {
             "displayName": "Sena",
-            "relative-type--1": "Is-sena li għaddiet",
+            "relative-type--1": "is-sena l-oħra",
             "relative-type-0": "din is-sena",
-            "relative-type-1": "Is-sena d-dieħla",
+            "relative-type-1": "is-sena d-dieħla",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} y"
+              "relativeTimePattern-count-one": "fi żmien sena",
+              "relativeTimePattern-count-few": "fi żmien {0} snin oħra",
+              "relativeTimePattern-count-many": "fi żmien {0} snin oħra",
+              "relativeTimePattern-count-other": "fi żmien {0} snin oħra"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} sena ilu",
+              "relativeTimePattern-count-one": "sa sena ilu",
               "relativeTimePattern-count-few": "{0} snin ilu",
               "relativeTimePattern-count-many": "{0} snin ilu",
               "relativeTimePattern-count-other": "{0} snin ilu"
@@ -51,14 +57,17 @@
           },
           "year-narrow": {
             "displayName": "Sena",
-            "relative-type--1": "Is-sena li għaddiet",
+            "relative-type--1": "is-sena l-oħra",
             "relative-type-0": "din is-sena",
-            "relative-type-1": "Is-sena d-dieħla",
+            "relative-type-1": "is-sena d-dieħla",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} y"
+              "relativeTimePattern-count-one": "fi żmien sena",
+              "relativeTimePattern-count-few": "fi żmien {0} snin oħra",
+              "relativeTimePattern-count-many": "fi żmien {0} snin oħra",
+              "relativeTimePattern-count-other": "fi żmien {0} snin oħra"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} sena ilu",
+              "relativeTimePattern-count-one": "sena ilu",
               "relativeTimePattern-count-few": "{0} snin ilu",
               "relativeTimePattern-count-many": "{0} snin ilu",
               "relativeTimePattern-count-other": "{0} snin ilu"
@@ -66,50 +75,74 @@
           },
           "quarter": {
             "displayName": "Quarter",
-            "relative-type--1": "last quarter",
-            "relative-type-0": "this quarter",
-            "relative-type-1": "next quarter",
+            "relative-type--1": "il-kwart ta’ sena li għadda",
+            "relative-type-0": "il-kwart ta’ sena li qegħdin fih",
+            "relative-type-1": "il-kwart li jmiss tas-sena",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Q"
+              "relativeTimePattern-count-one": "f’{0} kwarti ta’ sena oħrajn",
+              "relativeTimePattern-count-few": "f’{0} kwarti ta’ sena oħrajn",
+              "relativeTimePattern-count-many": "f’{0} kwarti ta’ sena oħrajn",
+              "relativeTimePattern-count-other": "f’{0} kwarti ta’ sena oħrajn"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Q"
+              "relativeTimePattern-count-one": "il-kwart ta’ sena li għadda",
+              "relativeTimePattern-count-few": "{0} kwarti ta’ sena li għaddew",
+              "relativeTimePattern-count-many": "{0} kwarti ta’ sena li għaddew",
+              "relativeTimePattern-count-other": "{0} kwarti ta’ sena li għaddew"
             }
           },
           "quarter-short": {
             "displayName": "Quarter",
-            "relative-type--1": "last quarter",
-            "relative-type-0": "this quarter",
-            "relative-type-1": "next quarter",
+            "relative-type--1": "il-kwart ta’ sena li għadda",
+            "relative-type-0": "il-kwart ta’ sena li qegħdin fih",
+            "relative-type-1": "il-kwart li jmiss tas-sena",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Q"
+              "relativeTimePattern-count-one": "fil-kwart tas-sena li ġej",
+              "relativeTimePattern-count-few": "f’{0} kwarti ta’ sena oħrajn",
+              "relativeTimePattern-count-many": "f’{0} kwarti ta’ sena oħrajn",
+              "relativeTimePattern-count-other": "f’{0} kwarti ta’ sena oħrajn"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Q"
+              "relativeTimePattern-count-one": "fil-kwart tas-sena li għadda",
+              "relativeTimePattern-count-few": "{0} kwarti ta’ sena ilu",
+              "relativeTimePattern-count-many": "{0} kwarti ta’ sena ilu",
+              "relativeTimePattern-count-other": "{0} kwarti ta’ sena ilu"
             }
           },
           "quarter-narrow": {
-            "displayName": "Quarter",
-            "relative-type--1": "last quarter",
-            "relative-type-0": "this quarter",
-            "relative-type-1": "next quarter",
+            "displayName": "l-ewwel kwart tas-sena, it-tieni kwart tas-sena, it-tielet kwart tas-sena, ir-raba’ kwart tas-sena",
+            "relative-type--1": "il-kwart ta’ sena li għadda",
+            "relative-type-0": "il-kwart ta’ sena li qegħdin fih",
+            "relative-type-1": "il-kwart li jmiss tas-sena",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Q"
+              "relativeTimePattern-count-one": "fi kwart ta’ sena ieħor",
+              "relativeTimePattern-count-few": "f’{0} kwarti ta’ sena oħrajn",
+              "relativeTimePattern-count-many": "f’{0} kwarti ta’ sena oħrajn",
+              "relativeTimePattern-count-other": "f’{0} kwarti ta’ sena oħrajn"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Q"
+              "relativeTimePattern-count-one": "fil-kwart tas-sena li għadda",
+              "relativeTimePattern-count-few": "{0} kwarti ta’ sena ilu",
+              "relativeTimePattern-count-many": "{0} kwarti ta’ sena ilu",
+              "relativeTimePattern-count-other": "{0} kwarti ta’ sena ilu"
             }
           },
           "month": {
-            "displayName": "Xahar",
+            "displayName": "xahar",
             "relative-type--1": "Ix-xahar li għadda",
             "relative-type-0": "Dan ix-xahar",
             "relative-type-1": "Ix-xahar id-dieħel",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} m"
+              "relativeTimePattern-count-one": "sa xahar ieħor",
+              "relativeTimePattern-count-few": "fi {0} xhur oħra",
+              "relativeTimePattern-count-many": "fi {0} xhur oħra",
+              "relativeTimePattern-count-other": "fi {0} xhur oħra"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} m"
+              "relativeTimePattern-count-one": "xahar ilu",
+              "relativeTimePattern-count-few": "{0} xhur ilu",
+              "relativeTimePattern-count-many": "{0} xhur ilu",
+              "relativeTimePattern-count-other": "{0} xhur ilu"
             }
           },
           "month-short": {
@@ -118,10 +151,16 @@
             "relative-type-0": "Dan ix-xahar",
             "relative-type-1": "Ix-xahar id-dieħel",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} m"
+              "relativeTimePattern-count-one": "sa xahar ieħor",
+              "relativeTimePattern-count-few": "sa {0} xhur oħra",
+              "relativeTimePattern-count-many": "sa {0} xhur oħra",
+              "relativeTimePattern-count-other": "sa {0} xhur oħra"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} m"
+              "relativeTimePattern-count-one": "{0} xahar ilu",
+              "relativeTimePattern-count-few": "{0} xhur ilu",
+              "relativeTimePattern-count-many": "{0} xhur ilu",
+              "relativeTimePattern-count-other": "{0} xhur ilu"
             }
           },
           "month-narrow": {
@@ -130,154 +169,214 @@
             "relative-type-0": "Dan ix-xahar",
             "relative-type-1": "Ix-xahar id-dieħel",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} m"
+              "relativeTimePattern-count-one": "sa xahar ieħor",
+              "relativeTimePattern-count-few": "sa {0} xhur oħra",
+              "relativeTimePattern-count-many": "sa {0} xhur oħra",
+              "relativeTimePattern-count-other": "sa {0} xhur oħra"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} m"
+              "relativeTimePattern-count-one": "xahar ilu",
+              "relativeTimePattern-count-few": "{0} xhur ilu",
+              "relativeTimePattern-count-many": "{0} xhur ilu",
+              "relativeTimePattern-count-other": "{0} xhur ilu"
             }
           },
           "week": {
-            "displayName": "Ġimgħa",
-            "relative-type--1": "Il-ġimgħa li għaddiet",
-            "relative-type-0": "Din il-ġimgħa",
-            "relative-type-1": "Il-ġimgħa d-dieħla",
+            "displayName": "ġimgħa",
+            "relative-type--1": "il-ġimgħa li għaddiet",
+            "relative-type-0": "din il-ġimgħa",
+            "relative-type-1": "il-ġimgħa d-dieħla",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} w"
+              "relativeTimePattern-count-one": "sa ġimgħa oħra",
+              "relativeTimePattern-count-few": "sa {0} ġimgħat oħra",
+              "relativeTimePattern-count-many": "sa {0} ġimgħat oħra",
+              "relativeTimePattern-count-other": "sa {0} ġimgħat oħra"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} w"
+              "relativeTimePattern-count-one": "ġimgħa ilu",
+              "relativeTimePattern-count-few": "{0} ġimgħat ilu",
+              "relativeTimePattern-count-many": "{0} ġimgħat ilu",
+              "relativeTimePattern-count-other": "{0} ġimgħat ilu"
             },
-            "relativePeriod": "the week of {0}"
+            "relativePeriod": "fil-ġimgħa ta’ {0}"
           },
           "week-short": {
-            "displayName": "Ġimgħa",
-            "relative-type--1": "Il-ġimgħa li għaddiet",
-            "relative-type-0": "Din il-ġimgħa",
-            "relative-type-1": "Il-ġimgħa d-dieħla",
+            "displayName": "ġimgħa",
+            "relative-type--1": "il-ġimgħa li għaddiet",
+            "relative-type-0": "din il-ġimgħa",
+            "relative-type-1": "il-ġimgħa d-dieħla",
             "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "sa ġimgħa oħra",
+              "relativeTimePattern-count-few": "sa {0} ġimgħat oħra",
+              "relativeTimePattern-count-many": "sa {0} ġimgħat oħra",
               "relativeTimePattern-count-other": "+{0} w"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} w"
+              "relativeTimePattern-count-one": "ġimgħa ilu",
+              "relativeTimePattern-count-few": "{0} ġimgħat ilu",
+              "relativeTimePattern-count-many": "{0} ġimgħat ilu",
+              "relativeTimePattern-count-other": "{0} ġimgħat ilu"
             },
-            "relativePeriod": "the week of {0}"
+            "relativePeriod": "fil-ġimgħa ta’ {0}"
           },
           "week-narrow": {
-            "displayName": "Ġimgħa",
-            "relative-type--1": "Il-ġimgħa li għaddiet",
-            "relative-type-0": "Din il-ġimgħa",
-            "relative-type-1": "Il-ġimgħa d-dieħla",
+            "displayName": "ġimgħa",
+            "relative-type--1": "il-ġimgħa li għaddiet",
+            "relative-type-0": "din il-ġimgħa",
+            "relative-type-1": "il-ġimgħa d-dieħla",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} w"
+              "relativeTimePattern-count-one": "sa ġimgħa oħra",
+              "relativeTimePattern-count-few": "sa {0} ġimgħat oħra",
+              "relativeTimePattern-count-many": "sa {0} ġimgħat oħra",
+              "relativeTimePattern-count-other": "sa {0} ġimgħat oħra"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} w"
+              "relativeTimePattern-count-one": "ġimgħa ilu",
+              "relativeTimePattern-count-few": "{0} ġimgħat ilu",
+              "relativeTimePattern-count-many": "{0} ġimgħat ilu",
+              "relativeTimePattern-count-other": "{0} ġimgħat ilu"
             },
-            "relativePeriod": "the week of {0}"
+            "relativePeriod": "fil-ġimgħa ta’ {0}"
           },
           "weekOfMonth": {
-            "displayName": "Week Of Month"
+            "displayName": "ġimgħa tax-xahar"
           },
           "weekOfMonth-short": {
-            "displayName": "Week Of Month"
+            "displayName": "ġimgħa tax-xahar"
           },
           "weekOfMonth-narrow": {
-            "displayName": "Week Of Month"
+            "displayName": "ġimgħa tax-xahar"
           },
           "day": {
-            "displayName": "Jum",
-            "relative-type--1": "Ilbieraħ",
-            "relative-type-0": "Illum",
-            "relative-type-1": "Għada",
+            "displayName": "jum",
+            "relative-type--1": "lbieraħ",
+            "relative-type-0": "illum",
+            "relative-type-1": "għada",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} d"
+              "relativeTimePattern-count-one": "fi żmien ġurnata",
+              "relativeTimePattern-count-few": "fi żmien {0} ġurnata oħra",
+              "relativeTimePattern-count-many": "fi żmien {0} ġurnata oħra",
+              "relativeTimePattern-count-other": "fi żmien {0} ġurnata oħra"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} d"
+              "relativeTimePattern-count-one": "ġurnata ilu",
+              "relativeTimePattern-count-few": "{0} ġranet ilu",
+              "relativeTimePattern-count-many": "{0}-il ġurnata ilu",
+              "relativeTimePattern-count-other": "{0}-il ġurnata ilu"
             }
           },
           "day-short": {
             "displayName": "Jum",
-            "relative-type--1": "Ilbieraħ",
-            "relative-type-0": "Illum",
-            "relative-type-1": "Għada",
+            "relative-type--1": "lbieraħ",
+            "relative-type-0": "illum",
+            "relative-type-1": "għada",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} d"
+              "relativeTimePattern-count-one": "fi żmien ġurnata",
+              "relativeTimePattern-count-few": "fi żmien {0} ġurnata oħra",
+              "relativeTimePattern-count-many": "fi żmien {0} ġurnata oħra",
+              "relativeTimePattern-count-other": "fi żmien {0} ġurnata oħra"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} d"
+              "relativeTimePattern-count-one": "ġurnata ilu",
+              "relativeTimePattern-count-few": "{0} ġranet ilu",
+              "relativeTimePattern-count-many": "{0}-il ġurnata ilu",
+              "relativeTimePattern-count-other": "{0}-il ġurnata ilu"
             }
           },
           "day-narrow": {
             "displayName": "Jum",
-            "relative-type--1": "Ilbieraħ",
-            "relative-type-0": "Illum",
-            "relative-type-1": "Għada",
+            "relative-type--1": "lbieraħ",
+            "relative-type-0": "illum",
+            "relative-type-1": "għada",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} d"
+              "relativeTimePattern-count-one": "fi żmien ġurnata",
+              "relativeTimePattern-count-few": "fi żmien {0} ġurnata oħra",
+              "relativeTimePattern-count-many": "fi żmien {0} ġurnata oħra",
+              "relativeTimePattern-count-other": "fi żmien {0} ġurnata oħra"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} d"
+              "relativeTimePattern-count-one": "ġurnata ilu",
+              "relativeTimePattern-count-few": "{0} ġranet ilu",
+              "relativeTimePattern-count-many": "{0}-il ġurnata ilu",
+              "relativeTimePattern-count-other": "{0}-il ġurnata ilu"
             }
           },
           "dayOfYear": {
-            "displayName": "Day Of Year"
+            "displayName": "jum tas-sena"
           },
           "dayOfYear-short": {
-            "displayName": "Day Of Year"
+            "displayName": "jum tas-sena"
           },
           "dayOfYear-narrow": {
-            "displayName": "Day Of Year"
+            "displayName": "jum tas-sena"
           },
           "weekday": {
-            "displayName": "Jum tal-Ġimgħa"
+            "displayName": "jum tal-ġimgħa"
           },
           "weekday-short": {
-            "displayName": "Jum tal-Ġimgħa"
+            "displayName": "jum tal-ġimgħa"
           },
           "weekday-narrow": {
-            "displayName": "Jum tal-Ġimgħa"
+            "displayName": "jum tal-ġimgħa"
           },
           "weekdayOfMonth": {
-            "displayName": "Weekday Of Month"
+            "displayName": "jum tax-xahar"
           },
           "weekdayOfMonth-short": {
-            "displayName": "Weekday Of Month"
+            "displayName": "jum tax-xahar"
           },
           "weekdayOfMonth-narrow": {
             "displayName": "Weekday Of Month"
           },
           "sun": {
             "relative-type--1": "Il-Ħadd li għadda",
-            "relative-type-0": "Dan il-Ħadd",
-            "relative-type-1": "Il-Ħadd li ġej",
+            "relative-type-0": "il-Ħadd li ġej",
+            "relative-type-1": "il-Ħadd ta’ wara",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Sundays"
+              "relativeTimePattern-count-one": "sa Ħadd ieħor",
+              "relativeTimePattern-count-few": "sa {0} Ħdud oħra",
+              "relativeTimePattern-count-many": "sa {0} Ħdud oħra",
+              "relativeTimePattern-count-other": "sa {0} Ħdud oħra"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Sundays"
+              "relativeTimePattern-count-one": "il-Ħadd li għadda",
+              "relativeTimePattern-count-few": "{0} Ħdud ilu",
+              "relativeTimePattern-count-many": "{0} Ħdud ilu",
+              "relativeTimePattern-count-other": "{0} Ħdud ilu"
             }
           },
           "sun-short": {
-            "relative-type--1": "Il-Ħadd li għadda",
-            "relative-type-0": "Dan il-Ħadd",
-            "relative-type-1": "Il-Ħadd li ġej",
+            "relative-type--1": "il-Ħd. li għadda",
+            "relative-type-0": "il-Ħd. li ġej",
+            "relative-type-1": "il-Ħd. ta’ wara",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Sundays"
+              "relativeTimePattern-count-one": "sa Ħd. ieħor",
+              "relativeTimePattern-count-few": "sa {0} Ħd. oħra",
+              "relativeTimePattern-count-many": "sa {0} Ħd. oħra",
+              "relativeTimePattern-count-other": "sa {0} Ħd. oħra"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Sundays"
+              "relativeTimePattern-count-one": "il-Ħd. li għadda",
+              "relativeTimePattern-count-few": "{0} Ħd. ilu",
+              "relativeTimePattern-count-many": "{0} Ħd. ilu",
+              "relativeTimePattern-count-other": "{0} Ħd. ilu"
             }
           },
           "sun-narrow": {
-            "relative-type--1": "Il-Ħadd li għadda",
-            "relative-type-0": "Dan il-Ħadd",
-            "relative-type-1": "Il-Ħadd li ġej",
+            "relative-type--1": "il-Ħd. li għadda",
+            "relative-type-0": "il-Ħd. li ġej",
+            "relative-type-1": "il-Ħd. ta’ wara",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Sundays"
+              "relativeTimePattern-count-one": "sa Ħd. ieħor",
+              "relativeTimePattern-count-few": "sa {0} Ħd. oħra",
+              "relativeTimePattern-count-many": "sa {0} Ħd. oħra",
+              "relativeTimePattern-count-other": "sa {0} Ħd. oħra"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Sundays"
+              "relativeTimePattern-count-one": "{0} Ħd. ilu",
+              "relativeTimePattern-count-few": "{0} Ħd. ilu",
+              "relativeTimePattern-count-many": "{0} Ħd. ilu",
+              "relativeTimePattern-count-other": "{0} Ħd. ilu"
             }
           },
           "mon": {
@@ -292,9 +391,9 @@
             }
           },
           "mon-short": {
-            "relative-type--1": "It-Tnejn li għadda",
-            "relative-type-0": "Dan It-Tnejn",
-            "relative-type-1": "It-Tnejn li ġej",
+            "relative-type--1": "it-Tn. li għadda",
+            "relative-type-0": "it-Tn. li ġej",
+            "relative-type-1": "it-Tn. ta’ wara",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} Mondays"
             },
@@ -303,9 +402,9 @@
             }
           },
           "mon-narrow": {
-            "relative-type--1": "It-Tnejn li għadda",
-            "relative-type-0": "Dan It-Tnejn",
-            "relative-type-1": "It-Tnejn li ġej",
+            "relative-type--1": "it-Tn. li għadda",
+            "relative-type-0": "it-Tn. li ġej",
+            "relative-type-1": "it-Tn. ta’ wara",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} Mondays"
             },
@@ -314,9 +413,9 @@
             }
           },
           "tue": {
-            "relative-type--1": "last Tuesday",
-            "relative-type-0": "this Tuesday",
-            "relative-type-1": "next Tuesday",
+            "relative-type--1": "it-Tlieta li għaddiet",
+            "relative-type-0": "it-Tlieta li ġejja",
+            "relative-type-1": "it-Tlieta ta’ wara",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} Tuesdays"
             },
@@ -325,9 +424,9 @@
             }
           },
           "tue-short": {
-            "relative-type--1": "last Tuesday",
-            "relative-type-0": "this Tuesday",
-            "relative-type-1": "next Tuesday",
+            "relative-type--1": "it-Tlieta li għaddiet",
+            "relative-type-0": "it-Tlieta li ġejja",
+            "relative-type-1": "it-Tlieta ta’ wara",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} Tuesdays"
             },
@@ -336,9 +435,9 @@
             }
           },
           "tue-narrow": {
-            "relative-type--1": "last Tuesday",
-            "relative-type-0": "this Tuesday",
-            "relative-type-1": "next Tuesday",
+            "relative-type--1": "it-Tlieta li għaddiet",
+            "relative-type-0": "it-Tlieta li ġejja",
+            "relative-type-1": "it-Tlieta ta’ wara",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} Tuesdays"
             },
@@ -479,112 +578,166 @@
             }
           },
           "dayperiod-short": {
-            "displayName": "Dayperiod"
+            "displayName": "AM/PM"
           },
           "dayperiod": {
-            "displayName": "Dayperiod"
+            "displayName": "AM/PM"
           },
           "dayperiod-narrow": {
-            "displayName": "Dayperiod"
+            "displayName": "AM/PM"
           },
           "hour": {
-            "displayName": "Siegħa",
-            "relative-type-0": "this hour",
+            "displayName": "siegħa",
+            "relative-type-0": "din is-siegħa",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} h"
+              "relativeTimePattern-count-one": "fi żmien siegħa oħra",
+              "relativeTimePattern-count-few": "fi żmien {0} sigħat",
+              "relativeTimePattern-count-many": "fi żmien{0} sigħat",
+              "relativeTimePattern-count-other": "fi żmien {0} sigħat"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} h"
+              "relativeTimePattern-count-one": "siegħa ilu",
+              "relativeTimePattern-count-few": "{0} sigħat ilu",
+              "relativeTimePattern-count-many": "{0} sigħat ilu",
+              "relativeTimePattern-count-other": "{0} sigħat ilu"
             }
           },
           "hour-short": {
-            "displayName": "Siegħa",
-            "relative-type-0": "this hour",
+            "displayName": "siegħa",
+            "relative-type-0": "din is-siegħa",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} h"
+              "relativeTimePattern-count-one": "fi żmien siegħa oħra",
+              "relativeTimePattern-count-few": "fi żmien {0} sigħat",
+              "relativeTimePattern-count-many": "+{0} h",
+              "relativeTimePattern-count-other": "fi żmien {0} sigħat"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} h"
+              "relativeTimePattern-count-one": "siegħa ilu",
+              "relativeTimePattern-count-few": "{0} sigħat ilu",
+              "relativeTimePattern-count-many": "{0} sigħat ilu",
+              "relativeTimePattern-count-other": "{0} sigħat ilu"
             }
           },
           "hour-narrow": {
-            "displayName": "Siegħa",
-            "relative-type-0": "this hour",
+            "displayName": "siegħa",
+            "relative-type-0": "din is-siegħa",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} h"
+              "relativeTimePattern-count-one": "fi żmien siegħa oħra",
+              "relativeTimePattern-count-few": "fi żmien {0} sigħat",
+              "relativeTimePattern-count-many": "fi żmien {0} sigħat",
+              "relativeTimePattern-count-other": "fi żmien {0} sigħat"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} h"
+              "relativeTimePattern-count-one": "siegħa ilu",
+              "relativeTimePattern-count-few": "{0} sigħat ilu",
+              "relativeTimePattern-count-many": "{0} sigħat ilu",
+              "relativeTimePattern-count-other": "{0} sigħat ilu"
             }
           },
           "minute": {
-            "displayName": "Minuta",
-            "relative-type-0": "this minute",
+            "displayName": "minuta",
+            "relative-type-0": "din il-minuta",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} min"
+              "relativeTimePattern-count-one": "sa minuta oħra",
+              "relativeTimePattern-count-few": "sa {0} minuti oħra",
+              "relativeTimePattern-count-many": "sa {0} minuti oħra",
+              "relativeTimePattern-count-other": "sa {0} minuti oħra"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} min"
+              "relativeTimePattern-count-one": "minuta ilu",
+              "relativeTimePattern-count-few": "{0} minuti ilu",
+              "relativeTimePattern-count-many": "{0} minuti ilu",
+              "relativeTimePattern-count-other": "{0} minuti ilu"
             }
           },
           "minute-short": {
-            "displayName": "Minuta",
-            "relative-type-0": "this minute",
+            "displayName": "min.",
+            "relative-type-0": "din il-minuta",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} min"
+              "relativeTimePattern-count-one": "sa min. oħra",
+              "relativeTimePattern-count-few": "sa {0} min. oħra",
+              "relativeTimePattern-count-many": "sa {0} min. oħra",
+              "relativeTimePattern-count-other": "sa {0} min. oħra"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} min"
+              "relativeTimePattern-count-one": "min. ilu",
+              "relativeTimePattern-count-few": "{0} min. ilu",
+              "relativeTimePattern-count-many": "{0} minuti ilu",
+              "relativeTimePattern-count-other": "{0} min. ilu"
             }
           },
           "minute-narrow": {
-            "displayName": "Minuta",
-            "relative-type-0": "this minute",
+            "displayName": "m",
+            "relative-type-0": "din il-minuta",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} min"
+              "relativeTimePattern-count-one": "sa min. oħra",
+              "relativeTimePattern-count-few": "sa {0} min. oħra",
+              "relativeTimePattern-count-many": "+{0} min",
+              "relativeTimePattern-count-other": "sa {0} min. oħra"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} min"
+              "relativeTimePattern-count-one": "min. ilu",
+              "relativeTimePattern-count-few": "{0} min. ilu",
+              "relativeTimePattern-count-many": "{0} min. ilu",
+              "relativeTimePattern-count-other": "{0} min. ilu"
             }
           },
           "second": {
-            "displayName": "Sekonda",
-            "relative-type-0": "now",
+            "displayName": "sekonda",
+            "relative-type-0": "issa",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} s"
+              "relativeTimePattern-count-one": "sa {0} sekondi oħra",
+              "relativeTimePattern-count-few": "sa {0} sekondi oħra",
+              "relativeTimePattern-count-many": "sa {0} sekondi oħra",
+              "relativeTimePattern-count-other": "sa {0} sekondi oħra"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} s"
+              "relativeTimePattern-count-one": "sekonda ilu",
+              "relativeTimePattern-count-few": "{0} sekondi ilu",
+              "relativeTimePattern-count-many": "{0} sekondi ilu",
+              "relativeTimePattern-count-other": "{0} sekondi ilu"
             }
           },
           "second-short": {
-            "displayName": "Sekonda",
-            "relative-type-0": "now",
+            "displayName": "sek.",
+            "relative-type-0": "issa",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} s"
+              "relativeTimePattern-count-one": "sa {0} sekondi oħra",
+              "relativeTimePattern-count-few": "sa {0} sek. oħra",
+              "relativeTimePattern-count-many": "sa {0} sek. oħra",
+              "relativeTimePattern-count-other": "sa {0} sekondi oħra"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} s"
+              "relativeTimePattern-count-one": "sek. ilu",
+              "relativeTimePattern-count-few": "{0} sek. ilu",
+              "relativeTimePattern-count-many": "{0} sek. ilu",
+              "relativeTimePattern-count-other": "{0} sek. ilu"
             }
           },
           "second-narrow": {
-            "displayName": "Sekonda",
-            "relative-type-0": "now",
+            "displayName": "s",
+            "relative-type-0": "issa",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} s"
+              "relativeTimePattern-count-one": "sa sek. oħra",
+              "relativeTimePattern-count-few": "sa {0} sek. oħra",
+              "relativeTimePattern-count-many": "sa {0} sek. oħra",
+              "relativeTimePattern-count-other": "sa {0} sek. oħra"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} s"
+              "relativeTimePattern-count-one": "sek. ilu",
+              "relativeTimePattern-count-few": "{0} sek. ilu",
+              "relativeTimePattern-count-many": "{0} sek. ilu",
+              "relativeTimePattern-count-other": "{0} sek. ilu"
             }
           },
           "zone": {
-            "displayName": "Żona"
+            "displayName": "żona tal-ħin"
           },
           "zone-short": {
-            "displayName": "Żona"
+            "displayName": "żona"
           },
           "zone-narrow": {
-            "displayName": "Żona"
+            "displayName": "żona"
           }
         }
       }

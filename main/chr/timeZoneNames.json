@@ -3,8 +3,8 @@
     "chr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14302 $",
+          "_cldrVersion": "34"
         },
         "language": "chr"
       },
@@ -14,7 +14,7 @@
           "gmtFormat": "GMT{0}",
           "gmtZeroFormat": "GMT",
           "regionFormat": "{0} ᎠᏟᎢᎵᏒ",
-          "regionFormat-type-daylight": "{0} ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏍᏒᎩ",
+          "regionFormat-type-daylight": "{0} ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ",
           "regionFormat-type-standard": "{0} ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
           "fallbackFormat": "{1} ({0})",
           "zone": {
@@ -1378,7 +1378,7 @@
               "long": {
                 "generic": "ᎠᎳᏍᎦ ᎠᏟᎢᎵᏒ",
                 "standard": "ᎠᎳᏍᎦ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
-                "daylight": "ᎠᎳᏍᎦ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏍᏒᎩ"
+                "daylight": "ᎠᎳᏍᎦ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ"
               },
               "short": {
                 "generic": "AKT",
@@ -1397,7 +1397,7 @@
               "long": {
                 "generic": "ᎠᏰᏟ ᎠᏟᎢᎵᏒ",
                 "standard": "ᎠᏰᏟ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
-                "daylight": "ᎠᏰᏟ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏍᏒᎩ"
+                "daylight": "ᎠᏰᏟ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ"
               },
               "short": {
                 "generic": "CT",
@@ -1409,7 +1409,7 @@
               "long": {
                 "generic": "ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ",
                 "standard": "ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
-                "daylight": "ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏍᏒᎩ"
+                "daylight": "ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ"
               },
               "short": {
                 "generic": "ET",
@@ -1421,7 +1421,7 @@
               "long": {
                 "generic": "ᎣᏓᎸ ᎠᏟᎢᎵᏒ",
                 "standard": "ᎣᏓᎸ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
-                "daylight": "ᎣᏓᎸ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏍᏒᎩ"
+                "daylight": "ᎣᏓᎸ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ"
               },
               "short": {
                 "generic": "MT",
@@ -1433,7 +1433,7 @@
               "long": {
                 "generic": "ᏭᏕᎵᎬ ᎠᏟᎢᎵᏒ",
                 "standard": "ᏭᏕᎵᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
-                "daylight": "ᏭᏕᎵᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏍᏒᎩ"
+                "daylight": "ᏭᏕᎵᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ"
               },
               "short": {
                 "generic": "PT",
@@ -1445,14 +1445,14 @@
               "long": {
                 "generic": "ᎠᏈᎠ ᎠᏟᎢᎵᏒ",
                 "standard": "ᎠᏈᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
-                "daylight": "ᎠᏈᎠ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒᎩ"
+                "daylight": "ᎠᏈᎠ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ"
               }
             },
             "Arabian": {
               "long": {
                 "generic": "ᎠᎴᏈᏯ ᎠᏟᎢᎵᏒ",
                 "standard": "ᎠᎴᏈᏯ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
-                "daylight": "ᎠᎴᏈᏯ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒᎩ"
+                "daylight": "ᎠᎴᏈᏯ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ"
               }
             },
             "Argentina": {
@@ -1480,7 +1480,7 @@
               "long": {
                 "generic": "ᏗᎧᎸᎬ ᎠᏟᎢᎵᏒ",
                 "standard": "ᏗᎧᎸᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
-                "daylight": "ᏗᎧᎸᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏍᏒᎩ"
+                "daylight": "ᏗᎧᎸᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ"
               },
               "short": {
                 "generic": "AT",
@@ -1492,28 +1492,28 @@
               "long": {
                 "generic": "ᎠᏰᏟ ᎡᎳᏗᏜ ᎠᏟᎢᎵᏒ",
                 "standard": "ᎠᏰᏟ ᎡᎳᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
-                "daylight": "ᎠᏰᏟ ᎡᎳᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒᎩ"
+                "daylight": "ᎠᏰᏟ ᎡᎳᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ"
               }
             },
             "Australia_CentralWestern": {
               "long": {
                 "generic": "ᎠᏰᏟ ᎡᎳᏗᏜ ᏭᏕᎵᎬ ᏗᏜ ᎠᏟᎢᎵᏒ",
                 "standard": "ᎠᏰᏟ ᎡᎳᏗᏜ ᏭᏕᎵᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
-                "daylight": "ᎠᏰᏟ ᎡᎳᏗᏜ ᏭᏕᎵᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒᎩ"
+                "daylight": "ᎠᏰᏟ ᎡᎳᏗᏜ ᏭᏕᎵᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ"
               }
             },
             "Australia_Eastern": {
               "long": {
                 "generic": "ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ",
                 "standard": "ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
-                "daylight": "ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒᎩ"
+                "daylight": "ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ"
               }
             },
             "Australia_Western": {
               "long": {
                 "generic": "ᎡᎳᏗᏜ ᏭᏕᎵᎬ ᏗᏜ ᎠᏟᎢᎵᏒ",
                 "standard": "ᎡᎳᏗᏜ ᏭᏕᎵᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
-                "daylight": "ᎡᎳᏗᏜ ᏭᏕᎵᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒᎩ"
+                "daylight": "ᎡᎳᏗᏜ ᏭᏕᎵᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ"
               }
             },
             "Azerbaijan": {
@@ -1575,7 +1575,7 @@
               "long": {
                 "generic": "ᏣᏝᎻ ᎠᏟᎢᎵᏒ",
                 "standard": "ᏣᏝᎻ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
-                "daylight": "ᏣᏝᎻ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒᎩ"
+                "daylight": "ᏣᏝᎻ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ"
               }
             },
             "Chile": {
@@ -1589,7 +1589,7 @@
               "long": {
                 "generic": "ᏓᎶᏂᎨᏍᏛ ᎠᏟᎢᎵᏒ",
                 "standard": "ᏓᎶᏂᎨᏍᏛ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
-                "daylight": "ᏓᎶᏂᎨᏍᏛ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒᎩ"
+                "daylight": "ᏓᎶᏂᎨᏍᏛ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ"
               }
             },
             "Choibalsan": {
@@ -1627,7 +1627,7 @@
               "long": {
                 "generic": "ᎫᏆ ᎠᏟᎢᎵᏒ",
                 "standard": "ᎫᏆ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
-                "daylight": "ᎫᏆ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏍᏒᎩ"
+                "daylight": "ᎫᏆ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ"
               }
             },
             "Davis": {
@@ -1704,7 +1704,7 @@
             },
             "French_Southern": {
               "long": {
-                "standard": "ᎠᏂᎦᎸᏥ ᎤᎦᏃᏮ ᎠᎴ ᎤᏁᏍᏓᎶ ᎠᏟᎢᎵᏒ"
+                "standard": "ᎠᏂᎦᎸᏥ ᎤᎦᏃᏮ & ᎤᏁᏍᏓᎶ ᎠᏟᎢᎵᏒ"
               }
             },
             "Galapagos": {
@@ -1762,7 +1762,7 @@
               "long": {
                 "generic": "ᎭᏩᏱ-ᎠᎵᏳᏏᎠᏂ ᎠᏟᎢᎵᏒ",
                 "standard": "ᎭᏩᏱ-ᎠᎵᏳᏏᎠᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
-                "daylight": "ᎭᏩᏱ-ᎠᎵᏳᏏᎠᏂ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏍᏒᎩ"
+                "daylight": "ᎭᏩᏱ-ᎠᎵᏳᏏᎠᏂ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ"
               },
               "short": {
                 "generic": "HAT",
@@ -1818,7 +1818,7 @@
               "long": {
                 "generic": "ᎢᎳᏂ ᎠᏟᎢᎵᏒ",
                 "standard": "ᎢᎳᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
-                "daylight": "ᎢᎳᏂ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒᎩ"
+                "daylight": "ᎢᎳᏂ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ"
               }
             },
             "Irkutsk": {
@@ -1839,7 +1839,7 @@
               "long": {
                 "generic": "ᏣᏩᏂᏏ ᎠᏟᎢᎵᏒ",
                 "standard": "ᏣᏩᏂᏏ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
-                "daylight": "ᏣᏩᏂᏏ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒᎩ"
+                "daylight": "ᏣᏩᏂᏏ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ"
               }
             },
             "Kazakhstan_Eastern": {
@@ -1856,7 +1856,7 @@
               "long": {
                 "generic": "ᎪᎵᎠᏂ ᎠᏟᎢᎵᏒ",
                 "standard": "ᎪᎵᎠᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
-                "daylight": "ᎪᎵᎠᏂ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒᎩ"
+                "daylight": "ᎪᎵᎠᏂ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ"
               }
             },
             "Kosrae": {
@@ -1885,7 +1885,7 @@
               "long": {
                 "generic": "ᎤᎬᏫᏳᎯ ᎭᏫ ᎠᏟᎢᎵᏒ",
                 "standard": "ᎤᎬᏫᏳᎯ ᎭᏫ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
-                "daylight": "ᎤᎬᏫᏳᎯ ᎭᏫ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒᎩ"
+                "daylight": "ᎤᎬᏫᏳᎯ ᎭᏫ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ"
               }
             },
             "Macquarie": {
@@ -1936,14 +1936,14 @@
               "long": {
                 "generic": "ᏧᏴᏢ ᏭᏕᎵᎬ ᎠᏂᏍᏆᏂ ᎠᏟᎢᎵᏒ",
                 "standard": "ᏧᏴᏢ ᏭᏕᎵᎬ ᎠᏂᏍᏆᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
-                "daylight": "ᏧᏴᏢ ᏭᏕᎵᎬ ᎠᏂᏍᏆᏂ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏍᏒᎩ"
+                "daylight": "ᏧᏴᏢ ᏭᏕᎵᎬ ᎠᏂᏍᏆᏂ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ"
               }
             },
             "Mexico_Pacific": {
               "long": {
                 "generic": "ᎠᏂᏍᏆᏂ ᏭᏕᎵᎬ ᎠᏟᎢᎵᏒ",
                 "standard": "ᎠᏂᏍᏆᏂ ᏭᏕᎵᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
-                "daylight": "ᎠᏂᏍᏆᏂ ᏭᏕᎵᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏍᏒᎩ"
+                "daylight": "ᎠᏂᏍᏆᏂ ᏭᏕᎵᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ"
               }
             },
             "Mongolia": {
@@ -1986,14 +1986,14 @@
               "long": {
                 "generic": "ᎢᏤ ᏏᎢᎴᏂᏗ ᎠᏟᎢᎵᏒ",
                 "standard": "ᎢᏤ ᏏᎢᎴᏂᏗ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
-                "daylight": "ᎢᏤ ᏏᎢᎴᏂᏗ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒᎩ"
+                "daylight": "ᎢᏤ ᏏᎢᎴᏂᏗ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ"
               }
             },
             "Newfoundland": {
               "long": {
                 "generic": "ᎢᏤᎤᏂᏩᏛᏓᎦᏙᎯ ᎠᏟᎢᎵᏒ",
                 "standard": "ᎢᏤᎤᏂᏩᏛᏓᎦᏙᎯ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
-                "daylight": "ᎢᏤᎤᏂᏩᏛᏓᎦᏙᎯ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏍᏒᎩ"
+                "daylight": "ᎢᏤᎤᏂᏩᏛᏓᎦᏙᎯ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ"
               }
             },
             "Niue": {
@@ -2072,9 +2072,9 @@
             },
             "Pierre_Miquelon": {
               "long": {
-                "generic": "ᎤᏓᏅᏘ ᏈᏰ ᎠᎴ ᎻᏇᎶᏂ ᎠᏟᎢᎵᏒ",
-                "standard": "ᎤᏓᏅᏘ ᏈᏰ ᎠᎴ ᎻᏇᎶᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
-                "daylight": "ᎤᏓᏅᏘ ᏈᏰ ᎠᎴ ᎻᏇᎶᏂ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒᎩ"
+                "generic": "ᎤᏓᏅᏘ ᏈᏰ & ᎻᏇᎶᏂ ᎠᏟᎢᎵᏒ",
+                "standard": "ᎤᏓᏅᏘ ᏈᏰ & ᎻᏇᎶᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
+                "daylight": "ᎤᏓᏅᏘ ᏈᏰ & ᎻᏇᎶᏂ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ"
               }
             },
             "Pitcairn": {
@@ -2113,7 +2113,7 @@
               "long": {
                 "generic": "ᏌᎼᎠ ᎠᏟᎢᎵᏒ",
                 "standard": "ᏌᎼᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
-                "daylight": "ᏌᎼᎠ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒᎩ"
+                "daylight": "ᏌᎼᎠ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ"
               }
             },
             "Seychelles": {
@@ -2155,7 +2155,7 @@
               "long": {
                 "generic": "ᏔᏱᏇ ᎠᏟᎢᎵᏒ",
                 "standard": "ᏔᏱᏇ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ",
-                "daylight": "ᏔᏱᏇ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒᎩ"
+                "daylight": "ᏔᏱᏇ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ"
               }
             },
             "Tajikistan": {
