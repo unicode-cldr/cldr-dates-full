@@ -1,0 +1,584 @@
+{
+  "main": {
+    "jv": {
+      "identity": {
+        "version": {
+          "_number": "$Revision: 14415 $",
+          "_cldrVersion": "34"
+        },
+        "language": "jv"
+      },
+      "dates": {
+        "fields": {
+          "era": {
+            "displayName": "era"
+          },
+          "era-short": {
+            "displayName": "era"
+          },
+          "era-narrow": {
+            "displayName": "era"
+          },
+          "year": {
+            "displayName": "taun",
+            "relative-type--1": "taun wingi",
+            "relative-type-0": "taun iki",
+            "relative-type-1": "taun ngarep",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} y"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} y"
+            }
+          },
+          "year-short": {
+            "displayName": "taun",
+            "relative-type--1": "taun wingi",
+            "relative-type-0": "taun iki",
+            "relative-type-1": "taun ngarep",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} y"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} y"
+            }
+          },
+          "year-narrow": {
+            "displayName": "taun",
+            "relative-type--1": "taun wingi",
+            "relative-type-0": "taun iki",
+            "relative-type-1": "taun ngarep",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} y"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} y"
+            }
+          },
+          "quarter": {
+            "displayName": "triwulan",
+            "relative-type--1": "last quarter",
+            "relative-type-0": "this quarter",
+            "relative-type-1": "next quarter",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Q"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Q"
+            }
+          },
+          "quarter-short": {
+            "displayName": "triwulan",
+            "relative-type--1": "last quarter",
+            "relative-type-0": "this quarter",
+            "relative-type-1": "next quarter",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Q"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Q"
+            }
+          },
+          "quarter-narrow": {
+            "displayName": "triwulan",
+            "relative-type--1": "last quarter",
+            "relative-type-0": "this quarter",
+            "relative-type-1": "next quarter",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Q"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Q"
+            }
+          },
+          "month": {
+            "displayName": "sasi",
+            "relative-type--1": "sasi wingi",
+            "relative-type-0": "sasi iki",
+            "relative-type-1": "sasi ngarep",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} m"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} m"
+            }
+          },
+          "month-short": {
+            "displayName": "sasi",
+            "relative-type--1": "sasi wingi",
+            "relative-type-0": "sasi iki",
+            "relative-type-1": "sasi ngarep",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} m"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} m"
+            }
+          },
+          "month-narrow": {
+            "displayName": "sasi",
+            "relative-type--1": "sasi wingi",
+            "relative-type-0": "sasi iki",
+            "relative-type-1": "sasi ngarep",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} m"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} m"
+            }
+          },
+          "week": {
+            "displayName": "pekan",
+            "relative-type--1": "pekan wingi",
+            "relative-type-0": "pekan iki",
+            "relative-type-1": "pekan ngarep",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} w"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} w"
+            },
+            "relativePeriod": "pekan kaping {0}"
+          },
+          "week-short": {
+            "displayName": "pekan",
+            "relative-type--1": "pekan wingi",
+            "relative-type-0": "pekan iki",
+            "relative-type-1": "pekan ngarep",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} w"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} w"
+            },
+            "relativePeriod": "pekan kaping {0}"
+          },
+          "week-narrow": {
+            "displayName": "pekan",
+            "relative-type--1": "pekan wingi",
+            "relative-type-0": "pekan iki",
+            "relative-type-1": "pekan ngarep",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} w"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} w"
+            },
+            "relativePeriod": "pekan kaping {0}"
+          },
+          "weekOfMonth": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-short": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-narrow": {
+            "displayName": "Week Of Month"
+          },
+          "day": {
+            "displayName": "dino",
+            "relative-type--1": "wingi",
+            "relative-type-0": "saiki",
+            "relative-type-1": "sesuk",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} d"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} d"
+            }
+          },
+          "day-short": {
+            "displayName": "dino",
+            "relative-type--1": "wingi",
+            "relative-type-0": "saiki",
+            "relative-type-1": "sesuk",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} d"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} d"
+            }
+          },
+          "day-narrow": {
+            "displayName": "dino",
+            "relative-type--1": "wingi",
+            "relative-type-0": "saiki",
+            "relative-type-1": "sesuk",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} d"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} d"
+            }
+          },
+          "dayOfYear": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-short": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-narrow": {
+            "displayName": "Day Of Year"
+          },
+          "weekday": {
+            "displayName": "dino sepekan"
+          },
+          "weekday-short": {
+            "displayName": "dino sepekan"
+          },
+          "weekday-narrow": {
+            "displayName": "dino sepekan"
+          },
+          "weekdayOfMonth": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-short": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-narrow": {
+            "displayName": "Weekday Of Month"
+          },
+          "sun": {
+            "relative-type--1": "last Sunday",
+            "relative-type-0": "this Sunday",
+            "relative-type-1": "next Sunday",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Sundays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Sundays"
+            }
+          },
+          "sun-short": {
+            "relative-type--1": "last Sunday",
+            "relative-type-0": "this Sunday",
+            "relative-type-1": "next Sunday",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Sundays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Sundays"
+            }
+          },
+          "sun-narrow": {
+            "relative-type--1": "last Sunday",
+            "relative-type-0": "this Sunday",
+            "relative-type-1": "next Sunday",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Sundays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Sundays"
+            }
+          },
+          "mon": {
+            "relative-type--1": "last Monday",
+            "relative-type-0": "this Monday",
+            "relative-type-1": "next Monday",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Mondays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Mondays"
+            }
+          },
+          "mon-short": {
+            "relative-type--1": "last Monday",
+            "relative-type-0": "this Monday",
+            "relative-type-1": "next Monday",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Mondays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Mondays"
+            }
+          },
+          "mon-narrow": {
+            "relative-type--1": "last Monday",
+            "relative-type-0": "this Monday",
+            "relative-type-1": "next Monday",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Mondays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Mondays"
+            }
+          },
+          "tue": {
+            "relative-type--1": "last Tuesday",
+            "relative-type-0": "this Tuesday",
+            "relative-type-1": "next Tuesday",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Tuesdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Tuesdays"
+            }
+          },
+          "tue-short": {
+            "relative-type--1": "last Tuesday",
+            "relative-type-0": "this Tuesday",
+            "relative-type-1": "next Tuesday",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Tuesdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Tuesdays"
+            }
+          },
+          "tue-narrow": {
+            "relative-type--1": "last Tuesday",
+            "relative-type-0": "this Tuesday",
+            "relative-type-1": "next Tuesday",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Tuesdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Tuesdays"
+            }
+          },
+          "wed": {
+            "relative-type--1": "last Wednesday",
+            "relative-type-0": "this Wednesday",
+            "relative-type-1": "next Wednesday",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Wednesdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Wednesdays"
+            }
+          },
+          "wed-short": {
+            "relative-type--1": "last Wednesday",
+            "relative-type-0": "this Wednesday",
+            "relative-type-1": "next Wednesday",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Wednesdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Wednesdays"
+            }
+          },
+          "wed-narrow": {
+            "relative-type--1": "last Wednesday",
+            "relative-type-0": "this Wednesday",
+            "relative-type-1": "next Wednesday",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Wednesdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Wednesdays"
+            }
+          },
+          "thu": {
+            "relative-type--1": "last Thursday",
+            "relative-type-0": "this Thursday",
+            "relative-type-1": "next Thursday",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Thursdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Thursdays"
+            }
+          },
+          "thu-short": {
+            "relative-type--1": "last Thursday",
+            "relative-type-0": "this Thursday",
+            "relative-type-1": "next Thursday",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Thursdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Thursdays"
+            }
+          },
+          "thu-narrow": {
+            "relative-type--1": "last Thursday",
+            "relative-type-0": "this Thursday",
+            "relative-type-1": "next Thursday",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Thursdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Thursdays"
+            }
+          },
+          "fri": {
+            "relative-type--1": "last Friday",
+            "relative-type-0": "this Friday",
+            "relative-type-1": "next Friday",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Fridays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Fridays"
+            }
+          },
+          "fri-short": {
+            "relative-type--1": "last Friday",
+            "relative-type-0": "this Friday",
+            "relative-type-1": "next Friday",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Fridays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Fridays"
+            }
+          },
+          "fri-narrow": {
+            "relative-type--1": "last Friday",
+            "relative-type-0": "this Friday",
+            "relative-type-1": "next Friday",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Fridays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Fridays"
+            }
+          },
+          "sat": {
+            "relative-type--1": "last Saturday",
+            "relative-type-0": "this Saturday",
+            "relative-type-1": "next Saturday",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Saturdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Saturdays"
+            }
+          },
+          "sat-short": {
+            "relative-type--1": "last Saturday",
+            "relative-type-0": "this Saturday",
+            "relative-type-1": "next Saturday",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Saturdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Saturdays"
+            }
+          },
+          "sat-narrow": {
+            "relative-type--1": "last Saturday",
+            "relative-type-0": "this Saturday",
+            "relative-type-1": "next Saturday",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Saturdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Saturdays"
+            }
+          },
+          "dayperiod-short": {
+            "displayName": "isuk/wengi"
+          },
+          "dayperiod": {
+            "displayName": "isuk/wengi"
+          },
+          "dayperiod-narrow": {
+            "displayName": "isuk/wengi"
+          },
+          "hour": {
+            "displayName": "jam",
+            "relative-type-0": "this hour",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} h"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} h"
+            }
+          },
+          "hour-short": {
+            "displayName": "jam",
+            "relative-type-0": "this hour",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} h"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} h"
+            }
+          },
+          "hour-narrow": {
+            "displayName": "jam",
+            "relative-type-0": "this hour",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} h"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} h"
+            }
+          },
+          "minute": {
+            "displayName": "menit",
+            "relative-type-0": "this minute",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} min"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} min"
+            }
+          },
+          "minute-short": {
+            "displayName": "menit",
+            "relative-type-0": "this minute",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} min"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} min"
+            }
+          },
+          "minute-narrow": {
+            "displayName": "menit",
+            "relative-type-0": "this minute",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} min"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} min"
+            }
+          },
+          "second": {
+            "displayName": "detik",
+            "relative-type-0": "now",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} s"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} s"
+            }
+          },
+          "second-short": {
+            "displayName": "detik",
+            "relative-type-0": "now",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} s"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} s"
+            }
+          },
+          "second-narrow": {
+            "displayName": "detik",
+            "relative-type-0": "now",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} s"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} s"
+            }
+          },
+          "zone": {
+            "displayName": "zona wektu"
+          },
+          "zone-short": {
+            "displayName": "zona wektu"
+          },
+          "zone-narrow": {
+            "displayName": "zona wektu"
+          }
+        }
+      }
+    }
+  }
+}
