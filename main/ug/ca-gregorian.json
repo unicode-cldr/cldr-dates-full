@@ -3,8 +3,8 @@
     "ug": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14488 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14782 $",
+          "_cldrVersion": "35"
         },
         "language": "ug"
       },
@@ -322,8 +322,8 @@
                 "MMMd": "d-MMM",
                 "MMMEd": "d-MMM، E",
                 "MMMMd": "d-MMMM",
-                "MMMMW-count-one": "MMM، W-ھەپتە",
-                "MMMMW-count-other": "MMM، W-ھەپتە",
+                "MMMMW-count-one": "MMMM، W-ھەپتە",
+                "MMMMW-count-other": "MMMM، W-ھەپتە",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "M-y",
@@ -353,6 +353,15 @@
               },
               "intervalFormats": {
                 "intervalFormatFallback": "{0} – {1}",
+                "Bh": {
+                  "B": "h B – h B",
+                  "h": "h–h B"
+                },
+                "Bhm": {
+                  "B": "h:mm B – h:mm B",
+                  "h": "h:mm–h:mm B",
+                  "m": "h:mm–h:mm B"
+                },
                 "d": {
                   "d": "d – d"
                 },

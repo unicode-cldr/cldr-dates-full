@@ -3,8 +3,8 @@
     "ckb-IR": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13869 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14822 $",
+          "_cldrVersion": "35"
         },
         "language": "ckb",
         "territory": "IR"
@@ -323,8 +323,8 @@
                 "MMMd": "dی MMM",
                 "MMMEd": "E، dی MMM",
                 "MMMMd": "MMMM d",
-                "MMMMW-count-one": "هەفتەی W ی MMM",
-                "MMMMW-count-other": "هەفتەی W ی MMM",
+                "MMMMW-count-one": "هەفتەی W ی MMMM",
+                "MMMMW-count-other": "هەفتەی W ی MMMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "M/y",
@@ -354,6 +354,15 @@
               },
               "intervalFormats": {
                 "intervalFormatFallback": "{0} – {1}",
+                "Bh": {
+                  "B": "h B – h B",
+                  "h": "h–h B"
+                },
+                "Bhm": {
+                  "B": "h:mm B – h:mm B",
+                  "h": "h:mm–h:mm B",
+                  "m": "h:mm–h:mm B"
+                },
                 "d": {
                   "d": "d–d"
                 },

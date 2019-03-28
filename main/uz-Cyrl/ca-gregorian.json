@@ -3,8 +3,8 @@
     "uz-Cyrl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14302 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "uz",
         "script": "Cyrl"
@@ -359,8 +359,8 @@
                 "MMMd": "d MMM",
                 "MMMEd": "E, d MMM",
                 "MMMMd": "d MMMM",
-                "MMMMW-count-one": "MMM, W-'ҳафта'",
-                "MMMMW-count-other": "MMM, W-'ҳафта'",
+                "MMMMW-count-one": "MMMM, W-'ҳафта'",
+                "MMMMW-count-other": "MMMM, W-'ҳафта'",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "MM/y",
@@ -390,6 +390,15 @@
               },
               "intervalFormats": {
                 "intervalFormatFallback": "{0} – {1}",
+                "Bh": {
+                  "B": "h B – h B",
+                  "h": "h–h B"
+                },
+                "Bhm": {
+                  "B": "h:mm B – h:mm B",
+                  "h": "h:mm–h:mm B",
+                  "m": "h:mm–h:mm B"
+                },
                 "d": {
                   "d": "d–d"
                 },

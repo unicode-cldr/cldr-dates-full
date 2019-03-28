@@ -3,8 +3,8 @@
     "smn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13869 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14782 $",
+          "_cldrVersion": "35"
         },
         "language": "smn"
       },
@@ -322,9 +322,9 @@
                 "MMMd": "MMM d.",
                 "MMMEd": "E, MMM d.",
                 "MMMMd": "MMMM d.",
-                "MMMMW-count-one": "'okko' W, MMM",
-                "MMMMW-count-two": "'okko' W, MMM",
-                "MMMMW-count-other": "'okko' W, MMM",
+                "MMMMW-count-one": "'okko' W, MMMM",
+                "MMMMW-count-two": "'okko' W, MMMM",
+                "MMMMW-count-other": "'okko' W, MMMM",
                 "ms": "m.ss.",
                 "y": "y",
                 "yM": "L.y",
@@ -355,6 +355,15 @@
               },
               "intervalFormats": {
                 "intervalFormatFallback": "{0}–{1}",
+                "Bh": {
+                  "B": "h B – h B",
+                  "h": "h–h B"
+                },
+                "Bhm": {
+                  "B": "h:mm B – h:mm B",
+                  "h": "h:mm–h:mm B",
+                  "m": "h:mm–h:mm B"
+                },
                 "d": {
                   "d": "d.–d."
                 },

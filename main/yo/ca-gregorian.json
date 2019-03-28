@@ -3,8 +3,8 @@
     "yo": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14488 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "yo"
       },
@@ -14,32 +14,32 @@
             "months": {
               "format": {
                 "abbreviated": {
-                  "1": "Ṣẹ́rẹ́",
-                  "2": "Èrèlè",
-                  "3": "Ẹrẹ̀nà",
-                  "4": "Ìgbé",
-                  "5": "Ẹ̀bibi",
-                  "6": "Òkúdu",
-                  "7": "Agẹmọ",
-                  "8": "Ògún",
-                  "9": "Owewe",
-                  "10": "Ọ̀wàrà",
-                  "11": "Bélú",
-                  "12": "Ọ̀pẹ̀"
+                  "1": "Ṣẹ́r",
+                  "2": "Èrèl",
+                  "3": "Ẹrẹ̀n",
+                  "4": "Ìgb",
+                  "5": "Ẹ̀bi",
+                  "6": "Òkú",
+                  "7": "Agẹ",
+                  "8": "Ògú",
+                  "9": "Owe",
+                  "10": "Ọ̀wà",
+                  "11": "Bél",
+                  "12": "Ọ̀pẹ"
                 },
                 "narrow": {
-                  "1": "1",
-                  "2": "2",
-                  "3": "3",
-                  "4": "4",
-                  "5": "5",
-                  "6": "6",
-                  "7": "7",
-                  "8": "8",
-                  "9": "9",
-                  "10": "10",
-                  "11": "11",
-                  "12": "12"
+                  "1": "S",
+                  "2": "È",
+                  "3": "Ẹ",
+                  "4": "Ì",
+                  "5": "Ẹ̀",
+                  "6": "Ò",
+                  "7": "A",
+                  "8": "Ò",
+                  "9": "O",
+                  "10": "Ọ̀",
+                  "11": "B",
+                  "12": "Ọ̀"
                 },
                 "wide": {
                   "1": "Oṣù Ṣẹ́rẹ́",
@@ -58,6 +58,34 @@
               },
               "stand-alone": {
                 "abbreviated": {
+                  "1": "Ṣẹ́",
+                  "2": "Èr",
+                  "3": "Ẹr",
+                  "4": "Ìg",
+                  "5": "Ẹ̀b",
+                  "6": "Òk",
+                  "7": "Ag",
+                  "8": "Òg",
+                  "9": "Ow",
+                  "10": "Ọ̀w",
+                  "11": "Bé",
+                  "12": "Ọ̀p"
+                },
+                "narrow": {
+                  "1": "S",
+                  "2": "È",
+                  "3": "Ẹ",
+                  "4": "Ì",
+                  "5": "Ẹ̀",
+                  "6": "Ò",
+                  "7": "A",
+                  "8": "Ò",
+                  "9": "O",
+                  "10": "Ọ̀",
+                  "11": "B",
+                  "12": "Ọ̀"
+                },
+                "wide": {
                   "1": "Ṣẹ́rẹ́",
                   "2": "Èrèlè",
                   "3": "Ẹrẹ̀nà",
@@ -70,56 +98,28 @@
                   "10": "Ọ̀wàrà",
                   "11": "Bélú",
                   "12": "Ọ̀pẹ̀"
-                },
-                "narrow": {
-                  "1": "1",
-                  "2": "2",
-                  "3": "3",
-                  "4": "4",
-                  "5": "5",
-                  "6": "6",
-                  "7": "7",
-                  "8": "8",
-                  "9": "9",
-                  "10": "10",
-                  "11": "11",
-                  "12": "12"
-                },
-                "wide": {
-                  "1": "Oṣù Ṣẹ́rẹ́",
-                  "2": "Oṣù Èrèlè",
-                  "3": "Oṣù Ẹrẹ̀nà",
-                  "4": "Oṣù Ìgbé",
-                  "5": "Oṣù Ẹ̀bibi",
-                  "6": "Oṣù Òkúdu",
-                  "7": "Oṣù Agẹmọ",
-                  "8": "Oṣù Ògún",
-                  "9": "Oṣù Owewe",
-                  "10": "Oṣù Ọ̀wàrà",
-                  "11": "Oṣù Bélú",
-                  "12": "Oṣù Ọ̀pẹ̀"
                 }
               }
             },
             "days": {
               "format": {
                 "abbreviated": {
-                  "sun": "Àìkú",
-                  "mon": "Ajé",
-                  "tue": "Ìsẹ́gun",
-                  "wed": "Ọjọ́rú",
-                  "thu": "Ọjọ́bọ",
-                  "fri": "Ẹtì",
-                  "sat": "Àbámẹ́ta"
+                  "sun": "Àìk",
+                  "mon": "Aj",
+                  "tue": "Ìsẹ́g",
+                  "wed": "Ọjọ́r",
+                  "thu": "Ọjọ́b",
+                  "fri": "Ẹt",
+                  "sat": "Àbám"
                 },
                 "narrow": {
-                  "sun": "S",
-                  "mon": "M",
-                  "tue": "T",
-                  "wed": "W",
-                  "thu": "T",
-                  "fri": "F",
-                  "sat": "S"
+                  "sun": "À",
+                  "mon": "A",
+                  "tue": "Ì",
+                  "wed": "Ọ",
+                  "thu": "Ọ",
+                  "fri": "Ẹ",
+                  "sat": "À"
                 },
                 "short": {
                   "sun": "Àìkú",
@@ -142,22 +142,22 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "sun": "Àìkú",
-                  "mon": "Ajé",
-                  "tue": "Ìsẹ́gun",
-                  "wed": "Ọjọ́rú",
-                  "thu": "Ọjọ́bọ",
-                  "fri": "Ẹtì",
-                  "sat": "Àbámẹ́ta"
+                  "sun": "Àìk",
+                  "mon": "Aj",
+                  "tue": "Ìsẹ́g",
+                  "wed": "Ọjọ́r",
+                  "thu": "Ọjọ́b",
+                  "fri": "Ẹt",
+                  "sat": "Àbám"
                 },
                 "narrow": {
-                  "sun": "S",
-                  "mon": "M",
-                  "tue": "T",
-                  "wed": "W",
-                  "thu": "T",
-                  "fri": "F",
-                  "sat": "S"
+                  "sun": "À",
+                  "mon": "A",
+                  "tue": "Ì",
+                  "wed": "Ọ",
+                  "thu": "Ọ",
+                  "fri": "Ẹ",
+                  "sat": "À"
                 },
                 "short": {
                   "sun": "Àìkú",
@@ -169,55 +169,55 @@
                   "sat": "Àbámẹ́ta"
                 },
                 "wide": {
-                  "sun": "Ọjọ́ Àìkú",
-                  "mon": "Ọjọ́ Ajé",
-                  "tue": "Ọjọ́ Ìsẹ́gun",
+                  "sun": "Àìkú",
+                  "mon": "Ajé",
+                  "tue": "Ìsẹ́gun",
                   "wed": "Ọjọ́rú",
                   "thu": "Ọjọ́bọ",
-                  "fri": "Ọjọ́ Ẹtì",
-                  "sat": "Ọjọ́ Àbámẹ́ta"
+                  "fri": "Ẹtì",
+                  "sat": "Àbámẹ́ta"
                 }
               }
             },
             "quarters": {
               "format": {
                 "abbreviated": {
-                  "1": "K1",
-                  "2": "K2",
-                  "3": "K3",
-                  "4": "K4"
+                  "1": "Ìdámẹ́rin kíní",
+                  "2": "Ìdámẹ́rin Kejì",
+                  "3": "Ìdámẹ́rin Kẹta",
+                  "4": "Ìdámẹ́rin Kẹrin"
                 },
                 "narrow": {
-                  "1": "1",
-                  "2": "2",
-                  "3": "3",
-                  "4": "4"
+                  "1": "kíní",
+                  "2": "Kejì",
+                  "3": "Kẹta",
+                  "4": "Kẹin"
                 },
                 "wide": {
-                  "1": "Kọ́tà Kínní",
-                  "2": "Kọ́tà Kejì",
-                  "3": "Kọ́à Keta",
-                  "4": "Kọ́tà Kẹrin"
+                  "1": "Ìdámẹ́rin kíní",
+                  "2": "Ìdámẹ́rin Kejì",
+                  "3": "Ìdámẹ́rin Kẹta",
+                  "4": "Ìdámẹ́rin Kẹrin"
                 }
               },
               "stand-alone": {
                 "abbreviated": {
-                  "1": "K1",
-                  "2": "K2",
-                  "3": "K3",
-                  "4": "K4"
+                  "1": "Ìdámẹ́rin kíní",
+                  "2": "Ìdámẹ́rin Kejì",
+                  "3": "Ìdámẹ́rin Kẹta",
+                  "4": "Ìdámẹ́rin Kẹrin"
                 },
                 "narrow": {
-                  "1": "1",
-                  "2": "2",
-                  "3": "3",
-                  "4": "4"
+                  "1": "kí",
+                  "2": "Ke",
+                  "3": "Kẹt",
+                  "4": "Kẹr"
                 },
                 "wide": {
-                  "1": "Kọ́tà Kínní",
-                  "2": "Kọ́tà Kejì",
-                  "3": "Kọ́à Keta",
-                  "4": "Kọ́tà Kẹrin"
+                  "1": "Ìdámẹ́rin kíní",
+                  "2": "Ìdámẹ́rin Kejì",
+                  "3": "Ìdámẹ́rin Kẹta",
+                  "4": "Ìdámẹ́rin Kẹrin"
                 }
               }
             },
@@ -261,27 +261,27 @@
               "eraAbbr": {
                 "0": "BCE",
                 "0-alt-variant": "BCE",
-                "1": "LK",
+                "1": "CE",
                 "1-alt-variant": "CE"
               },
               "eraNarrow": {
                 "0": "BCE",
                 "0-alt-variant": "BCE",
-                "1": "LK",
+                "1": "CE",
                 "1-alt-variant": "CE"
               }
             },
             "dateFormats": {
-              "full": "EEEE, d MMMM y",
-              "long": "d MMMM y",
-              "medium": "d MMM y",
-              "short": "dd/MM/y"
+              "full": "EEEE, d MMM y",
+              "long": "d MMM y",
+              "medium": "d MM y",
+              "short": "d/M/y"
             },
             "timeFormats": {
               "full": "HH:mm:ss zzzz",
-              "long": "HH:mm:ss z",
-              "medium": "HH:mm:ss",
-              "short": "HH:mm"
+              "long": "H:mm:ss z",
+              "medium": "H:m:s",
+              "short": "H:m"
             },
             "dateTimeFormats": {
               "full": "{1} {0}",
@@ -296,7 +296,7 @@
                 "E": "ccc",
                 "EBhm": "E h:mm B",
                 "EBhms": "E h:mm:ss B",
-                "Ed": "d, E",
+                "Ed": "E, d",
                 "Ehm": "E h:mm a",
                 "EHm": "E HH:mm",
                 "Ehms": "E h:mm:ss a",
@@ -316,22 +316,22 @@
                 "hmv": "h:mm a v",
                 "Hmv": "HH:mm v",
                 "M": "L",
-                "Md": "M/d",
-                "MEd": "E, M/d",
+                "Md": "d/M",
+                "MEd": "E, d/M",
                 "MMM": "LLL",
-                "MMMd": "MMM d",
-                "MMMEd": "E, MMM d",
-                "MMMMd": "MMMM d",
-                "MMMMEd": "E, MMMM d",
-                "MMMMW-count-other": "'week' W 'of' MMM",
+                "MMMd": "d MMM",
+                "MMMEd": "d MMM, E",
+                "MMMMd": "d MMMM",
+                "MMMMEd": "d, MMMM E",
+                "MMMMW-count-other": "'week' W 'of' MMMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "M/y",
-                "yMd": "y-MM-dd",
-                "yMEd": "E, M/d/y",
+                "yMd": "d/M/y",
+                "yMEd": "d/M/y, E",
                 "yMMM": "MMM y",
-                "yMMMd": "y MMM d",
-                "yMMMEd": "E, MMM d, y",
+                "yMMMd": "d MMM y",
+                "yMMMEd": "E, d MMM , y",
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ y",
@@ -352,6 +352,15 @@
               },
               "intervalFormats": {
                 "intervalFormatFallback": "{0} – {1}",
+                "Bh": {
+                  "B": "h B – h B",
+                  "h": "h–h B"
+                },
+                "Bhm": {
+                  "B": "h:mm B – h:mm B",
+                  "h": "h:mm–h:mm B",
+                  "m": "h:mm–h:mm B"
+                },
                 "d": {
                   "d": "d–d"
                 },
@@ -451,7 +460,7 @@
                   "y": "y–y"
                 },
                 "yM": {
-                  "M": "y-MM – y-MM",
+                  "M": "MM-y – MM-y",
                   "y": "y-MM – y-MM"
                 },
                 "yMd": {
@@ -460,7 +469,7 @@
                   "y": "y-MM-dd – y-MM-dd"
                 },
                 "yMEd": {
-                  "d": "y-MM-dd, E – y-MM-dd, E",
+                  "d": "E, dd-MM-y – E dd-MM-y, E",
                   "M": "y-MM-dd, E – y-MM-dd, E",
                   "y": "y-MM-dd, E – y-MM-dd, E"
                 },
@@ -469,18 +478,18 @@
                   "y": "y MMM – y MMM"
                 },
                 "yMMMd": {
-                  "d": "y MMM d–d",
-                  "M": "y MMM d – MMM d",
+                  "d": "MMM d–d y",
+                  "M": "MMM d – MMM d y",
                   "y": "y MMM d – y MMM d"
                 },
                 "yMMMEd": {
-                  "d": "y MMM d, E – MMM d, E",
-                  "M": "y MMM d, E – MMM d, E",
-                  "y": "y MMM d, E – y MMM d, E"
+                  "d": "MMM d, E – MMM d, E y",
+                  "M": "MMM d, E – MMM d, E y",
+                  "y": "y MMM d y, E – MMM d, E y"
                 },
                 "yMMMM": {
-                  "M": "y MMMM–MMMM",
-                  "y": "y MMMM – y MMMM"
+                  "M": "MMMM–MMMM y",
+                  "y": "MMMM – y MMMM y"
                 }
               }
             }

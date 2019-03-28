@@ -3,8 +3,8 @@
     "ha": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14302 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14845 $",
+          "_cldrVersion": "35"
         },
         "language": "ha"
       },
@@ -56,7 +56,7 @@
             }
           },
           "quarter": {
-            "displayName": "Quarter",
+            "displayName": "Kwata",
             "relative-type--1": "last quarter",
             "relative-type-0": "this quarter",
             "relative-type-1": "next quarter",
@@ -68,7 +68,7 @@
             }
           },
           "quarter-short": {
-            "displayName": "Quarter",
+            "displayName": "Kwata",
             "relative-type--1": "last quarter",
             "relative-type-0": "this quarter",
             "relative-type-1": "next quarter",
@@ -80,7 +80,7 @@
             }
           },
           "quarter-narrow": {
-            "displayName": "Quarter",
+            "displayName": "Kwata",
             "relative-type--1": "last quarter",
             "relative-type-0": "this quarter",
             "relative-type-1": "next quarter",
@@ -221,13 +221,13 @@
             "displayName": "Day Of Year"
           },
           "weekday": {
-            "displayName": "Rana"
+            "displayName": "Rana mako"
           },
           "weekday-short": {
-            "displayName": "Rana"
+            "displayName": "Rana mako"
           },
           "weekday-narrow": {
-            "displayName": "Rana"
+            "displayName": "Rana mako"
           },
           "weekdayOfMonth": {
             "displayName": "Weekday Of Month"
@@ -470,13 +470,13 @@
             }
           },
           "dayperiod-short": {
-            "displayName": "Yini"
+            "displayName": "Lokuttan rana"
           },
           "dayperiod": {
-            "displayName": "Yini"
+            "displayName": "Lokuttan rana"
           },
           "dayperiod-narrow": {
-            "displayName": "Yini"
+            "displayName": "Lokuttan rana"
           },
           "hour": {
             "displayName": "Awa",
@@ -569,13 +569,13 @@
             }
           },
           "zone": {
-            "displayName": "Agogo"
+            "displayName": "Lokacin yanki"
           },
           "zone-short": {
-            "displayName": "Agogo"
+            "displayName": "Lokacin yanki"
           },
           "zone-narrow": {
-            "displayName": "Agogo"
+            "displayName": "Lokacin yanki"
           }
         }
       }

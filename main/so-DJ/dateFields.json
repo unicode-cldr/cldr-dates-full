@@ -3,8 +3,8 @@
     "so-DJ": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13869 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14771 $",
+          "_cldrVersion": "35"
         },
         "language": "so",
         "territory": "DJ"
@@ -12,625 +12,661 @@
       "dates": {
         "fields": {
           "era": {
-            "displayName": "Era"
+            "displayName": "saman"
           },
           "era-short": {
-            "displayName": "Era"
+            "displayName": "smn"
           },
           "era-narrow": {
-            "displayName": "Era"
+            "displayName": "smn"
           },
           "year": {
-            "displayName": "Year",
-            "relative-type--1": "Sannadkii la soo dhaafay",
+            "displayName": "Sannad",
+            "relative-type--1": "Sannadkii hore",
             "relative-type-0": "Sannadkan",
-            "relative-type-1": "Sannadka xiga",
+            "relative-type-1": "Sannadka danbe",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} y",
-              "relativeTimePattern-count-other": "+{0} y"
+              "relativeTimePattern-count-one": "{0} sannad",
+              "relativeTimePattern-count-other": "{0} sannadood"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} y",
-              "relativeTimePattern-count-other": "-{0} y"
+              "relativeTimePattern-count-one": "{0} sannad kahor",
+              "relativeTimePattern-count-other": "{0} sannadood kahor"
             }
           },
           "year-short": {
-            "displayName": "Sanadkii",
-            "relative-type--1": "Sannadkii la soo dhaafay",
+            "displayName": "snd",
+            "relative-type--1": "Sannadkii hore",
             "relative-type-0": "Sannadkan",
-            "relative-type-1": "Sannadka xiga",
+            "relative-type-1": "Sannadka danbe",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} y",
-              "relativeTimePattern-count-other": "+{0} y"
+              "relativeTimePattern-count-one": "{0} snd",
+              "relativeTimePattern-count-other": "{0} snd"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} y",
-              "relativeTimePattern-count-other": "-{0} y"
+              "relativeTimePattern-count-one": "{0} snd khr",
+              "relativeTimePattern-count-other": "{0} Snd khr"
             }
           },
           "year-narrow": {
-            "displayName": "Sannad-dhuuban",
+            "displayName": "Snd",
             "relative-type--1": "Sannadkii la soo dhaafay",
             "relative-type-0": "Sannadkan",
             "relative-type-1": "Sannadka xiga",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} y",
-              "relativeTimePattern-count-other": "+{0} y"
+              "relativeTimePattern-count-one": "{0} snd",
+              "relativeTimePattern-count-other": "{0} snd"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} y",
-              "relativeTimePattern-count-other": "-{0} y"
+              "relativeTimePattern-count-one": "{0} snd khr",
+              "relativeTimePattern-count-other": "{0} Snd khr"
             }
           },
           "quarter": {
-            "displayName": "Quarter",
-            "relative-type--1": "last quarter",
-            "relative-type-0": "this quarter",
-            "relative-type-1": "next quarter",
+            "displayName": "Rubuc",
+            "relative-type--1": "Rubucii hore",
+            "relative-type-0": "Rubucan",
+            "relative-type-1": "Rubuca danbe",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} Q",
-              "relativeTimePattern-count-other": "+{0} Q"
+              "relativeTimePattern-count-one": "{0} rubuc",
+              "relativeTimePattern-count-other": "{0} rubuc"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} Q",
-              "relativeTimePattern-count-other": "-{0} Q"
+              "relativeTimePattern-count-one": "{0} rubuc kahor",
+              "relativeTimePattern-count-other": "{0} rubuc kahor"
             }
           },
           "quarter-short": {
-            "displayName": "Rubuc-gaaban",
-            "relative-type--1": "last quarter",
-            "relative-type-0": "this quarter",
-            "relative-type-1": "next quarter",
+            "displayName": "rbc",
+            "relative-type--1": "Rubucii hore",
+            "relative-type-0": "Rubucan",
+            "relative-type-1": "Rubuca danbe",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} Q",
-              "relativeTimePattern-count-other": "+{0} Q"
+              "relativeTimePattern-count-one": "{0} rbc",
+              "relativeTimePattern-count-other": "{0} rbc"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} Q",
-              "relativeTimePattern-count-other": "-{0} Q"
+              "relativeTimePattern-count-one": "{0} rbc khr",
+              "relativeTimePattern-count-other": "{0} rbc khr"
             }
           },
           "quarter-narrow": {
-            "displayName": "Rubuc-dhuuban",
-            "relative-type--1": "last quarter",
-            "relative-type-0": "this quarter",
-            "relative-type-1": "next quarter",
+            "displayName": "rbc",
+            "relative-type--1": "Rubucii hore",
+            "relative-type-0": "Rubucan",
+            "relative-type-1": "Rubuca danbe",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} Q",
-              "relativeTimePattern-count-other": "+{0} Q"
+              "relativeTimePattern-count-one": "{0} rbc",
+              "relativeTimePattern-count-other": "{0} rbc"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} Q",
-              "relativeTimePattern-count-other": "-{0} Q"
+              "relativeTimePattern-count-one": "{0} rbc khr",
+              "relativeTimePattern-count-other": "{0} rbc khr"
             }
           },
           "month": {
-            "displayName": "Month",
-            "relative-type--1": "Bishii la soo dhaafay",
+            "displayName": "Bil",
+            "relative-type--1": "Bishii hore",
             "relative-type-0": "Bishan",
-            "relative-type-1": "Bisha xigta",
+            "relative-type-1": "Bisha danbe",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} m",
-              "relativeTimePattern-count-other": "+{0} m"
+              "relativeTimePattern-count-one": "{0} bil",
+              "relativeTimePattern-count-other": "{0} bilood"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} m",
-              "relativeTimePattern-count-other": "-{0} m"
+              "relativeTimePattern-count-one": "{0} bil kahor",
+              "relativeTimePattern-count-other": "{0} bilood kahor"
             }
           },
           "month-short": {
             "displayName": "Bil-gaaban",
-            "relative-type--1": "Bishii la soo dhaafay",
+            "relative-type--1": "Bishii hore",
             "relative-type-0": "Bishan",
-            "relative-type-1": "Bisha xigta",
+            "relative-type-1": "Bisha danbe",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} m",
-              "relativeTimePattern-count-other": "+{0} m"
+              "relativeTimePattern-count-one": "{0} bil",
+              "relativeTimePattern-count-other": "{0} bil"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} m",
-              "relativeTimePattern-count-other": "-{0} m"
+              "relativeTimePattern-count-one": "{0} bil khr",
+              "relativeTimePattern-count-other": "{0} bil khr"
             }
           },
           "month-narrow": {
             "displayName": "Bil-gaaban",
-            "relative-type--1": "Bishii la soo dhaafay",
+            "relative-type--1": "Bishii hore",
             "relative-type-0": "Bishan",
-            "relative-type-1": "Bisha xigta",
+            "relative-type-1": "Bisha danbe",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} m",
-              "relativeTimePattern-count-other": "+{0} m"
+              "relativeTimePattern-count-one": "{0} bil",
+              "relativeTimePattern-count-other": "{0} bil"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} m",
-              "relativeTimePattern-count-other": "-{0} m"
+              "relativeTimePattern-count-one": "{0} bil khr",
+              "relativeTimePattern-count-other": "{0} bil khr"
             }
           },
           "week": {
-            "displayName": "Week",
-            "relative-type--1": "Usbuucii la soo dhaafay",
+            "displayName": "Toddobaad",
+            "relative-type--1": "Toddobaadkii hore",
             "relative-type-0": "Usbuucan",
-            "relative-type-1": "Usbuuca xiga",
+            "relative-type-1": "Toddobaadka danbe",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} w",
-              "relativeTimePattern-count-other": "+{0} w"
+              "relativeTimePattern-count-one": "{0} toddobaad",
+              "relativeTimePattern-count-other": "{0} toddobaad"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} w",
-              "relativeTimePattern-count-other": "-{0} w"
+              "relativeTimePattern-count-one": "{0} toddobaad kahor",
+              "relativeTimePattern-count-other": "{0} toddobaad kahor"
             },
-            "relativePeriod": "the week of {0}"
+            "relativePeriod": "Toddobaadka {0}"
           },
           "week-short": {
-            "displayName": "Usbuuc-gaaban",
-            "relative-type--1": "Usbuucii la soo dhaafay",
+            "displayName": "tdbd",
+            "relative-type--1": "Toddobaadkii hore",
             "relative-type-0": "Usbuucan",
-            "relative-type-1": "Usbuuca xiga",
+            "relative-type-1": "Toddobaadka danbe",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} w",
-              "relativeTimePattern-count-other": "+{0} w"
+              "relativeTimePattern-count-one": "{0} tdbd",
+              "relativeTimePattern-count-other": "{0} tdbd"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} w",
-              "relativeTimePattern-count-other": "-{0} w"
+              "relativeTimePattern-count-one": "{0} tdbd khr",
+              "relativeTimePattern-count-other": "{0} tdbd khr"
             },
-            "relativePeriod": "the week of {0}"
+            "relativePeriod": "Tdbdka {0}"
           },
           "week-narrow": {
-            "displayName": "Usbuuc-dhuuban",
-            "relative-type--1": "Usbuucii la soo dhaafay",
+            "displayName": "tdbd",
+            "relative-type--1": "Toddobaadkii hore",
             "relative-type-0": "Usbuucan",
-            "relative-type-1": "Usbuuca xiga",
+            "relative-type-1": "Toddobaadka danbe",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} w",
-              "relativeTimePattern-count-other": "+{0} w"
+              "relativeTimePattern-count-one": "{0} tdbd",
+              "relativeTimePattern-count-other": "{0} tdbd"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} w",
-              "relativeTimePattern-count-other": "-{0} w"
+              "relativeTimePattern-count-one": "{0} tdbd khr",
+              "relativeTimePattern-count-other": "{0} tdbd khr"
             },
-            "relativePeriod": "the week of {0}"
+            "relativePeriod": "Tdbdka {0}"
           },
           "weekOfMonth": {
-            "displayName": "Week Of Month"
+            "displayName": "Toddobaadka Bisha"
           },
           "weekOfMonth-short": {
-            "displayName": "Week Of Month"
+            "displayName": "tdbdka bsha"
           },
           "weekOfMonth-narrow": {
-            "displayName": "Week Of Month"
+            "displayName": "tdbdka bsha"
           },
           "day": {
-            "displayName": "Day",
+            "displayName": "maalin",
             "relative-type--1": "Shalay",
             "relative-type-0": "Maanta",
             "relative-type-1": "Berri",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} d",
-              "relativeTimePattern-count-other": "+{0} d"
+              "relativeTimePattern-count-one": "{0} maalin",
+              "relativeTimePattern-count-other": "{0} maalmood"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} d",
-              "relativeTimePattern-count-other": "-{0} d"
+              "relativeTimePattern-count-one": "{0} maalin kahor",
+              "relativeTimePattern-count-other": "{0} maalmood kahor"
             }
           },
           "day-short": {
-            "displayName": "Day",
+            "displayName": "mln",
             "relative-type--1": "Shalay",
             "relative-type-0": "Maanta",
             "relative-type-1": "Berri",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} d",
-              "relativeTimePattern-count-other": "+{0} d"
+              "relativeTimePattern-count-one": "{0} mln",
+              "relativeTimePattern-count-other": "{0} mlmd"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} d",
-              "relativeTimePattern-count-other": "-{0} d"
+              "relativeTimePattern-count-one": "{0} mln khr",
+              "relativeTimePattern-count-other": "{0} mlmd khr"
             }
           },
           "day-narrow": {
-            "displayName": "Maalin-dhuuban",
+            "displayName": "mln",
             "relative-type--1": "Shalay",
             "relative-type-0": "Maanta",
             "relative-type-1": "Berri",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} d",
-              "relativeTimePattern-count-other": "+{0} d"
+              "relativeTimePattern-count-one": "{0} mln",
+              "relativeTimePattern-count-other": "{0} mlmd"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} d",
-              "relativeTimePattern-count-other": "-{0} d"
+              "relativeTimePattern-count-one": "{0} mln khr",
+              "relativeTimePattern-count-other": "{0} mlmd khr"
             }
           },
           "dayOfYear": {
-            "displayName": "Day Of Year"
+            "displayName": "maalinta sannadka"
           },
           "dayOfYear-short": {
-            "displayName": "Day Of Year"
+            "displayName": "mlnta sndka"
           },
           "dayOfYear-narrow": {
-            "displayName": "Day Of Year"
+            "displayName": "mlnta sndka"
           },
           "weekday": {
-            "displayName": "Day of the Week"
+            "displayName": "maalinta toddobaadka"
           },
           "weekday-short": {
-            "displayName": "Day of the Week"
+            "displayName": "mlnta tdbdka"
           },
           "weekday-narrow": {
-            "displayName": "Day of the Week"
+            "displayName": "mlnta tdbdka"
           },
           "weekdayOfMonth": {
-            "displayName": "Weekday Of Month"
+            "displayName": "maalinta-toddobaadka bisha"
           },
           "weekdayOfMonth-short": {
-            "displayName": "Weekday Of Month"
+            "displayName": "mlnta-tdbdka bsha"
           },
           "weekdayOfMonth-narrow": {
-            "displayName": "Weekday Of Month"
+            "displayName": "mlnta-tdbdka bsha"
           },
           "sun": {
-            "relative-type--1": "last Sunday",
-            "relative-type-0": "this Sunday",
-            "relative-type-1": "next Sunday",
+            "relative-type--1": "Axadii hore",
+            "relative-type-0": "Axadan",
+            "relative-type-1": "Axada danbe",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} Sundays",
-              "relativeTimePattern-count-other": "+{0} Sundays"
+              "relativeTimePattern-count-one": "Axad",
+              "relativeTimePattern-count-other": "{0} Axadood"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} Sundays",
-              "relativeTimePattern-count-other": "-{0} Sundays"
+              "relativeTimePattern-count-one": "{0} Axad kahor",
+              "relativeTimePattern-count-other": "{0} Axadood kahor"
             }
           },
           "sun-short": {
-            "relative-type--1": "last Sunday",
-            "relative-type-0": "this Sunday",
-            "relative-type-1": "next Sunday",
+            "relative-type--1": "Axdi hre",
+            "relative-type-0": "Axdn",
+            "relative-type-1": "Axda dbe",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} Sundays",
-              "relativeTimePattern-count-other": "+{0} Sundays"
+              "relativeTimePattern-count-one": "{0} Axd",
+              "relativeTimePattern-count-other": "{0} Axd"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} Sundays",
-              "relativeTimePattern-count-other": "-{0} Sundays"
+              "relativeTimePattern-count-one": "{0} Axd khr",
+              "relativeTimePattern-count-other": "{0} axd khr"
             }
           },
           "sun-narrow": {
-            "relative-type--1": "last Sunday",
-            "relative-type-0": "this Sunday",
-            "relative-type-1": "next Sunday",
+            "relative-type--1": "Axdi hre",
+            "relative-type-0": "Axdn",
+            "relative-type-1": "Axda dbe",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} Sundays",
-              "relativeTimePattern-count-other": "+{0} Sundays"
+              "relativeTimePattern-count-one": "{0} Axd",
+              "relativeTimePattern-count-other": "{0} Axd"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} Sundays",
-              "relativeTimePattern-count-other": "-{0} Sundays"
+              "relativeTimePattern-count-one": "{0} Axd khr",
+              "relativeTimePattern-count-other": "{0} axd khr"
             }
           },
           "mon": {
-            "relative-type--1": "last Monday",
-            "relative-type-0": "this Monday",
-            "relative-type-1": "next Monday",
+            "relative-type--1": "Isniintii hore",
+            "relative-type-0": "Isniintan",
+            "relative-type-1": "Isniinta danbe",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Mondays"
+              "relativeTimePattern-count-one": "{0} Isniin",
+              "relativeTimePattern-count-other": "{0} Isniinood"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Mondays"
+              "relativeTimePattern-count-one": "{0} Isniin kahor",
+              "relativeTimePattern-count-other": "{0} Isniinood kahor"
             }
           },
           "mon-short": {
-            "relative-type--1": "last Monday",
-            "relative-type-0": "this Monday",
-            "relative-type-1": "next Monday",
+            "relative-type--1": "Isnti hre",
+            "relative-type-0": "Isntn",
+            "relative-type-1": "Isnta dbe",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Mondays"
+              "relativeTimePattern-count-one": "{0} Isn",
+              "relativeTimePattern-count-other": "{0} Isn"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Mondays"
+              "relativeTimePattern-count-one": "{0} Isn khr",
+              "relativeTimePattern-count-other": "{0} Isn khr"
             }
           },
           "mon-narrow": {
-            "relative-type--1": "last Monday",
-            "relative-type-0": "this Monday",
-            "relative-type-1": "next Monday",
+            "relative-type--1": "Isnti hre",
+            "relative-type-0": "Isntn",
+            "relative-type-1": "Isnta dbe",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Mondays"
+              "relativeTimePattern-count-one": "{0} Isn",
+              "relativeTimePattern-count-other": "{0} Isn"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Mondays"
+              "relativeTimePattern-count-one": "{0} Isn khr",
+              "relativeTimePattern-count-other": "{0} Isn khr"
             }
           },
           "tue": {
-            "relative-type--1": "last Tuesday",
-            "relative-type-0": "this Tuesday",
-            "relative-type-1": "next Tuesday",
+            "relative-type--1": "Salaasadii hore",
+            "relative-type-0": "Salaasadan",
+            "relative-type-1": "Salaasada danbe",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Tuesdays"
+              "relativeTimePattern-count-one": "{0} Salaasa",
+              "relativeTimePattern-count-other": "{0} Salaasood"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Tuesdays"
+              "relativeTimePattern-count-one": "{0} Salaasa kahor",
+              "relativeTimePattern-count-other": "{0} Salaasood kahor"
             }
           },
           "tue-short": {
-            "relative-type--1": "last Tuesday",
-            "relative-type-0": "this Tuesday",
-            "relative-type-1": "next Tuesday",
+            "relative-type--1": "Slsdi hre",
+            "relative-type-0": "Slsdn",
+            "relative-type-1": "Slsda dbe",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Tuesdays"
+              "relativeTimePattern-count-one": "{0} Slsa",
+              "relativeTimePattern-count-other": "{0} Slsa"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Tuesdays"
+              "relativeTimePattern-count-one": "{0} Slsa khr",
+              "relativeTimePattern-count-other": "{0} Slsa khr"
             }
           },
           "tue-narrow": {
-            "relative-type--1": "last Tuesday",
-            "relative-type-0": "this Tuesday",
-            "relative-type-1": "next Tuesday",
+            "relative-type--1": "Slsdi hre",
+            "relative-type-0": "Slsdn",
+            "relative-type-1": "Slsda dbe",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Tuesdays"
+              "relativeTimePattern-count-one": "{0} Slsa",
+              "relativeTimePattern-count-other": "{0} Slsa"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Tuesdays"
+              "relativeTimePattern-count-one": "{0} Slsa khr",
+              "relativeTimePattern-count-other": "{0} Slsa khr"
             }
           },
           "wed": {
-            "relative-type--1": "last Wednesday",
-            "relative-type-0": "this Wednesday",
-            "relative-type-1": "next Wednesday",
+            "relative-type--1": "Arbacadii hore",
+            "relative-type-0": "Arbacadan",
+            "relative-type-1": "Arbacada danbe",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Wednesdays"
+              "relativeTimePattern-count-one": "{0} Arbaca",
+              "relativeTimePattern-count-other": "{0} Arbacood"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Wednesdays"
+              "relativeTimePattern-count-one": "{0} Arbaca kahor",
+              "relativeTimePattern-count-other": "{0} Arbacood kahor"
             }
           },
           "wed-short": {
-            "relative-type--1": "last Wednesday",
-            "relative-type-0": "this Wednesday",
-            "relative-type-1": "next Wednesday",
+            "relative-type--1": "Arbcdi hre",
+            "relative-type-0": "Arbcdn",
+            "relative-type-1": "Arbcda dbe",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Wednesdays"
+              "relativeTimePattern-count-one": "{0} Arbc",
+              "relativeTimePattern-count-other": "{0} Arbc"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Wednesdays"
+              "relativeTimePattern-count-one": "{0} Arbc khr",
+              "relativeTimePattern-count-other": "{0} Arbc khr"
             }
           },
           "wed-narrow": {
-            "relative-type--1": "last Wednesday",
-            "relative-type-0": "this Wednesday",
-            "relative-type-1": "next Wednesday",
+            "relative-type--1": "Arbcdi hre",
+            "relative-type-0": "Arbcdn",
+            "relative-type-1": "Arbcda dbe",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Wednesdays"
+              "relativeTimePattern-count-one": "{0} Arbc",
+              "relativeTimePattern-count-other": "{0} Arbc"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Wednesdays"
+              "relativeTimePattern-count-one": "{0} Arbc khr",
+              "relativeTimePattern-count-other": "{0} Arbc khr"
             }
           },
           "thu": {
-            "relative-type--1": "last Thursday",
-            "relative-type-0": "this Thursday",
-            "relative-type-1": "next Thursday",
+            "relative-type--1": "Khamiistii hore",
+            "relative-type-0": "Khamiistan",
+            "relative-type-1": "Khamiista danbe",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Thursdays"
+              "relativeTimePattern-count-one": "{0} Khamiis",
+              "relativeTimePattern-count-other": "{0} Khamiisood"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Thursdays"
+              "relativeTimePattern-count-one": "{0} Khamiis kahor",
+              "relativeTimePattern-count-other": "{0} Khamiisood kahor"
             }
           },
           "thu-short": {
-            "relative-type--1": "last Thursday",
-            "relative-type-0": "this Thursday",
-            "relative-type-1": "next Thursday",
+            "relative-type--1": "Khmsti hre",
+            "relative-type-0": "Khmstn",
+            "relative-type-1": "Khmsta dbe",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Thursdays"
+              "relativeTimePattern-count-one": "{0} khms",
+              "relativeTimePattern-count-other": "{0} khms"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Thursdays"
+              "relativeTimePattern-count-one": "{0} khms khr",
+              "relativeTimePattern-count-other": "{0} khms khr"
             }
           },
           "thu-narrow": {
-            "relative-type--1": "last Thursday",
-            "relative-type-0": "this Thursday",
-            "relative-type-1": "next Thursday",
+            "relative-type--1": "Khmsti hre",
+            "relative-type-0": "Khmstn",
+            "relative-type-1": "Khmsta dbe",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Thursdays"
+              "relativeTimePattern-count-one": "{0} khms",
+              "relativeTimePattern-count-other": "{0} khms"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Thursdays"
+              "relativeTimePattern-count-one": "{0} khms khr",
+              "relativeTimePattern-count-other": "{0} khms khr"
             }
           },
           "fri": {
-            "relative-type--1": "last Friday",
-            "relative-type-0": "this Friday",
-            "relative-type-1": "next Friday",
+            "relative-type--1": "Jimcihii hore",
+            "relative-type-0": "Jimcahan",
+            "relative-type-1": "Jimcaha danbe",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Fridays"
+              "relativeTimePattern-count-one": "{0} Jimce",
+              "relativeTimePattern-count-other": "{0} Jimcood"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Fridays"
+              "relativeTimePattern-count-one": "{0} Jimce kahor",
+              "relativeTimePattern-count-other": "{0} Jimcood kahor"
             }
           },
           "fri-short": {
-            "relative-type--1": "last Friday",
-            "relative-type-0": "this Friday",
-            "relative-type-1": "next Friday",
+            "relative-type--1": "Jmchi hre",
+            "relative-type-0": "Jmchn",
+            "relative-type-1": "Jmcha dbe",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Fridays"
+              "relativeTimePattern-count-one": "{0} Jmc",
+              "relativeTimePattern-count-other": "{0} Jmc"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Fridays"
+              "relativeTimePattern-count-one": "{0} Jmc khr",
+              "relativeTimePattern-count-other": "{0} jmc khr"
             }
           },
           "fri-narrow": {
-            "relative-type--1": "last Friday",
-            "relative-type-0": "this Friday",
-            "relative-type-1": "next Friday",
+            "relative-type--1": "Jmchi hre",
+            "relative-type-0": "Jmchn",
+            "relative-type-1": "Jmcha dbe",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Fridays"
+              "relativeTimePattern-count-one": "{0} Jmc",
+              "relativeTimePattern-count-other": "{0} Jmc"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Fridays"
+              "relativeTimePattern-count-one": "{0} Jmc khr",
+              "relativeTimePattern-count-other": "{0} jmc khr"
             }
           },
           "sat": {
-            "relative-type--1": "last Saturday",
-            "relative-type-0": "this Saturday",
-            "relative-type-1": "next Saturday",
+            "relative-type--1": "Sabtidii hore",
+            "relative-type-0": "Sabtidan",
+            "relative-type-1": "Sabtida danbe",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Saturdays"
+              "relativeTimePattern-count-one": "{0} Sabti",
+              "relativeTimePattern-count-other": "{0} Sabtiyood"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Saturdays"
+              "relativeTimePattern-count-one": "{0} Sabti kahor",
+              "relativeTimePattern-count-other": "{0} Sabtiyood kahor"
             }
           },
           "sat-short": {
-            "relative-type--1": "last Saturday",
-            "relative-type-0": "this Saturday",
-            "relative-type-1": "next Saturday",
+            "relative-type--1": "Sbtdi hre",
+            "relative-type-0": "Sbtdn",
+            "relative-type-1": "Sbtda dbe",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Saturdays"
+              "relativeTimePattern-count-one": "{0} Sbti",
+              "relativeTimePattern-count-other": "{0} Sbti"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Saturdays"
+              "relativeTimePattern-count-one": "{0} Sbti khr",
+              "relativeTimePattern-count-other": "{0} Sbti khr"
             }
           },
           "sat-narrow": {
-            "relative-type--1": "last Saturday",
-            "relative-type-0": "this Saturday",
-            "relative-type-1": "next Saturday",
+            "relative-type--1": "Sbtdi hre",
+            "relative-type-0": "Sbtdn",
+            "relative-type-1": "Sbtda dbe",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Saturdays"
+              "relativeTimePattern-count-one": "{0} Sbti",
+              "relativeTimePattern-count-other": "{0} Sbti"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Saturdays"
+              "relativeTimePattern-count-one": "{0} Sbti khr",
+              "relativeTimePattern-count-other": "{0} Sbti khr"
             }
           },
           "dayperiod-short": {
-            "displayName": "Dayperiod"
+            "displayName": "GH/GD"
           },
           "dayperiod": {
-            "displayName": "Dayperiod"
+            "displayName": "GH/GD"
           },
           "dayperiod-narrow": {
-            "displayName": "Dayperiod"
+            "displayName": "GH/GD"
           },
           "hour": {
-            "displayName": "Hour",
-            "relative-type-0": "this hour",
+            "displayName": "Saacad",
+            "relative-type-0": "Saacadan",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} h",
-              "relativeTimePattern-count-other": "+{0} h"
+              "relativeTimePattern-count-one": "{0} saacad",
+              "relativeTimePattern-count-other": "{0} saacadood"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} h",
-              "relativeTimePattern-count-other": "-{0} h"
+              "relativeTimePattern-count-one": "{0} saacad kahor",
+              "relativeTimePattern-count-other": "{0} saacadood kahor"
             }
           },
           "hour-short": {
-            "displayName": "Saacad-gaaban",
-            "relative-type-0": "this hour",
+            "displayName": "scd",
+            "relative-type-0": "Saacadan",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} h",
-              "relativeTimePattern-count-other": "+{0} h"
+              "relativeTimePattern-count-one": "{0} scd",
+              "relativeTimePattern-count-other": "{0} scd"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} h",
-              "relativeTimePattern-count-other": "-{0} h"
+              "relativeTimePattern-count-one": "{0} scd khr",
+              "relativeTimePattern-count-other": "{0} scd khr"
             }
           },
           "hour-narrow": {
-            "displayName": "Saacad-gaaban",
-            "relative-type-0": "this hour",
+            "displayName": "scd",
+            "relative-type-0": "Saacadan",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} h",
-              "relativeTimePattern-count-other": "+{0} h"
+              "relativeTimePattern-count-one": "{0} scd",
+              "relativeTimePattern-count-other": "{0} scd"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} h",
-              "relativeTimePattern-count-other": "-{0} h"
+              "relativeTimePattern-count-one": "{0} scd khr",
+              "relativeTimePattern-count-other": "{0} scd khr"
             }
           },
           "minute": {
-            "displayName": "Minute",
-            "relative-type-0": "this minute",
+            "displayName": "daqiiqad",
+            "relative-type-0": "Daqiiqadan",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} min",
-              "relativeTimePattern-count-other": "+{0} min"
+              "relativeTimePattern-count-one": "{0} daqiiqad",
+              "relativeTimePattern-count-other": "{0} daqiidadood"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} min",
-              "relativeTimePattern-count-other": "-{0} min"
+              "relativeTimePattern-count-one": "{0} daqiiqad kahor",
+              "relativeTimePattern-count-other": "{0} daqiiqadood kahor"
             }
           },
           "minute-short": {
-            "displayName": "Minute",
-            "relative-type-0": "this minute",
+            "displayName": "dqqd",
+            "relative-type-0": "Daqiiqadan",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} min",
-              "relativeTimePattern-count-other": "+{0} min"
+              "relativeTimePattern-count-one": "{0} dqqd",
+              "relativeTimePattern-count-other": "{0} dqqd"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} min",
-              "relativeTimePattern-count-other": "-{0} min"
+              "relativeTimePattern-count-one": "{0} dqqd khr",
+              "relativeTimePattern-count-other": "{0} dqqd khr"
             }
           },
           "minute-narrow": {
-            "displayName": "Daqiiqad-dhuuban",
-            "relative-type-0": "this minute",
+            "displayName": "dqqd",
+            "relative-type-0": "Daqiiqadan",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} min",
-              "relativeTimePattern-count-other": "+{0} min"
+              "relativeTimePattern-count-one": "{0} dqqd",
+              "relativeTimePattern-count-other": "{0} dqqd"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} min",
-              "relativeTimePattern-count-other": "-{0} min"
+              "relativeTimePattern-count-one": "{0} dqqd khr",
+              "relativeTimePattern-count-other": "{0} dqqd khr"
             }
           },
           "second": {
-            "displayName": "Second",
-            "relative-type-0": "now",
+            "displayName": "ilbiriqsi",
+            "relative-type-0": "Imika",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} s",
-              "relativeTimePattern-count-other": "+{0} s"
+              "relativeTimePattern-count-one": "{0} ilbiriqsi",
+              "relativeTimePattern-count-other": "{0} ilbiriqsi"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} s",
-              "relativeTimePattern-count-other": "-{0} s"
+              "relativeTimePattern-count-one": "{0} ilbiriqsi kahor",
+              "relativeTimePattern-count-other": "{0} ilbiriqsi kahor"
             }
           },
           "second-short": {
-            "displayName": "Il-biriqsi-gaaban",
-            "relative-type-0": "now",
+            "displayName": "ilbrqsi",
+            "relative-type-0": "Imika",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} s",
-              "relativeTimePattern-count-other": "+{0} s"
+              "relativeTimePattern-count-one": "{0} ilbrqsi",
+              "relativeTimePattern-count-other": "{0} ilbrqsi"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} s",
-              "relativeTimePattern-count-other": "-{0} s"
+              "relativeTimePattern-count-one": "{0} ilbrqsi khr",
+              "relativeTimePattern-count-other": "{0} ilbrqsi khr"
             }
           },
           "second-narrow": {
-            "displayName": "Il-biriqsi-dhuuban",
-            "relative-type-0": "now",
+            "displayName": "ilbrqsi",
+            "relative-type-0": "Imika",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} s",
-              "relativeTimePattern-count-other": "+{0} s"
+              "relativeTimePattern-count-one": "{0} ilbrqsi",
+              "relativeTimePattern-count-other": "{0} ilbrqsi"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} s",
-              "relativeTimePattern-count-other": "-{0} s"
+              "relativeTimePattern-count-one": "{0} ilbrqsi khr",
+              "relativeTimePattern-count-other": "{0} ilbrqsi khr"
             }
           },
           "zone": {
-            "displayName": "Zone"
+            "displayName": "wakhtiga aagga"
           },
           "zone-short": {
-            "displayName": "Zone"
+            "displayName": "aagga"
           },
           "zone-narrow": {
-            "displayName": "Zone"
+            "displayName": "Aagga"
           }
         }
       }

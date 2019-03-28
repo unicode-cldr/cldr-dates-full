@@ -3,19 +3,19 @@
     "yo": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14488 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "yo"
       },
       "dates": {
         "timeZoneNames": {
           "hourFormat": "+HH:mm;-HH:mm",
-          "gmtFormat": "GMT{0}",
-          "gmtZeroFormat": "GMT",
-          "regionFormat": "{0}",
-          "regionFormat-type-daylight": "{0} (+1)",
-          "regionFormat-type-standard": "{0} (+0)",
+          "gmtFormat": "WAT{0}",
+          "gmtZeroFormat": "WAT",
+          "regionFormat": "{0} Ìgbà",
+          "regionFormat-type-daylight": "{0} Àkókò ojúmọmọ",
+          "regionFormat-type-standard": "{0} Ìlànà Àkókò",
           "fallbackFormat": "{1} ({0})",
           "zone": {
             "America": {
@@ -972,7 +972,7 @@
                 "exemplarCity": "Kuwait"
               },
               "Macau": {
-                "exemplarCity": "Macau"
+                "exemplarCity": "Macao"
               },
               "Magadan": {
                 "exemplarCity": "Magadan"
@@ -1012,6 +1012,9 @@
               },
               "Qatar": {
                 "exemplarCity": "Qatar"
+              },
+              "Qostanay": {
+                "exemplarCity": "Qostanay"
               },
               "Qyzylorda": {
                 "exemplarCity": "Qyzylorda"
@@ -1320,12 +1323,78 @@
             },
             "Etc": {
               "UTC": {
+                "long": {
+                  "standard": "Àpapọ̀ Àkókò Àgbáyé"
+                },
                 "short": {
                   "standard": "UTC"
                 }
               },
               "Unknown": {
-                "exemplarCity": "Unknown"
+                "exemplarCity": "Ìlú Àìmọ̀"
+              }
+            }
+          },
+          "metazone": {
+            "America_Central": {
+              "long": {
+                "generic": "àkókò àárín gbùngbùn",
+                "standard": "àkókò asiko àárín gbùngbùn",
+                "daylight": "Akókò àárín gbùngbùn ojúmọmọ"
+              }
+            },
+            "America_Eastern": {
+              "long": {
+                "generic": "Àkókò ìhà ìlà oòrùn",
+                "standard": "Akókò Àsikò Ìha Ìla Oòrùn",
+                "daylight": "Àkókò ojúmọmọ Ìhà Ìlà Oòrun"
+              }
+            },
+            "America_Mountain": {
+              "long": {
+                "generic": "Àkókò òkè",
+                "standard": "Àkókò asiko òkè",
+                "daylight": "Àkókò ojúmọmọ Ori-òkè"
+              }
+            },
+            "America_Pacific": {
+              "long": {
+                "generic": "Àkókò Pàsífíìkì",
+                "standard": "Àkókò àsikò Pàsífíìkì",
+                "daylight": "Àkókò Ìyálẹta Pàsífíìkì"
+              }
+            },
+            "Atlantic": {
+              "long": {
+                "generic": "Àkókò Àtìláńtíìkì",
+                "standard": "Àkókò àsikò Àtìláńtíìkì",
+                "daylight": "Àkókò Ìyálẹta Àtìláńtíìkì"
+              }
+            },
+            "Europe_Central": {
+              "long": {
+                "generic": "Àkókò Àárin Europe",
+                "standard": "Àkókò Àárin àsikò Europe",
+                "daylight": "Àkókò Àárin Sọmà Europe"
+              }
+            },
+            "Europe_Eastern": {
+              "long": {
+                "generic": "Àkókò Ìhà Ìlà Oòrùn Europe",
+                "standard": "Àkókò àsikò Ìhà Ìlà Oòrùn Europe",
+                "daylight": "Àkókò Sọmà Ìha Ìlà Oòrùn Europe"
+              }
+            },
+            "Europe_Western": {
+              "long": {
+                "generic": "Àkókò Ìwọ Oòrùn Europe",
+                "standard": "Àkókò àsikò Ìwọ Oòrùn Europe",
+                "daylight": "Àkókò Sọmà Ìhà Ìwọ Oòrùn Europe"
+              }
+            },
+            "GMT": {
+              "long": {
+                "standard": "Greenwich Mean Time"
               }
             }
           }

@@ -3,8 +3,8 @@
     "ks": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14134 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14783 $",
+          "_cldrVersion": "35"
         },
         "language": "ks"
       },
@@ -92,7 +92,7 @@
             }
           },
           "month": {
-            "displayName": "رٮ۪تھ",
+            "displayName": "رؠتھ",
             "relative-type--1": "last month",
             "relative-type-0": "this month",
             "relative-type-1": "next month",
@@ -104,7 +104,7 @@
             }
           },
           "month-short": {
-            "displayName": "رٮ۪تھ",
+            "displayName": "رؠتھ",
             "relative-type--1": "last month",
             "relative-type-0": "this month",
             "relative-type-1": "next month",
@@ -116,7 +116,7 @@
             }
           },
           "month-narrow": {
-            "displayName": "رٮ۪تھ",
+            "displayName": "رؠتھ",
             "relative-type--1": "last month",
             "relative-type-0": "this month",
             "relative-type-1": "next month",
@@ -479,7 +479,7 @@
             "displayName": "صبح/رات"
           },
           "hour": {
-            "displayName": "گٲنٛٹہٕ",
+            "displayName": "گٲنٹہٕ",
             "relative-type-0": "this hour",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} h"
@@ -489,7 +489,7 @@
             }
           },
           "hour-short": {
-            "displayName": "گٲنٛٹہٕ",
+            "displayName": "گٲنٹہٕ",
             "relative-type-0": "this hour",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} h"
@@ -499,7 +499,7 @@
             }
           },
           "hour-narrow": {
-            "displayName": "گٲنٛٹہٕ",
+            "displayName": "گٲنٹہٕ",
             "relative-type-0": "this hour",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} h"
@@ -539,7 +539,7 @@
             }
           },
           "second": {
-            "displayName": "سٮ۪کَنڑ",
+            "displayName": "سؠکَنڑ",
             "relative-type-0": "now",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} s"
@@ -549,7 +549,7 @@
             }
           },
           "second-short": {
-            "displayName": "سٮ۪کَنڑ",
+            "displayName": "سؠکَنڑ",
             "relative-type-0": "now",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} s"
@@ -559,7 +559,7 @@
             }
           },
           "second-narrow": {
-            "displayName": "سٮ۪کَنڑ",
+            "displayName": "سؠکَنڑ",
             "relative-type-0": "now",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} s"

@@ -3,8 +3,8 @@
     "qu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14394 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14782 $",
+          "_cldrVersion": "35"
         },
         "language": "qu"
       },
@@ -1012,6 +1012,9 @@
               },
               "Qatar": {
                 "exemplarCity": "Qatar"
+              },
+              "Qostanay": {
+                "exemplarCity": "Qostanay"
               },
               "Qyzylorda": {
                 "exemplarCity": "Qyzylorda"

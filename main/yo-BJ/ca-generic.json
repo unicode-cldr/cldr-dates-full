@@ -3,8 +3,8 @@
     "yo-BJ": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14453 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14877 $",
+          "_cldrVersion": "35"
         },
         "language": "yo",
         "territory": "BJ"
@@ -105,22 +105,22 @@
             "days": {
               "format": {
                 "abbreviated": {
-                  "sun": "Àìkú",
-                  "mon": "Ajé",
-                  "tue": "Ìsɛ́gun",
-                  "wed": "Ɔjɔ́rú",
-                  "thu": "Ɔjɔ́bɔ",
-                  "fri": "Ɛtì",
-                  "sat": "Àbámɛ́ta"
+                  "sun": "Àìk",
+                  "mon": "Aj",
+                  "tue": "Ìsɛ́g",
+                  "wed": "Ɔjɔ́r",
+                  "thu": "Ɔjɔ́b",
+                  "fri": "Ɛt",
+                  "sat": "Àbám"
                 },
                 "narrow": {
-                  "sun": "S",
-                  "mon": "M",
-                  "tue": "T",
-                  "wed": "W",
-                  "thu": "T",
-                  "fri": "F",
-                  "sat": "S"
+                  "sun": "À",
+                  "mon": "A",
+                  "tue": "Ì",
+                  "wed": "Ɔ",
+                  "thu": "Ɔ",
+                  "fri": "Ɛ",
+                  "sat": "À"
                 },
                 "short": {
                   "sun": "Àìkú",
@@ -143,22 +143,22 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "sun": "Àìkú",
-                  "mon": "Ajé",
-                  "tue": "Ìsɛ́gun",
-                  "wed": "Ɔjɔ́rú",
-                  "thu": "Ɔjɔ́bɔ",
-                  "fri": "Ɛtì",
-                  "sat": "Àbámɛ́ta"
+                  "sun": "Àìk",
+                  "mon": "Aj",
+                  "tue": "Ìsɛ́g",
+                  "wed": "Ɔjɔ́r",
+                  "thu": "Ɔjɔ́b",
+                  "fri": "Ɛt",
+                  "sat": "Àbám"
                 },
                 "narrow": {
-                  "sun": "S",
-                  "mon": "M",
-                  "tue": "T",
-                  "wed": "W",
-                  "thu": "T",
-                  "fri": "F",
-                  "sat": "S"
+                  "sun": "À",
+                  "mon": "A",
+                  "tue": "Ì",
+                  "wed": "Ɔ",
+                  "thu": "Ɔ",
+                  "fri": "Ɛ",
+                  "sat": "À"
                 },
                 "short": {
                   "sun": "Àìkú",
@@ -170,55 +170,55 @@
                   "sat": "Àbámɛ́ta"
                 },
                 "wide": {
-                  "sun": "Ɔjɔ́ Àìkú",
-                  "mon": "Ɔjɔ́ Ajé",
-                  "tue": "Ɔjɔ́ Ìsɛ́gun",
+                  "sun": "Àìkú",
+                  "mon": "Ajé",
+                  "tue": "Ìsɛ́gun",
                   "wed": "Ɔjɔ́rú",
                   "thu": "Ɔjɔ́bɔ",
-                  "fri": "Ɔjɔ́ Ɛtì",
-                  "sat": "Ɔjɔ́ Àbámɛ́ta"
+                  "fri": "Ɛtì",
+                  "sat": "Àbámɛ́ta"
                 }
               }
             },
             "quarters": {
               "format": {
                 "abbreviated": {
-                  "1": "K1",
-                  "2": "K2",
-                  "3": "K3",
-                  "4": "K4"
+                  "1": "Ìdámɛ́rin kíní",
+                  "2": "Ìdámɛ́rin Kejì",
+                  "3": "Ìdámɛ́rin Kɛta",
+                  "4": "Ìdámɛ́rin Kɛrin"
                 },
                 "narrow": {
-                  "1": "1",
-                  "2": "2",
-                  "3": "3",
-                  "4": "4"
+                  "1": "kíní",
+                  "2": "Kejì",
+                  "3": "Kɛta",
+                  "4": "Kɛin"
                 },
                 "wide": {
-                  "1": "Kɔ́tà Kínní",
-                  "2": "Kɔ́tà Kejì",
-                  "3": "Kɔ́à Keta",
-                  "4": "Kɔ́tà Kɛrin"
+                  "1": "Ìdámɛ́rin kíní",
+                  "2": "Ìdámɛ́rin Kejì",
+                  "3": "Ìdámɛ́rin Kɛta",
+                  "4": "Ìdámɛ́rin Kɛrin"
                 }
               },
               "stand-alone": {
                 "abbreviated": {
-                  "1": "K1",
-                  "2": "K2",
-                  "3": "K3",
-                  "4": "K4"
+                  "1": "Ìdámɛ́rin kíní",
+                  "2": "Ìdámɛ́rin Kejì",
+                  "3": "Ìdámɛ́rin Kɛta",
+                  "4": "Ìdámɛ́rin Kɛrin"
                 },
                 "narrow": {
-                  "1": "1",
-                  "2": "2",
-                  "3": "3",
-                  "4": "4"
+                  "1": "kí",
+                  "2": "Ke",
+                  "3": "Kɛt",
+                  "4": "Kɛr"
                 },
                 "wide": {
-                  "1": "Kɔ́tà Kínní",
-                  "2": "Kɔ́tà Kejì",
-                  "3": "Kɔ́à Keta",
-                  "4": "Kɔ́tà Kɛrin"
+                  "1": "Ìdámɛ́rin kíní",
+                  "2": "Ìdámɛ́rin Kejì",
+                  "3": "Ìdámɛ́rin Kɛta",
+                  "4": "Ìdámɛ́rin Kɛrin"
                 }
               }
             },
@@ -267,16 +267,16 @@
               }
             },
             "dateFormats": {
-              "full": "EEEE, d MMMM y G",
-              "long": "d MMMM y G",
-              "medium": "d MMM y G",
-              "short": "dd/MM/y GGGGG"
+              "full": "EEEE, d MM y G",
+              "long": "d MM y G",
+              "medium": "d MM y G",
+              "short": "dd/MM/y G"
             },
             "timeFormats": {
               "full": "HH:mm:ss zzzz",
-              "long": "HH:mm:ss z",
-              "medium": "HH:mm:ss",
-              "short": "HH:mm"
+              "long": "H:mm:ss z",
+              "medium": "H:m:s",
+              "short": "H:m"
             },
             "dateTimeFormats": {
               "full": "{1} {0}",
@@ -349,6 +349,15 @@
               },
               "intervalFormats": {
                 "intervalFormatFallback": "{0} – {1}",
+                "Bh": {
+                  "B": "h B – h B",
+                  "h": "h–h B"
+                },
+                "Bhm": {
+                  "B": "h:mm B – h:mm B",
+                  "h": "h:mm–h:mm B",
+                  "m": "h:mm–h:mm B"
+                },
                 "d": {
                   "d": "d–d"
                 },

@@ -3,8 +3,8 @@
     "ig": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14488 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14845 $",
+          "_cldrVersion": "35"
         },
         "language": "ig"
       },
@@ -13,9 +13,9 @@
           "hourFormat": "+HH:mm;-HH:mm",
           "gmtFormat": "GMT{0}",
           "gmtZeroFormat": "GMT",
-          "regionFormat": "{0}",
-          "regionFormat-type-daylight": "{0} (+1)",
-          "regionFormat-type-standard": "{0} (+0)",
+          "regionFormat": "Oge {0}",
+          "regionFormat-type-daylight": "Oge Ihe {0}",
+          "regionFormat-type-standard": "Oge Izugbe {0}",
           "fallbackFormat": "{1} ({0})",
           "zone": {
             "America": {
@@ -972,7 +972,7 @@
                 "exemplarCity": "Kuwait"
               },
               "Macau": {
-                "exemplarCity": "Macau"
+                "exemplarCity": "Macao"
               },
               "Magadan": {
                 "exemplarCity": "Magadan"
@@ -1012,6 +1012,9 @@
               },
               "Qatar": {
                 "exemplarCity": "Qatar"
+              },
+              "Qostanay": {
+                "exemplarCity": "Qostanay"
               },
               "Qyzylorda": {
                 "exemplarCity": "Qyzylorda"
@@ -1320,12 +1323,78 @@
             },
             "Etc": {
               "UTC": {
+                "long": {
+                  "standard": "Nhazi Oge Ụwa Niile"
+                },
                 "short": {
                   "standard": "UTC"
                 }
               },
               "Unknown": {
-                "exemplarCity": "Unknown"
+                "exemplarCity": "Obodo Amaghị"
+              }
+            }
+          },
+          "metazone": {
+            "America_Central": {
+              "long": {
+                "generic": "Oge Mpaghara Etiti",
+                "standard": "Oge Izugbe Mpaghara Etiti",
+                "daylight": "Oge Ihe Mpaghara Etiti"
+              }
+            },
+            "America_Eastern": {
+              "long": {
+                "generic": "Oge Mpaghara Ọwụwa Anyanwụ",
+                "standard": "Oge Izugbe Mpaghara Ọwụwa Anyanwụ",
+                "daylight": "Oge Ihe Mpaghara Ọwụwa Anyanwụ"
+              }
+            },
+            "America_Mountain": {
+              "long": {
+                "generic": "Oge Mpaghara Ugwu",
+                "standard": "Oge Izugbe Mpaghara Ugwu",
+                "daylight": "Oge Ihe Mpaghara Ugwu"
+              }
+            },
+            "America_Pacific": {
+              "long": {
+                "generic": "Oge Mpaghara Pacific",
+                "standard": "Oge Izugbe Mpaghara Pacific",
+                "daylight": "Oge Ihe Mpaghara Pacific"
+              }
+            },
+            "Atlantic": {
+              "long": {
+                "generic": "Oge Mpaghara Atlantic",
+                "standard": "Oge Izugbe Mpaghara Atlantic",
+                "daylight": "Oge Ihe Mpaghara Atlantic"
+              }
+            },
+            "Europe_Central": {
+              "long": {
+                "generic": "Oge Mpaghara Etiti Europe",
+                "standard": "Oge Izugbe Mpaghara Etiti Europe",
+                "daylight": "Oge Okpomọkụ Mpaghara Etiti Europe"
+              }
+            },
+            "Europe_Eastern": {
+              "long": {
+                "generic": "Oge Mpaghara Ọwụwa Anyanwụ Europe",
+                "standard": "Oge Izugbe Mpaghara Ọwụwa Anyanwụ Europe",
+                "daylight": "Oge Okpomọkụ Mpaghara Ọwụwa Anyanwụ Europe"
+              }
+            },
+            "Europe_Western": {
+              "long": {
+                "generic": "Oge Mpaghara Ọdịda Anyanwụ Europe",
+                "standard": "Oge Izugbe Mpaghara Ọdịda Anyanwụ Europe",
+                "daylight": "Oge Okpomọkụ Mpaghara Ọdịda Anyanwụ Europe"
+              }
+            },
+            "GMT": {
+              "long": {
+                "standard": "Oge Mpaghara Greemwich Mean"
               }
             }
           }

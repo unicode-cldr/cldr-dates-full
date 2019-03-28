@@ -3,8 +3,8 @@
     "fy": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14134 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14782 $",
+          "_cldrVersion": "35"
         },
         "language": "fy"
       },
@@ -322,8 +322,8 @@
                 "MMMd": "d MMM",
                 "MMMEd": "E d MMM",
                 "MMMMd": "d MMMM",
-                "MMMMW-count-one": "'wike' W 'fan' MMM",
-                "MMMMW-count-other": "'wike' W 'fan' MMM",
+                "MMMMW-count-one": "'wike' W 'fan' MMMM",
+                "MMMMW-count-other": "'wike' W 'fan' MMMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "M-y",
@@ -353,6 +353,15 @@
               },
               "intervalFormats": {
                 "intervalFormatFallback": "{0} - {1}",
+                "Bh": {
+                  "B": "h B – h B",
+                  "h": "h–h B"
+                },
+                "Bhm": {
+                  "B": "h:mm B – h:mm B",
+                  "h": "h:mm–h:mm B",
+                  "m": "h:mm–h:mm B"
+                },
                 "d": {
                   "d": "d–d"
                 },

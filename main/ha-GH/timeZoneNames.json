@@ -3,8 +3,8 @@
     "ha-GH": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13869 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14822 $",
+          "_cldrVersion": "35"
         },
         "language": "ha",
         "territory": "GH"
@@ -14,9 +14,9 @@
           "hourFormat": "+HH:mm;-HH:mm",
           "gmtFormat": "GMT{0}",
           "gmtZeroFormat": "GMT",
-          "regionFormat": "{0}",
-          "regionFormat-type-daylight": "{0} (+1)",
-          "regionFormat-type-standard": "{0} (+0)",
+          "regionFormat": "{0} Lokaci",
+          "regionFormat-type-daylight": "{0} Lokaci rana",
+          "regionFormat-type-standard": "{0} Daidai ta ce lokaci",
           "fallbackFormat": "{1} ({0})",
           "zone": {
             "America": {
@@ -973,7 +973,7 @@
                 "exemplarCity": "Kuwait"
               },
               "Macau": {
-                "exemplarCity": "Macau"
+                "exemplarCity": "Macao"
               },
               "Magadan": {
                 "exemplarCity": "Magadan"
@@ -1013,6 +1013,9 @@
               },
               "Qatar": {
                 "exemplarCity": "Qatar"
+              },
+              "Qostanay": {
+                "exemplarCity": "Qostanay"
               },
               "Qyzylorda": {
                 "exemplarCity": "Qyzylorda"
@@ -1321,12 +1324,141 @@
             },
             "Etc": {
               "UTC": {
+                "long": {
+                  "standard": "Hadewa duniya lokaci"
+                },
                 "short": {
                   "standard": "UTC"
                 }
               },
               "Unknown": {
-                "exemplarCity": "Unknown"
+                "exemplarCity": "Birni da ba a sani ba"
+              }
+            }
+          },
+          "metazone": {
+            "Alaska": {
+              "long": {
+                "generic": "Lokaci ta Alaska",
+                "standard": "Ida Lokaci ta Alaska",
+                "daylight": "Lokaci rana ta Alaska"
+              }
+            },
+            "America_Central": {
+              "long": {
+                "generic": "Lokaci dake Amurika arewa ta tsakiyar",
+                "standard": "Ida Lokaci dake Amurika arewa ta tsakiyar",
+                "daylight": "Lokaci rana dake Amurika arewa ta tsakiyar"
+              }
+            },
+            "America_Eastern": {
+              "long": {
+                "generic": "Lokaci gabas a arewacin da Amirka",
+                "standard": "Lokaci daidai ta ce a arewacin da Amirka",
+                "daylight": "Lokaci rana a arewacin da Amirka"
+              }
+            },
+            "America_Mountain": {
+              "long": {
+                "generic": "Lokaci tsauni a arewacin da Amirka",
+                "standard": "Lokacin daidai ta ce tsauni a arewacin da Amirka",
+                "daylight": "Lokaci rana tsauni a arewacin da Amirka"
+              }
+            },
+            "America_Pacific": {
+              "long": {
+                "generic": "Amurika da arewa a lokaci lafiya",
+                "standard": "Ida Amurika da arewa a lokaci lafiya",
+                "daylight": "Ida Amurika da arewa a lokaci rana"
+              }
+            },
+            "Atlantic": {
+              "long": {
+                "generic": "Lokaci da Kanada, Puerto Rico da Virgin Islands",
+                "standard": "Ida Lokaci da Kanada, Puerto Rico da Virgin Islands",
+                "daylight": "Lokaci rana da amfani da shi Kanada, Puerto rico da Virgin Islands"
+              }
+            },
+            "Cuba": {
+              "long": {
+                "generic": "Lokaci ta Kuba",
+                "standard": "Ida Lokaci ta Kuba",
+                "daylight": "Lokaci rana ta Kuba"
+              }
+            },
+            "Europe_Central": {
+              "long": {
+                "generic": "Tsakiyar a lokaci turai",
+                "standard": "Ida Tsakiyar a Lokaci Turai",
+                "daylight": "Tsakiyar bazara a lokaci turai"
+              }
+            },
+            "Europe_Eastern": {
+              "long": {
+                "generic": "Lokaci a turai gabas",
+                "standard": "Ida lokaci a turai gabas",
+                "daylight": "Gabas a lokaci turai da bazara"
+              }
+            },
+            "Europe_Western": {
+              "long": {
+                "generic": "Lokaci ta yammacin turai",
+                "standard": "Ida lokaci ta yammacin turai",
+                "daylight": "Ida lokaci ta yammacin turai da bazara"
+              }
+            },
+            "GMT": {
+              "long": {
+                "standard": "Lokacin Greenwhich a London"
+              }
+            },
+            "Greenland_Eastern": {
+              "long": {
+                "generic": "Lokaci a gabas ta Greeland",
+                "standard": "Ida Lokaci a gabas ta Greeland",
+                "daylight": "Lokaci rana a gabas ta Greeland"
+              }
+            },
+            "Greenland_Western": {
+              "long": {
+                "generic": "Lokaci a yammacin ta Greeland",
+                "standard": "Ida Lokaci a yammacin ta Greeland",
+                "daylight": "Lokaci rana a yammacin ta Greeland"
+              }
+            },
+            "Hawaii_Aleutian": {
+              "long": {
+                "generic": "Lokaci ta Hawaii-Aleutian",
+                "standard": "Ida Lokaci ta Hawaii-Aleutian",
+                "daylight": "Lokaci rana ta Hawaii-Aleutian"
+              }
+            },
+            "Mexico_Northwest": {
+              "long": {
+                "generic": "Lokaci a arewa da yammacin ta Mesiko",
+                "standard": "Ida Lokaci a arewa da yammacin ta Mesiko",
+                "daylight": "Lokaci rana a arewa da yammacin ta Mesiko"
+              }
+            },
+            "Mexico_Pacific": {
+              "long": {
+                "generic": "Lokaci a lafiya ta Mesiko",
+                "standard": "Ida Lokaci a lafiya ta Mesiko",
+                "daylight": "Lokaci rana a lafiya ta Mesiko"
+              }
+            },
+            "Newfoundland": {
+              "long": {
+                "generic": "Lokaci ta Newfoundland",
+                "standard": "Ida Lokaci ta Newfoundland",
+                "daylight": "Lokaci rana ta Newfoundland"
+              }
+            },
+            "Pierre_Miquelon": {
+              "long": {
+                "generic": "Lokaci ta St. Pierre da Miquelon",
+                "standard": "Ida Lokaci ta St. Pierre da Miquelon",
+                "daylight": "Lokaci rana ta St. Pierre da Miquelon"
               }
             }
           }

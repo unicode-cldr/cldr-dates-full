@@ -3,8 +3,8 @@
     "hsb": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14134 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14782 $",
+          "_cldrVersion": "35"
         },
         "language": "hsb"
       },
@@ -1018,6 +1018,9 @@
               },
               "Qatar": {
                 "exemplarCity": "Katar"
+              },
+              "Qostanay": {
+                "exemplarCity": "Qostanay"
               },
               "Qyzylorda": {
                 "exemplarCity": "Qyzylorda"

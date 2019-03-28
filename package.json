@@ -1,8 +1,8 @@
 {
   "name": "cldr-dates-full",
-  "version": "34.0.0",
+  "version": "35.0.0",
   "peerDependencies": {
-    "cldr-numbers-full": "34.0.0"
+    "cldr-numbers-full": "35.0.0"
   },
   "homepage": "http://cldr.unicode.org",
   "author": "The Unicode Consortium",

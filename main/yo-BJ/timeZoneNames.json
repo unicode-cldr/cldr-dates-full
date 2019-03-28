@@ -3,8 +3,8 @@
     "yo-BJ": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14453 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14877 $",
+          "_cldrVersion": "35"
         },
         "language": "yo",
         "territory": "BJ"
@@ -12,11 +12,11 @@
       "dates": {
         "timeZoneNames": {
           "hourFormat": "+HH:mm;-HH:mm",
-          "gmtFormat": "GMT{0}",
-          "gmtZeroFormat": "GMT",
-          "regionFormat": "{0}",
-          "regionFormat-type-daylight": "{0} (+1)",
-          "regionFormat-type-standard": "{0} (+0)",
+          "gmtFormat": "WAT{0}",
+          "gmtZeroFormat": "WAT",
+          "regionFormat": "{0} Ìgbà",
+          "regionFormat-type-daylight": "{0} Àkókò ojúmɔmɔ",
+          "regionFormat-type-standard": "{0} Ìlànà Àkókò",
           "fallbackFormat": "{1} ({0})",
           "zone": {
             "America": {
@@ -973,7 +973,7 @@
                 "exemplarCity": "Kuwait"
               },
               "Macau": {
-                "exemplarCity": "Macau"
+                "exemplarCity": "Macao"
               },
               "Magadan": {
                 "exemplarCity": "Magadan"
@@ -1013,6 +1013,9 @@
               },
               "Qatar": {
                 "exemplarCity": "Qatar"
+              },
+              "Qostanay": {
+                "exemplarCity": "Qostanay"
               },
               "Qyzylorda": {
                 "exemplarCity": "Qyzylorda"
@@ -1321,12 +1324,78 @@
             },
             "Etc": {
               "UTC": {
+                "long": {
+                  "standard": "Àpapɔ̀ Àkókò Àgbáyé"
+                },
                 "short": {
                   "standard": "UTC"
                 }
               },
               "Unknown": {
-                "exemplarCity": "Unknown"
+                "exemplarCity": "Ìlú Àìmɔ̀"
+              }
+            }
+          },
+          "metazone": {
+            "America_Central": {
+              "long": {
+                "generic": "àkókò àárín gbùngbùn",
+                "standard": "àkókò asiko àárín gbùngbùn",
+                "daylight": "Akókò àárín gbùngbùn ojúmɔmɔ"
+              }
+            },
+            "America_Eastern": {
+              "long": {
+                "generic": "Àkókò ìhà ìlà oòrùn",
+                "standard": "Akókò Àsikò Ìha Ìla Oòrùn",
+                "daylight": "Àkókò ojúmɔmɔ Ìhà Ìlà Oòrun"
+              }
+            },
+            "America_Mountain": {
+              "long": {
+                "generic": "Àkókò òkè",
+                "standard": "Àkókò asiko òkè",
+                "daylight": "Àkókò ojúmɔmɔ Ori-òkè"
+              }
+            },
+            "America_Pacific": {
+              "long": {
+                "generic": "Àkókò Pàsífíìkì",
+                "standard": "Àkókò àsikò Pàsífíìkì",
+                "daylight": "Àkókò Ìyálɛta Pàsífíìkì"
+              }
+            },
+            "Atlantic": {
+              "long": {
+                "generic": "Àkókò Àtìláńtíìkì",
+                "standard": "Àkókò àsikò Àtìláńtíìkì",
+                "daylight": "Àkókò Ìyálɛta Àtìláńtíìkì"
+              }
+            },
+            "Europe_Central": {
+              "long": {
+                "generic": "Àkókò Àárin Europe",
+                "standard": "Àkókò Àárin àsikò Europe",
+                "daylight": "Àkókò Àárin Sɔmà Europe"
+              }
+            },
+            "Europe_Eastern": {
+              "long": {
+                "generic": "Àkókò Ìhà Ìlà Oòrùn Europe",
+                "standard": "Àkókò àsikò Ìhà Ìlà Oòrùn Europe",
+                "daylight": "Àkókò Sɔmà Ìha Ìlà Oòrùn Europe"
+              }
+            },
+            "Europe_Western": {
+              "long": {
+                "generic": "Àkókò Ìwɔ Oòrùn Europe",
+                "standard": "Àkókò àsikò Ìwɔ Oòrùn Europe",
+                "daylight": "Àkókò Sɔmà Ìhà Ìwɔ Oòrùn Europe"
+              }
+            },
+            "GMT": {
+              "long": {
+                "standard": "Greenwich Mean Time"
               }
             }
           }

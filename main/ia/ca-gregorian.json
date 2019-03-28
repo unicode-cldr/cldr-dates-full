@@ -3,8 +3,8 @@
     "ia": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14415 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14836 $",
+          "_cldrVersion": "35"
         },
         "language": "ia"
       },
@@ -322,7 +322,8 @@
                 "MMMd": "d MMM",
                 "MMMEd": "E d MMM",
                 "MMMMd": "d 'de' MMMM",
-                "MMMMW-count-other": "'week' W 'of' MMMM",
+                "MMMMW-count-one": "'septimana' W 'de' MMMM",
+                "MMMMW-count-other": "'septimana' W 'de' MMMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "MM-y",
@@ -334,7 +335,8 @@
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ 'de' y",
-                "yw-count-other": "'week' w 'of' Y"
+                "yw-count-one": "'septimana' w 'de' Y",
+                "yw-count-other": "'septimana' w 'de' Y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",
@@ -351,6 +353,15 @@
               },
               "intervalFormats": {
                 "intervalFormatFallback": "{0} – {1}",
+                "Bh": {
+                  "B": "h B – h B",
+                  "h": "h–h B"
+                },
+                "Bhm": {
+                  "B": "h:mm B – h:mm B",
+                  "h": "h:mm–h:mm B",
+                  "m": "h:mm–h:mm B"
+                },
                 "d": {
                   "d": "d – d"
                 },

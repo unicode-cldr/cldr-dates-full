@@ -3,8 +3,8 @@
     "ha-GH": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13869 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14822 $",
+          "_cldrVersion": "35"
         },
         "language": "ha",
         "territory": "GH"
@@ -233,8 +233,8 @@
                   "pm": "PM"
                 },
                 "wide": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Safiya",
+                  "pm": "Yamma"
                 }
               },
               "stand-alone": {
@@ -273,10 +273,10 @@
               "short": "d/M/yy GGGGG"
             },
             "timeFormats": {
-              "full": "HH:mm:ss zzzz",
-              "long": "HH:mm:ss z",
-              "medium": "HH:mm:ss",
-              "short": "HH:mm"
+              "full": "h:mm:ss a zzzz",
+              "long": "h:mm:ss a z",
+              "medium": "h:mm:ss a",
+              "short": "h:mm a"
             },
             "dateTimeFormats": {
               "full": "{1} {0}",
@@ -349,6 +349,15 @@
               },
               "intervalFormats": {
                 "intervalFormatFallback": "{0} – {1}",
+                "Bh": {
+                  "B": "h B – h B",
+                  "h": "h–h B"
+                },
+                "Bhm": {
+                  "B": "h:mm B – h:mm B",
+                  "h": "h:mm–h:mm B",
+                  "m": "h:mm–h:mm B"
+                },
                 "d": {
                   "d": "d–d"
                 },

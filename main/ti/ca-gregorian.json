@@ -3,8 +3,8 @@
     "ti": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14488 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14782 $",
+          "_cldrVersion": "35"
         },
         "language": "ti"
       },
@@ -324,8 +324,8 @@
                 "MMMEd": "MMM d, E",
                 "MMMMd": "MMMM d",
                 "MMMMdd": "dd MMMM",
-                "MMMMW-count-one": "ሰሙን W ናይ MMM",
-                "MMMMW-count-other": "ሰሙን W ናይ MMM",
+                "MMMMW-count-one": "ሰሙን W ናይ MMMM",
+                "MMMMW-count-other": "ሰሙን W ናይ MMMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "y-MM",
@@ -356,6 +356,15 @@
               },
               "intervalFormats": {
                 "intervalFormatFallback": "{0} – {1}",
+                "Bh": {
+                  "B": "h B – h B",
+                  "h": "h–h B"
+                },
+                "Bhm": {
+                  "B": "h:mm B – h:mm B",
+                  "h": "h:mm–h:mm B",
+                  "m": "h:mm–h:mm B"
+                },
                 "d": {
                   "d": "d–d"
                 },

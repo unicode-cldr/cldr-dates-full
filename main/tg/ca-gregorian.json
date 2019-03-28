@@ -3,8 +3,8 @@
     "tg": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14488 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14796 $",
+          "_cldrVersion": "35"
         },
         "language": "tg"
       },
@@ -232,8 +232,8 @@
                   "pm": "PM"
                 },
                 "wide": {
-                  "am": "пе. чо.",
-                  "pm": "па. чо."
+                  "am": "пе. чо.",
+                  "pm": "па. чо."
                 }
               },
               "stand-alone": {
@@ -322,7 +322,7 @@
                 "MMMd": "d MMM",
                 "MMMEd": "E, d MMM",
                 "MMMMd": "d MMMM",
-                "MMMMW-count-other": "'ҳафтаи' W, MMM",
+                "MMMMW-count-other": "'ҳафтаи' W, MMMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "MM-y",
@@ -351,6 +351,15 @@
               },
               "intervalFormats": {
                 "intervalFormatFallback": "{0} – {1}",
+                "Bh": {
+                  "B": "h B – h B",
+                  "h": "h–h B"
+                },
+                "Bhm": {
+                  "B": "h:mm B – h:mm B",
+                  "h": "h:mm–h:mm B",
+                  "m": "h:mm–h:mm B"
+                },
                 "d": {
                   "d": "d–d"
                 },

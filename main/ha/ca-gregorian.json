@@ -3,8 +3,8 @@
     "ha": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14302 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14845 $",
+          "_cldrVersion": "35"
         },
         "language": "ha"
       },
@@ -232,8 +232,8 @@
                   "pm": "PM"
                 },
                 "wide": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Safiya",
+                  "pm": "Yamma"
                 }
               },
               "stand-alone": {
@@ -254,25 +254,25 @@
             "eras": {
               "eraNames": {
                 "0": "Kafin haihuwar annab",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "K.H.Y",
                 "1": "Bayan haihuwar annab",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "sananne Zamani"
               },
               "eraAbbr": {
-                "0": "KHAI",
-                "0-alt-variant": "BCE",
+                "0": "K.H",
+                "0-alt-variant": "K.H.Y",
                 "1": "BHAI",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "B.H.Y"
               },
               "eraNarrow": {
-                "0": "KHAI",
-                "0-alt-variant": "BCE",
+                "0": "K.H",
+                "0-alt-variant": "K.H.Y",
                 "1": "BHAI",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "B.H.Y"
               }
             },
             "dateFormats": {
-              "full": "EEEE, d MMMM, y",
+              "full": "EEEE d MMMM, y",
               "long": "d MMMM, y",
               "medium": "d MMM, y",
               "short": "d/M/yy"
@@ -323,6 +323,7 @@
                 "MMMEd": "E, MMM d",
                 "MMMMd": "MMMM d",
                 "MMMMEd": "E, MMMM d",
+                "MMMMW-count-one": "'week' W 'of' MMMM",
                 "MMMMW-count-other": "'week' W 'of' MMMM",
                 "ms": "mm:ss",
                 "y": "y",
@@ -335,6 +336,7 @@
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ y",
+                "yw-count-one": "'week' w 'of' Y",
                 "yw-count-other": "'week' w 'of' Y"
               },
               "appendItems": {
@@ -352,6 +354,15 @@
               },
               "intervalFormats": {
                 "intervalFormatFallback": "{0} – {1}",
+                "Bh": {
+                  "B": "h B – h B",
+                  "h": "h–h B"
+                },
+                "Bhm": {
+                  "B": "h:mm B – h:mm B",
+                  "h": "h:mm–h:mm B",
+                  "m": "h:mm–h:mm B"
+                },
                 "d": {
                   "d": "d–d"
                 },

@@ -3,8 +3,8 @@
     "yo-BJ": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14453 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14877 $",
+          "_cldrVersion": "35"
         },
         "language": "yo",
         "territory": "BJ"
@@ -22,9 +22,9 @@
           },
           "year": {
             "displayName": "Ɔdún",
-            "relative-type--1": "last year",
-            "relative-type-0": "this year",
-            "relative-type-1": "next year",
+            "relative-type--1": "ɔ́dún tó kɔjá",
+            "relative-type-0": "ɔ́dún yìí",
+            "relative-type-1": "ɔ́dún tó ń bɔ̀",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} y"
             },
@@ -34,9 +34,9 @@
           },
           "year-short": {
             "displayName": "Ɔdún",
-            "relative-type--1": "last year",
-            "relative-type-0": "this year",
-            "relative-type-1": "next year",
+            "relative-type--1": "ɔ́dún tó kɔjá",
+            "relative-type-0": "ɔ́dún yìí",
+            "relative-type-1": "ɔ́dún tó ń bɔ̀",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} y"
             },
@@ -46,9 +46,9 @@
           },
           "year-narrow": {
             "displayName": "Ɔdún",
-            "relative-type--1": "last year",
-            "relative-type-0": "this year",
-            "relative-type-1": "next year",
+            "relative-type--1": "ɔ́dún tó kɔjá",
+            "relative-type-0": "ɔ́dún yìí",
+            "relative-type-1": "ɔ́dún tó ń bɔ̀",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} y"
             },
@@ -57,7 +57,7 @@
             }
           },
           "quarter": {
-            "displayName": "Quarter",
+            "displayName": "Ìdá mɛ́rin",
             "relative-type--1": "last quarter",
             "relative-type-0": "this quarter",
             "relative-type-1": "next quarter",
@@ -69,7 +69,7 @@
             }
           },
           "quarter-short": {
-            "displayName": "Quarter",
+            "displayName": "Ìdá mɛ́rin",
             "relative-type--1": "last quarter",
             "relative-type-0": "this quarter",
             "relative-type-1": "next quarter",
@@ -81,7 +81,7 @@
             }
           },
           "quarter-narrow": {
-            "displayName": "Quarter",
+            "displayName": "Ìdá mɛ́rin",
             "relative-type--1": "last quarter",
             "relative-type-0": "this quarter",
             "relative-type-1": "next quarter",
@@ -94,9 +94,9 @@
           },
           "month": {
             "displayName": "Osù",
-            "relative-type--1": "last month",
-            "relative-type-0": "this month",
-            "relative-type-1": "next month",
+            "relative-type--1": "óshù tó kɔjá",
+            "relative-type-0": "oshù yìí",
+            "relative-type-1": "óshù tó ń bɔ̀,",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} m"
             },
@@ -106,9 +106,9 @@
           },
           "month-short": {
             "displayName": "Osù",
-            "relative-type--1": "last month",
-            "relative-type-0": "this month",
-            "relative-type-1": "next month",
+            "relative-type--1": "óshù tó kɔjá",
+            "relative-type-0": "oshù yìí",
+            "relative-type-1": "óshù tó ń bɔ̀,",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} m"
             },
@@ -118,9 +118,9 @@
           },
           "month-narrow": {
             "displayName": "Osù",
-            "relative-type--1": "last month",
-            "relative-type-0": "this month",
-            "relative-type-1": "next month",
+            "relative-type--1": "óshù tó kɔjá",
+            "relative-type-0": "oshù yìí",
+            "relative-type-1": "óshù tó ń bɔ̀,",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} m"
             },
@@ -129,10 +129,10 @@
             }
           },
           "week": {
-            "displayName": "Ɔ̀sè",
-            "relative-type--1": "last week",
-            "relative-type-0": "this week",
-            "relative-type-1": "next week",
+            "displayName": "Ɔ̀sɛ̀",
+            "relative-type--1": "ɔ̀sɛ̀ tó kɔjá",
+            "relative-type-0": "ɔ̀sɛ̀ yìí",
+            "relative-type-1": "ɔ́sɛ̀ tó ń bɔ̀",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} w"
             },
@@ -142,10 +142,10 @@
             "relativePeriod": "the week of {0}"
           },
           "week-short": {
-            "displayName": "Ɔ̀sè",
-            "relative-type--1": "last week",
-            "relative-type-0": "this week",
-            "relative-type-1": "next week",
+            "displayName": "Ɔ̀sɛ̀",
+            "relative-type--1": "ɔ̀sɛ̀ tó kɔjá",
+            "relative-type-0": "ɔ̀sɛ̀ yìí",
+            "relative-type-1": "ɔ́sɛ̀ tó ń bɔ̀",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} w"
             },
@@ -155,10 +155,10 @@
             "relativePeriod": "the week of {0}"
           },
           "week-narrow": {
-            "displayName": "Ɔ̀sè",
-            "relative-type--1": "last week",
-            "relative-type-0": "this week",
-            "relative-type-1": "next week",
+            "displayName": "Ɔ̀sɛ̀",
+            "relative-type--1": "ɔ̀sɛ̀ tó kɔjá",
+            "relative-type-0": "ɔ̀sɛ̀ yìí",
+            "relative-type-1": "ɔ́sɛ̀ tó ń bɔ̀",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} w"
             },
@@ -228,13 +228,13 @@
             "displayName": "Day Of Year"
           },
           "weekday": {
-            "displayName": "Ɔjɔ́ Ɔ̀sɛ̀"
+            "displayName": "Ɔjɔ́ tó wà láàárín ɔ̀sɛ̀"
           },
           "weekday-short": {
-            "displayName": "Ɔjɔ́ Ɔ̀sɛ̀"
+            "displayName": "Ɔjɔ́ tó wà láàárín ɔ̀sɛ̀"
           },
           "weekday-narrow": {
-            "displayName": "Ɔjɔ́ Ɔ̀sɛ̀"
+            "displayName": "Ɔjɔ́ tó wà láàárín ɔ̀sɛ̀"
           },
           "weekdayOfMonth": {
             "displayName": "Weekday Of Month"
@@ -246,9 +246,9 @@
             "displayName": "Weekday Of Month"
           },
           "sun": {
-            "relative-type--1": "last Sunday",
-            "relative-type-0": "this Sunday",
-            "relative-type-1": "next Sunday",
+            "relative-type--1": "Ɔjɔ́ Àìkú tó kɔjá",
+            "relative-type-0": "Ɔjɔ́ Àìkú yìí",
+            "relative-type-1": "Ɔjɔ́ Àìkú tó ń bɔ̀",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} Sundays"
             },
@@ -257,9 +257,9 @@
             }
           },
           "sun-short": {
-            "relative-type--1": "last Sunday",
-            "relative-type-0": "this Sunday",
-            "relative-type-1": "next Sunday",
+            "relative-type--1": "Ɔjɔ́ Àìkú tó kɔjá",
+            "relative-type-0": "Ɔjɔ́ Àìkú yìí",
+            "relative-type-1": "Ɔjɔ́ Àìkú tó ń bɔ̀",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} Sundays"
             },
@@ -268,9 +268,9 @@
             }
           },
           "sun-narrow": {
-            "relative-type--1": "last Sunday",
-            "relative-type-0": "this Sunday",
-            "relative-type-1": "next Sunday",
+            "relative-type--1": "Ɔjɔ́ Àìkú tó kɔjá",
+            "relative-type-0": "Ɔjɔ́ Àìkú yìí",
+            "relative-type-1": "Ɔjɔ́ Àìkú tó ń bɔ̀",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} Sundays"
             },
@@ -486,7 +486,7 @@
             "displayName": "Àárɔ̀/ɔ̀sán"
           },
           "hour": {
-            "displayName": "wákàtí",
+            "displayName": "Wákàtí",
             "relative-type-0": "this hour",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} h"
@@ -496,7 +496,7 @@
             }
           },
           "hour-short": {
-            "displayName": "wákàtí",
+            "displayName": "Wákàtí",
             "relative-type-0": "this hour",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} h"
@@ -506,7 +506,7 @@
             }
           },
           "hour-narrow": {
-            "displayName": "wákàtí",
+            "displayName": "Wákàtí",
             "relative-type-0": "this hour",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} h"
@@ -576,13 +576,13 @@
             }
           },
           "zone": {
-            "displayName": "Ibi Àkókò Àgbáyé"
+            "displayName": "Agbègbè àkókò"
           },
           "zone-short": {
-            "displayName": "Ibi Àkókò Àgbáyé"
+            "displayName": "Agbègbè àkókò"
           },
           "zone-narrow": {
-            "displayName": "Ibi Àkókò Àgbáyé"
+            "displayName": "Agbègbè àkókò"
           }
         }
       }

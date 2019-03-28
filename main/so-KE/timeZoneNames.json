@@ -3,8 +3,8 @@
     "so-KE": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13869 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14771 $",
+          "_cldrVersion": "35"
         },
         "language": "so",
         "territory": "KE"
@@ -14,9 +14,9 @@
           "hourFormat": "+HH:mm;-HH:mm",
           "gmtFormat": "GMT{0}",
           "gmtZeroFormat": "GMT",
-          "regionFormat": "{0} Waqtiga",
-          "regionFormat-type-daylight": "{0} Waqtiga Dharaarta",
-          "regionFormat-type-standard": "{0} Waqtiga Caadiga ah",
+          "regionFormat": "Waqtiga {0}",
+          "regionFormat-type-daylight": "Waqtiga Dharaarta ee {0}",
+          "regionFormat-type-standard": "Waqtiga Caadiga Ah ee {0}",
           "fallbackFormat": "{1} ({0})",
           "zone": {
             "America": {
@@ -27,29 +27,29 @@
                 "exemplarCity": "Anjorage"
               },
               "Anguilla": {
-                "exemplarCity": "Anguilla"
+                "exemplarCity": "Anguwila"
               },
               "Antigua": {
-                "exemplarCity": "Antigua"
+                "exemplarCity": "Antiguwa"
               },
               "Araguaina": {
-                "exemplarCity": "Araguaina"
+                "exemplarCity": "Araguwayna"
               },
               "Argentina": {
                 "Rio_Gallegos": {
-                  "exemplarCity": "Rio Gallegos"
+                  "exemplarCity": "Riyo Jalejos"
                 },
                 "San_Juan": {
-                  "exemplarCity": "San Juan"
+                  "exemplarCity": "San Juwaan"
                 },
                 "Ushuaia": {
                   "exemplarCity": "Ushuaay"
                 },
                 "La_Rioja": {
-                  "exemplarCity": "La Rioja"
+                  "exemplarCity": "La Riyoja"
                 },
                 "San_Luis": {
-                  "exemplarCity": "San Luis"
+                  "exemplarCity": "San Luwis"
                 },
                 "Salta": {
                   "exemplarCity": "Salta"
@@ -62,7 +62,7 @@
                 "exemplarCity": "Aruba"
               },
               "Asuncion": {
-                "exemplarCity": "Asunkion"
+                "exemplarCity": "Asunkiyon"
               },
               "Bahia": {
                 "exemplarCity": "Baahiya"
@@ -89,16 +89,16 @@
                 "exemplarCity": "Bogota"
               },
               "Boise": {
-                "exemplarCity": "Boys"
+                "exemplarCity": "Boyse"
               },
               "Buenos_Aires": {
-                "exemplarCity": "Boonas Ayris"
+                "exemplarCity": "Buwenos Ayris"
               },
               "Cambridge_Bay": {
-                "exemplarCity": "Kambriij Baay"
+                "exemplarCity": "Kambiriij Baay"
               },
               "Campo_Grande": {
-                "exemplarCity": "Kaambo Carande"
+                "exemplarCity": "Kaambo Garandi"
               },
               "Cancun": {
                 "exemplarCity": "Kaankuun"
@@ -134,10 +134,10 @@
                 "exemplarCity": "Karestoon"
               },
               "Cuiaba": {
-                "exemplarCity": "Kuiaaba"
+                "exemplarCity": "Kuyaaba"
               },
               "Curacao": {
-                "exemplarCity": "Kurakao"
+                "exemplarCity": "Kurakoow"
               },
               "Danmarkshavn": {
                 "exemplarCity": "Daanmaakshaan"
@@ -152,10 +152,10 @@
                 "exemplarCity": "Denfar"
               },
               "Detroit": {
-                "exemplarCity": "Detroyt"
+                "exemplarCity": "Detoroyt"
               },
               "Dominica": {
-                "exemplarCity": "Dominika"
+                "exemplarCity": "Dominiika"
               },
               "Edmonton": {
                 "exemplarCity": "Edmonton"
@@ -167,40 +167,40 @@
                 "exemplarCity": "El Salfadoor"
               },
               "Fort_Nelson": {
-                "exemplarCity": "Foot Nelsoon"
+                "exemplarCity": "Foot Nelson"
               },
               "Fortaleza": {
                 "exemplarCity": "Footalesa"
               },
               "Glace_Bay": {
-                "exemplarCity": "Galeys Bay"
+                "exemplarCity": "Galeys Baay"
               },
               "Godthab": {
                 "exemplarCity": "Nuuk"
               },
               "Goose_Bay": {
-                "exemplarCity": "Guus Bay"
+                "exemplarCity": "Guus Baay"
               },
               "Grand_Turk": {
-                "exemplarCity": "Garaand Turk"
+                "exemplarCity": "Garaan Turk"
               },
               "Grenada": {
-                "exemplarCity": "Garenada"
+                "exemplarCity": "Garenaada"
               },
               "Guadeloupe": {
-                "exemplarCity": "Guadeluub"
+                "exemplarCity": "Guwadeluub"
               },
               "Guatemala": {
-                "exemplarCity": "Guatemaala"
+                "exemplarCity": "Guwatemaala"
               },
               "Guayaquil": {
-                "exemplarCity": "Guayaquil"
+                "exemplarCity": "Guwayaquwil"
               },
               "Guyana": {
                 "exemplarCity": "Guyaana"
               },
               "Halifax": {
-                "exemplarCity": "HaliFakis"
+                "exemplarCity": "Halifakas"
               },
               "Havana": {
                 "exemplarCity": "Hafaana"
@@ -210,29 +210,29 @@
               },
               "Indiana": {
                 "Vincennes": {
-                  "exemplarCity": "Finseenes, Indiana"
+                  "exemplarCity": "Finseenes, Indiyaana"
                 },
                 "Petersburg": {
-                  "exemplarCity": "Betesbaag, Indiaana"
+                  "exemplarCity": "Betesbaag, Indiyaana"
                 },
                 "Tell_City": {
-                  "exemplarCity": "Teel Siti Indiaana"
+                  "exemplarCity": "Tel Siti, Indiyaana"
                 },
                 "Knox": {
-                  "exemplarCity": "Nokis, Indiaana"
+                  "exemplarCity": "Nokis, Indiyaana"
                 },
                 "Winamac": {
-                  "exemplarCity": "Winaamak, Indiaana"
+                  "exemplarCity": "Winaamak, Indiyaana"
                 },
                 "Marengo": {
-                  "exemplarCity": "Mareengo, Indiaana"
+                  "exemplarCity": "Mareengo, Indiyaana"
                 },
                 "Vevay": {
-                  "exemplarCity": "Feefaay\\\\, Indiaana"
+                  "exemplarCity": "Feefaay, Indiyaana"
                 }
               },
               "Indianapolis": {
-                "exemplarCity": "Indaanboolis"
+                "exemplarCity": "Indiyaanabolis"
               },
               "Inuvik": {
                 "exemplarCity": "Inuufik"
@@ -241,7 +241,7 @@
                 "exemplarCity": "Iqaaluut"
               },
               "Jamaica": {
-                "exemplarCity": "Jamaaika"
+                "exemplarCity": "Jamayka"
               },
               "Jujuy": {
                 "exemplarCity": "Jujuy"
@@ -264,10 +264,10 @@
                 "exemplarCity": "Liima"
               },
               "Los_Angeles": {
-                "exemplarCity": "Los Angeles"
+                "exemplarCity": "Loos Anjalis"
               },
               "Louisville": {
-                "exemplarCity": "Luuisfil"
+                "exemplarCity": "Luusfile"
               },
               "Lower_Princes": {
                 "exemplarCity": "Loowa Birinses Kuwaata"
@@ -285,10 +285,10 @@
                 "exemplarCity": "Maarigot"
               },
               "Martinique": {
-                "exemplarCity": "Maartiniik"
+                "exemplarCity": "Maartiniikuyuu"
               },
               "Matamoros": {
-                "exemplarCity": "Mataamooris"
+                "exemplarCity": "Matamoros"
               },
               "Mazatlan": {
                 "exemplarCity": "Mazaatlan"
@@ -306,7 +306,7 @@
                 "exemplarCity": "Metlaakatla"
               },
               "Mexico_City": {
-                "exemplarCity": "Meksiko Sity"
+                "exemplarCity": "Meksiko Siti"
               },
               "Miquelon": {
                 "exemplarCity": "Miiquulon"
@@ -340,7 +340,7 @@
               },
               "North_Dakota": {
                 "Beulah": {
-                  "exemplarCity": "Biyuulah, Waqooyiga DaKoota"
+                  "exemplarCity": "Biyuulah, Waqooyiga Dakoota"
                 },
                 "New_Salem": {
                   "exemplarCity": "Niyuu Saalem, Waqooyiga Dakoota"
@@ -353,34 +353,34 @@
                 "exemplarCity": "Ojinaaga"
               },
               "Panama": {
-                "exemplarCity": "Baanama"
+                "exemplarCity": "Banaama"
               },
               "Pangnirtung": {
-                "exemplarCity": "Paangnirtuung"
+                "exemplarCity": "Bangnirtuung"
               },
               "Paramaribo": {
                 "exemplarCity": "Baramaribo"
               },
               "Phoenix": {
-                "exemplarCity": "Fooniks"
+                "exemplarCity": "Foonikis"
               },
               "Port-au-Prince": {
-                "exemplarCity": "Dekadda Wiilka Boqorka"
+                "exemplarCity": "Boort-aw-Biriins"
               },
               "Port_of_Spain": {
-                "exemplarCity": "Dekadda Isbeyn"
+                "exemplarCity": "Boort of Isbayn"
               },
               "Porto_Velho": {
-                "exemplarCity": "Pooro Felho"
+                "exemplarCity": "Boorto Felho"
               },
               "Puerto_Rico": {
                 "exemplarCity": "Boorta Riiko"
               },
               "Punta_Arenas": {
-                "exemplarCity": "Punta Arinaas"
+                "exemplarCity": "Bunta Arinaas"
               },
               "Rainy_River": {
-                "exemplarCity": "Reyni River"
+                "exemplarCity": "Reyni Rifer"
               },
               "Rankin_Inlet": {
                 "exemplarCity": "Raankin Inleet"
@@ -422,10 +422,10 @@
                 "exemplarCity": "St. Joon"
               },
               "St_Kitts": {
-                "exemplarCity": "St. Kits"
+                "exemplarCity": "St. Kitis"
               },
               "St_Lucia": {
-                "exemplarCity": "St. Lusia"
+                "exemplarCity": "St. Lusiya"
               },
               "St_Thomas": {
                 "exemplarCity": "St. Toomas"
@@ -443,22 +443,22 @@
                 "exemplarCity": "Tuul"
               },
               "Thunder_Bay": {
-                "exemplarCity": "Tanda Bay"
+                "exemplarCity": "Tanda Baay"
               },
               "Tijuana": {
-                "exemplarCity": "Tijuaana"
+                "exemplarCity": "Tijuwaana"
               },
               "Toronto": {
                 "exemplarCity": "Toronto"
               },
               "Tortola": {
-                "exemplarCity": "Tortola"
+                "exemplarCity": "Tortoola"
               },
               "Vancouver": {
                 "exemplarCity": "Fankuufar"
               },
               "Whitehorse": {
-                "exemplarCity": "Farascad"
+                "exemplarCity": "Waythoras"
               },
               "Winnipeg": {
                 "exemplarCity": "Winibeg"
@@ -484,16 +484,16 @@
                 "exemplarCity": "Keyb Faarde"
               },
               "Faeroe": {
-                "exemplarCity": "Faroe"
+                "exemplarCity": "Farow"
               },
               "Madeira": {
-                "exemplarCity": "Madeira"
+                "exemplarCity": "Madeera"
               },
               "Reykjavik": {
                 "exemplarCity": "Reykjafik"
               },
               "South_Georgia": {
-                "exemplarCity": "Koonfurta Joorgiya"
+                "exemplarCity": "Sowt Joorjiya"
               },
               "St_Helena": {
                 "exemplarCity": "St. Helena"
@@ -504,10 +504,10 @@
             },
             "Europe": {
               "Amsterdam": {
-                "exemplarCity": "Amsterdam"
+                "exemplarCity": "Amsterdaam"
               },
               "Andorra": {
-                "exemplarCity": "Andorra"
+                "exemplarCity": "Andoora"
               },
               "Astrakhan": {
                 "exemplarCity": "Astarakhaan"
@@ -516,7 +516,7 @@
                 "exemplarCity": "Atens"
               },
               "Belgrade": {
-                "exemplarCity": "Belgrade"
+                "exemplarCity": "Bilgaraydh"
               },
               "Berlin": {
                 "exemplarCity": "Barliin"
@@ -525,7 +525,7 @@
                 "exemplarCity": "Baratislafa"
               },
               "Brussels": {
-                "exemplarCity": "Barasals"
+                "exemplarCity": "Barasalis"
               },
               "Bucharest": {
                 "exemplarCity": "Bujarest"
@@ -534,34 +534,34 @@
                 "exemplarCity": "Budabest"
               },
               "Busingen": {
-                "exemplarCity": "Busingen"
+                "exemplarCity": "Busingeen"
               },
               "Chisinau": {
-                "exemplarCity": "Jisinaau"
+                "exemplarCity": "Jisinaaw"
               },
               "Copenhagen": {
                 "exemplarCity": "Kobenhaagan"
               },
               "Dublin": {
                 "long": {
-                  "daylight": "Waqtiyada Caadiga ah ee Irishka"
+                  "daylight": "Waqtiga Caadiga Ah ee Ayrishka"
                 },
-                "exemplarCity": "Dublin"
+                "exemplarCity": "Dhaablin"
               },
               "Gibraltar": {
                 "exemplarCity": "Gibraltar"
               },
               "Guernsey": {
-                "exemplarCity": "Guernsey"
+                "exemplarCity": "Geernisi"
               },
               "Helsinki": {
-                "exemplarCity": "Helsinki"
+                "exemplarCity": "Heleniski"
               },
               "Isle_of_Man": {
-                "exemplarCity": "Isle of Man"
+                "exemplarCity": "Ayle of Maan"
               },
               "Istanbul": {
-                "exemplarCity": "Istanbul"
+                "exemplarCity": "Istanbuul"
               },
               "Jersey": {
                 "exemplarCity": "Jaarsey"
@@ -579,28 +579,28 @@
                 "exemplarCity": "Lisbon"
               },
               "Ljubljana": {
-                "exemplarCity": "Ljubljana"
+                "exemplarCity": "Lubalaana"
               },
               "London": {
                 "long": {
-                  "daylight": "Waqtiyada Xagaaga ee Biritishka"
+                  "daylight": "Waqtiga Xagaaga ee Biritishka"
                 },
                 "exemplarCity": "Landan"
               },
               "Luxembourg": {
-                "exemplarCity": "Luksembaaga"
+                "exemplarCity": "Luksembaag"
               },
               "Madrid": {
-                "exemplarCity": "Madrid"
+                "exemplarCity": "Maadriid"
               },
               "Malta": {
                 "exemplarCity": "Malta"
               },
               "Mariehamn": {
-                "exemplarCity": "Mariehamn"
+                "exemplarCity": "Maarihaam"
               },
               "Minsk": {
-                "exemplarCity": "Minsk"
+                "exemplarCity": "Minisk"
               },
               "Monaco": {
                 "exemplarCity": "Monako"
@@ -612,13 +612,13 @@
                 "exemplarCity": "Oslo"
               },
               "Paris": {
-                "exemplarCity": "Bariis"
+                "exemplarCity": "Baariis"
               },
               "Podgorica": {
                 "exemplarCity": "Bodgorika"
               },
               "Prague": {
-                "exemplarCity": "Paraag"
+                "exemplarCity": "Baraag"
               },
               "Riga": {
                 "exemplarCity": "Riija"
@@ -630,7 +630,7 @@
                 "exemplarCity": "Samara"
               },
               "San_Marino": {
-                "exemplarCity": "San Marino"
+                "exemplarCity": "San Mariino"
               },
               "Sarajevo": {
                 "exemplarCity": "Sarayeefo"
@@ -651,13 +651,13 @@
                 "exemplarCity": "Istokhoom"
               },
               "Tallinn": {
-                "exemplarCity": "Tallinn"
+                "exemplarCity": "Taalin"
               },
               "Tirane": {
-                "exemplarCity": "Tirane"
+                "exemplarCity": "Tiraane"
               },
               "Ulyanovsk": {
-                "exemplarCity": "Ulyanofsk"
+                "exemplarCity": "Ulyanofisk"
               },
               "Uzhgorod": {
                 "exemplarCity": "Usgorod"
@@ -672,7 +672,7 @@
                 "exemplarCity": "Fiyaana"
               },
               "Vilnius": {
-                "exemplarCity": "Filnuus"
+                "exemplarCity": "Finiyuus"
               },
               "Volgograd": {
                 "exemplarCity": "Folgograd"
@@ -704,19 +704,19 @@
                 "exemplarCity": "Aljeeris"
               },
               "Asmera": {
-                "exemplarCity": "Caasmara"
+                "exemplarCity": "Asmara"
               },
               "Bamako": {
                 "exemplarCity": "Bamaako"
               },
               "Bangui": {
-                "exemplarCity": "Bangui"
+                "exemplarCity": "Baagi"
               },
               "Banjul": {
-                "exemplarCity": "Banjui"
+                "exemplarCity": "Banjul"
               },
               "Bissau": {
-                "exemplarCity": "Bisau"
+                "exemplarCity": "Bisaaw"
               },
               "Blantyre": {
                 "exemplarCity": "Balantire"
@@ -746,7 +746,7 @@
                 "exemplarCity": "Daresalaam"
               },
               "Djibouti": {
-                "exemplarCity": "Djibuuti"
+                "exemplarCity": "Jibuuti"
               },
               "Douala": {
                 "exemplarCity": "Douaala"
@@ -782,7 +782,7 @@
                 "exemplarCity": "Kinshasa"
               },
               "Lagos": {
-                "exemplarCity": "Lagos"
+                "exemplarCity": "Laagoos"
               },
               "Libreville": {
                 "exemplarCity": "Librefil"
@@ -791,7 +791,7 @@
                 "exemplarCity": "Loom"
               },
               "Luanda": {
-                "exemplarCity": "Luanda"
+                "exemplarCity": "Luwaanda"
               },
               "Lubumbashi": {
                 "exemplarCity": "Lubumbaashi"
@@ -803,13 +803,13 @@
                 "exemplarCity": "Malabo"
               },
               "Maputo": {
-                "exemplarCity": "Maputo"
+                "exemplarCity": "Mabuuto"
               },
               "Maseru": {
                 "exemplarCity": "Maseero"
               },
               "Mbabane": {
-                "exemplarCity": "Mbabane"
+                "exemplarCity": "Mababaane"
               },
               "Mogadishu": {
                 "exemplarCity": "Muqdisho"
@@ -818,31 +818,31 @@
                 "exemplarCity": "Monrofiya"
               },
               "Nairobi": {
-                "exemplarCity": "Nairobi"
+                "exemplarCity": "Nayroobi"
               },
               "Ndjamena": {
-                "exemplarCity": "Ndjamena"
+                "exemplarCity": "Injamina"
               },
               "Niamey": {
-                "exemplarCity": "Niamey"
+                "exemplarCity": "Nijame"
               },
               "Nouakchott": {
                 "exemplarCity": "Nookjot"
               },
               "Ouagadougou": {
-                "exemplarCity": "Ouagadougou"
+                "exemplarCity": "Wagadugu"
               },
               "Porto-Novo": {
                 "exemplarCity": "Boorto-Noofo"
               },
               "Sao_Tome": {
-                "exemplarCity": "Sao Tome"
+                "exemplarCity": "Saw Toom"
               },
               "Tripoli": {
-                "exemplarCity": "Tripoli"
+                "exemplarCity": "Tiribooli"
               },
               "Tunis": {
-                "exemplarCity": "Tunis"
+                "exemplarCity": "Tuunis"
               },
               "Windhoek": {
                 "exemplarCity": "Windhook"
@@ -856,7 +856,7 @@
                 "exemplarCity": "Almati"
               },
               "Amman": {
-                "exemplarCity": "Amman"
+                "exemplarCity": "Ammaan"
               },
               "Anadyr": {
                 "exemplarCity": "Anadiyr"
@@ -883,13 +883,13 @@
                 "exemplarCity": "Baku"
               },
               "Bangkok": {
-                "exemplarCity": "Bangkok"
+                "exemplarCity": "Bangkook"
               },
               "Barnaul": {
                 "exemplarCity": "Barnaauul"
               },
               "Beirut": {
-                "exemplarCity": "Beyrut"
+                "exemplarCity": "Beyruud"
               },
               "Bishkek": {
                 "exemplarCity": "Bishkek"
@@ -898,10 +898,10 @@
                 "exemplarCity": "Buruney"
               },
               "Calcutta": {
-                "exemplarCity": "Kolkata"
+                "exemplarCity": "Kolkaata"
               },
               "Chita": {
-                "exemplarCity": "Kiita"
+                "exemplarCity": "Jiita"
               },
               "Choibalsan": {
                 "exemplarCity": "Joybalsan"
@@ -913,7 +913,7 @@
                 "exemplarCity": "Dimishiq"
               },
               "Dhaka": {
-                "exemplarCity": "Dhaka"
+                "exemplarCity": "Dhaaka"
               },
               "Dili": {
                 "exemplarCity": "Dili"
@@ -928,31 +928,31 @@
                 "exemplarCity": "Famagusta"
               },
               "Gaza": {
-                "exemplarCity": "Gasa"
+                "exemplarCity": "Qasa"
               },
               "Hebron": {
                 "exemplarCity": "Hebron"
               },
               "Hong_Kong": {
-                "exemplarCity": "Hong Kong"
+                "exemplarCity": "Hoong Koong"
               },
               "Hovd": {
                 "exemplarCity": "Hofud"
               },
               "Irkutsk": {
-                "exemplarCity": "Irkutsk"
+                "exemplarCity": "Irkutsik"
               },
               "Jakarta": {
-                "exemplarCity": "Jakarta"
+                "exemplarCity": "Jakaarta"
               },
               "Jayapura": {
                 "exemplarCity": "Jayabura"
               },
               "Jerusalem": {
-                "exemplarCity": "Jerusalem"
+                "exemplarCity": "Jeerusaalem"
               },
               "Kabul": {
-                "exemplarCity": "Kabul"
+                "exemplarCity": "Kaabuul"
               },
               "Kamchatka": {
                 "exemplarCity": "Kamkatka"
@@ -979,16 +979,16 @@
                 "exemplarCity": "Kuweyt"
               },
               "Macau": {
-                "exemplarCity": "Makaw"
+                "exemplarCity": "Makow"
               },
               "Magadan": {
-                "exemplarCity": "Magadan"
+                "exemplarCity": "Magedan"
               },
               "Makassar": {
                 "exemplarCity": "Makasar"
               },
               "Manila": {
-                "exemplarCity": "Manila"
+                "exemplarCity": "Maniila"
               },
               "Muscat": {
                 "exemplarCity": "Muskat"
@@ -997,10 +997,10 @@
                 "exemplarCity": "Nikosiya"
               },
               "Novokuznetsk": {
-                "exemplarCity": "Nofokusnetsk"
+                "exemplarCity": "Nofokusnetsik"
               },
               "Novosibirsk": {
-                "exemplarCity": "Nofosibirsk"
+                "exemplarCity": "Nofosibirsik"
               },
               "Omsk": {
                 "exemplarCity": "Omsk"
@@ -1009,7 +1009,7 @@
                 "exemplarCity": "Oral"
               },
               "Phnom_Penh": {
-                "exemplarCity": "Foonom Penh"
+                "exemplarCity": "Benom Ben"
               },
               "Pontianak": {
                 "exemplarCity": "Botiyaanak"
@@ -1018,7 +1018,10 @@
                 "exemplarCity": "Boyongyang"
               },
               "Qatar": {
-                "exemplarCity": "Qatar"
+                "exemplarCity": "Qaddar"
+              },
+              "Qostanay": {
+                "exemplarCity": "Kostanay"
               },
               "Qyzylorda": {
                 "exemplarCity": "Qiyslorda"
@@ -1027,19 +1030,19 @@
                 "exemplarCity": "Yangon"
               },
               "Riyadh": {
-                "exemplarCity": "Riyadh"
+                "exemplarCity": "Riyaad"
               },
               "Saigon": {
-                "exemplarCity": "Caasimada Hoo Ji Mih"
+                "exemplarCity": "Hoo Ji Mih Siti"
               },
               "Sakhalin": {
                 "exemplarCity": "Sakhalin"
               },
               "Samarkand": {
-                "exemplarCity": "Samarkand"
+                "exemplarCity": "Samarkaan"
               },
               "Seoul": {
-                "exemplarCity": "Sool"
+                "exemplarCity": "Soul"
               },
               "Shanghai": {
                 "exemplarCity": "Shanghaay"
@@ -1048,22 +1051,22 @@
                 "exemplarCity": "Singabuur"
               },
               "Srednekolymsk": {
-                "exemplarCity": "Sarednokoleymsk"
+                "exemplarCity": "Sarednokoleymisk"
               },
               "Taipei": {
                 "exemplarCity": "Teybey"
               },
               "Tashkent": {
-                "exemplarCity": "Tashkent"
+                "exemplarCity": "Toshkeent"
               },
               "Tbilisi": {
-                "exemplarCity": "Tbilisi"
+                "exemplarCity": "Tibilisi"
               },
               "Tehran": {
-                "exemplarCity": "Tehran"
+                "exemplarCity": "Tehraan"
               },
               "Thimphu": {
-                "exemplarCity": "Timfu"
+                "exemplarCity": "Timbu"
               },
               "Tokyo": {
                 "exemplarCity": "Tokyo"
@@ -1081,13 +1084,13 @@
                 "exemplarCity": "Ust-Nera"
               },
               "Vientiane": {
-                "exemplarCity": "Viyaantiyaan"
+                "exemplarCity": "Fiyaantiyaan"
               },
               "Vladivostok": {
                 "exemplarCity": "Faladifostok"
               },
               "Yakutsk": {
-                "exemplarCity": "Yakutsk"
+                "exemplarCity": "Yakut"
               },
               "Yekaterinburg": {
                 "exemplarCity": "Yekaterinbaag"
@@ -1113,7 +1116,7 @@
                 "exemplarCity": "Komoro"
               },
               "Kerguelen": {
-                "exemplarCity": "Kerguelen"
+                "exemplarCity": "Kergalen"
               },
               "Mahe": {
                 "exemplarCity": "Mahe"
@@ -1125,15 +1128,15 @@
                 "exemplarCity": "Morishiyaas"
               },
               "Mayotte": {
-                "exemplarCity": "Mayote"
+                "exemplarCity": "Mayoote"
               },
               "Reunion": {
-                "exemplarCity": "Reunion"
+                "exemplarCity": "Riyuuniyon"
               }
             },
             "Australia": {
               "Adelaide": {
-                "exemplarCity": "Adelaide"
+                "exemplarCity": "Adelayde"
               },
               "Brisbane": {
                 "exemplarCity": "Birisban"
@@ -1151,13 +1154,13 @@
                 "exemplarCity": "Yukla"
               },
               "Hobart": {
-                "exemplarCity": "Hobart"
+                "exemplarCity": "Hubaart"
               },
               "Lindeman": {
                 "exemplarCity": "Lindeman"
               },
               "Lord_Howe": {
-                "exemplarCity": "Lord Howe"
+                "exemplarCity": "Lod How"
               },
               "Melbourne": {
                 "exemplarCity": "Melboon"
@@ -1174,25 +1177,25 @@
                 "exemplarCity": "Abiya"
               },
               "Auckland": {
-                "exemplarCity": "Okland"
+                "exemplarCity": "Owklaan"
               },
               "Bougainville": {
                 "exemplarCity": "Boogaynfil"
               },
               "Chatham": {
-                "exemplarCity": "Jatham"
+                "exemplarCity": "Jatam"
               },
               "Easter": {
-                "exemplarCity": "Bariga"
+                "exemplarCity": "Iistar"
               },
               "Efate": {
                 "exemplarCity": "Efate"
               },
               "Enderbury": {
-                "exemplarCity": "Enderbury"
+                "exemplarCity": "Enderburi"
               },
               "Fakaofo": {
-                "exemplarCity": "Fakaofo"
+                "exemplarCity": "fakofo"
               },
               "Fiji": {
                 "exemplarCity": "Fiji"
@@ -1210,7 +1213,7 @@
                 "exemplarCity": "Cuadalkanal"
               },
               "Guam": {
-                "exemplarCity": "Guam"
+                "exemplarCity": "Guwam"
               },
               "Johnston": {
                 "exemplarCity": "Joonston"
@@ -1225,22 +1228,22 @@
                 "exemplarCity": "Kuwajaleyn"
               },
               "Majuro": {
-                "exemplarCity": "Majuro"
+                "exemplarCity": "Majro"
               },
               "Marquesas": {
-                "exemplarCity": "Marquesas"
+                "exemplarCity": "Marquwesas"
               },
               "Midway": {
                 "exemplarCity": "Midway"
               },
               "Nauru": {
-                "exemplarCity": "Nauru"
+                "exemplarCity": "Nawroo"
               },
               "Niue": {
                 "exemplarCity": "Niyuu"
               },
               "Norfolk": {
-                "exemplarCity": "Noorfolk"
+                "exemplarCity": "Noorfek"
               },
               "Noumea": {
                 "exemplarCity": "Noomiya"
@@ -1287,12 +1290,12 @@
             },
             "Arctic": {
               "Longyearbyen": {
-                "exemplarCity": "Longyearbyen"
+                "exemplarCity": "Lonjirbyeen"
               }
             },
             "Antarctica": {
               "Casey": {
-                "exemplarCity": "Keysee"
+                "exemplarCity": "Kaysee"
               },
               "Davis": {
                 "exemplarCity": "Dafis"
@@ -1301,7 +1304,7 @@
                 "exemplarCity": "Dumont d’urfile"
               },
               "Macquarie": {
-                "exemplarCity": "Makquariy"
+                "exemplarCity": "Makquwariy"
               },
               "Mawson": {
                 "exemplarCity": "Mawson"
@@ -1328,21 +1331,21 @@
             "Etc": {
               "UTC": {
                 "long": {
-                  "standard": "Waqtiga iskuxiran ee caalamka"
+                  "standard": "Waqtiga Isku-xiran ee Caalamka"
                 },
                 "short": {
                   "standard": "UTC"
                 }
               },
               "Unknown": {
-                "exemplarCity": "Magaalo aan la garanayn"
+                "exemplarCity": "Magaalo Aan La Garanayn"
               }
             }
           },
           "metazone": {
             "Afghanistan": {
               "long": {
-                "standard": "Waqtiga Afqanistan"
+                "standard": "Waqtiga Afggaanistaan"
               }
             },
             "Africa_Central": {
@@ -1357,152 +1360,152 @@
             },
             "Africa_Southern": {
               "long": {
-                "standard": "Waqtiyada Caadiga ah ee Koonfur Afrika"
+                "standard": "Waqtiyada Caadiga Ah ee Koonfur Afrika"
               }
             },
             "Africa_Western": {
               "long": {
                 "generic": "Waqtiga Galbeedka Afrika",
-                "standard": "Waqtiyada Caadiga ah ee Galbeedka Afrika",
-                "daylight": "Waqtiyada Xagaaga ee Galbeedka Afrika"
+                "standard": "Waqtiga Caadiga Ah ee Galbeedka Afrika",
+                "daylight": "Waqtiga Xagaaga ee Galbeedka Afrika"
               }
             },
             "Alaska": {
               "long": {
                 "generic": "Waqtiga Alaska",
-                "standard": "Waqtiga Caadiga ah ee Alaska",
+                "standard": "Waqtiga Caadiga Ah ee Alaska",
                 "daylight": "Waqtiga Dharaarta ee Alaska"
               }
             },
             "Amazon": {
               "long": {
                 "generic": "Waqtiga Amason",
-                "standard": "Waqtiga Istandarka ee Amason",
+                "standard": "Waqtiga Caadiga Ah ee Amason",
                 "daylight": "Waqtiga Xagaaga ee Amason"
               }
             },
             "America_Central": {
               "long": {
-                "generic": "Waqtiga Bartamaha",
-                "standard": "Waqtiga Caadiga ah ee Bartamaha",
-                "daylight": "Waqtiga Dharaarta ee Bartamaha"
+                "generic": "Waqtiga Bartamaha Waqooyiga Ameerika",
+                "standard": "Waqtiga Caadiga Ah ee Bartamaha Waqooyiga Ameerika",
+                "daylight": "Waqtiga Dharaarta ee Bartamaha Waqooyiga Ameerika"
               }
             },
             "America_Eastern": {
               "long": {
-                "generic": "Waqtiga Bariga",
-                "standard": "Waqtiga Caadiga ah ee Bariga",
-                "daylight": "Waqtiga Dharaarta ee Bariga"
+                "generic": "Waqtiga Bariga ee Waqooyiga Ameerika",
+                "standard": "Waqtiga Caadiga Ah ee Bariga Waqooyiga Ameerika",
+                "daylight": "Waqtiga Dharaarta ee Bariga Waqooyiga Ameerika"
               }
             },
             "America_Mountain": {
               "long": {
-                "generic": "Waqtiga Buuraleyda",
-                "standard": "Waqtiga Caadiga ah ee Buuraleyda",
-                "daylight": "Waqtiga Dharaarta ee Buurleyda"
+                "generic": "Waqtiga Buuraleyda ee Waqooyiga Ameerika",
+                "standard": "Waqtiga Caadiga ah ee Buuraleyda Waqooyiga Ameerika",
+                "daylight": "Waqtiga Dharaarta ee Buurleyda Waqooyiga Ameerika"
               }
             },
             "America_Pacific": {
               "long": {
-                "generic": "Waqtiga Basifika",
-                "standard": "Waqtiga Caadiga ah ee Basifika",
-                "daylight": "Waqtiga Dharaarta ee Basifika"
+                "generic": "Waqtiga Basifika ee Waqooyiga Ameerika",
+                "standard": "Waqtiga Caadiga ah ee Basifika Waqooyiga Ameerika",
+                "daylight": "Waqtiga Dharaarta ee Basifika Waqooyiga Ameerika"
               }
             },
             "Apia": {
               "long": {
                 "generic": "Waqtiga Abiya",
-                "standard": "Waqtiyada Caadiga ah ee Abiya",
-                "daylight": "Waqtiayda Dharaarta ee Abiya"
+                "standard": "Waqtiga Caadiga Ah ee Abiya",
+                "daylight": "Waqtiga Dharaarta ee Abiya"
               }
             },
             "Arabian": {
               "long": {
                 "generic": "Waqtiga Carabta",
-                "standard": "Waqtiyada Caadiga ah ee Carabta",
-                "daylight": "Waqtiyada Dharaarta ee Carabta"
+                "standard": "Waqtiga Caadiga Ah ee Carabta",
+                "daylight": "Waqtiga Dharaarta ee Carabta"
               }
             },
             "Argentina": {
               "long": {
                 "generic": "Waqtia Arjentiina",
-                "standard": "Waqtiga istaandarka ee Arjentiina",
+                "standard": "Waqtiga Caadiga Ah ee Arjentiina",
                 "daylight": "Waqtiga Xagaaga ee Arjentiina"
               }
             },
             "Argentina_Western": {
               "long": {
                 "generic": "Waqtiga Galbeedka Arjentiina",
-                "standard": "Waqtiyada Caadiga ah ee Arjentiina",
-                "daylight": "Waqtiyada Xagaaga ee Galbeedka Arjentiina"
+                "standard": "Waqtiga Caadiga Ah ee Galbeedka Arjentiina",
+                "daylight": "Waqtiga Xagaaga ee Galbeedka Arjentiina"
               }
             },
             "Armenia": {
               "long": {
-                "generic": "Waqtiga Armeniya",
-                "standard": "Waqtiyada Caadiga ah ee Armeniya",
-                "daylight": "Waqtiyada Xagaaga ee Armeniya"
+                "generic": "Waqtiga Armeeniya",
+                "standard": "Waqtiga Caadiga Ah ee Armeeniya",
+                "daylight": "Waqtiga Xagaaga ee Armeeniya"
               }
             },
             "Atlantic": {
               "long": {
-                "generic": "Waqtiga Atlantik",
-                "standard": "Waqtiga Istaandarka ee Atlantik",
-                "daylight": "Waqtiga Dharaarta ee Atlantik"
+                "generic": "Waqtiga Atlantika ee Waqooyiga Ameerika",
+                "standard": "Waqtiga Caadiga Ah ee Atlantika Waqooyiga Ameerika",
+                "daylight": "Waqtiga Dharaarta ee Atlantika Waqooyiga Ameerika"
               }
             },
             "Australia_Central": {
               "long": {
                 "generic": "Waqtiga Bartamaha Astaraaliya",
-                "standard": "Waqtiyada Caadiga ah ee Bartamaha Astaraaliya",
-                "daylight": "Waqtiyada Dharaarta ee Bartamaha Astaraaliya"
+                "standard": "Waqtiga Caadiga Ah ee Bartamaha Astaraaliya",
+                "daylight": "Waqtiga Dharaarta ee Bartamaha Astaraaliya"
               }
             },
             "Australia_CentralWestern": {
               "long": {
                 "generic": "Waqtiga Bartamaha Galbeedka Astaraaliya",
-                "standard": "Waqtiyada Caadiga ah ee Bartamaha Galbeedka Astaraaliya",
-                "daylight": "Waqtiyada Dharaarta Bartamaha Galbeedka Australiya"
+                "standard": "Waqtiga Caadiga Ah ee Bartamaha Galbeedka Astaraaliya",
+                "daylight": "Waqtiga Dharaarta Bartamaha Galbeedka Australiya"
               }
             },
             "Australia_Eastern": {
               "long": {
-                "generic": "Waqtiga Bariga Australiya",
-                "standard": "Waqtiyada Caadiga ah ee Bariga Australiya",
-                "daylight": "Waqtiyada Dharaarta ee Bariga Australiya"
+                "generic": "Waqtiga Bariga Astaraaliya",
+                "standard": "Waqtiyada Caadiga ah ee Bariga Astaraaliya",
+                "daylight": "Waqtiga Dharaarta ee Bariga Astaraaliya"
               }
             },
             "Australia_Western": {
               "long": {
-                "generic": "Waqtiga Galbeedka Australiya",
-                "standard": "Waqtiyada Caadiga ah ee Galbeedka Australiya",
-                "daylight": "Waqtiyada Dharaarta ee Galbeedka Australiya"
+                "generic": "Waqtiga Galbeedka Astaraaliya",
+                "standard": "Waqtiga Caadiga Ah ee Galbeedka Astaraaliya",
+                "daylight": "Waqtiga Dharaarta ee Galbeedka Astaraaliya"
               }
             },
             "Azerbaijan": {
               "long": {
                 "generic": "Waqtiga Asarbeyjan",
-                "standard": "Waqtiyada Caadiga ah ee Asarbeyjan",
-                "daylight": "Waqtiyada Xagaaga ee Asarbeyjan"
+                "standard": "Waqtiga Caadiga Ah ee Asarbeyjan",
+                "daylight": "Waqtiga Xagaaga ee Asarbeyjan"
               }
             },
             "Azores": {
               "long": {
                 "generic": "Waqtiga Asores",
-                "standard": "Waqtiyada Caadiga ah ee Asores",
-                "daylight": "Waqtiyada Xagaaga ee Asores"
+                "standard": "Waqtiga Caadiga Ah ee Asores",
+                "daylight": "Waqtiga Xagaaga ee Asores"
               }
             },
             "Bangladesh": {
               "long": {
                 "generic": "Waqtiga Bangledeesh",
-                "standard": "Waqtiyada Caadiga ah ee Bangledeesh",
-                "daylight": "Waqtiyada Xagaaga ee Bangledeesh"
+                "standard": "Waqtiga Caadiga Ah ee Bangledeesh",
+                "daylight": "Waqtiga Xagaaga ee Bangledeesh"
               }
             },
             "Bhutan": {
               "long": {
-                "standard": "Waqtiga Futan"
+                "standard": "Waqtiga Butaan"
               }
             },
             "Bolivia": {
@@ -1514,7 +1517,7 @@
               "long": {
                 "generic": "Waqtiga Baraasiliya",
                 "standard": "Waqtiga Caadiga ah ee Baraasiliya",
-                "daylight": "Waqtiyada Xagaaga ee Baraasiliya"
+                "daylight": "Waqtiga Xagaaga ee Baraasiliya"
               }
             },
             "Brunei": {
@@ -1525,71 +1528,71 @@
             "Cape_Verde": {
               "long": {
                 "generic": "Waqtiga Keyb Faarde",
-                "standard": "Waqtiyada Caadiga ah ee Keyb Faarde",
-                "daylight": "Waqtiyada Xagaaga ee Keyb Faarde"
+                "standard": "Waqtiga Caadiga Ah ee Keyb Faarde",
+                "daylight": "Waqtiga Xagaaga ee Keyb Faarde"
               }
             },
             "Chamorro": {
               "long": {
-                "standard": "Waqtiyada Caadiga ah ee Jamoro"
+                "standard": "Waqtiga Jamoro"
               }
             },
             "Chatham": {
               "long": {
                 "generic": "Waqtiga Jaatam",
-                "standard": "Waqtiyada Caadiga ah ee Jaatam",
-                "daylight": "Waqtiyada Dharaarta ee Jaatam"
+                "standard": "Waqtiga Caadiga Ah ee Jaatam",
+                "daylight": "Waqtiga Dharaarta ee Jaatam"
               }
             },
             "Chile": {
               "long": {
                 "generic": "Waqtiga Jili",
-                "standard": "Waqtiyada Caadiga ah ee Jili",
+                "standard": "Waqtiga Caadiga Ah ee Jili",
                 "daylight": "Waqtiga Xagaaga ee Jili"
               }
             },
             "China": {
               "long": {
                 "generic": "Waqtiga Shiinaha",
-                "standard": "Waqtiyada Caadiga ah ee Shiinaha",
-                "daylight": "Waqtiyada Dharaarta ee Shiinaha"
+                "standard": "Waqtiga Caadiga Ah ee Shiinaha",
+                "daylight": "Waqtiga Dharaarta ee Shiinaha"
               }
             },
             "Choibalsan": {
               "long": {
                 "generic": "Waqtiga Joybalsan",
-                "standard": "Waqtiyada Caadiga ah ee Joybalsan",
-                "daylight": "Waqtiyada Xagaaga Joybalsan"
+                "standard": "Waqtiga Caadiga Ah ee Joybalsan",
+                "daylight": "Waqtiga Xagaaga ee Joybalsan"
               }
             },
             "Christmas": {
               "long": {
-                "standard": "Waqtiga Kirismas Island"
+                "standard": "Waqtiga Kirismas Aylaan"
               }
             },
             "Cocos": {
               "long": {
-                "standard": "Waqtiga Kokos Island"
+                "standard": "Waqtiga Kokos Aylaan"
               }
             },
             "Colombia": {
               "long": {
                 "generic": "Waqtiga Kolambiya",
-                "standard": "Waqtiyada Caadiga ah ee kolambiya",
-                "daylight": "Waqtiyada Xagaaga Kolambiya"
+                "standard": "Waqtiga Caadiga Ah ee Kolambiya",
+                "daylight": "Waqtiga Xagaaga ee Kolambiya"
               }
             },
             "Cook": {
               "long": {
-                "generic": "waqtiga jasiiradaha cook",
-                "standard": "waqtiga caadiga ah jasiiradaha cook",
-                "daylight": "waqtiga nus xagaaga ah ee jasiiradha cook"
+                "generic": "Waqtiga Kuuk Aylaanis",
+                "standard": "Waqtiga Caadiga Ah ee Kuuk Aylaanis",
+                "daylight": "Waqtiga Nus Xagaaga ah ee Kuuk Aylaanis"
               }
             },
             "Cuba": {
               "long": {
                 "generic": "Waqtiga Kuuba",
-                "standard": "Waqtiga Istaandarka ee Kuuba",
+                "standard": "Waqtiga Caadiga Ah ee Kuuba",
                 "daylight": "Waqtiga Dharaarta ee Kuuba"
               }
             },
@@ -1605,64 +1608,64 @@
             },
             "East_Timor": {
               "long": {
-                "standard": "Waqtiga East Timor"
+                "standard": "Waqtiga Iist Timoor"
               }
             },
             "Easter": {
               "long": {
-                "generic": "Waqtiga Bariga Island",
-                "standard": "Waqtiyada Caadiga ah ee Bariga Island",
-                "daylight": "Waqtiga Xagaaga ee Bariga Island"
+                "generic": "Waqtiga Iistar Aylaan",
+                "standard": "Waqtiga Caadiga Ah ee Iistar Aylaan",
+                "daylight": "Waqtiga Xagaaga ee Iistar Aylaan"
               }
             },
             "Ecuador": {
               "long": {
-                "standard": "Waqtiga Ekuwador"
+                "standard": "Waqtiga Ekuwadoor"
               }
             },
             "Europe_Central": {
               "long": {
                 "generic": "Waqtiga Bartamaha Yurub",
-                "standard": "Waqtiyada Caadiga ah ee Bartamaha Yurub",
-                "daylight": "Waqtiyada Xagaaga ee Bartamaha Yurub"
+                "standard": "Waqtiga Caadiga Ah ee Bartamaha Yurub",
+                "daylight": "Waqtiga Xagaaga ee Bartamaha Yurub"
               }
             },
             "Europe_Eastern": {
               "long": {
                 "generic": "Waqtiga Bariga Yurub",
-                "standard": "Waqtiyada Caadiga ah ee Bariga Yurub",
-                "daylight": "Waqtiyada Xagaaga ee Bariga Yurub"
+                "standard": "Waqtiga Caadiga Ah ee Bariga Yurub",
+                "daylight": "Waqtiga Xagaaga ee Bariga Yurub"
               }
             },
             "Europe_Further_Eastern": {
               "long": {
-                "standard": "Waqtiga Bariga fog ee Yurub"
+                "standard": "Waqtiga Bariga Fog ee Yurub"
               }
             },
             "Europe_Western": {
               "long": {
                 "generic": "Waqtiga Galbeedka Yurub",
-                "standard": "Waqtiyada Caadiga ah ee Galbeedka Yurub",
-                "daylight": "Waqtiyada Xagaaga ee Galbeedka Yurub"
+                "standard": "Waqtiga Caadiga Ah ee Galbeedka Yurub",
+                "daylight": "Waqtiga Xagaaga ee Galbeedka Yurub"
               }
             },
             "Falkland": {
               "long": {
-                "generic": "Waqtiga Faalkland Islands",
-                "standard": "Waqtiyada Caadiga ah ee Faalkland Islands",
-                "daylight": "Waqtiyada Xagaaga ee Faalkland Island"
+                "generic": "Waqtiga Faalklaan Aylaanis",
+                "standard": "Waqtiga Caadiga Ah ee Faalklaan Aylaanis",
+                "daylight": "Waqtiga Xagaaga ee Faalklaan Aylaanis"
               }
             },
             "Fiji": {
               "long": {
                 "generic": "Waqtiga Fiji",
-                "standard": "Waqtiyada Caadiga ah ee Fiji",
+                "standard": "Waqtiga Caadiga Ah ee Fiji",
                 "daylight": "Waqtiga Xagaaga ee Fiji"
               }
             },
             "French_Guiana": {
               "long": {
-                "standard": "Waqtiga French Guiana"
+                "standard": "Waqtiga Ferenj Guyana"
               }
             },
             "French_Southern": {
@@ -1683,13 +1686,13 @@
             "Georgia": {
               "long": {
                 "generic": "Waqtiga Joorjiya",
-                "standard": "Waqtiyada Caadiga ah ee Joorjiya",
-                "daylight": "Waqtiyada Xagaaga ee Joorjiya"
+                "standard": "Waqtiga Caadiga Ah ee Joorjiya",
+                "daylight": "Waqtiga Xagaaga ee Joorjiya"
               }
             },
             "Gilbert_Islands": {
               "long": {
-                "standard": "Waqtiga Gilbart Island"
+                "standard": "Waqtiga Jilbeert Aylaan"
               }
             },
             "GMT": {
@@ -1699,21 +1702,21 @@
             },
             "Greenland_Eastern": {
               "long": {
-                "generic": "Waqtiga Bariga Dhulka Cagaaran",
-                "standard": "Waqtiga Istaandarka ee Bariga Dhulka cagaaran",
-                "daylight": "Waqtiga Istaandarda ee Dhulka cagaaran"
+                "generic": "Waqtiga Bariga ee Giriinlaan",
+                "standard": "Waqtiga Caadiga ah ee Bariga Giriinlaan",
+                "daylight": "Waqtiga Xagaaga ee Bariga Giriinlaan"
               }
             },
             "Greenland_Western": {
               "long": {
-                "generic": "Waqtiga Galbeedka Dhulka cagaaran",
-                "standard": "Waqtiga Istaandarka ee Galbeedka Dhulka cagaaran",
-                "daylight": "Waqtiga Xagaaga ee Dhulka cagaaran"
+                "generic": "Waqtiga Galbeedka Giriinlaan",
+                "standard": "Waqtiga Caadiga Ah ee Galbeedka Giriinlaan",
+                "daylight": "Waqtiga Xagaaga ee Galbeedka Giriinlaan"
               }
             },
             "Gulf": {
               "long": {
-                "standard": "Waqtiyada Caadiga ah ee Gacanka"
+                "standard": "Waqtiga Gacanka"
               }
             },
             "Guyana": {
@@ -1723,33 +1726,33 @@
             },
             "Hawaii_Aleutian": {
               "long": {
-                "generic": "Waqtiga Hawaii-Alutin",
-                "standard": "Waqtiga Istaandarka Hawaii-Alutin",
-                "daylight": "Waqtiga Dharaarta ee Hawaii=Alutin"
+                "generic": "Waqtiga Hawaay-Alutiyaan",
+                "standard": "Waqtiga Caadiga Ah ee Hawaay-Alutiyaan",
+                "daylight": "Waqtiga Dharaarta ee Hawaay-Alutiyaan"
               }
             },
             "Hong_Kong": {
               "long": {
-                "generic": "Waqtiga Hong Kong",
-                "standard": "Waqtiyada Caadiga ah ee Hong Kong",
-                "daylight": "Waqtiyada Xagaaga ee Hong Kong"
+                "generic": "Waqtiga Hoong Koong",
+                "standard": "Waqtiga Caadiga Ah ee Hoong Koong",
+                "daylight": "Waqtiga Xagaaga ee Hoong Koong"
               }
             },
             "Hovd": {
               "long": {
-                "generic": "Waqtiga Hofd",
-                "standard": "Waqtiyada Caadiga ah ee Hofud",
-                "daylight": "Waqtiyada Xagaaga ee Hofud"
+                "generic": "Waqtiga Hofud",
+                "standard": "Waqtiga Caadiga Ah ee Hofud",
+                "daylight": "Waqtiga Xagaaga ee Hofud"
               }
             },
             "India": {
               "long": {
-                "standard": "Waqtiyada Caadiga ah ee Hindiya"
+                "standard": "Waqtiga Caadiga Ah ee Hindiya"
               }
             },
             "Indian_Ocean": {
               "long": {
-                "standard": "Waqtiga badweynta Hindiya"
+                "standard": "Waqtiga Badweynta Hindiya"
               }
             },
             "Indochina": {
@@ -1759,45 +1762,45 @@
             },
             "Indonesia_Central": {
               "long": {
-                "standard": "Waqtiga Bartamaha Indoneysiya"
+                "standard": "Waqtiga Bartamaha Indoneeysiya"
               }
             },
             "Indonesia_Eastern": {
               "long": {
-                "standard": "Waqtiga Indoneysiya"
+                "standard": "Waqtiga Indoneeysiya"
               }
             },
             "Indonesia_Western": {
               "long": {
-                "standard": "Waqtiga Galbeedka Indoneysiya"
+                "standard": "Waqtiga Galbeedka Indoneeysiya"
               }
             },
             "Iran": {
               "long": {
-                "generic": "Waqtiga Iran",
-                "standard": "Waqtiyada Caadiga ah ee Iran",
-                "daylight": "Waqtiyada Dharaarta ee Iran"
+                "generic": "Waqtiga Iiraan",
+                "standard": "Waqtiga Caadiga Ah ee Iiraan",
+                "daylight": "Waqtiga Dharaarta ee Iiraan"
               }
             },
             "Irkutsk": {
               "long": {
-                "generic": "Waqtiga Irkutsk",
-                "standard": "Waqtiyada Caadiga ah ee Irkutsk",
-                "daylight": "Waqtiyada Xagaaga ee Irkutsk"
+                "generic": "Waqtiga Irkutsik",
+                "standard": "Waqtiga Caadiga Ah ee Irkutsik",
+                "daylight": "Waqtiga Xagaaga ee Irkutsik"
               }
             },
             "Israel": {
               "long": {
                 "generic": "Waqtiga Israaiil",
-                "standard": "Waqtiyada Caadiga ah ee Israaiil",
-                "daylight": "Waqtiyada Dharaarta ee Israaiil"
+                "standard": "Waqtiga Caadiga Ah ee Israaiil",
+                "daylight": "Waqtiga Dharaarta ee Israaiil"
               }
             },
             "Japan": {
               "long": {
                 "generic": "Waqtiga Jabaan",
-                "standard": "Waqtiyada Caadiga ah ee Jabaan",
-                "daylight": "Waqtiyada Dharaarta ee Jabaan"
+                "standard": "Waqtiga Caadiga Ah ee Jabaan",
+                "daylight": "Waqtiga Dharaarta ee Jabaan"
               }
             },
             "Kazakhstan_Eastern": {
@@ -1813,7 +1816,7 @@
             "Korea": {
               "long": {
                 "generic": "Waqtiga Kuuriya",
-                "standard": "Waqtiyada Caadiga ah ee Kuuriya",
+                "standard": "Waqtiga Caadiga Ah ee Kuuriya",
                 "daylight": "Waqtiga Dharaarta ee Kuuriya"
               }
             },
@@ -1824,38 +1827,38 @@
             },
             "Krasnoyarsk": {
               "long": {
-                "generic": "Waqtiga Karasnoyarsk",
-                "standard": "Waqtiyada Caadiga ah ee Karasnoyarsk",
-                "daylight": "Waqtiyada Xagaaga ee Karasnoyarsk"
+                "generic": "Waqtiga Karasnoyarsik",
+                "standard": "Waqtiga Caadiga Ah ee Karasnoyarsik",
+                "daylight": "Waqtiga Xagaaga ee Karasnoyarsik"
               }
             },
             "Kyrgystan": {
               "long": {
-                "standard": "Waqtiga Kiyrgistaan"
+                "standard": "Waqtiga Kiyrigistaan"
               }
             },
             "Line_Islands": {
               "long": {
-                "standard": "Waqtiga Leyn Island"
+                "standard": "Waqtiga Leyn Aylaan"
               }
             },
             "Lord_Howe": {
               "long": {
-                "generic": "Waqtiga LOrd Howe",
-                "standard": "Waqtiyada Caadiga ah ee Lord Howe",
-                "daylight": "Waqtiyada Dharaarta ee Lord Howe"
+                "generic": "Waqtiga Lod How",
+                "standard": "Waqtiga Caadiga Ah ee Lod How",
+                "daylight": "Waqtiga Dharaarta ee Lod How"
               }
             },
             "Macquarie": {
               "long": {
-                "standard": "waqtiga jaziirada makquariye"
+                "standard": "Waqtiga Makquwariy Aylaan"
               }
             },
             "Magadan": {
               "long": {
-                "generic": "Watiga Magadan",
-                "standard": "Waqtiyada Caadiga ah ee Magadan",
-                "daylight": "Waqtiyada Xagaaga ee Magadan"
+                "generic": "Watiga Magedan",
+                "standard": "Waqtiga Caadiga Ah ee Magedan",
+                "daylight": "Waqtiga Xagaaga ee Magedan"
               }
             },
             "Malaysia": {
@@ -1870,19 +1873,19 @@
             },
             "Marquesas": {
               "long": {
-                "standard": "Waqtiga Marquesas"
+                "standard": "Waqtiga Marquwesas"
               }
             },
             "Marshall_Islands": {
               "long": {
-                "standard": "waqtiga jasiiradaha marshal"
+                "standard": "Waqtiga Maarshaal Aylaanis"
               }
             },
             "Mauritius": {
               "long": {
                 "generic": "Waqtiga Morishiyaas",
-                "standard": "Waqtiyada Caadiga ah ee Morishiyaas",
-                "daylight": "Waqtiyada Xagaaga ee Morishiyaas"
+                "standard": "Waqtiga Caadiga Ah ee Morishiyaas",
+                "daylight": "Waqtiga Xagaaga ee Morishiyaas"
               }
             },
             "Mawson": {
@@ -1892,30 +1895,30 @@
             },
             "Mexico_Northwest": {
               "long": {
-                "generic": "Waqtiga Waqooyi-Galbeed ee Meksiko",
-                "standard": "waqtiga Istandardka ee waqooyi galbeet meksiko",
-                "daylight": "Waqtiga Dharaarta ee Waqooyigalbeed Meksiko"
+                "generic": "Waqtiga Waqooyi-Galbeed Meksiko",
+                "standard": "Waqtiga Caadiga Ah ee Waqooyi-Galbeed Meksiko",
+                "daylight": "Waqtiga Dharaarta ee Waqooyi-Galbeed Meksiko"
               }
             },
             "Mexico_Pacific": {
               "long": {
                 "generic": "Waqtiga Baasifikada Meksiko",
-                "standard": "waqtiga standardka Baasifikada Meksiko",
+                "standard": "Waqtiga Caadiga Ah ee Baasifikada Meksiko",
                 "daylight": "Waqtiga Dharaarta ee Baasifikada Meksiko"
               }
             },
             "Mongolia": {
               "long": {
                 "generic": "Waqtiga Ulaanbaataar",
-                "standard": "Waqtiyada Caadiga ah ee Ulaanbaataar",
-                "daylight": "Waqtiyada Xagaaga ee Ulaanbaataar"
+                "standard": "Waqtiga Caadiga Ah ee Ulaanbaataar",
+                "daylight": "Waqtiga Xagaaga ee Ulaanbaataar"
               }
             },
             "Moscow": {
               "long": {
                 "generic": "Waqtiga Moskow",
-                "standard": "Waqtiyada Caadiga ah ee Moskow",
-                "daylight": "Waqtiyada Xagaaga ee Moskow"
+                "standard": "Waqtiga Caadiga Ah ee Moskow",
+                "daylight": "Waqtiga Xagaaga ee Moskow"
               }
             },
             "Myanmar": {
@@ -1925,33 +1928,33 @@
             },
             "Nauru": {
               "long": {
-                "standard": "Waqtiga Nauru"
+                "standard": "Waqtiga Nawroo"
               }
             },
             "Nepal": {
               "long": {
-                "standard": "Waqtiga Nebal"
+                "standard": "Waqtiga Neebaal"
               }
             },
             "New_Caledonia": {
               "long": {
                 "generic": "Waqtiga Niyuu Kaledonya",
-                "standard": "Waqtiyada Caadiga ah ee Niyuu Kaledoniya",
+                "standard": "Waqtiga Caadiga Ah ee Niyuu Kaledoniya",
                 "daylight": "Waqtiga Xagaaga ee Niyuu Kaledoniya"
               }
             },
             "New_Zealand": {
               "long": {
-                "generic": "Waqtiga Niyuu Si’land",
-                "standard": "Waqtiyada Caadiga ah ee Niyuu si’lan",
-                "daylight": "Waqtiyada Dharaarta ee Niyuu Si’aland"
+                "generic": "Waqtiga Niyuu Si’laan",
+                "standard": "Waqtiga Caadiga Ah ee Niyuu Si’laan",
+                "daylight": "Waqtiga Dharaarta ee Niyuu Si’laan"
               }
             },
             "Newfoundland": {
               "long": {
-                "generic": "Waqtiga Newfoundland",
-                "standard": "Waqtiga Istaandarka ee Newfoundland",
-                "daylight": "Waqtiga Dharaarta ee Newfoundland"
+                "generic": "Waqtiga Niyuufoonlaan",
+                "standard": "Waqtiga Caadiga Ah ee Niyuufoonlaan",
+                "daylight": "Waqtiga Dharaarta ee Niyuufoonlaan"
               }
             },
             "Niue": {
@@ -1961,35 +1964,35 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "Waqtiga Norfoolk Island"
+                "standard": "Waqtiga Noorfek Aylaan"
               }
             },
             "Noronha": {
               "long": {
-                "generic": "Waqtiga Farnaando de Noronho",
-                "standard": "Waqtiyada Caadiga ah ee Farnaando de Noronho",
-                "daylight": "Waqtiyada Xagaaga ee Farnaando de Noronho"
+                "generic": "Waqtiga Farnaando de Noronha",
+                "standard": "Waqtiga Caadiga Ah ee Farnaando de Nooronha",
+                "daylight": "Waqtiga Xagaaga ee Farnaando de Nooronha"
               }
             },
             "Novosibirsk": {
               "long": {
-                "generic": "Waqtiga Nofosibirsk",
-                "standard": "Waqtiyada Caadiga ah ee Nofosibirsk",
-                "daylight": "Waqtiyada Xagaaga ee Nofosibirsk"
+                "generic": "Waqtiga Nofosibirsik",
+                "standard": "Waqtiga Caadiga Ah ee Nofosibirsik",
+                "daylight": "Waqtiga Xagaaga ee Nofosibirsik"
               }
             },
             "Omsk": {
               "long": {
                 "generic": "Waqtiga Omsk",
-                "standard": "Waqtiyada Caadiga ah ee Omsk",
-                "daylight": "Waqtiyada Xagaaga ee Omsk"
+                "standard": "Waqtiga Caadiga Ah ee Omsk",
+                "daylight": "Waqtiga Xagaaga ee Omsk"
               }
             },
             "Pakistan": {
               "long": {
-                "generic": "Waqtiga Bakistan",
-                "standard": "Waqtiyada Caadiga ah ee Bakistan",
-                "daylight": "Waqtiyada Xagaaga ee Bakistan"
+                "generic": "Waqtiga Bakistaan",
+                "standard": "Waqtiga Caadiga Ah ee Bakistaan",
+                "daylight": "Waqtiga Xagaaga ee Bakistaan"
               }
             },
             "Palau": {
@@ -1999,45 +2002,45 @@
             },
             "Papua_New_Guinea": {
               "long": {
-                "standard": "Waqtiga Babua Niyuu Giniya"
+                "standard": "Waqtiga Babuw Niyuu Giniya"
               }
             },
             "Paraguay": {
               "long": {
-                "generic": "Waqtiga Baragway",
-                "standard": "Waqtiyada Caadiga ah ee Baragway",
-                "daylight": "Waqtiyada Xagaaga ee Baragway"
+                "generic": "Waqtiga Baragwaay",
+                "standard": "Waqtiga Caadiga Ah ee Baragwaay",
+                "daylight": "Waqtiga Xagaaga ee Baragwaay"
               }
             },
             "Peru": {
               "long": {
                 "generic": "Waqtiga Beeru",
-                "standard": "Waqtiyada Caadiga ah ee Beeru",
-                "daylight": "Waqtiyada Xagaaga ee Beeru"
+                "standard": "Waqtiga Caadiga Ah ee Beeru",
+                "daylight": "Waqtiga Xagaaga ee Beeru"
               }
             },
             "Philippines": {
               "long": {
-                "generic": "Waqtiga Filibin",
-                "standard": "Waqtiyada Caadiga ah ee Filibin",
-                "daylight": "Waqtiyada Xagaaga ee Filibin"
+                "generic": "Waqtiga Filibiin",
+                "standard": "Waqtiga Caadiga Ah ee Filibiin",
+                "daylight": "Waqtiga Xagaaga ee Filibiin"
               }
             },
             "Phoenix_Islands": {
               "long": {
-                "standard": "waqtiga jasiirada fonikis"
+                "standard": "Waqtiga Foonikis Aylaanis"
               }
             },
             "Pierre_Miquelon": {
               "long": {
-                "generic": "Waqtiga St. Pierre & Miquelon",
-                "standard": "Waqtiga Istaandarka ee St. Pierre & Miquelon",
-                "daylight": "Waqtiga Dharaarta ee St. Pierre & Miquelon"
+                "generic": "Waqtiga St. Beere & Mikiwelon",
+                "standard": "Waqtiga Caadiga Ah St. Beere & Mikiwelon",
+                "daylight": "Waqtiga Dharaarta ee St. Beere & Mikiwelon"
               }
             },
             "Pitcairn": {
               "long": {
-                "standard": "Waqtiga Bitkairin"
+                "standard": "Waqtiga Bitkeen"
               }
             },
             "Ponape": {
@@ -2052,7 +2055,7 @@
             },
             "Reunion": {
               "long": {
-                "standard": "Waqtiga Riyunion"
+                "standard": "Waqtiga Riyuuniyon"
               }
             },
             "Rothera": {
@@ -2063,35 +2066,35 @@
             "Sakhalin": {
               "long": {
                 "generic": "Waqtiga Sakhalin",
-                "standard": "Waqtiyada Caadiga ah ee Sakhalin",
-                "daylight": "Waqtiyada Xagaaga ee Sakhalin"
+                "standard": "Waqtiga Caadiga Ah ee Sakhalin",
+                "daylight": "Waqtiga Xagaaga ee Sakhalin"
               }
             },
             "Samoa": {
               "long": {
                 "generic": "Waqtiga Samoa",
-                "standard": "Waqtiyada Caadiga ah ee Samoa",
-                "daylight": "Waqtiyada Dharaarta ee Samoa"
+                "standard": "Waqtiga Caadiga Ah ee Samoa",
+                "daylight": "Waqtiga Dharaarta ee Samoa"
               }
             },
             "Seychelles": {
               "long": {
-                "standard": "Waqtiga Siisalis"
+                "standard": "Waqtiga Siishalis"
               }
             },
             "Singapore": {
               "long": {
-                "standard": "Waqtiyada Caadiga ah ee Singabuur"
+                "standard": "Waqtiga Singabuur"
               }
             },
             "Solomon": {
               "long": {
-                "standard": "waqtiga jasiirada solomon"
+                "standard": "Waqtiga Solomon Aylaanis"
               }
             },
             "South_Georgia": {
               "long": {
-                "standard": "Waqtiga Koonfurta Jorjiya"
+                "standard": "Waqtiga Sowt Joorjiya"
               }
             },
             "Suriname": {
@@ -2112,8 +2115,8 @@
             "Taipei": {
               "long": {
                 "generic": "Waqtiga Teybey",
-                "standard": "Waqtiyada Caadiga ah ee Teybey",
-                "daylight": "Waqtiyada Dharaarta ee Teybey"
+                "standard": "Waqtiga Caadiga Ah ee Teybey",
+                "daylight": "Waqtiga Dharaarta ee Teybey"
               }
             },
             "Tajikistan": {
@@ -2123,14 +2126,14 @@
             },
             "Tokelau": {
               "long": {
-                "standard": "Waqtiga Tokelau"
+                "standard": "Waqtiga Tokeluu"
               }
             },
             "Tonga": {
               "long": {
                 "generic": "Waqtiga Tonga",
-                "standard": "Waqtiyada Caadiga ah ee Tonga",
-                "daylight": "Waqtiyada Xagaaga ee Tonga"
+                "standard": "Waqtiga Caadiga Ah ee Tonga",
+                "daylight": "Waqtiga Xagaaga ee Tonga"
               }
             },
             "Truk": {
@@ -2140,9 +2143,9 @@
             },
             "Turkmenistan": {
               "long": {
-                "generic": "Waqtiga Turkenistaan",
-                "standard": "Waqtiyada Caadiga ah ee Turkeminstan",
-                "daylight": "Waqtiayda Xagaaga ee Turkmenistan"
+                "generic": "Waqtiga Turkmenistaan",
+                "standard": "Waqtiga Caadiga Ah ee Turkmenistan",
+                "daylight": "Waqtiga Xagaaga ee Turkmenistan"
               }
             },
             "Tuvalu": {
@@ -2152,42 +2155,42 @@
             },
             "Uruguay": {
               "long": {
-                "generic": "Waqtiga Urugway",
-                "standard": "Waqtiyada Caadiga ah ee Urugway",
-                "daylight": "Waqtiyada Xagaaga ee Urugway"
+                "generic": "Waqtiga Urugwaay",
+                "standard": "Waqtiga Caadiga Ah ee Urugwaay",
+                "daylight": "Waqtiga Xagaaga ee Urugwaay"
               }
             },
             "Uzbekistan": {
               "long": {
                 "generic": "Waqtiga Usbekistan",
-                "standard": "Waqtiyada Caadiga ah ee Usbekistan",
-                "daylight": "Waqtiyada Xagaaga ee Usbekistan"
+                "standard": "Waqtiga Caadiga Ah ee Usbekistan",
+                "daylight": "Waqtiga Xagaaga ee Usbekistan"
               }
             },
             "Vanuatu": {
               "long": {
-                "generic": "Waqtiga Fanuatu",
-                "standard": "Waqtiyada Caadiga ah ee Fanautu",
-                "daylight": "Waqtiyada Xagaaga ee Fanautu"
+                "generic": "Waqtiga Fanuutu",
+                "standard": "Waqtiga Caadiga Ah ee Fanuutu",
+                "daylight": "Waqtiga Xagaaga ee Fanuutu"
               }
             },
             "Venezuela": {
               "long": {
-                "standard": "Waqtiga Fenezuela"
+                "standard": "Waqtiga Fenezuweela"
               }
             },
             "Vladivostok": {
               "long": {
                 "generic": "Waqtiga Faladifostok",
-                "standard": "Waqtiyada Caadiga ah ee Faladifostok",
-                "daylight": "Waqtiyada Xagaaga ee Faladifostok"
+                "standard": "Waqtiga Caadiga Ah ee Faladifostok",
+                "daylight": "Waqtiga Xagaaga ee Faladifostok"
               }
             },
             "Volgograd": {
               "long": {
                 "generic": "Waqtiga Folgograd",
-                "standard": "Waqtiyada Caadiga ah ee Folgograd",
-                "daylight": "Waqtiyada Xagaaga ee Folgograd"
+                "standard": "Waqtiga Caadiga Ah ee Folgograd",
+                "daylight": "Waqtiga Xagaaga ee Folgograd"
               }
             },
             "Vostok": {
@@ -2197,7 +2200,7 @@
             },
             "Wake": {
               "long": {
-                "standard": "Waqtiga jasiirada wake"
+                "standard": "Waqtiga Wayk Iylaanis"
               }
             },
             "Wallis": {
@@ -2207,16 +2210,16 @@
             },
             "Yakutsk": {
               "long": {
-                "generic": "Waqtiyada Yakutsk",
-                "standard": "Waqtiyada Caadiga ah ee Yakutsk",
-                "daylight": "Waqtiyada Xagaaga ee Yakutsk"
+                "generic": "Waqtiyada Yakut",
+                "standard": "Waqtiga Caadiga Ah ee Yakut",
+                "daylight": "Waqtiga Xagaaga ee Yakut"
               }
             },
             "Yekaterinburg": {
               "long": {
                 "generic": "Waqtiga Yekaterinbaag",
-                "standard": "Waqtiyada Caadiga ah ee Yekaterinbaag",
-                "daylight": "Waqtiyada Xagaaga ee Yekaterinbaag"
+                "standard": "Waqtiga Caadiga Ah ee Yekaterinbaag",
+                "daylight": "Waqtiga Xagaaga ee Yekaterinbaag"
               }
             }
           }

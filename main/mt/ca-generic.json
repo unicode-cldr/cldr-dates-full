@@ -3,8 +3,8 @@
     "mt": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14394 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14772 $",
+          "_cldrVersion": "35"
         },
         "language": "mt"
       },
@@ -322,7 +322,7 @@
                 "yyyyMMM": "GGGGG MMM y",
                 "yyyyMMMd": "GGGGG dd MMM y",
                 "yyyyMMMEd": "GGGGG E, dd MMM y",
-                "yyyyMMMM": "GGGGG MMM y",
+                "yyyyMMMM": "GGGGG MMMM y",
                 "yyyyQQQ": "G y QQQ",
                 "yyyyQQQQ": "G y QQQQ"
               },
@@ -341,6 +341,15 @@
               },
               "intervalFormats": {
                 "intervalFormatFallback": "{0} – {1}",
+                "Bh": {
+                  "B": "h B – h B",
+                  "h": "h–h B"
+                },
+                "Bhm": {
+                  "B": "h:mm B – h:mm B",
+                  "h": "h:mm–h:mm B",
+                  "m": "h:mm–h:mm B"
+                },
                 "d": {
                   "d": "d–d"
                 },
