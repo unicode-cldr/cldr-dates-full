@@ -3,8 +3,7 @@
     "to": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14782 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "to"
       },
@@ -138,7 +137,7 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-other": "uike ʻe {0} kuoʻosi"
             },
-            "relativePeriod": "the week of {0}"
+            "relativePeriod": "ʻi he uike ʻo e {0}"
           },
           "week-short": {
             "displayName": "uike",
@@ -151,7 +150,7 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-other": "uike ʻe {0} kuoʻosi"
             },
-            "relativePeriod": "the week of {0}"
+            "relativePeriod": "ʻi he uike ʻo e {0}"
           },
           "week-narrow": {
             "displayName": "uike",
@@ -164,7 +163,7 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-other": "uike ʻe {0} kuoʻosi"
             },
-            "relativePeriod": "the week of {0}"
+            "relativePeriod": "ʻi he uike ʻo e {0}"
           },
           "weekOfMonth": {
             "displayName": "uike ʻo e māhina"
@@ -249,10 +248,10 @@
             "relative-type-0": "Sāpaté ni",
             "relative-type-1": "Sāpate kahaʻu",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Sundays"
+              "relativeTimePattern-count-other": "Ngaahi Sāpate ʻe {0} ʻi he kahaʻu"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Sundays"
+              "relativeTimePattern-count-other": "Ngaahi Sāpate ʻe {0} ʻi he kuohili"
             }
           },
           "sun-short": {
@@ -260,10 +259,10 @@
             "relative-type-0": "Sāpaté ni",
             "relative-type-1": "Sāpate kahaʻu",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Sundays"
+              "relativeTimePattern-count-other": "Sāpate ʻe {0} ʻi he kahaʻu"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Sundays"
+              "relativeTimePattern-count-other": "Sāpate ʻe {0} ʻi he kuohili"
             }
           },
           "sun-narrow": {
@@ -271,10 +270,10 @@
             "relative-type-0": "Sāpaté ni",
             "relative-type-1": "Sāpate kahaʻu",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Sundays"
+              "relativeTimePattern-count-other": "Sāpate ʻe {0} ʻi he kahaʻu"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Sundays"
+              "relativeTimePattern-count-other": "Sāpate ʻe {0} ʻi he kuohili"
             }
           },
           "mon": {
@@ -282,10 +281,10 @@
             "relative-type-0": "Mōnité ni",
             "relative-type-1": "Mōnite kahaʻu",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Mondays"
+              "relativeTimePattern-count-other": "Ngaahi Mōnite ʻe {0} ʻi he kahaʻu"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Mondays"
+              "relativeTimePattern-count-other": "Ngaahi Mōnite ʻe {0} ʻi he kuohili"
             }
           },
           "mon-short": {
@@ -293,10 +292,10 @@
             "relative-type-0": "Mōnité ni",
             "relative-type-1": "Mōnite kahaʻu",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Mondays"
+              "relativeTimePattern-count-other": "Mōnite ʻe {0} ʻi he kahaʻu"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Mondays"
+              "relativeTimePattern-count-other": "Mōnite ʻe {0} ʻi he kuohili"
             }
           },
           "mon-narrow": {
@@ -304,10 +303,10 @@
             "relative-type-0": "Mōnité ni",
             "relative-type-1": "Mōnite kahaʻu",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Mondays"
+              "relativeTimePattern-count-other": "Mōnite ʻe {0} ʻi he kahaʻu"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Mondays"
+              "relativeTimePattern-count-other": "Mōnite ʻe {0} ʻi he kuohili"
             }
           },
           "tue": {
@@ -315,10 +314,10 @@
             "relative-type-0": "Tūsité ni",
             "relative-type-1": "Tūsite kahaʻu",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Tuesdays"
+              "relativeTimePattern-count-other": "Ngaahi Tūsite ʻe {0} ʻi he kahaʻu"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Tuesdays"
+              "relativeTimePattern-count-other": "Ngaahi Tūsite ʻe {0} ʻi he kuohili"
             }
           },
           "tue-short": {
@@ -326,10 +325,10 @@
             "relative-type-0": "Tūsité ni",
             "relative-type-1": "Tūsite kahaʻu",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Tuesdays"
+              "relativeTimePattern-count-other": "Tūsite ʻe {0} ʻi he kahaʻu"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Tuesdays"
+              "relativeTimePattern-count-other": "Tūsite ʻe {0} ʻi he kuohili"
             }
           },
           "tue-narrow": {
@@ -337,10 +336,10 @@
             "relative-type-0": "Tūsité ni",
             "relative-type-1": "Tūsite kahaʻu",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Tuesdays"
+              "relativeTimePattern-count-other": "Tūsite ʻe {0} ʻi he kahaʻu"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Tuesdays"
+              "relativeTimePattern-count-other": "Tūsite ʻe {0} ʻi he kuohili"
             }
           },
           "wed": {
@@ -348,10 +347,10 @@
             "relative-type-0": "Pulelulú ni",
             "relative-type-1": "Pulelulu kahaʻu",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Wednesdays"
+              "relativeTimePattern-count-other": "Ngaahi Pulelulu ʻe {0} ʻi he kahaʻu"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Wednesdays"
+              "relativeTimePattern-count-other": "Ngaahi Pulelulu ʻe {0} ʻi he kuohili"
             }
           },
           "wed-short": {
@@ -359,10 +358,10 @@
             "relative-type-0": "Pulelulú ni",
             "relative-type-1": "Pulelulu kahaʻu",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Wednesdays"
+              "relativeTimePattern-count-other": "Pulelulu ʻe {0} ʻi he kahaʻu"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Wednesdays"
+              "relativeTimePattern-count-other": "Pulelulu ʻe {0} ʻi he kuohili"
             }
           },
           "wed-narrow": {
@@ -370,10 +369,10 @@
             "relative-type-0": "Pulelulú ni",
             "relative-type-1": "Pulelulu kahaʻu",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Wednesdays"
+              "relativeTimePattern-count-other": "Pulelulu ʻe {0} ʻi he kahaʻu"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Wednesdays"
+              "relativeTimePattern-count-other": "Pulelulu ʻe {0} ʻi he kuohili"
             }
           },
           "thu": {
@@ -381,10 +380,10 @@
             "relative-type-0": "Tuʻapulelulú ni",
             "relative-type-1": "Tuʻapulelulu kahaʻu",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Thursdays"
+              "relativeTimePattern-count-other": "Ngaahi Tuʻapulelulu ʻe {0} ʻi he kahaʻu"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Thursdays"
+              "relativeTimePattern-count-other": "Ngaahi Tuʻapulelulu ʻe {0} ʻi he kuohili"
             }
           },
           "thu-short": {
@@ -392,10 +391,10 @@
             "relative-type-0": "Tuʻapulelulú ni",
             "relative-type-1": "Tuʻapulelulu kahaʻu",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Thursdays"
+              "relativeTimePattern-count-other": "Tuʻapulelulu ʻe {0} ʻi he kahaʻu"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Thursdays"
+              "relativeTimePattern-count-other": "Tuʻapulelulu ʻe {0} ʻi he kuohili"
             }
           },
           "thu-narrow": {
@@ -403,10 +402,10 @@
             "relative-type-0": "Tuʻapulelulú ni",
             "relative-type-1": "Tuʻapulelulu kahaʻu",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Thursdays"
+              "relativeTimePattern-count-other": "Tuʻapulelulu ʻe {0} ʻi he kahaʻu"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Thursdays"
+              "relativeTimePattern-count-other": "Tuʻapulelulu ʻe {0} ʻi he kuohili"
             }
           },
           "fri": {
@@ -414,10 +413,10 @@
             "relative-type-0": "Falaité ni",
             "relative-type-1": "Falaite kahaʻu",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Fridays"
+              "relativeTimePattern-count-other": "Ngaahi Falaite ʻe {0} ʻi he kahaʻu"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Fridays"
+              "relativeTimePattern-count-other": "Ngaahi Falaite ʻe {0} ʻi he kuohili"
             }
           },
           "fri-short": {
@@ -425,10 +424,10 @@
             "relative-type-0": "Falaité ni",
             "relative-type-1": "Falaite kahaʻu",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Fridays"
+              "relativeTimePattern-count-other": "Falaite ʻe {0} ʻi he kahaʻu"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Fridays"
+              "relativeTimePattern-count-other": "Falaite ʻe {0} ʻi he kuohili"
             }
           },
           "fri-narrow": {
@@ -436,10 +435,10 @@
             "relative-type-0": "Falaité ni",
             "relative-type-1": "Falaite kahaʻu",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Fridays"
+              "relativeTimePattern-count-other": "Falaite ʻe {0} ʻi he kahaʻu"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Fridays"
+              "relativeTimePattern-count-other": "Falaite ʻe {0} ʻi he kuohili"
             }
           },
           "sat": {
@@ -447,10 +446,10 @@
             "relative-type-0": "Tokonakí ni",
             "relative-type-1": "Tokonaki kahaʻu",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Saturdays"
+              "relativeTimePattern-count-other": "Ngaahi Tokonaki ʻe {0} ʻi he kahaʻu"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Saturdays"
+              "relativeTimePattern-count-other": "Ngaahi Tokonaki ʻe {0} ʻi he kuohili"
             }
           },
           "sat-short": {
@@ -458,10 +457,10 @@
             "relative-type-0": "Tokonakí ni",
             "relative-type-1": "Tokonaki kahaʻu",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Saturdays"
+              "relativeTimePattern-count-other": "Tokonaki ʻe {0} ʻi he kahaʻu"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Saturdays"
+              "relativeTimePattern-count-other": "Tokonaki ʻe {0} ʻi he kuohili"
             }
           },
           "sat-narrow": {
@@ -469,10 +468,10 @@
             "relative-type-0": "Tokonakí ni",
             "relative-type-1": "Tokonaki kahaʻu",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Saturdays"
+              "relativeTimePattern-count-other": "Tokonaki ʻe {0} ʻi he kahaʻu"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Saturdays"
+              "relativeTimePattern-count-other": "Tokonaki ʻe {0} ʻi he kuohili"
             }
           },
           "dayperiod-short": {
@@ -486,7 +485,7 @@
           },
           "hour": {
             "displayName": "houa",
-            "relative-type-0": "this hour",
+            "relative-type-0": "ko e houa ʻeni",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "ʻi he houa ʻe {0}"
             },
@@ -496,7 +495,7 @@
           },
           "hour-short": {
             "displayName": "houa",
-            "relative-type-0": "this hour",
+            "relative-type-0": "ko e houa ʻeni",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "ʻi he houa ʻe {0}"
             },
@@ -506,7 +505,7 @@
           },
           "hour-narrow": {
             "displayName": "houa",
-            "relative-type-0": "this hour",
+            "relative-type-0": "ko e houa ʻeni",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "ʻi he houa ʻe {0}"
             },
@@ -516,7 +515,7 @@
           },
           "minute": {
             "displayName": "miniti",
-            "relative-type-0": "this minute",
+            "relative-type-0": "ko e miniti ʻeni",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "ʻi he miniti ʻe {0}"
             },
@@ -526,7 +525,7 @@
           },
           "minute-short": {
             "displayName": "miniti",
-            "relative-type-0": "this minute",
+            "relative-type-0": "ko e miniti ʻeni",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "ʻi he miniti ʻe {0}"
             },
@@ -536,7 +535,7 @@
           },
           "minute-narrow": {
             "displayName": "miniti",
-            "relative-type-0": "this minute",
+            "relative-type-0": "ko e miniti ʻeni",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "ʻi he miniti ʻe {0}"
             },

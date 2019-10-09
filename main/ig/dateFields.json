@@ -3,8 +3,7 @@
     "ig": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14845 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ig"
       },
@@ -21,9 +20,9 @@
           },
           "year": {
             "displayName": "Afọ",
-            "relative-type--1": "last year",
-            "relative-type-0": "this year",
-            "relative-type-1": "next year",
+            "relative-type--1": "Afọ gara aga",
+            "relative-type-0": "Afọ a",
+            "relative-type-1": "Afọ ọzọ",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} y"
             },
@@ -33,9 +32,9 @@
           },
           "year-short": {
             "displayName": "Afọ",
-            "relative-type--1": "last year",
-            "relative-type-0": "this year",
-            "relative-type-1": "next year",
+            "relative-type--1": "Afọ gara aga",
+            "relative-type-0": "Afọ a",
+            "relative-type-1": "Afọ ọzọ",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} y"
             },
@@ -45,9 +44,9 @@
           },
           "year-narrow": {
             "displayName": "Afọ",
-            "relative-type--1": "last year",
-            "relative-type-0": "this year",
-            "relative-type-1": "next year",
+            "relative-type--1": "Afọ gara aga",
+            "relative-type-0": "Afọ a",
+            "relative-type-1": "Afọ ọzọ",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} y"
             },
@@ -56,7 +55,7 @@
             }
           },
           "quarter": {
-            "displayName": "Nkeji Afọ",
+            "displayName": "Ọnwa atọ n’afọ",
             "relative-type--1": "last quarter",
             "relative-type-0": "this quarter",
             "relative-type-1": "next quarter",
@@ -68,7 +67,7 @@
             }
           },
           "quarter-short": {
-            "displayName": "Nkeji Afọ",
+            "displayName": "Ọnwa atọ n’afọ",
             "relative-type--1": "last quarter",
             "relative-type-0": "this quarter",
             "relative-type-1": "next quarter",
@@ -80,7 +79,7 @@
             }
           },
           "quarter-narrow": {
-            "displayName": "Nkeji Afọ",
+            "displayName": "Ọnwa atọ n’afọ",
             "relative-type--1": "last quarter",
             "relative-type-0": "this quarter",
             "relative-type-1": "next quarter",
@@ -93,9 +92,9 @@
           },
           "month": {
             "displayName": "Ọnwa",
-            "relative-type--1": "last month",
-            "relative-type-0": "this month",
-            "relative-type-1": "next month",
+            "relative-type--1": "Ọnwa gara aga",
+            "relative-type-0": "Ọnwa a",
+            "relative-type-1": "Ọnwa ọzọ",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} m"
             },
@@ -105,9 +104,9 @@
           },
           "month-short": {
             "displayName": "Ọnwa",
-            "relative-type--1": "last month",
-            "relative-type-0": "this month",
-            "relative-type-1": "next month",
+            "relative-type--1": "Ọnwa gara aga",
+            "relative-type-0": "Ọnwa a",
+            "relative-type-1": "Ọnwa ọzọ",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} m"
             },
@@ -117,9 +116,9 @@
           },
           "month-narrow": {
             "displayName": "Ọnwa",
-            "relative-type--1": "last month",
-            "relative-type-0": "this month",
-            "relative-type-1": "next month",
+            "relative-type--1": "Ọnwa gara aga",
+            "relative-type-0": "Ọnwa a",
+            "relative-type-1": "Ọnwa ọzọ",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} m"
             },
@@ -129,42 +128,42 @@
           },
           "week": {
             "displayName": "Izu",
-            "relative-type--1": "last week",
-            "relative-type-0": "this week",
-            "relative-type-1": "next week",
+            "relative-type--1": "Izu gara aga",
+            "relative-type-0": "Izu a",
+            "relative-type-1": "Izu na-esote",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} w"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-other": "-{0} w"
             },
-            "relativePeriod": "the week of {0}"
+            "relativePeriod": "Izu nke{0}"
           },
           "week-short": {
             "displayName": "Izu",
-            "relative-type--1": "last week",
-            "relative-type-0": "this week",
-            "relative-type-1": "next week",
+            "relative-type--1": "Izu gara aga",
+            "relative-type-0": "Izu a",
+            "relative-type-1": "Izu na-esote",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} w"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-other": "-{0} w"
             },
-            "relativePeriod": "the week of {0}"
+            "relativePeriod": "Izu nke{0}"
           },
           "week-narrow": {
             "displayName": "Izu",
-            "relative-type--1": "last week",
-            "relative-type-0": "this week",
-            "relative-type-1": "next week",
+            "relative-type--1": "Izu gara aga",
+            "relative-type-0": "Izu a",
+            "relative-type-1": "Izu na-esote",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} w"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-other": "-{0} w"
             },
-            "relativePeriod": "the week of {0}"
+            "relativePeriod": "Izu nke{0}"
           },
           "weekOfMonth": {
             "displayName": "Week Of Month"
@@ -189,7 +188,7 @@
           },
           "day-short": {
             "displayName": "Ụbọchị",
-            "relative-type--1": "Nnyaafụ",
+            "relative-type--1": "Ụnyaahụ",
             "relative-type-0": "Taata",
             "relative-type-1": "Echi",
             "relativeTime-type-future": {
@@ -201,7 +200,7 @@
           },
           "day-narrow": {
             "displayName": "Ụbọchị",
-            "relative-type--1": "Nnyaafụ",
+            "relative-type--1": "Ụnyaahụ",
             "relative-type-0": "Taata",
             "relative-type-1": "Echi",
             "relativeTime-type-future": {
@@ -539,7 +538,7 @@
             }
           },
           "second": {
-            "displayName": "Sekọnd",
+            "displayName": "Tịm kọm",
             "relative-type-0": "now",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} s"
@@ -549,7 +548,7 @@
             }
           },
           "second-short": {
-            "displayName": "Sekọnd",
+            "displayName": "Tịm kọm",
             "relative-type-0": "now",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} s"
@@ -559,7 +558,7 @@
             }
           },
           "second-narrow": {
-            "displayName": "Sekọnd",
+            "displayName": "Tịm kọm",
             "relative-type-0": "now",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} s"

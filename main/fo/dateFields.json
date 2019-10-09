@@ -3,8 +3,7 @@
     "fo": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14809 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "fo"
       },
@@ -119,9 +118,9 @@
           },
           "month-short": {
             "displayName": "mnð.",
-            "relative-type--1": "seinasta mánað",
-            "relative-type-0": "henda mánaðin",
-            "relative-type-1": "næsta mánað",
+            "relative-type--1": "seinasta mnð.",
+            "relative-type-0": "henda mnð.",
+            "relative-type-1": "næsta mnð.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "um {0} mnð.",
               "relativeTimePattern-count-other": "um {0} mnð."
@@ -133,9 +132,9 @@
           },
           "month-narrow": {
             "displayName": "mnð.",
-            "relative-type--1": "seinasta mánað",
-            "relative-type-0": "henda mánaðin",
-            "relative-type-1": "næsta mánað",
+            "relative-type--1": "seinasta mnð.",
+            "relative-type-0": "henda mnð.",
+            "relative-type-1": "næsta mnð.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "um {0} mnð.",
               "relativeTimePattern-count-other": "um {0} mnð."
@@ -162,9 +161,9 @@
           },
           "week-short": {
             "displayName": "vi.",
-            "relative-type--1": "seinastu viku",
-            "relative-type-0": "hesu viku",
-            "relative-type-1": "næstu viku",
+            "relative-type--1": "seinastu vi.",
+            "relative-type-0": "hesu vi.",
+            "relative-type-1": "næstu vi.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "um {0} vi.",
               "relativeTimePattern-count-other": "um {0} vi."
@@ -177,9 +176,9 @@
           },
           "week-narrow": {
             "displayName": "v.",
-            "relative-type--1": "seinastu viku",
-            "relative-type-0": "hesu viku",
-            "relative-type-1": "næstu viku",
+            "relative-type--1": "seinastu v.",
+            "relative-type-0": "hesu v.",
+            "relative-type-1": "næstu v.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "um {0} v.",
               "relativeTimePattern-count-other": "um {0} v."

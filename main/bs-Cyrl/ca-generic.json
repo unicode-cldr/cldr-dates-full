@@ -3,8 +3,7 @@
     "bs-Cyrl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "bs",
         "script": "Cyrl"
@@ -225,30 +224,66 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
+                  "midnight": "поноћ",
                   "am": "пре подне",
-                  "pm": "поподне"
+                  "noon": "подне",
+                  "pm": "поподне",
+                  "morning1": "ујутру",
+                  "afternoon1": "у подне",
+                  "evening1": "увече",
+                  "night1": "ноћу"
                 },
                 "narrow": {
+                  "midnight": "поноћ",
                   "am": "пре подне",
-                  "pm": "поподне"
+                  "noon": "подне",
+                  "pm": "поподне",
+                  "morning1": "ујутру",
+                  "afternoon1": "у подне",
+                  "evening1": "увече",
+                  "night1": "ноћу"
                 },
                 "wide": {
-                  "am": "пре подне",
-                  "pm": "поподне"
+                  "midnight": "поноћ",
+                  "am": "прије подне",
+                  "noon": "подне",
+                  "pm": "послије подне",
+                  "morning1": "ујутру",
+                  "afternoon1": "у подне",
+                  "evening1": "увече",
+                  "night1": "ноћу"
                 }
               },
               "stand-alone": {
                 "abbreviated": {
+                  "midnight": "поноћ",
                   "am": "пре подне",
-                  "pm": "поподне"
+                  "noon": "подне",
+                  "pm": "поподне",
+                  "morning1": "јутро",
+                  "afternoon1": "послийеподне",
+                  "evening1": "вече",
+                  "night1": "ноћ"
                 },
                 "narrow": {
+                  "midnight": "поноћ",
                   "am": "пре подне",
-                  "pm": "поподне"
+                  "noon": "подне",
+                  "pm": "поподне",
+                  "morning1": "јутро",
+                  "afternoon1": "послийеподне",
+                  "evening1": "вече",
+                  "night1": "ноћ"
                 },
                 "wide": {
-                  "am": "пре подне",
-                  "pm": "поподне"
+                  "midnight": "поноћ",
+                  "am": "прије подне",
+                  "noon": "подне",
+                  "pm": "послије подне",
+                  "morning1": "јутро",
+                  "afternoon1": "послийеподне",
+                  "evening1": "вече",
+                  "night1": "ноћ"
                 }
               }
             },
@@ -340,7 +375,7 @@
                 "Year": "{1} {0}"
               },
               "intervalFormats": {
-                "intervalFormatFallback": "{0} - {1}",
+                "intervalFormatFallback": "{0} – {1}",
                 "Bh": {
                   "B": "h B – h B",
                   "h": "h–h B"

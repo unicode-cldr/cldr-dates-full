@@ -3,8 +3,7 @@
     "ku": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14783 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ku"
       },
@@ -194,10 +193,10 @@
                   "4": "4"
                 },
                 "wide": {
-                  "1": "Q1",
-                  "2": "Q2",
-                  "3": "Q3",
-                  "4": "Q4"
+                  "1": "Çarêka 1em",
+                  "2": "Çarêka 2em",
+                  "3": "Çarêka 3em",
+                  "4": "Çarêka 4em"
                 }
               },
               "stand-alone": {
@@ -214,40 +213,40 @@
                   "4": "4"
                 },
                 "wide": {
-                  "1": "Q1",
-                  "2": "Q2",
-                  "3": "Q3",
-                  "4": "Q4"
+                  "1": "Çarêka 1em",
+                  "2": "Çarêka 2em",
+                  "3": "Çarêka 3em",
+                  "4": "Çarêka 4em"
                 }
               }
             },
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "BN",
+                  "pm": "PN"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "BN",
+                  "pm": "PN"
                 },
                 "wide": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "BN",
+                  "pm": "PN"
                 }
               },
               "stand-alone": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "BN",
+                  "pm": "PN"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "BN",
+                  "pm": "PN"
                 },
                 "wide": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "BN",
+                  "pm": "PN"
                 }
               }
             },

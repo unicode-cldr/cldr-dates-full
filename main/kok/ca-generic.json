@@ -3,8 +3,7 @@
     "kok": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "kok"
       },
@@ -194,10 +193,10 @@
                   "4": "4"
                 },
                 "wide": {
-                  "1": "Q1",
-                  "2": "Q2",
-                  "3": "Q3",
-                  "4": "Q4"
+                  "1": "1लें त्रैमासीक",
+                  "2": "2रें त्रैमासीक",
+                  "3": "3रें त्रैमासीक",
+                  "4": "4थें त्रैमासीक"
                 }
               },
               "stand-alone": {
@@ -214,40 +213,40 @@
                   "4": "4"
                 },
                 "wide": {
-                  "1": "Q1",
-                  "2": "Q2",
-                  "3": "Q3",
-                  "4": "Q4"
+                  "1": "1लें त्रैमासीक",
+                  "2": "2रें त्रैमासीक",
+                  "3": "3रें त्रैमासीक",
+                  "4": "4थें त्रैमासीक"
                 }
               }
             },
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "am": "म.पू.",
-                  "pm": "म.नं."
+                  "am": "AM",
+                  "pm": "PM"
                 },
                 "narrow": {
-                  "am": "म.पू.",
-                  "pm": "म.नं."
+                  "am": "a",
+                  "pm": "p"
                 },
                 "wide": {
-                  "am": "म.पू.",
-                  "pm": "म.नं."
+                  "am": "AM",
+                  "pm": "PM"
                 }
               },
               "stand-alone": {
                 "abbreviated": {
-                  "am": "म.पू.",
-                  "pm": "म.नं."
+                  "am": "AM",
+                  "pm": "PM"
                 },
                 "narrow": {
-                  "am": "म.पू.",
-                  "pm": "म.नं."
+                  "am": "AM",
+                  "pm": "PM"
                 },
                 "wide": {
-                  "am": "म.पू.",
-                  "pm": "म.नं."
+                  "am": "AM",
+                  "pm": "PM"
                 }
               }
             },
@@ -353,42 +352,42 @@
                   "d": "d–d"
                 },
                 "Gy": {
-                  "G": "G y – G y",
-                  "y": "G y–y"
+                  "G": "YG – YG",
+                  "y": "y–y G"
                 },
                 "GyM": {
-                  "G": "GGGGG y-MM – GGGGG y-MM",
-                  "M": "GGGGG y-MM – y-MM",
-                  "y": "GGGGG y-MM – y-MM"
+                  "G": "MM-yGGGG – MM-y GGGG",
+                  "M": "MM-y GGGGG – MM y",
+                  "y": "MM-y GGGGG – MM-y"
                 },
                 "GyMd": {
-                  "d": "GGGGG y-MM-dd – y-MM-dd",
-                  "G": "GGGGG y-MM-dd – GGGGG y-MM-dd",
-                  "M": "GGGGG y-MM-dd – y-MM-dd",
-                  "y": "GGGGG y-MM-dd – y-MM-dd"
+                  "d": "dd-MM-y GGGGG – dd-MM-y",
+                  "G": "dd-MM-y GGGGG – dd-MM-Y GGGGG",
+                  "M": "dd-MM-y GGGGG – dd-MM-y",
+                  "y": "d-M-y – d-M-y GGGGG"
                 },
                 "GyMEd": {
-                  "d": "GGGGG y-MM-dd, E – y-MM-dd, E",
-                  "G": "GGGGG y-MM-dd, E – GGGGG y-MM-dd, E",
-                  "M": "GGGGG y-MM-dd, E – y-MM-dd, E",
-                  "y": "GGGGG y-MM-dd, E – y-MM-dd, E"
+                  "d": "E, dd-MM-Y GGGGG – E-dd-MM-y",
+                  "G": "E, dd-MM-y GGGGG – E, dd-MM-y GGGGG",
+                  "M": "E,dd-MM-y GGGGG – E, dd-MM-y",
+                  "y": "E,dd-MM-y GGGGG – E,dd-MM-y"
                 },
                 "GyMMM": {
-                  "G": "G y MMM – G y MMM",
-                  "M": "G y MMM–MMM",
-                  "y": "G y MMM – y MMM"
+                  "G": "MMM y G – MMM y G",
+                  "M": "MMM y G–MMM",
+                  "y": "MMM y G – MMM y"
                 },
                 "GyMMMd": {
-                  "d": "G y MMM d–d",
-                  "G": "G y MMM d – G y MMM d",
-                  "M": "G y MMM d – MMM d",
-                  "y": "G y MMM d – y MMM d"
+                  "d": "d-MMM y G–d",
+                  "G": "d MMM y G – d MMM y G",
+                  "M": "d MMM y G –d MMM",
+                  "y": "d MMM y G – d MMM y"
                 },
                 "GyMMMEd": {
-                  "d": "G y MMM d, E – MMM d, E",
-                  "G": "G y MMM d, E – G y MMM d, E",
-                  "M": "G y MMM d, E – MMM d, E",
-                  "y": "G y MMM d, E – y MMM d, E"
+                  "d": "e, d MMM y G – e, d MMM",
+                  "G": "E, d MMM y G – E, d MMM y G",
+                  "M": "E, d MMM y G – E, d MMM",
+                  "y": "E, d MMM y G – E, d MMM y"
                 },
                 "h": {
                   "a": "h a – h a",

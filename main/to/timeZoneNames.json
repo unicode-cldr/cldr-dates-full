@@ -3,8 +3,7 @@
     "to": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14782 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "to"
       },
@@ -1182,7 +1181,7 @@
                 "exemplarCity": "ʻAokalani"
               },
               "Bougainville": {
-                "exemplarCity": "Bougainville"
+                "exemplarCity": "Pukanivila"
               },
               "Chatham": {
                 "exemplarCity": "Chatham"
@@ -1194,7 +1193,7 @@
                 "exemplarCity": "Efate"
               },
               "Enderbury": {
-                "exemplarCity": "Enderbury"
+                "exemplarCity": "ʻEnitipulī"
               },
               "Fakaofo": {
                 "exemplarCity": "Fakaofo"
@@ -1209,10 +1208,10 @@
                 "exemplarCity": "Galapagos"
               },
               "Gambier": {
-                "exemplarCity": "Gambier"
+                "exemplarCity": "Kamipiē"
               },
               "Guadalcanal": {
-                "exemplarCity": "Guadalcanal"
+                "exemplarCity": "Kuatākanali"
               },
               "Guam": {
                 "exemplarCity": "Kuami"
@@ -1221,25 +1220,25 @@
                 "exemplarCity": "Honolulu"
               },
               "Johnston": {
-                "exemplarCity": "Johnston"
+                "exemplarCity": "Sionesitoni"
               },
               "Kiritimati": {
-                "exemplarCity": "Kiritimati"
+                "exemplarCity": "Kilisimasi"
               },
               "Kosrae": {
                 "exemplarCity": "Kosilae"
               },
               "Kwajalein": {
-                "exemplarCity": "Kwajalein"
+                "exemplarCity": "Kuasaleni"
               },
               "Majuro": {
-                "exemplarCity": "Majuro"
+                "exemplarCity": "Masulo"
               },
               "Marquesas": {
-                "exemplarCity": "Marquesas"
+                "exemplarCity": "Malikuesa"
               },
               "Midway": {
-                "exemplarCity": "Midway"
+                "exemplarCity": "Mitiuai"
               },
               "Nauru": {
                 "exemplarCity": "Naulu"
@@ -1260,19 +1259,19 @@
                 "exemplarCity": "Palau"
               },
               "Pitcairn": {
-                "exemplarCity": "Pitcairn"
+                "exemplarCity": "Pitikeni"
               },
               "Ponape": {
                 "exemplarCity": "Ponapē"
               },
               "Port_Moresby": {
-                "exemplarCity": "Port Moresby"
+                "exemplarCity": "Taulanga Molesipi"
               },
               "Rarotonga": {
                 "exemplarCity": "Lalotonga"
               },
               "Saipan": {
-                "exemplarCity": "Saipan"
+                "exemplarCity": "Saʻipani"
               },
               "Tahiti": {
                 "exemplarCity": "Tahisi"
@@ -1287,7 +1286,7 @@
                 "exemplarCity": "Tūke"
               },
               "Wake": {
-                "exemplarCity": "Wake"
+                "exemplarCity": "Ueke"
               },
               "Wallis": {
                 "exemplarCity": "ʻUvea"
@@ -1335,6 +1334,9 @@
             },
             "Etc": {
               "UTC": {
+                "long": {
+                  "standard": "taimi fakaemāmani"
+                },
                 "short": {
                   "standard": "UTC"
                 }
@@ -2117,6 +2119,11 @@
             "Ponape": {
               "long": {
                 "standard": "houa fakapōnapē"
+              }
+            },
+            "Pyongyang": {
+              "long": {
+                "standard": "houa fakapiongiangi"
               }
             },
             "Qyzylorda": {

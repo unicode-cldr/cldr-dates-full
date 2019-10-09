@@ -3,8 +3,7 @@
     "br": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14886 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "br"
       },
@@ -14,10 +13,10 @@
             "displayName": "amzervezh"
           },
           "era-short": {
-            "displayName": "amzervezh"
+            "displayName": "amzerv."
           },
           "era-narrow": {
-            "displayName": "amzervezh"
+            "displayName": "amzerv."
           },
           "year": {
             "displayName": "bloaz",
@@ -60,7 +59,7 @@
             }
           },
           "year-narrow": {
-            "displayName": "bl.",
+            "displayName": "b.",
             "relative-type--1": "warlene",
             "relative-type-0": "hevlene",
             "relative-type-1": "ar bl. a zeu",
@@ -120,7 +119,7 @@
             }
           },
           "quarter-narrow": {
-            "displayName": "trim.",
+            "displayName": "t.",
             "relative-type--1": "an trim. diaraok",
             "relative-type-0": "an trim.-mañ",
             "relative-type-1": "an trim. a zeu",
@@ -180,10 +179,10 @@
             }
           },
           "month-narrow": {
-            "displayName": "miz",
-            "relative-type--1": "ar miz diaraok",
-            "relative-type-0": "ar miz-mañ",
-            "relative-type-1": "ar miz a zeu",
+            "displayName": "m.",
+            "relative-type--1": "ar m. diaraok",
+            "relative-type-0": "ar m.-mañ",
+            "relative-type-1": "ar m. a zeu",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "+{0} miz",
               "relativeTimePattern-count-two": "+{0} miz",
@@ -218,58 +217,58 @@
               "relativeTimePattern-count-many": "{0} a sizhunioù zo",
               "relativeTimePattern-count-other": "{0} sizhun zo"
             },
-            "relativePeriod": "the week of {0}"
+            "relativePeriod": "sizhun {0}"
           },
           "week-short": {
-            "displayName": "sizhun",
-            "relative-type--1": "ar sizhun diaraok",
-            "relative-type-0": "ar sizhun-mañ",
-            "relative-type-1": "ar sizhun a zeu",
+            "displayName": "sizh.",
+            "relative-type--1": "ar sizh. diaraok",
+            "relative-type-0": "ar sizh.-mañ",
+            "relative-type-1": "ar sizh. a zeu",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "a-benn {0} sizhun",
-              "relativeTimePattern-count-two": "a-benn {0} sizhun",
-              "relativeTimePattern-count-few": "a-benn {0} sizhun",
-              "relativeTimePattern-count-many": "a-benn {0} a sizhunioù",
-              "relativeTimePattern-count-other": "a-benn {0} sizhun"
+              "relativeTimePattern-count-one": "a-benn {0} sizh.",
+              "relativeTimePattern-count-two": "a-benn {0} sizh.",
+              "relativeTimePattern-count-few": "a-benn {0} sizh.",
+              "relativeTimePattern-count-many": "a-benn {0} sizh.",
+              "relativeTimePattern-count-other": "a-benn {0} sizh."
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} sizhun zo",
-              "relativeTimePattern-count-two": "{0} sizhun zo",
-              "relativeTimePattern-count-few": "{0} sizhun zo",
-              "relativeTimePattern-count-many": "{0} a sizhunioù zo",
-              "relativeTimePattern-count-other": "{0} sizhun zo"
+              "relativeTimePattern-count-one": "{0} sizh. zo",
+              "relativeTimePattern-count-two": "{0} sizh. zo",
+              "relativeTimePattern-count-few": "{0} sizh. zo",
+              "relativeTimePattern-count-many": "{0} sizh. zo",
+              "relativeTimePattern-count-other": "{0} sizh. zo"
             },
-            "relativePeriod": "the week of {0}"
+            "relativePeriod": "sizh. {0}"
           },
           "week-narrow": {
-            "displayName": "sizhun",
-            "relative-type--1": "ar sizhun diaraok",
-            "relative-type-0": "ar sizhun-mañ",
-            "relative-type-1": "ar sizhun a zeu",
+            "displayName": "sizh.",
+            "relative-type--1": "ar sizh. diaraok",
+            "relative-type-0": "ar sizh.-mañ",
+            "relative-type-1": "ar sizh. a zeu",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "a-benn {0} sizhun",
-              "relativeTimePattern-count-two": "a-benn {0} sizhun",
-              "relativeTimePattern-count-few": "a-benn {0} sizhun",
-              "relativeTimePattern-count-many": "a-benn {0} a sizhunioù",
-              "relativeTimePattern-count-other": "a-benn {0} sizhun"
+              "relativeTimePattern-count-one": "a-benn {0} sizh.",
+              "relativeTimePattern-count-two": "a-benn {0} sizh.",
+              "relativeTimePattern-count-few": "a-benn {0} sizh.",
+              "relativeTimePattern-count-many": "a-benn {0} sizh.",
+              "relativeTimePattern-count-other": "a-benn {0} sizh."
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} sizhun zo",
-              "relativeTimePattern-count-two": "{0} sizhun zo",
-              "relativeTimePattern-count-few": "{0} sizhun zo",
-              "relativeTimePattern-count-many": "{0} a sizhunioù zo",
-              "relativeTimePattern-count-other": "{0} sizhun zo"
+              "relativeTimePattern-count-one": "{0} sizh. zo",
+              "relativeTimePattern-count-two": "{0} sizh. zo",
+              "relativeTimePattern-count-few": "{0} sizh. zo",
+              "relativeTimePattern-count-many": "{0} sizh. zo",
+              "relativeTimePattern-count-other": "{0} sizh. zo"
             },
-            "relativePeriod": "the week of {0}"
+            "relativePeriod": "sizh. {0}"
           },
           "weekOfMonth": {
-            "displayName": "Week Of Month"
+            "displayName": "sizhun ar miz"
           },
           "weekOfMonth-short": {
-            "displayName": "Week Of Month"
+            "displayName": "sizh. ar miz"
           },
           "weekOfMonth-narrow": {
-            "displayName": "Week Of Month"
+            "displayName": "sizh. ar m."
           },
           "day": {
             "displayName": "deiz",
@@ -293,7 +292,7 @@
             }
           },
           "day-short": {
-            "displayName": "d",
+            "displayName": "d.",
             "relative-type--2": "dercʼhent-decʼh",
             "relative-type--1": "decʼh",
             "relative-type-0": "hiziv",
@@ -314,7 +313,7 @@
             }
           },
           "day-narrow": {
-            "displayName": "d",
+            "displayName": "d.",
             "relative-type--2": "dercʼhent-decʼh",
             "relative-type--1": "decʼh",
             "relative-type-0": "hiziv",
@@ -335,31 +334,31 @@
             }
           },
           "dayOfYear": {
-            "displayName": "Day Of Year"
+            "displayName": "deiz ar bloaz"
           },
           "dayOfYear-short": {
-            "displayName": "Day Of Year"
+            "displayName": "d. ar bl."
           },
           "dayOfYear-narrow": {
-            "displayName": "Day Of Year"
+            "displayName": "d. ar b."
           },
           "weekday": {
             "displayName": "deiz ar sizhun"
           },
           "weekday-short": {
-            "displayName": "deiz ar sizhun"
+            "displayName": "d. ar sizh."
           },
           "weekday-narrow": {
-            "displayName": "deiz ar sizhun"
+            "displayName": "d. ar sizh."
           },
           "weekdayOfMonth": {
-            "displayName": "Weekday Of Month"
+            "displayName": "deiz ar miz"
           },
           "weekdayOfMonth-short": {
-            "displayName": "Weekday Of Month"
+            "displayName": "d. ar miz"
           },
           "weekdayOfMonth-narrow": {
-            "displayName": "Weekday Of Month"
+            "displayName": "d. ar m."
           },
           "sun": {
             "relative-type--1": "Disul diwezhañ",
@@ -935,10 +934,10 @@
             "displayName": "takad eur"
           },
           "zone-short": {
-            "displayName": "takad eur"
+            "displayName": "takad"
           },
           "zone-narrow": {
-            "displayName": "takad eur"
+            "displayName": "takad"
           }
         }
       }

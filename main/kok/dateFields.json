@@ -3,8 +3,7 @@
     "kok": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "kok"
       },
@@ -146,7 +145,7 @@
             "relative-type-0": "हो सप्तक",
             "relative-type-1": "फुडलो सप्तक",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "{0} सप्त."
+              "relativeTimePattern-count-other": "{0} सप्तकांनीं"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-other": "{0} सप्तकां आदीं"
@@ -470,13 +469,13 @@
             }
           },
           "dayperiod-short": {
-            "displayName": "दिसाचोकालावधी"
+            "displayName": "AM/PM"
           },
           "dayperiod": {
-            "displayName": "दिसाचोकालावधी"
+            "displayName": "AM/PM"
           },
           "dayperiod-narrow": {
-            "displayName": "दिसाचोकालावधी"
+            "displayName": "AM/PM"
           },
           "hour": {
             "displayName": "वर",
@@ -569,7 +568,7 @@
             }
           },
           "zone": {
-            "displayName": "झोन"
+            "displayName": "वेळ झोन"
           },
           "zone-short": {
             "displayName": "झोन"

@@ -3,8 +3,7 @@
     "ig": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14845 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ig"
       },
@@ -110,7 +109,7 @@
                   "wed": "Wen",
                   "thu": "Tọọ",
                   "fri": "Fraị",
-                  "sat": "Satọdee"
+                  "sat": "Sat"
                 },
                 "narrow": {
                   "sun": "S",
@@ -122,7 +121,7 @@
                   "sat": "S"
                 },
                 "short": {
-                  "sun": "Ụka",
+                  "sun": "Sọn",
                   "mon": "Mọn",
                   "tue": "Tiu",
                   "wed": "Wen",
@@ -131,7 +130,7 @@
                   "sat": "Sat"
                 },
                 "wide": {
-                  "sun": "Ụbọchị Ụka",
+                  "sun": "Sọndee",
                   "mon": "Mọnde",
                   "tue": "Tiuzdee",
                   "wed": "Wenezdee",
@@ -148,7 +147,7 @@
                   "wed": "Wen",
                   "thu": "Tọọ",
                   "fri": "Fraị",
-                  "sat": "Satọdee"
+                  "sat": "Sat"
                 },
                 "narrow": {
                   "sun": "S",
@@ -160,7 +159,7 @@
                   "sat": "S"
                 },
                 "short": {
-                  "sun": "Ụka",
+                  "sun": "Sọn",
                   "mon": "Mọn",
                   "tue": "Tiu",
                   "wed": "Wen",
@@ -169,7 +168,7 @@
                   "sat": "Sat"
                 },
                 "wide": {
-                  "sun": "Ụbọchị Ụka",
+                  "sun": "Sọndee",
                   "mon": "Mọnde",
                   "tue": "Tiuzdee",
                   "wed": "Wenezdee",

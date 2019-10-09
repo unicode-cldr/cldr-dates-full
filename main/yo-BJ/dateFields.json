@@ -3,8 +3,7 @@
     "yo-BJ": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14877 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "yo",
         "territory": "BJ"
@@ -22,9 +21,9 @@
           },
           "year": {
             "displayName": "Ɔdún",
-            "relative-type--1": "ɔ́dún tó kɔjá",
-            "relative-type-0": "ɔ́dún yìí",
-            "relative-type-1": "ɔ́dún tó ń bɔ̀",
+            "relative-type--1": "Èshín",
+            "relative-type-0": "Ɔdúnǹí",
+            "relative-type-1": "Àmɔ́dún",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} y"
             },
@@ -34,9 +33,9 @@
           },
           "year-short": {
             "displayName": "Ɔdún",
-            "relative-type--1": "ɔ́dún tó kɔjá",
-            "relative-type-0": "ɔ́dún yìí",
-            "relative-type-1": "ɔ́dún tó ń bɔ̀",
+            "relative-type--1": "Èshín",
+            "relative-type-0": "Ɔdúnǹí",
+            "relative-type-1": "Àmɔ́dún",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} y"
             },
@@ -46,9 +45,9 @@
           },
           "year-narrow": {
             "displayName": "Ɔdún",
-            "relative-type--1": "ɔ́dún tó kɔjá",
-            "relative-type-0": "ɔ́dún yìí",
-            "relative-type-1": "ɔ́dún tó ń bɔ̀",
+            "relative-type--1": "Èshín",
+            "relative-type-0": "Ɔdúnǹí",
+            "relative-type-1": "Àmɔ́dún",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} y"
             },
@@ -117,7 +116,7 @@
             }
           },
           "month-narrow": {
-            "displayName": "Osù",
+            "displayName": "Oshù",
             "relative-type--1": "óshù tó kɔjá",
             "relative-type-0": "oshù yìí",
             "relative-type-1": "óshù tó ń bɔ̀,",
@@ -152,7 +151,7 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-other": "-{0} w"
             },
-            "relativePeriod": "the week of {0}"
+            "relativePeriod": "ɔ̀shɛ̀ {0}"
           },
           "week-narrow": {
             "displayName": "Ɔ̀sɛ̀",
@@ -165,7 +164,7 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-other": "-{0} w"
             },
-            "relativePeriod": "the week of {0}"
+            "relativePeriod": "ɔ̀shɛ̀ {0}"
           },
           "weekOfMonth": {
             "displayName": "Week Of Month"

@@ -3,27 +3,26 @@
     "ceb": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ceb"
       },
       "dates": {
         "fields": {
           "era": {
-            "displayName": "Panahon"
+            "displayName": "era"
           },
           "era-short": {
-            "displayName": "Panahon"
+            "displayName": "era"
           },
           "era-narrow": {
-            "displayName": "Panahon"
+            "displayName": "era"
           },
           "year": {
             "displayName": "tuig",
-            "relative-type--1": "last year",
-            "relative-type-0": "this year",
-            "relative-type-1": "next year",
+            "relative-type--1": "miaging tuig",
+            "relative-type-0": "karong tuiga",
+            "relative-type-1": "sunod nga tuig",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} y"
             },
@@ -33,9 +32,9 @@
           },
           "year-short": {
             "displayName": "tuig",
-            "relative-type--1": "last year",
-            "relative-type-0": "this year",
-            "relative-type-1": "next year",
+            "relative-type--1": "miaging tuig",
+            "relative-type-0": "karong tuiga",
+            "relative-type-1": "sunod nga tuig",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} y"
             },
@@ -45,9 +44,9 @@
           },
           "year-narrow": {
             "displayName": "tuig",
-            "relative-type--1": "last year",
-            "relative-type-0": "this year",
-            "relative-type-1": "next year",
+            "relative-type--1": "miaging tuig",
+            "relative-type-0": "karong tuiga",
+            "relative-type-1": "sunod nga tuig",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} y"
             },
@@ -56,7 +55,7 @@
             }
           },
           "quarter": {
-            "displayName": "Ikaupat",
+            "displayName": "quarter",
             "relative-type--1": "last quarter",
             "relative-type-0": "this quarter",
             "relative-type-1": "next quarter",
@@ -68,7 +67,7 @@
             }
           },
           "quarter-short": {
-            "displayName": "Ikaupat",
+            "displayName": "qtr.",
             "relative-type--1": "last quarter",
             "relative-type-0": "this quarter",
             "relative-type-1": "next quarter",
@@ -80,7 +79,7 @@
             }
           },
           "quarter-narrow": {
-            "displayName": "Ikaupat",
+            "displayName": "qtr.",
             "relative-type--1": "last quarter",
             "relative-type-0": "this quarter",
             "relative-type-1": "next quarter",
@@ -92,10 +91,10 @@
             }
           },
           "month": {
-            "displayName": "Bulan",
-            "relative-type--1": "last month",
-            "relative-type-0": "this month",
-            "relative-type-1": "next month",
+            "displayName": "buwan",
+            "relative-type--1": "miaging buwan",
+            "relative-type-0": "karong buwana",
+            "relative-type-1": "sunod nga buwan",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} m"
             },
@@ -104,10 +103,10 @@
             }
           },
           "month-short": {
-            "displayName": "Bulan",
-            "relative-type--1": "last month",
-            "relative-type-0": "this month",
-            "relative-type-1": "next month",
+            "displayName": "buwan",
+            "relative-type--1": "miaging buwan",
+            "relative-type-0": "karong buwana",
+            "relative-type-1": "sunod nga buwan",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} m"
             },
@@ -116,10 +115,10 @@
             }
           },
           "month-narrow": {
-            "displayName": "Bulan",
-            "relative-type--1": "last month",
-            "relative-type-0": "this month",
-            "relative-type-1": "next month",
+            "displayName": "buwan",
+            "relative-type--1": "miaging buwan",
+            "relative-type-0": "karong buwana",
+            "relative-type-1": "sunod nga buwan",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} m"
             },
@@ -128,43 +127,43 @@
             }
           },
           "week": {
-            "displayName": "Semana",
-            "relative-type--1": "last week",
-            "relative-type-0": "this week",
-            "relative-type-1": "next week",
+            "displayName": "semana",
+            "relative-type--1": "miaging semana",
+            "relative-type-0": "karong semanaha",
+            "relative-type-1": "sunod nga semana",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} w"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-other": "-{0} w"
             },
-            "relativePeriod": "the week of {0}"
+            "relativePeriod": "ang semana sa {0}"
           },
           "week-short": {
-            "displayName": "Semana",
-            "relative-type--1": "last week",
-            "relative-type-0": "this week",
-            "relative-type-1": "next week",
+            "displayName": "semana",
+            "relative-type--1": "miaging semana",
+            "relative-type-0": "karong semanaha",
+            "relative-type-1": "sunod nga semana",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} w"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-other": "-{0} w"
             },
-            "relativePeriod": "the week of {0}"
+            "relativePeriod": "ang semana sa {0}"
           },
           "week-narrow": {
-            "displayName": "Semana",
-            "relative-type--1": "last week",
-            "relative-type-0": "this week",
-            "relative-type-1": "next week",
+            "displayName": "semana",
+            "relative-type--1": "miaging semana",
+            "relative-type-0": "karong semanaha",
+            "relative-type-1": "sunod nga semana",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} w"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-other": "-{0} w"
             },
-            "relativePeriod": "the week of {0}"
+            "relativePeriod": "ang semana sa {0}"
           },
           "weekOfMonth": {
             "displayName": "Week Of Month"
@@ -176,10 +175,10 @@
             "displayName": "Week Of Month"
           },
           "day": {
-            "displayName": "Adlaw",
-            "relative-type--1": "Kagahapon",
-            "relative-type-0": "Karon nga Adlaw",
-            "relative-type-1": "Ugma",
+            "displayName": "adlaw",
+            "relative-type--1": "gahapon",
+            "relative-type-0": "karong adlawa",
+            "relative-type-1": "ugma",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} d"
             },
@@ -188,10 +187,10 @@
             }
           },
           "day-short": {
-            "displayName": "Adlaw",
-            "relative-type--1": "Kagahapon",
-            "relative-type-0": "Karon nga Adlaw",
-            "relative-type-1": "Ugma",
+            "displayName": "adlaw",
+            "relative-type--1": "gahapon",
+            "relative-type-0": "karong adlawa",
+            "relative-type-1": "ugma",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} d"
             },
@@ -200,10 +199,10 @@
             }
           },
           "day-narrow": {
-            "displayName": "Adlaw",
-            "relative-type--1": "Kagahapon",
-            "relative-type-0": "Karon nga Adlaw",
-            "relative-type-1": "Ugma",
+            "displayName": "adlaw",
+            "relative-type--1": "gahapon",
+            "relative-type-0": "karong adlawa",
+            "relative-type-1": "ugma",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} d"
             },
@@ -221,13 +220,13 @@
             "displayName": "Day Of Year"
           },
           "weekday": {
-            "displayName": "Adlaw sa Semana"
+            "displayName": "adlaw sa semana"
           },
           "weekday-short": {
-            "displayName": "Adlaw sa Semana"
+            "displayName": "adlaw sa semana"
           },
           "weekday-narrow": {
-            "displayName": "Adlaw sa Semana"
+            "displayName": "adlaw sa semana"
           },
           "weekdayOfMonth": {
             "displayName": "Weekday Of Month"
@@ -479,7 +478,7 @@
             "displayName": "AM/PM"
           },
           "hour": {
-            "displayName": "Oras",
+            "displayName": "oras",
             "relative-type-0": "this hour",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} h"
@@ -489,7 +488,7 @@
             }
           },
           "hour-short": {
-            "displayName": "Oras",
+            "displayName": "oras",
             "relative-type-0": "this hour",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} h"
@@ -499,7 +498,7 @@
             }
           },
           "hour-narrow": {
-            "displayName": "Oras",
+            "displayName": "oras",
             "relative-type-0": "this hour",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} h"
@@ -509,7 +508,7 @@
             }
           },
           "minute": {
-            "displayName": "Minuto",
+            "displayName": "minuto",
             "relative-type-0": "this minute",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} min"
@@ -519,7 +518,7 @@
             }
           },
           "minute-short": {
-            "displayName": "Minuto",
+            "displayName": "minuto",
             "relative-type-0": "this minute",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} min"
@@ -529,7 +528,7 @@
             }
           },
           "minute-narrow": {
-            "displayName": "Minuto",
+            "displayName": "minuto",
             "relative-type-0": "this minute",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} min"
@@ -539,7 +538,7 @@
             }
           },
           "second": {
-            "displayName": "Segundo",
+            "displayName": "segundo",
             "relative-type-0": "now",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} s"
@@ -549,7 +548,7 @@
             }
           },
           "second-short": {
-            "displayName": "Segundo",
+            "displayName": "segundo",
             "relative-type-0": "now",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} s"
@@ -559,7 +558,7 @@
             }
           },
           "second-narrow": {
-            "displayName": "Segundo",
+            "displayName": "segundo",
             "relative-type-0": "now",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} s"
@@ -569,13 +568,13 @@
             }
           },
           "zone": {
-            "displayName": "Sona sa Panahon"
+            "displayName": "time zone"
           },
           "zone-short": {
-            "displayName": "Sona sa Panahon"
+            "displayName": "time zone"
           },
           "zone-narrow": {
-            "displayName": "Sona sa Panahon"
+            "displayName": "time zone"
           }
         }
       }

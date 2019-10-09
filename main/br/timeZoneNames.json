@@ -3,8 +3,7 @@
     "br": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14886 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "br"
       },
@@ -900,7 +899,7 @@
                 "exemplarCity": "Calcutta"
               },
               "Chita": {
-                "exemplarCity": "Chita"
+                "exemplarCity": "Tchita"
               },
               "Choibalsan": {
                 "exemplarCity": "Choibalsan"
@@ -954,7 +953,7 @@
                 "exemplarCity": "Kaboul"
               },
               "Kamchatka": {
-                "exemplarCity": "Kamchatka"
+                "exemplarCity": "Kamtchatka"
               },
               "Karachi": {
                 "exemplarCity": "Karachi"
@@ -1332,6 +1331,9 @@
             },
             "Etc": {
               "UTC": {
+                "long": {
+                  "standard": "amzer hollvedel kenurzhiet"
+                },
                 "short": {
                   "standard": "UTC"
                 }
@@ -1390,6 +1392,13 @@
                 "daylight": "eur hañv an Amazon"
               }
             },
+            "America_Central": {
+              "long": {
+                "generic": "eur ar Cʼhreiz",
+                "standard": "eur cʼhoañv ar Cʼhreiz",
+                "daylight": "eur hañv ar Cʼhreiz"
+              }
+            },
             "America_Eastern": {
               "long": {
                 "generic": "eur ar Reter",
@@ -1402,6 +1411,13 @@
                 "generic": "eur ar Menezioù",
                 "standard": "eur cʼhoañv ar Menezioù",
                 "daylight": "eur hañv ar Menezioù"
+              }
+            },
+            "America_Pacific": {
+              "long": {
+                "generic": "eur an Habask",
+                "standard": "eur cʼhoañv an Habask",
+                "daylight": "eur hañv an Habask"
               }
             },
             "Anadyr": {
@@ -1444,6 +1460,13 @@
                 "generic": "eur Armenia",
                 "standard": "eur cʼhoañv Armenia",
                 "daylight": "eur hañv Armenia"
+              }
+            },
+            "Atlantic": {
+              "long": {
+                "generic": "eur an Atlantel",
+                "standard": "eur cʼhoañv an Atlantel",
+                "daylight": "eur hañv an Atlantel"
               }
             },
             "Australia_Central": {
@@ -1524,6 +1547,11 @@
                 "daylight": "eur hañv ar Cʼhab-Glas"
               }
             },
+            "Chamorro": {
+              "long": {
+                "standard": "eur Chamorro"
+              }
+            },
             "Chatham": {
               "long": {
                 "generic": "eur Chatham",
@@ -1543,6 +1571,13 @@
                 "generic": "eur Sina",
                 "standard": "eur cʼhoañv Sina",
                 "daylight": "eur hañv Sina"
+              }
+            },
+            "Choibalsan": {
+              "long": {
+                "generic": "eur Choibalsan",
+                "standard": "eur cʼhoañv Choibalsan",
+                "daylight": "eur hañv Choibalsan"
               }
             },
             "Christmas": {
@@ -1574,6 +1609,16 @@
                 "generic": "eur Kuba",
                 "standard": "eur cʼhoañv Kuba",
                 "daylight": "eur hañv Kuba"
+              }
+            },
+            "Davis": {
+              "long": {
+                "standard": "eur Davis"
+              }
+            },
+            "DumontDUrville": {
+              "long": {
+                "standard": "eur Dumont-d’Urville"
               }
             },
             "East_Timor": {
@@ -1645,7 +1690,7 @@
             },
             "Gambier": {
               "long": {
-                "standard": "eur Gambier"
+                "standard": "eur Inizi Gambier"
               }
             },
             "Georgia": {
@@ -1653,6 +1698,11 @@
                 "generic": "eur Jorjia",
                 "standard": "eur cʼhoañv Jorjia",
                 "daylight": "eur hañv Jorjia"
+              }
+            },
+            "Gilbert_Islands": {
+              "long": {
+                "standard": "eur Inizi Gilbert"
               }
             },
             "GMT": {
@@ -1696,14 +1746,31 @@
                 "daylight": "eur hañv Hong Kong"
               }
             },
+            "Hovd": {
+              "long": {
+                "generic": "eur Hovd",
+                "standard": "eur cʼhoañv Hovd",
+                "daylight": "eur hañv Hovd"
+              }
+            },
             "India": {
               "long": {
                 "standard": "eur cʼhoañv India"
               }
             },
+            "Indian_Ocean": {
+              "long": {
+                "standard": "eur Meurvor Indez"
+              }
+            },
             "Indochina": {
               "long": {
                 "standard": "eur Indez-Sina"
+              }
+            },
+            "Indonesia_Central": {
+              "long": {
+                "standard": "eur Kreiz Indonezia"
               }
             },
             "Indonesia_Eastern": {
@@ -1761,6 +1828,18 @@
                 "daylight": "eur hañv Korea"
               }
             },
+            "Kosrae": {
+              "long": {
+                "standard": "eur Kosrae"
+              }
+            },
+            "Krasnoyarsk": {
+              "long": {
+                "generic": "eur Krasnoyarsk",
+                "standard": "eur cʼhoañv Krasnoyarsk",
+                "daylight": "eur hañv Krasnoyarsk"
+              }
+            },
             "Kyrgystan": {
               "long": {
                 "standard": "eur Kyrgyzstan"
@@ -1769,6 +1848,11 @@
             "Lanka": {
               "long": {
                 "standard": "eur Sri Lanka"
+              }
+            },
+            "Line_Islands": {
+              "long": {
+                "standard": "eur Line Islands"
               }
             },
             "Macau": {
@@ -1781,6 +1865,13 @@
             "Macquarie": {
               "long": {
                 "standard": "eur Enez Macquarie"
+              }
+            },
+            "Magadan": {
+              "long": {
+                "generic": "eur Magadan",
+                "standard": "eur cʼhoañv Magadan",
+                "daylight": "eur hañv Magadan"
               }
             },
             "Malaysia": {
@@ -1808,6 +1899,11 @@
                 "generic": "eur Moris",
                 "standard": "eur cʼhoañv Moris",
                 "daylight": "eur hañv Moris"
+              }
+            },
+            "Mawson": {
+              "long": {
+                "standard": "eur Mawson"
               }
             },
             "Mexico_Northwest": {
@@ -1877,11 +1973,25 @@
                 "standard": "eur Enez Norfolk"
               }
             },
+            "Noronha": {
+              "long": {
+                "generic": "eur Fernando de Noronha",
+                "standard": "eur cʼhoañv Fernando de Noronha",
+                "daylight": "eur hañv Fernando de Noronha"
+              }
+            },
             "Novosibirsk": {
               "long": {
                 "generic": "eur Novosibirsk",
                 "standard": "eur cʼhoañv Novosibirsk",
                 "daylight": "eur hañv Novosibirsk"
+              }
+            },
+            "Omsk": {
+              "long": {
+                "generic": "eur Omsk",
+                "standard": "eur cʼhoañv Omsk",
+                "daylight": "eur hañv Omsk"
               }
             },
             "Pakistan": {
@@ -1894,6 +2004,11 @@
             "Palau": {
               "long": {
                 "standard": "eur Palau"
+              }
+            },
+            "Papua_New_Guinea": {
+              "long": {
+                "standard": "eur Papoua-Ginea-Nevez"
               }
             },
             "Paraguay": {
@@ -1917,6 +2032,11 @@
                 "daylight": "eur hañv ar Filipinez"
               }
             },
+            "Phoenix_Islands": {
+              "long": {
+                "standard": "eur Inizi Phoenix"
+              }
+            },
             "Pierre_Miquelon": {
               "long": {
                 "generic": "eur Sant-Pêr-ha-Mikelon",
@@ -1929,9 +2049,19 @@
                 "standard": "eur Pitcairn"
               }
             },
+            "Pyongyang": {
+              "long": {
+                "standard": "eur Pʼyongyang"
+              }
+            },
             "Reunion": {
               "long": {
                 "standard": "eur ar Reünion"
+              }
+            },
+            "Rothera": {
+              "long": {
+                "standard": "eur Rothera"
               }
             },
             "Sakhalin": {
@@ -1973,6 +2103,11 @@
                 "standard": "eur Surinam"
               }
             },
+            "Syowa": {
+              "long": {
+                "standard": "eur Syowa"
+              }
+            },
             "Tahiti": {
               "long": {
                 "standard": "eur Tahiti"
@@ -2000,6 +2135,11 @@
                 "generic": "eur Tonga",
                 "standard": "eur cʼhoañv Tonga",
                 "daylight": "eur hañv Tonga"
+              }
+            },
+            "Truk": {
+              "long": {
+                "standard": "eur Chuuk"
               }
             },
             "Turkmenistan": {
@@ -2052,6 +2192,16 @@
                 "generic": "eur Volgograd",
                 "standard": "eur cʼhoañv Volgograd",
                 "daylight": "eur hañv Volgograd"
+              }
+            },
+            "Vostok": {
+              "long": {
+                "standard": "eur Vostok"
+              }
+            },
+            "Wake": {
+              "long": {
+                "standard": "eur Wake Island"
               }
             },
             "Wallis": {

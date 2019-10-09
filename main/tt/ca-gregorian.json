@@ -3,8 +3,7 @@
     "tt": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "tt"
       },
@@ -254,21 +253,21 @@
             "eras": {
               "eraNames": {
                 "0": "безнең эрага кадәр",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "б.э.к.",
                 "1": "безнең эра",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "б.э."
               },
               "eraAbbr": {
                 "0": "б.э.к.",
-                "0-alt-variant": "BCE",
-                "1": "б.э.",
-                "1-alt-variant": "CE"
+                "0-alt-variant": "б.э.к.",
+                "1": "милади",
+                "1-alt-variant": "б.э."
               },
               "eraNarrow": {
                 "0": "б.э.к.",
-                "0-alt-variant": "BCE",
-                "1": "б.э.",
-                "1-alt-variant": "CE"
+                "0-alt-variant": "б.э.к.",
+                "1": "милади",
+                "1-alt-variant": "б.э."
               }
             },
             "dateFormats": {

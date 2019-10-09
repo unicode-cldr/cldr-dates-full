@@ -3,8 +3,7 @@
     "chr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "chr"
       },
@@ -35,9 +34,9 @@
           },
           "year-short": {
             "displayName": "ᎤᏕ.",
-            "relative-type--1": "ᎡᏘ ᏥᎨᏒ",
-            "relative-type-0": "ᎯᎠ ᏧᏕᏘᏴᏒᏘ",
-            "relative-type-1": "ᎡᏘᏴᎢ",
+            "relative-type--1": "ᎡᏘ. ᏥᎨᏒ",
+            "relative-type-0": "ᎯᎠ ᏧᏕᏘᏴᏒᏘ.",
+            "relative-type-1": "ᎡᏘᏴᎢ.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "ᎾᎿ {0} ᎤᏕ.",
               "relativeTimePattern-count-other": "ᎾᎿ {0} ᎤᏕ."
@@ -49,9 +48,9 @@
           },
           "year-narrow": {
             "displayName": "ᎤᏕ.",
-            "relative-type--1": "ᎡᏘ ᏥᎨᏒ",
-            "relative-type-0": "ᎯᎠ ᏧᏕᏘᏴᏒᏘ",
-            "relative-type-1": "ᎡᏘᏴᎢ",
+            "relative-type--1": "ᎡᏘ. ᏥᎨᏒ",
+            "relative-type-0": "ᎯᎠ ᏧᏕᏘᏴᏒᏘ.",
+            "relative-type-1": "ᎡᏘᏴᎢ.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "ᎾᎿ {0} ᎤᏕ.",
               "relativeTimePattern-count-other": "ᎾᎿ {0} ᎤᏕ."
@@ -119,9 +118,9 @@
           },
           "month-short": {
             "displayName": "ᎧᎸ.",
-            "relative-type--1": "ᎧᎸᎢ ᏥᎨᏒ",
-            "relative-type-0": "ᎯᎠ ᎧᎸᎢ",
-            "relative-type-1": "ᏔᎵᏁ ᎧᎸᎢ",
+            "relative-type--1": "ᎧᎸ. ᏥᎨᏒ",
+            "relative-type-0": "ᎯᎠ ᎧᎸ.",
+            "relative-type-1": "ᎯᎠ ᎧᎸ.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "ᎾᎿ {0} ᎧᎸ.",
               "relativeTimePattern-count-other": "ᎾᎿ {0} ᎧᎸ."
@@ -133,9 +132,9 @@
           },
           "month-narrow": {
             "displayName": "ᎧᎸ.",
-            "relative-type--1": "ᎧᎸᎢ ᏥᎨᏒ",
-            "relative-type-0": "ᎯᎠ ᎧᎸᎢ",
-            "relative-type-1": "ᏔᎵᏁ ᎧᎸᎢ",
+            "relative-type--1": "ᎧᎸ. ᏥᎨᏒ",
+            "relative-type-0": "ᎯᎠ ᎧᎸ.",
+            "relative-type-1": "ᏔᎵᏁ ᎧᎸ.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "ᎾᎿ {0} ᎧᎸ.",
               "relativeTimePattern-count-other": "ᎾᎿ {0} ᎧᎸ."
@@ -162,9 +161,9 @@
           },
           "week-short": {
             "displayName": "ᏒᎾ.",
-            "relative-type--1": "ᏥᏛᎵᏱᎵᏒᎢ",
-            "relative-type-0": "ᎯᎠ ᎠᎵᎵᏌ",
-            "relative-type-1": "ᏐᏆᎴᏅᎲ",
+            "relative-type--1": "ᏥᏛᎵᏱᎵᏒᎢ.",
+            "relative-type-0": "ᎯᎠ ᎠᎵᎵᏌ.",
+            "relative-type-1": "ᏐᏆᎴᏅᎲ.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "ᎾᎿ {0} ᏒᎾ.",
               "relativeTimePattern-count-other": "ᎾᎿ {0} ᏒᎾ."
@@ -177,9 +176,9 @@
           },
           "week-narrow": {
             "displayName": "ᏒᎾ.",
-            "relative-type--1": "ᏥᏛᎵᏱᎵᏒᎢ",
-            "relative-type-0": "ᎯᎠ ᎠᎵᎵᏌ",
-            "relative-type-1": "ᏐᏆᎴᏅᎲ",
+            "relative-type--1": "ᏥᏛᎵᏱᎵᏒᎢ.",
+            "relative-type-0": "ᎯᎠ ᎠᎵᎵᏌ.",
+            "relative-type-1": "ᏐᏆᎴᏅᎲ.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "ᎾᎿ {0} ᏒᎾ.",
               "relativeTimePattern-count-other": "ᎾᎿ {0} ᏒᎾ."

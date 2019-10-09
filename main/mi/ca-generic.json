@@ -3,8 +3,7 @@
     "mi": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "mi"
       },
@@ -266,16 +265,16 @@
               }
             },
             "dateFormats": {
-              "full": "G y MMMM d, EEEE",
-              "long": "G y MMMM d",
-              "medium": "G y MMM d",
-              "short": "GGGGG y-MM-dd"
+              "full": "EEEE, d MMMM y G",
+              "long": "d MMMM y G",
+              "medium": "d MMM y G",
+              "short": "dd-MM-y GGGGG"
             },
             "timeFormats": {
               "full": "h:mm:ss a zzzz",
               "long": "h:mm:ss a z",
-              "medium": "h:mm:ss",
-              "short": "h:mm"
+              "medium": "h:mm:ss a",
+              "short": "h:mm a"
             },
             "dateTimeFormats": {
               "full": "{1} {0}",

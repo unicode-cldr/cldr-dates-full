@@ -3,8 +3,7 @@
     "kea": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14809 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "kea"
       },
@@ -14,8 +13,8 @@
           "gmtFormat": "GMT{0}",
           "gmtZeroFormat": "GMT",
           "regionFormat": "Ora di {0}",
-          "regionFormat-type-daylight": "Ora di {0} (verãu)",
-          "regionFormat-type-standard": "Ora di {0} (normal)",
+          "regionFormat-type-daylight": "Ora di Veron di {0}",
+          "regionFormat-type-standard": "Ora Padron di {0}",
           "fallbackFormat": "{1} ({0})",
           "zone": {
             "America": {
@@ -100,7 +99,7 @@
                 "exemplarCity": "Campo Grande"
               },
               "Cancun": {
-                "exemplarCity": "Cancun"
+                "exemplarCity": "Kankun"
               },
               "Caracas": {
                 "exemplarCity": "Caracas"
@@ -115,10 +114,10 @@
                 "exemplarCity": "Cayman"
               },
               "Chicago": {
-                "exemplarCity": "Chicago"
+                "exemplarCity": "Xikagu"
               },
               "Chihuahua": {
-                "exemplarCity": "Chihuahua"
+                "exemplarCity": "Xiuáua"
               },
               "Coral_Harbour": {
                 "exemplarCity": "Atikokan"
@@ -127,7 +126,7 @@
                 "exemplarCity": "Cordoba"
               },
               "Costa_Rica": {
-                "exemplarCity": "Costa Rica"
+                "exemplarCity": "Kosta Rika"
               },
               "Creston": {
                 "exemplarCity": "Creston"
@@ -542,6 +541,9 @@
                 "exemplarCity": "Copenhagen"
               },
               "Dublin": {
+                "long": {
+                  "daylight": "Ora Padron di Irlanda"
+                },
                 "exemplarCity": "Dublin"
               },
               "Gibraltar": {
@@ -578,6 +580,9 @@
                 "exemplarCity": "Ljubljana"
               },
               "London": {
+                "long": {
+                  "daylight": "Ora di Veron Britániku"
+                },
                 "exemplarCity": "London"
               },
               "Luxembourg": {
@@ -1323,120 +1328,149 @@
             },
             "Etc": {
               "UTC": {
+                "long": {
+                  "standard": "Ora Universal Kordenadu"
+                },
                 "short": {
                   "standard": "UTC"
                 }
               },
               "Unknown": {
-                "exemplarCity": "Sidadi Diskonxedu"
+                "exemplarCity": "Sidadi diskonxedu"
               }
             }
           },
           "metazone": {
             "Africa_Central": {
               "long": {
-                "standard": "Ora di Afrika Sentral"
+                "standard": "Ora di Áfrika Sentral"
               }
             },
             "Africa_Eastern": {
               "long": {
-                "standard": "Ora di Afrika Oriental"
+                "standard": "Ora di Áfrika Oriental"
               }
             },
             "Africa_Southern": {
               "long": {
-                "standard": "Ora di Sul di Afrika"
+                "standard": "Ora di Sul di Áfrika"
               }
             },
             "Africa_Western": {
               "long": {
-                "generic": "Ora di Afrika Osidental",
-                "standard": "Ora Padrãu di Afrika Osidental",
-                "daylight": "Ora di Verão di Afrika Osidental"
+                "generic": "Ora di Áfrika Osidental",
+                "standard": "Ora Padron di Áfrika Osidental",
+                "daylight": "Ora di Veron di Áfrika Osidental"
+              }
+            },
+            "Alaska": {
+              "long": {
+                "generic": "Ora di Alaska",
+                "standard": "Ora Padron di Alaska",
+                "daylight": "Ora di Veron di Alaska"
               }
             },
             "America_Central": {
               "long": {
                 "generic": "Ora Sentral",
-                "standard": "Ora Sentral Padrãu",
-                "daylight": "Ora Sentral di Verãu"
+                "standard": "Ora Padron Sentral",
+                "daylight": "Ora di Veron Sentral"
               }
             },
             "America_Eastern": {
               "long": {
                 "generic": "Ora Oriental",
-                "standard": "Ora Oriental Padrãu",
-                "daylight": "Ora Oriental di Verãu"
+                "standard": "Ora Padron Oriental",
+                "daylight": "Ora di Veron Oriental"
               }
             },
             "America_Mountain": {
               "long": {
                 "generic": "Ora di Montanha",
-                "standard": "Ora di Montanha Padrãu",
-                "daylight": "Ora di Verãu di Montanha"
+                "standard": "Ora Padron di Montanha",
+                "daylight": "Ora di Veron di Montanha"
               }
             },
             "America_Pacific": {
               "long": {
-                "generic": "Ora di Pasifiku",
-                "standard": "Ora di Pasifiku Padrãu",
-                "daylight": "Ora di Pasifiku di Verãu"
+                "generic": "Ora di Pasífiku",
+                "standard": "Ora Padron di Pasífiku",
+                "daylight": "Ora di Veron di Pasífiku"
               }
             },
             "Atlantic": {
               "long": {
-                "generic": "Ora di Atlantiku",
-                "standard": "Ora Padrãu di Atlantiku",
-                "daylight": "Ora di Verãu di Atlantiku"
+                "generic": "Ora di Atlántiku",
+                "standard": "Ora Padron di Atlántiku",
+                "daylight": "Ora di Veron di Atlántiku"
               }
             },
             "Australia_Central": {
               "long": {
-                "generic": "Ora di Australia Sentral",
-                "standard": "Ora Padrãu di Australia Sentral",
-                "daylight": "Ora di Verãu di Australia Sentral"
+                "generic": "Ora di Austrália Sentral",
+                "standard": "Ora Padron di Austrália Sentral",
+                "daylight": "Ora di Veron di Austrália Sentral"
               }
             },
             "Australia_CentralWestern": {
               "long": {
-                "generic": "Ora di Autralia Sentru-Osidental",
-                "standard": "Ora Padrãu di Australia Sentru-Osidental",
-                "daylight": "Ora di Verãu di Australia Sentru-Osidental"
+                "generic": "Ora di Austrália Sentru-Osidental",
+                "standard": "Ora Padron di Austrália Sentru-Osidental",
+                "daylight": "Ora di Veron di Austrália Sentru-Osidental"
               }
             },
             "Australia_Eastern": {
               "long": {
-                "generic": "Ora di Australia Oriental",
-                "standard": "Ora Padrãu di Australia Oriental",
-                "daylight": "Ora di Verãu di Australia Oriental"
+                "generic": "Ora di Austrália Oriental",
+                "standard": "Ora Padron di Austrália Oriental",
+                "daylight": "Ora di Veron di Austrália Oriental"
               }
             },
             "Australia_Western": {
               "long": {
-                "generic": "Ora di Australia Osidental",
-                "standard": "Ora Padrãu di Australia Osidental",
-                "daylight": "Ora di Verãu di Australia Osidental"
+                "generic": "Ora di Austrália Osidental",
+                "standard": "Ora Padron di Austrália Osidental",
+                "daylight": "Ora di Veron di Austrália Osidental"
+              }
+            },
+            "Cape_Verde": {
+              "long": {
+                "generic": "Ora di Kabu Verdi",
+                "standard": "Ora Padron di Kabu Verdi",
+                "daylight": "Ora di Veron de Kabu Verdi"
+              }
+            },
+            "Cuba": {
+              "long": {
+                "generic": "Ora di Kuba",
+                "standard": "Ora Padron di Kuba",
+                "daylight": "Ora di Veron di Kuba"
               }
             },
             "Europe_Central": {
               "long": {
                 "generic": "Ora di Europa Sentral",
-                "standard": "Ora Padrãu di Europa Sentral",
-                "daylight": "Ora di Verãu di Europa Sentral"
+                "standard": "Ora Padron di Europa Sentral",
+                "daylight": "Ora di Veron di Europa Sentral"
               }
             },
             "Europe_Eastern": {
               "long": {
                 "generic": "Ora di Europa Oriental",
-                "standard": "Ora Padrãu di Europa Oriental",
-                "daylight": "Ora di Verãu di Europa Oriental"
+                "standard": "Ora Padron di Europa Oriental",
+                "daylight": "Ora di Veron di Europa Oriental"
               }
             },
             "Europe_Western": {
               "long": {
                 "generic": "Ora di Europa Osidental",
-                "standard": "Ora Padrãu di Europa Osidental",
-                "daylight": "Ora di Verãu di Europa Osidental"
+                "standard": "Ora Padron di Europa Osidental",
+                "daylight": "Ora di Veron di Europa Osidental"
+              }
+            },
+            "GMT": {
+              "long": {
+                "standard": "Ora Médiu di Greenwich"
               }
             }
           }
