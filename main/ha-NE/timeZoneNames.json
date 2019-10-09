@@ -542,9 +542,6 @@
                 "exemplarCity": "Copenhagen"
               },
               "Dublin": {
-                "long": {
-                  "daylight": {}
-                },
                 "exemplarCity": "Dublin"
               },
               "Gibraltar": {
@@ -581,9 +578,6 @@
                 "exemplarCity": "Ljubljana"
               },
               "London": {
-                "long": {
-                  "daylight": {}
-                },
                 "exemplarCity": "London"
               },
               "Luxembourg": {
@@ -1376,13 +1370,6 @@
                 "daylight": "Lokacin Rana na Alaska"
               }
             },
-            "Amazon": {
-              "long": {
-                "generic": {},
-                "standard": {},
-                "daylight": {}
-              }
-            },
             "America_Central": {
               "long": {
                 "generic": "Lokaci dake Amurika arewa ta tsakiyar",
@@ -1423,20 +1410,6 @@
                 "generic": "Arabian Time",
                 "standard": "Arabian Standard Time",
                 "daylight": "Arabian Daylight Time"
-              }
-            },
-            "Argentina": {
-              "long": {
-                "generic": {},
-                "standard": {},
-                "daylight": {}
-              }
-            },
-            "Argentina_Western": {
-              "long": {
-                "generic": {},
-                "standard": {},
-                "daylight": {}
               }
             },
             "Armenia": {
@@ -1507,18 +1480,6 @@
                 "standard": "Bhutan Time"
               }
             },
-            "Bolivia": {
-              "long": {
-                "standard": {}
-              }
-            },
-            "Brasilia": {
-              "long": {
-                "generic": {},
-                "standard": {},
-                "daylight": {}
-              }
-            },
             "Brunei": {
               "long": {
                 "standard": "Brunei Darussalam Time"
@@ -1543,13 +1504,6 @@
                 "daylight": "Chatham Daylight Time"
               }
             },
-            "Chile": {
-              "long": {
-                "generic": {},
-                "standard": {},
-                "daylight": {}
-              }
-            },
             "China": {
               "long": {
                 "generic": "China Time",
@@ -1572,13 +1526,6 @@
             "Cocos": {
               "long": {
                 "standard": "Cocos Islands Time"
-              }
-            },
-            "Colombia": {
-              "long": {
-                "generic": {},
-                "standard": {},
-                "daylight": {}
               }
             },
             "Cook": {
@@ -1610,18 +1557,6 @@
                 "standard": "East Timor Time"
               }
             },
-            "Easter": {
-              "long": {
-                "generic": {},
-                "standard": {},
-                "daylight": {}
-              }
-            },
-            "Ecuador": {
-              "long": {
-                "standard": {}
-              }
-            },
             "Europe_Central": {
               "long": {
                 "generic": "Tsakiyar a lokaci turai",
@@ -1636,23 +1571,11 @@
                 "daylight": "Gabas a lokaci turai da bazara"
               }
             },
-            "Europe_Further_Eastern": {
-              "long": {
-                "standard": {}
-              }
-            },
             "Europe_Western": {
               "long": {
                 "generic": "Lokaci ta yammacin turai",
                 "standard": "Ida lokaci ta yammacin turai",
                 "daylight": "Ida lokaci ta yammacin turai da bazara"
-              }
-            },
-            "Falkland": {
-              "long": {
-                "generic": {},
-                "standard": {},
-                "daylight": {}
               }
             },
             "Fiji": {
@@ -1662,19 +1585,9 @@
                 "daylight": "Fiji Summer Time"
               }
             },
-            "French_Guiana": {
-              "long": {
-                "standard": {}
-              }
-            },
             "French_Southern": {
               "long": {
                 "standard": "French Southern & Antarctic Time"
-              }
-            },
-            "Galapagos": {
-              "long": {
-                "standard": {}
               }
             },
             "Gambier": {
@@ -1716,11 +1629,6 @@
             "Gulf": {
               "long": {
                 "standard": "Gulf Standard Time [translation hint: translate as just \\\"Gulf Time\\\"]"
-              }
-            },
-            "Guyana": {
-              "long": {
-                "standard": {}
               }
             },
             "Hawaii_Aleutian": {
@@ -1959,13 +1867,6 @@
                 "standard": "Norfolk Island Time"
               }
             },
-            "Noronha": {
-              "long": {
-                "generic": {},
-                "standard": {},
-                "daylight": {}
-              }
-            },
             "Novosibirsk": {
               "long": {
                 "generic": "Novosibirsk Time",
@@ -1995,20 +1896,6 @@
             "Papua_New_Guinea": {
               "long": {
                 "standard": "Papua New Guinea Time"
-              }
-            },
-            "Paraguay": {
-              "long": {
-                "generic": {},
-                "standard": {},
-                "daylight": {}
-              }
-            },
-            "Peru": {
-              "long": {
-                "generic": {},
-                "standard": {},
-                "daylight": {}
               }
             },
             "Philippines": {
@@ -2084,16 +1971,6 @@
                 "standard": "Solomon Islands Time"
               }
             },
-            "South_Georgia": {
-              "long": {
-                "standard": {}
-              }
-            },
-            "Suriname": {
-              "long": {
-                "standard": {}
-              }
-            },
             "Syowa": {
               "long": {
                 "standard": "Syowa Time"
@@ -2145,13 +2022,6 @@
                 "standard": "Tuvalu Time"
               }
             },
-            "Uruguay": {
-              "long": {
-                "generic": {},
-                "standard": {},
-                "daylight": {}
-              }
-            },
             "Uzbekistan": {
               "long": {
                 "generic": "Uzbekistan Time",
@@ -2164,11 +2034,6 @@
                 "generic": "Vanuatu Time",
                 "standard": "Vanuatu Standard Time",
                 "daylight": "Vanuatu Summer Time"
-              }
-            },
-            "Venezuela": {
-              "long": {
-                "standard": {}
               }
             },
             "Vladivostok": {

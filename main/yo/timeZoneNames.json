@@ -1580,13 +1580,6 @@
                 "daylight": "Cook Islands Half Summer Time"
               }
             },
-            "Cuba": {
-              "long": {
-                "generic": {},
-                "standard": {},
-                "daylight": {}
-              }
-            },
             "Davis": {
               "long": {
                 "standard": "Davis Time"
@@ -1595,11 +1588,6 @@
             "DumontDUrville": {
               "long": {
                 "standard": "Dumont-d’Urville Time"
-              }
-            },
-            "East_Timor": {
-              "long": {
-                "standard": {}
               }
             },
             "Easter": {
@@ -1691,20 +1679,6 @@
                 "standard": "Greenwich Mean Time"
               }
             },
-            "Greenland_Eastern": {
-              "long": {
-                "generic": {},
-                "standard": {},
-                "daylight": {}
-              }
-            },
-            "Greenland_Western": {
-              "long": {
-                "generic": {},
-                "standard": {},
-                "daylight": {}
-              }
-            },
             "Gulf": {
               "long": {
                 "standard": "Gulf Standard Time [translation hint: translate as just \\\"Gulf Time\\\"]"
@@ -1713,13 +1687,6 @@
             "Guyana": {
               "long": {
                 "standard": "Guyana Time"
-              }
-            },
-            "Hawaii_Aleutian": {
-              "long": {
-                "generic": {},
-                "standard": {},
-                "daylight": {}
               }
             },
             "Hong_Kong": {
@@ -1746,24 +1713,9 @@
                 "standard": "Indian Ocean Time"
               }
             },
-            "Indochina": {
-              "long": {
-                "standard": {}
-              }
-            },
-            "Indonesia_Central": {
-              "long": {
-                "standard": {}
-              }
-            },
             "Indonesia_Eastern": {
               "long": {
                 "standard": "Eastern Indonesia Time"
-              }
-            },
-            "Indonesia_Western": {
-              "long": {
-                "standard": {}
               }
             },
             "Iran": {
@@ -1884,20 +1836,6 @@
                 "standard": "Mawson Time"
               }
             },
-            "Mexico_Northwest": {
-              "long": {
-                "generic": {},
-                "standard": {},
-                "daylight": {}
-              }
-            },
-            "Mexico_Pacific": {
-              "long": {
-                "generic": {},
-                "standard": {},
-                "daylight": {}
-              }
-            },
             "Mongolia": {
               "long": {
                 "generic": "Ulaanbaatar Time",
@@ -1939,13 +1877,6 @@
                 "generic": "New Zealand Time",
                 "standard": "New Zealand Standard Time",
                 "daylight": "New Zealand Daylight Time"
-              }
-            },
-            "Newfoundland": {
-              "long": {
-                "generic": {},
-                "standard": {},
-                "daylight": {}
               }
             },
             "Niue": {
@@ -2020,13 +1951,6 @@
             "Phoenix_Islands": {
               "long": {
                 "standard": "Phoenix Islands Time"
-              }
-            },
-            "Pierre_Miquelon": {
-              "long": {
-                "generic": {},
-                "standard": {},
-                "daylight": {}
               }
             },
             "Pitcairn": {

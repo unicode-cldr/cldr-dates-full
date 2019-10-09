@@ -24,11 +24,9 @@
             "relative-type-0": "bana",
             "relative-type-1": "badi",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} y",
               "relativeTimePattern-count-other": "+{0} y"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} y",
               "relativeTimePattern-count-other": "-{0} y"
             }
           },
@@ -38,11 +36,9 @@
             "relative-type-0": "bana",
             "relative-type-1": "badi",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} y",
               "relativeTimePattern-count-other": "+{0} y"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} y",
               "relativeTimePattern-count-other": "-{0} y"
             }
           },
@@ -52,11 +48,9 @@
             "relative-type-0": "bana",
             "relative-type-1": "badi",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} y",
               "relativeTimePattern-count-other": "+{0} y"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} y",
               "relativeTimePattern-count-other": "-{0} y"
             }
           },
@@ -66,11 +60,9 @@
             "relative-type-0": "wannan kwatan",
             "relative-type-1": "kwata na gaba",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} Q",
               "relativeTimePattern-count-other": "+{0} Q"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} Q",
               "relativeTimePattern-count-other": "-{0} Q"
             }
           },
@@ -80,11 +72,9 @@
             "relative-type-0": "wannan kwatan",
             "relative-type-1": "kwata na gaba",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} Q",
               "relativeTimePattern-count-other": "+{0} Q"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} Q",
               "relativeTimePattern-count-other": "-{0} Q"
             }
           },
@@ -94,11 +84,9 @@
             "relative-type-0": "wannan kwatan",
             "relative-type-1": "kwata na gaba",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} Q",
               "relativeTimePattern-count-other": "+{0} Q"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} Q",
               "relativeTimePattern-count-other": "-{0} Q"
             }
           },
@@ -108,11 +96,9 @@
             "relative-type-0": "wannan watan",
             "relative-type-1": "wata na gaba",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} m",
               "relativeTimePattern-count-other": "+{0} m"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} m",
               "relativeTimePattern-count-other": "-{0} m"
             }
           },
@@ -122,11 +108,9 @@
             "relative-type-0": "wannan watan",
             "relative-type-1": "wata na gaba",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} m",
               "relativeTimePattern-count-other": "+{0} m"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} m",
               "relativeTimePattern-count-other": "-{0} m"
             }
           },
@@ -136,11 +120,9 @@
             "relative-type-0": "wannan watan",
             "relative-type-1": "wata na gaba",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} m",
               "relativeTimePattern-count-other": "+{0} m"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} m",
               "relativeTimePattern-count-other": "-{0} m"
             }
           },
@@ -150,11 +132,9 @@
             "relative-type-0": "wannan satin",
             "relative-type-1": "sati na gaba",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} w",
               "relativeTimePattern-count-other": "+{0} w"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} w",
               "relativeTimePattern-count-other": "-{0} w"
             },
             "relativePeriod": "the week of {0}"
@@ -165,11 +145,9 @@
             "relative-type-0": "wannan satin",
             "relative-type-1": "sati na gaba",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} w",
               "relativeTimePattern-count-other": "+{0} w"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} w",
               "relativeTimePattern-count-other": "-{0} w"
             },
             "relativePeriod": "the week of {0}"
@@ -180,11 +158,9 @@
             "relative-type-0": "wannan satin",
             "relative-type-1": "sati na gaba",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} w",
               "relativeTimePattern-count-other": "+{0} w"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} w",
               "relativeTimePattern-count-other": "-{0} w"
             },
             "relativePeriod": "sati na {0}"
@@ -204,11 +180,9 @@
             "relative-type-0": "yau",
             "relative-type-1": "gobe",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} d",
               "relativeTimePattern-count-other": "+{0} d"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} d",
               "relativeTimePattern-count-other": "-{0} d"
             }
           },
@@ -218,11 +192,9 @@
             "relative-type-0": "yau",
             "relative-type-1": "gobe",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} d",
               "relativeTimePattern-count-other": "+{0} d"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} d",
               "relativeTimePattern-count-other": "-{0} d"
             }
           },
@@ -232,11 +204,9 @@
             "relative-type-0": "yau",
             "relative-type-1": "gobe",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} d",
               "relativeTimePattern-count-other": "+{0} d"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} d",
               "relativeTimePattern-count-other": "-{0} d"
             }
           },
