@@ -3,7 +3,7 @@
     "hsb": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "hsb"
       },
@@ -1974,7 +1974,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "čas kupy Norfolk"
+                "generic": "čas kupy Norfolk",
+                "standard": "standardny čas kupy Norfolk",
+                "daylight": "lětni čas kupy Norfolk"
               }
             },
             "Noronha": {

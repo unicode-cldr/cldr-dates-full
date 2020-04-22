@@ -3,7 +3,7 @@
     "yo": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "yo"
       },
@@ -270,7 +270,7 @@
             "relative-type-0": "Ọjọ́ Àìkú yìí",
             "relative-type-1": "Ọjọ́ Àìkú tó ń bọ̀",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Sundays"
+              "relativeTimePattern-count-other": "Ọjọ́ Àíkú +{0}"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-other": "-{0} Sundays"

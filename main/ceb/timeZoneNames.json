@@ -3,7 +3,7 @@
     "ceb": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ceb"
       },
@@ -12,9 +12,9 @@
           "hourFormat": "+HH:mm;-HH:mm",
           "gmtFormat": "GMT {0}",
           "gmtZeroFormat": "GMT",
-          "regionFormat": "Oras {0}",
-          "regionFormat-type-daylight": "Tag-init Oras {0}",
-          "regionFormat-type-standard": "Sukdanang Oras {0}",
+          "regionFormat": "{0} Oras",
+          "regionFormat-type-daylight": "{0} Oras sa Tag-init",
+          "regionFormat-type-standard": "{0} Tamdanang Oras",
           "fallbackFormat": "{1} {0}",
           "zone": {
             "America": {
@@ -1329,14 +1329,14 @@
             "Etc": {
               "UTC": {
                 "long": {
-                  "standard": "Koordinado nga Unibersohanong Oras"
+                  "standard": "Gikoordinar nga Kinatibuk-ang Oras"
                 },
                 "short": {
                   "standard": "UTC"
                 }
               },
               "Unknown": {
-                "exemplarCity": "Wala Mailhing Siyudad"
+                "exemplarCity": "Wala Mailhing Lungsod"
               }
             }
           },
@@ -1372,7 +1372,7 @@
               "long": {
                 "generic": "Oras sa Alaska",
                 "standard": "Tamdanang Oras sa Alaska",
-                "daylight": "Oras sa Adlawan sa Alaska"
+                "daylight": "Oras sa Tag-init sa Alaska"
               }
             },
             "Amazon": {
@@ -1384,37 +1384,37 @@
             },
             "America_Central": {
               "long": {
-                "generic": "Taliwala nga Oras Norte Amerika",
-                "standard": "Taliwala nga Sukdanang Oras Norte Amerika",
-                "daylight": "Taliwala sa Kahayag sa Adlawng Oras Norte Amerika"
+                "generic": "Sentrong Oras",
+                "standard": "Sentong Tamdanan nga Oras",
+                "daylight": "Sentrong Oras sa Tag-init"
               }
             },
             "America_Eastern": {
               "long": {
-                "generic": "Norte Amerika Oras sa Sidlakan",
-                "standard": "Norte Amerika Sukdanang Oras",
-                "daylight": "Norte Amerika Oras sa Sidlakan sa Kahayag sa Adlaw"
+                "generic": "Oras sa Sidlakan",
+                "standard": "Tamdanan nga Oras sa Sidlakan",
+                "daylight": "Oras sa Tag-init sa Sidlakan"
               }
             },
             "America_Mountain": {
               "long": {
-                "generic": "Norte Amerika Oras sa Kabukiran",
-                "standard": "Norte Amerika Sukdanang Oras sa Kabukiran",
-                "daylight": "Norte Amerika Oras sa Kahayag sa Adlaw sa Kabukiran"
+                "generic": "Oras sa Kabukiran",
+                "standard": "Tamdanang Oras sa Kabukiran",
+                "daylight": "Oras sa Tag-init sa Kabukiran"
               }
             },
             "America_Pacific": {
               "long": {
-                "generic": "Norte Amerika Oras sa Pasipiko",
-                "standard": "Norte Amerika Sukdanang Oras sa Pasipiko",
-                "daylight": "Norte Amerika Oras sa Kahayag sa Adlaw sa Pasipiko"
+                "generic": "Oras sa Pasipiko",
+                "standard": "Tamdanang Oras sa Pasipiko",
+                "daylight": "Oras sa Tag-init sa Pasipiko"
               }
             },
             "Apia": {
               "long": {
                 "generic": "Oras sa Apia",
                 "standard": "Tamdanang Oras sa Apia",
-                "daylight": "Oras sa Adlawan sa Apia"
+                "daylight": "Oras sa Tag-init sa Apia"
               }
             },
             "Arabian": {
@@ -1447,37 +1447,37 @@
             },
             "Atlantic": {
               "long": {
-                "generic": "Norte Amerika Oras sa Atlantiko",
-                "standard": "Norte Amerika Sukdanang Oras sa Atlantiko",
-                "daylight": "Norte Amerika Oras sa Kahayag sa Adlaw sa Atlantiko"
+                "generic": "Oras sa Atlantiko",
+                "standard": "Tamdanang Oras sa Atlantiko",
+                "daylight": "Oras sa Tag-init sa Atlantiko"
               }
             },
             "Australia_Central": {
               "long": {
                 "generic": "Oras sa Central Australia",
                 "standard": "Tamdanang Oras sa Central Australia",
-                "daylight": "Oras sa Adlawan sa Central Australia"
+                "daylight": "Oras sa Tag-init sa Central Australia"
               }
             },
             "Australia_CentralWestern": {
               "long": {
                 "generic": "Oras sa Central Western Australia",
                 "standard": "Tamdanang Oras sa Central Western Australia",
-                "daylight": "Oras sa Adlawan sa Central Western Australia"
+                "daylight": "Oras sa Tag-init sa Central Western Australia"
               }
             },
             "Australia_Eastern": {
               "long": {
                 "generic": "Oras sa Eastern Australia",
                 "standard": "Tamdanang Oras sa Eastern Australia",
-                "daylight": "Oras sa Adlawan sa Eastern Australia"
+                "daylight": "Oras sa Tag-init sa Eastern Australia"
               }
             },
             "Australia_Western": {
               "long": {
                 "generic": "Oras sa Western Australia",
                 "standard": "Tamdanang Oras sa Western Australia",
-                "daylight": "Oras sa Adlawan sa Western Australia"
+                "daylight": "Oras sa Tag-init sa Western Australia"
               }
             },
             "Azerbaijan": {
@@ -1539,7 +1539,7 @@
               "long": {
                 "generic": "Oras sa Chatham",
                 "standard": "Tamdanang Oras sa Chatham",
-                "daylight": "Oras sa Adlawan sa Chatham"
+                "daylight": "Oras sa Tag-init sa Chatham"
               }
             },
             "Chile": {
@@ -1591,7 +1591,7 @@
               "long": {
                 "generic": "Oras sa Cuba",
                 "standard": "Tamdanang Oras sa Cuba",
-                "daylight": "Oras sa Adlawan sa Cuba"
+                "daylight": "Oras sa Tag-init sa Cuba"
               }
             },
             "Davis": {
@@ -1623,16 +1623,16 @@
             },
             "Europe_Central": {
               "long": {
-                "generic": "Oras sa Europa sa Taliwala sa Adlaw",
-                "standard": "Sukdanang Oras sa Europa sa Taliwala sa Adlaw",
-                "daylight": "Oras sa Europa Taliwala sa Adlaw sa Tag-init"
+                "generic": "Oras sa Central Europe",
+                "standard": "Tamdanang Oras sa Central Europe",
+                "daylight": "Oras sa Tag-init sa Central Europe"
               }
             },
             "Europe_Eastern": {
               "long": {
-                "generic": "Oras sa Taga-Oryente sa Europa",
-                "standard": "Sukdanang Oras sa Taga-Oryente sa Europa",
-                "daylight": "Oras sa Taga-Oryente sa Europa sa Tag-int"
+                "generic": "Oras sa Eastern Europe",
+                "standard": "Tamdanang Oras sa Eastern Europe",
+                "daylight": "Oras sa Tag-init sa Eastern Europe"
               }
             },
             "Europe_Further_Eastern": {
@@ -1642,9 +1642,9 @@
             },
             "Europe_Western": {
               "long": {
-                "generic": "Oras sa Kasadpanon sa Europa",
-                "standard": "Sukadanang Oras sa Kasadpanon sa Europa",
-                "daylight": "Oras sa Kasadpanon sa Europa sa Tag-init"
+                "generic": "Oras sa Western Europe",
+                "standard": "Tamdanang Oras sa Western Europe",
+                "daylight": "Oras sa Tag-init sa Western Europe"
               }
             },
             "Falkland": {
@@ -1695,7 +1695,7 @@
             },
             "GMT": {
               "long": {
-                "standard": "Kasarangang Oras sa Greenwich"
+                "standard": "Oras sa Greenwich Mean"
               }
             },
             "Greenland_Eastern": {
@@ -1726,7 +1726,7 @@
               "long": {
                 "generic": "Oras sa Hawaii-Aleutian",
                 "standard": "Tamdanang Oras sa Hawaii-Aleutian",
-                "daylight": "Oras sa Adlawan sa Hawaii-Aleutian"
+                "daylight": "Oras sa Tag-init sa Hawaii-Aleutian"
               }
             },
             "Hong_Kong": {
@@ -1844,7 +1844,7 @@
               "long": {
                 "generic": "Oras sa Lord Howe",
                 "standard": "Tamdanang Oras sa Lord Howe",
-                "daylight": "Oras sa Adlawan sa Lord Howe"
+                "daylight": "Oras sa Tag-init sa Lord Howe"
               }
             },
             "Macquarie": {
@@ -1895,14 +1895,14 @@
               "long": {
                 "generic": "Oras sa Northwest Mexico",
                 "standard": "Tamdanang Oras sa Northwest Mexico",
-                "daylight": "Oras sa Adlawan sa Northwest Mexico"
+                "daylight": "Oras sa Tag-init sa Northwest Mexico"
               }
             },
             "Mexico_Pacific": {
               "long": {
                 "generic": "Oras sa Mexican Pacific",
                 "standard": "Tamdanang Oras sa Mexican Pacific",
-                "daylight": "Oras sa Adlawan sa Mexican Pacific"
+                "daylight": "Oras sa Tag-init sa Mexican Pacific"
               }
             },
             "Mongolia": {
@@ -1945,14 +1945,14 @@
               "long": {
                 "generic": "Oras sa New Zealand",
                 "standard": "Tamdanang Oras sa New Zealand",
-                "daylight": "Oras sa Adlawan sa New Zealand"
+                "daylight": "Oras sa Tag-init sa New Zealand"
               }
             },
             "Newfoundland": {
               "long": {
                 "generic": "Oras sa Newfoundland",
                 "standard": "Tamdanang Oras sa Newfoundland",
-                "daylight": "Oras sa Adlawan sa Newfoundland"
+                "daylight": "Oras sa Tag-init sa Newfoundland"
               }
             },
             "Niue": {
@@ -1962,7 +1962,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "Oras sa Norfolk Island"
+                "generic": "Oras sa Norfolk Island",
+                "standard": "Tamdanang Oras sa Norfolk Island",
+                "daylight": "Oras sa Tag-init sa Norfolk Island"
               }
             },
             "Noronha": {
@@ -2033,7 +2035,7 @@
               "long": {
                 "generic": "Oras sa St. Pierre & Miquelon",
                 "standard": "Tamdanang Oras sa St. Pierre & Miquelon",
-                "daylight": "Oras sa Adlawan sa St. Pierre & Miquelon"
+                "daylight": "Oras sa Tag-init sa St.Pierre & Miquelon"
               }
             },
             "Pitcairn": {
@@ -2072,7 +2074,7 @@
               "long": {
                 "generic": "Oras sa Samoa",
                 "standard": "Tamdanang Oras sa Samoa",
-                "daylight": "Oras sa Adlawan sa Samoa"
+                "daylight": "Oras sa Tag-init sa Samoa"
               }
             },
             "Seychelles": {

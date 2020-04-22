@@ -3,7 +3,7 @@
     "to": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "to"
       },
@@ -259,15 +259,15 @@
               },
               "eraAbbr": {
                 "0": "KM",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "KM",
                 "1": "TS",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "TS"
               },
               "eraNarrow": {
                 "0": "KM",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "KM",
                 "1": "TS",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "TS"
               }
             },
             "dateFormats": {

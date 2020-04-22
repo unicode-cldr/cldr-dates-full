@@ -3,7 +3,7 @@
     "to": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "to"
       },
@@ -2032,7 +2032,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "houa fakanoafōki"
+                "generic": "houa fakanoafōki",
+                "standard": "houa fakanoafōki taimi totonu",
+                "daylight": "houa fakanoafōki taimi liliu"
               }
             },
             "Noronha": {

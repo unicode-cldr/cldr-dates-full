@@ -3,7 +3,7 @@
     "sg": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "sg"
       },
@@ -253,21 +253,21 @@
             "eras": {
               "eraNames": {
                 "0": "Kôzo na Krîstu",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "KnK",
                 "1": "Na pekô tî Krîstu",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "NpK"
               },
               "eraAbbr": {
                 "0": "KnK",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "KnK",
                 "1": "NpK",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "NpK"
               },
               "eraNarrow": {
                 "0": "KnK",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "KnK",
                 "1": "NpK",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "NpK"
               }
             },
             "dateFormats": {

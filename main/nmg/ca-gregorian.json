@@ -3,7 +3,7 @@
     "nmg": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "nmg"
       },
@@ -253,21 +253,21 @@
             "eras": {
               "eraNames": {
                 "0": "Bó Lahlɛ̄",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "BL",
                 "1": "Pfiɛ Burī",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "PB"
               },
               "eraAbbr": {
                 "0": "BL",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "BL",
                 "1": "PB",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "PB"
               },
               "eraNarrow": {
                 "0": "BL",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "BL",
                 "1": "PB",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "PB"
               }
             },
             "dateFormats": {

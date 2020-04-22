@@ -3,7 +3,7 @@
     "fur": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "fur"
       },
@@ -616,13 +616,13 @@
             }
           },
           "zone": {
-            "displayName": "zone"
+            "displayName": "Zone"
           },
           "zone-short": {
-            "displayName": "zone"
+            "displayName": "Zone"
           },
           "zone-narrow": {
-            "displayName": "zone"
+            "displayName": "Zone"
           }
         }
       }

@@ -3,7 +3,7 @@
     "agq": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "agq"
       },
@@ -253,21 +253,21 @@
             "eras": {
               "eraNames": {
                 "0": "Sěe Kɨ̀lesto",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "SK",
                 "1": "Bǎa Kɨ̀lesto",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "BK"
               },
               "eraAbbr": {
                 "0": "SK",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "SK",
                 "1": "BK",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "BK"
               },
               "eraNarrow": {
                 "0": "SK",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "SK",
                 "1": "BK",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "BK"
               }
             },
             "dateFormats": {

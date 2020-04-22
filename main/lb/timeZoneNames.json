@@ -3,7 +3,7 @@
     "lb": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "lb"
       },
@@ -1980,7 +1980,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "Norfolkinselen-Zäit"
+                "generic": "Norfolkinselen-Zäit",
+                "standard": "Norfolkinselen-Normalzäit",
+                "daylight": "Norfolkinselen-Summerzäit"
               }
             },
             "Noronha": {

@@ -3,7 +3,7 @@
     "brx": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "brx"
       },
@@ -253,21 +253,21 @@
             "eras": {
               "eraNames": {
                 "0": "ईसा.पूर्व",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "ईसा.पूर्व",
                 "1": "सन",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "सन"
               },
               "eraAbbr": {
                 "0": "ईसा.पूर्व",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "ईसा.पूर्व",
                 "1": "सन",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "सन"
               },
               "eraNarrow": {
                 "0": "ईसा.पूर्व",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "ईसा.पूर्व",
                 "1": "सन",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "सन"
               }
             },
             "dateFormats": {

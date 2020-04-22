@@ -3,7 +3,7 @@
     "nus": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "nus"
       },
@@ -253,21 +253,21 @@
             "eras": {
               "eraNames": {
                 "0": "A ka̱n Yecu ni dap",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "AY",
                 "1": "Ɛ ca Yecu dap",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "ƐY"
               },
               "eraAbbr": {
                 "0": "AY",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "AY",
                 "1": "ƐY",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "ƐY"
               },
               "eraNarrow": {
                 "0": "AY",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "AY",
                 "1": "ƐY",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "ƐY"
               }
             },
             "dateFormats": {

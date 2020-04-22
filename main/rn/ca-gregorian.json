@@ -3,7 +3,7 @@
     "rn": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "rn"
       },
@@ -253,21 +253,21 @@
             "eras": {
               "eraNames": {
                 "0": "Mbere ya Yezu",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "Mb.Y.",
                 "1": "Nyuma ya Yezu",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "Ny.Y"
               },
               "eraAbbr": {
                 "0": "Mb.Y.",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "Mb.Y.",
                 "1": "Ny.Y",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "Ny.Y"
               },
               "eraNarrow": {
                 "0": "Mb.Y.",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "Mb.Y.",
                 "1": "Ny.Y",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "Ny.Y"
               }
             },
             "dateFormats": {

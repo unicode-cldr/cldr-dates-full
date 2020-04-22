@@ -3,7 +3,7 @@
     "kln": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "kln"
       },
@@ -253,21 +253,21 @@
             "eras": {
               "eraNames": {
                 "0": "Amait kesich Jesu",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "AM",
                 "1": "Kokakesich Jesu",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "KO"
               },
               "eraAbbr": {
                 "0": "AM",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "AM",
                 "1": "KO",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "KO"
               },
               "eraNarrow": {
                 "0": "AM",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "AM",
                 "1": "KO",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "KO"
               }
             },
             "dateFormats": {

@@ -3,7 +3,7 @@
     "ff-Latn-LR": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ff",
         "script": "Latn",
@@ -255,21 +255,21 @@
             "eras": {
               "eraNames": {
                 "0": "Hade Iisa",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "H-I",
                 "1": "Caggal Iisa",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "C-I"
               },
               "eraAbbr": {
                 "0": "H-I",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "H-I",
                 "1": "C-I",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "C-I"
               },
               "eraNarrow": {
                 "0": "H-I",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "H-I",
                 "1": "C-I",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "C-I"
               }
             },
             "dateFormats": {

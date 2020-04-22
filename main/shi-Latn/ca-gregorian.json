@@ -3,7 +3,7 @@
     "shi-Latn": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "shi",
         "script": "Latn"
@@ -254,21 +254,21 @@
             "eras": {
               "eraNames": {
                 "0": "dat n ɛisa",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "daɛ",
                 "1": "dffir n ɛisa",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "dfɛ"
               },
               "eraAbbr": {
                 "0": "daɛ",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "daɛ",
                 "1": "dfɛ",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "dfɛ"
               },
               "eraNarrow": {
                 "0": "daɛ",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "daɛ",
                 "1": "dfɛ",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "dfɛ"
               }
             },
             "dateFormats": {

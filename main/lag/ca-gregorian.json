@@ -3,7 +3,7 @@
     "lag": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "lag"
       },
@@ -253,21 +253,21 @@
             "eras": {
               "eraNames": {
                 "0": "Kɨrɨsitʉ sɨ anavyaal",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "KSA",
                 "1": "Kɨrɨsitʉ akavyaalwe",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "KA"
               },
               "eraAbbr": {
                 "0": "KSA",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "KSA",
                 "1": "KA",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "KA"
               },
               "eraNarrow": {
                 "0": "KSA",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "KSA",
                 "1": "KA",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "KA"
               }
             },
             "dateFormats": {

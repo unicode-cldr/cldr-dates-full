@@ -3,7 +3,7 @@
     "ast": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ast"
       },
@@ -2075,7 +2075,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "Hora de la Islla Norfolk"
+                "generic": "Hora de la Islla Norfolk",
+                "standard": "Hora estándar de la Islla Norfolk",
+                "daylight": "Hora braniega de la Islla Norfolk"
               }
             },
             "Noronha": {

@@ -3,7 +3,7 @@
     "ewo": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ewo"
       },
@@ -253,21 +253,21 @@
             "eras": {
               "eraNames": {
                 "0": "osúsúa Yésus kiri",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "oyk",
                 "1": "ámvus Yésus Kirís",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "ayk"
               },
               "eraAbbr": {
                 "0": "oyk",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "oyk",
                 "1": "ayk",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "ayk"
               },
               "eraNarrow": {
                 "0": "oyk",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "oyk",
                 "1": "ayk",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "ayk"
               }
             },
             "dateFormats": {

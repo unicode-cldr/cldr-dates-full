@@ -3,7 +3,7 @@
     "uz-Cyrl": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "uz",
         "script": "Cyrl"
@@ -1934,7 +1934,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "Норфолк ороли вақти"
+                "generic": "Норфолк ороли вақти",
+                "standard": "Норфолк ороли стандарт вақти",
+                "daylight": "Норфолк ороли ёзги вақти"
               }
             },
             "Noronha": {

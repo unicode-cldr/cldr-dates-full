@@ -3,7 +3,7 @@
     "yo-BJ": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "yo",
         "territory": "BJ"
@@ -271,7 +271,7 @@
             "relative-type-0": "Ɔjɔ́ Àìkú yìí",
             "relative-type-1": "Ɔjɔ́ Àìkú tó ń bɔ̀",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Sundays"
+              "relativeTimePattern-count-other": "Ɔjɔ́ Àíkú +{0}"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-other": "-{0} Sundays"

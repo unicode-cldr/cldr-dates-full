@@ -3,7 +3,7 @@
     "eo": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "eo"
       },
@@ -253,21 +253,21 @@
             "eras": {
               "eraNames": {
                 "0": "aK",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "aK",
                 "1": "pK",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "pK"
               },
               "eraAbbr": {
                 "0": "aK",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "aK",
                 "1": "pK",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "pK"
               },
               "eraNarrow": {
                 "0": "aK",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "aK",
                 "1": "pK",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "pK"
               }
             },
             "dateFormats": {

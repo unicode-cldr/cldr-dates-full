@@ -3,7 +3,7 @@
     "qu": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "qu"
       },
@@ -1965,7 +1965,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "Hora de la Isla Norfolk"
+                "generic": "Hora de la Isla Norfolk",
+                "standard": "Hora Estandar de la Isla Norfolk",
+                "daylight": "Hora de Verano de la Isla Norfolk"
               }
             },
             "Noronha": {

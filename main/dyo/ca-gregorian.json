@@ -3,7 +3,7 @@
     "dyo": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "dyo"
       },
@@ -253,21 +253,21 @@
             "eras": {
               "eraNames": {
                 "0": "Ariŋuu Yeesu",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "ArY",
                 "1": "Atooŋe Yeesu",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "AtY"
               },
               "eraAbbr": {
                 "0": "ArY",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "ArY",
                 "1": "AtY",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "AtY"
               },
               "eraNarrow": {
                 "0": "ArY",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "ArY",
                 "1": "AtY",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "AtY"
               }
             },
             "dateFormats": {

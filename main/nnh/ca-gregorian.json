@@ -3,7 +3,7 @@
     "nnh": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "nnh"
       },
@@ -253,21 +253,21 @@
             "eras": {
               "eraNames": {
                 "0": "mé zyé Yěsô",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "m.z.Y.",
                 "1": "mé gÿo ńzyé Yěsô",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "m.g.n.Y."
               },
               "eraAbbr": {
                 "0": "m.z.Y.",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "m.z.Y.",
                 "1": "m.g.n.Y.",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "m.g.n.Y."
               },
               "eraNarrow": {
                 "0": "m.z.Y.",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "m.z.Y.",
                 "1": "m.g.n.Y.",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "m.g.n.Y."
               }
             },
             "dateFormats": {

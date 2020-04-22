@@ -3,7 +3,7 @@
     "gd": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "gd"
       },
@@ -2096,7 +2096,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "Àm Eilein Norfolk"
+                "generic": "Àm Eilein Norfolk",
+                "standard": "Bun-àm Eilein Norfolk",
+                "daylight": "Tìde samhraidh Eilein Norfolk"
               }
             },
             "Noronha": {

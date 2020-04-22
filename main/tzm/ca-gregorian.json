@@ -3,7 +3,7 @@
     "tzm": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "tzm"
       },
@@ -253,21 +253,21 @@
             "eras": {
               "eraNames": {
                 "0": "Zdat Ɛisa (TAƔ)",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "ZƐ",
                 "1": "Ḍeffir Ɛisa (TAƔ)",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "ḌƐ"
               },
               "eraAbbr": {
                 "0": "ZƐ",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "ZƐ",
                 "1": "ḌƐ",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "ḌƐ"
               },
               "eraNarrow": {
                 "0": "ZƐ",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "ZƐ",
                 "1": "ḌƐ",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "ḌƐ"
               }
             },
             "dateFormats": {

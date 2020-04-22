@@ -3,7 +3,7 @@
     "mfe": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "mfe"
       },
@@ -253,21 +253,21 @@
             "eras": {
               "eraNames": {
                 "0": "avan Zezi-Krist",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "av. Z-K",
                 "1": "apre Zezi-Krist",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "ap. Z-K"
               },
               "eraAbbr": {
                 "0": "av. Z-K",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "av. Z-K",
                 "1": "ap. Z-K",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "ap. Z-K"
               },
               "eraNarrow": {
                 "0": "av. Z-K",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "av. Z-K",
                 "1": "ap. Z-K",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "ap. Z-K"
               }
             },
             "dateFormats": {

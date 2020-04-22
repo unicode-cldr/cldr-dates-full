@@ -3,7 +3,7 @@
     "bem": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "bem"
       },
@@ -253,21 +253,21 @@
             "eras": {
               "eraNames": {
                 "0": "Before Yesu",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "BC",
                 "1": "After Yesu",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "AD"
               },
               "eraAbbr": {
                 "0": "BC",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "BC",
                 "1": "AD",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "AD"
               },
               "eraNarrow": {
                 "0": "BC",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "BC",
                 "1": "AD",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "AD"
               }
             },
             "dateFormats": {

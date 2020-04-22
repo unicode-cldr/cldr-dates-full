@@ -3,7 +3,7 @@
     "yo": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "yo"
       },
@@ -1549,6 +1549,13 @@
                 "daylight": "Chile Summer Time"
               }
             },
+            "China": {
+              "long": {
+                "generic": "Àkókò Ṣáínà",
+                "standard": "Àkókò Ìfẹnukòsí Ṣáínà",
+                "daylight": "Àkókò Ojúmọmọ Ṣáínà"
+              }
+            },
             "Choibalsan": {
               "long": {
                 "generic": "Choibalsan Time",
@@ -1580,6 +1587,13 @@
                 "daylight": "Cook Islands Half Summer Time"
               }
             },
+            "Cuba": {
+              "long": {
+                "generic": "Àkókò Kúbà",
+                "standard": "Àkókò Àfẹnukò Kúbà",
+                "daylight": "Àkókò Ojúmọmọ Kúbà"
+              }
+            },
             "Davis": {
               "long": {
                 "standard": "Davis Time"
@@ -1588,6 +1602,11 @@
             "DumontDUrville": {
               "long": {
                 "standard": "Dumont-d’Urville Time"
+              }
+            },
+            "East_Timor": {
+              "long": {
+                "standard": "Àkókò Ìlà oorùn Timor"
               }
             },
             "Easter": {
@@ -1679,6 +1698,20 @@
                 "standard": "Greenwich Mean Time"
               }
             },
+            "Greenland_Eastern": {
+              "long": {
+                "generic": "Àkókò Ìlà oorùn Greenland",
+                "standard": "Àkókò Ìwọ̀ Ìfẹnukò oorùn Greenland",
+                "daylight": "Àkókò ìgbà Ooru Greenland"
+              }
+            },
+            "Greenland_Western": {
+              "long": {
+                "generic": "Àkókò Ìwọ̀ oorùn Greenland",
+                "standard": "Àkókò Àfẹnukò Ìwọ̀ Oòrùn Greenland",
+                "daylight": "Àkókò Àfẹnukò Ìgba Oòru Greenland"
+              }
+            },
             "Gulf": {
               "long": {
                 "standard": "Gulf Standard Time [translation hint: translate as just \\\"Gulf Time\\\"]"
@@ -1687,6 +1720,13 @@
             "Guyana": {
               "long": {
                 "standard": "Guyana Time"
+              }
+            },
+            "Hawaii_Aleutian": {
+              "long": {
+                "generic": "Àkókò Hawaii-Aleutian",
+                "standard": "Àkókò Àfẹnukò Hawaii-Aleutian",
+                "daylight": "Àkókò Ojúmọmọ Hawaii-Aleutian"
               }
             },
             "Hong_Kong": {
@@ -1713,9 +1753,24 @@
                 "standard": "Indian Ocean Time"
               }
             },
+            "Indochina": {
+              "long": {
+                "standard": "Àkókò Indochina"
+              }
+            },
+            "Indonesia_Central": {
+              "long": {
+                "standard": "Àkókò Ààrin Gbùngbùn Indonesia"
+              }
+            },
             "Indonesia_Eastern": {
               "long": {
                 "standard": "Eastern Indonesia Time"
+              }
+            },
+            "Indonesia_Western": {
+              "long": {
+                "standard": "Àkókò Ìwọ̀ oorùn Indonesia"
               }
             },
             "Iran": {
@@ -1836,6 +1891,20 @@
                 "standard": "Mawson Time"
               }
             },
+            "Mexico_Northwest": {
+              "long": {
+                "generic": "Àkókò Apá Ìwọ̀ Oorùn Mẹ́ṣíkò",
+                "standard": "Àkókò Àfẹnukò Apá Ìwọ̀ Oorùn Mẹ́ṣíkò",
+                "daylight": "Àkókò Ojúmọmọ Apá Ìwọ̀ Oorùn Mẹ́ṣíkò"
+              }
+            },
+            "Mexico_Pacific": {
+              "long": {
+                "generic": "Àkókò Pásífíìkì Mẹ́ṣíkò",
+                "standard": "Àkókò Àfẹnukò Pásífíìkì Mẹ́síkò",
+                "daylight": "Àkókò Ojúmọmọ Pásífíìkì Mẹ́síkò"
+              }
+            },
             "Mongolia": {
               "long": {
                 "generic": "Ulaanbaatar Time",
@@ -1879,6 +1948,13 @@
                 "daylight": "New Zealand Daylight Time"
               }
             },
+            "Newfoundland": {
+              "long": {
+                "generic": "Àkókò Newfoundland",
+                "standard": "Àkókò Àfẹnukò Newfoundland",
+                "daylight": "Àkókò Ojúmọmọ Newfoundland"
+              }
+            },
             "Niue": {
               "long": {
                 "standard": "Niue Time"
@@ -1886,7 +1962,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "Norfolk Island Time"
+                "generic": "Norfolk Island Time",
+                "standard": "Norfolk Island Standard Time",
+                "daylight": "Norfolk Island Daylight Time"
               }
             },
             "Noronha": {
@@ -1951,6 +2029,13 @@
             "Phoenix_Islands": {
               "long": {
                 "standard": "Phoenix Islands Time"
+              }
+            },
+            "Pierre_Miquelon": {
+              "long": {
+                "generic": "Àkókò Pierre & Miquelon",
+                "standard": "Àkókò Àfẹnukò Pierre & Miquelon",
+                "daylight": "Àkókò Ojúmọmọ Pierre & Miquelon"
               }
             },
             "Pitcairn": {

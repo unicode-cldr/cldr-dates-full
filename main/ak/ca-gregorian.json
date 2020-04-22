@@ -3,7 +3,7 @@
     "ak": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ak"
       },
@@ -253,21 +253,21 @@
             "eras": {
               "eraNames": {
                 "0": "Ansa Kristo",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "AK",
                 "1": "Kristo Ekyiri",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "KE"
               },
               "eraAbbr": {
                 "0": "AK",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "AK",
                 "1": "KE",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "KE"
               },
               "eraNarrow": {
                 "0": "AK",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "AK",
                 "1": "KE",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "KE"
               }
             },
             "dateFormats": {

@@ -3,7 +3,7 @@
     "dua": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "dua"
       },
@@ -253,21 +253,21 @@
             "eras": {
               "eraNames": {
                 "0": "ɓoso ɓwá yáɓe lá",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "ɓ.Ys",
                 "1": "mbúsa kwédi a Yés",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "mb.Ys"
               },
               "eraAbbr": {
                 "0": "ɓ.Ys",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "ɓ.Ys",
                 "1": "mb.Ys",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "mb.Ys"
               },
               "eraNarrow": {
                 "0": "ɓ.Ys",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "ɓ.Ys",
                 "1": "mb.Ys",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "mb.Ys"
               }
             },
             "dateFormats": {

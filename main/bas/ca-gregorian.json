@@ -3,7 +3,7 @@
     "bas": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "bas"
       },
@@ -253,21 +253,21 @@
             "eras": {
               "eraNames": {
                 "0": "bisū bi Yesù Krǐstò",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "b.Y.K",
                 "1": "i mbūs Yesù Krǐstò",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "m.Y.K"
               },
               "eraAbbr": {
                 "0": "b.Y.K",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "b.Y.K",
                 "1": "m.Y.K",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "m.Y.K"
               },
               "eraNarrow": {
                 "0": "b.Y.K",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "b.Y.K",
                 "1": "m.Y.K",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "m.Y.K"
               }
             },
             "dateFormats": {

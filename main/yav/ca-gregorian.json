@@ -3,7 +3,7 @@
     "yav": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "yav"
       },
@@ -253,21 +253,21 @@
             "eras": {
               "eraNames": {
                 "0": "katikupíen Yésuse",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "k.Y.",
                 "1": "ékélémkúnupíén n",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "+J.C."
               },
               "eraAbbr": {
                 "0": "k.Y.",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "k.Y.",
                 "1": "+J.C.",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "+J.C."
               },
               "eraNarrow": {
                 "0": "k.Y.",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "k.Y.",
                 "1": "+J.C.",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "+J.C."
               }
             },
             "dateFormats": {

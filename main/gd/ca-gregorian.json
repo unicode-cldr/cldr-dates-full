@@ -3,7 +3,7 @@
     "gd": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "gd"
       },
@@ -253,21 +253,21 @@
             "eras": {
               "eraNames": {
                 "0": "Ro Chrìosta",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "RC",
                 "1": "An dèidh Chrìosta",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "AD"
               },
               "eraAbbr": {
                 "0": "RC",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "RC",
                 "1": "AD",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "AD"
               },
               "eraNarrow": {
                 "0": "R",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "RC",
                 "1": "A",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "AD"
               }
             },
             "dateFormats": {

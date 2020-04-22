@@ -3,7 +3,7 @@
     "sbp": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "sbp"
       },
@@ -253,21 +253,21 @@
             "eras": {
               "eraNames": {
                 "0": "Ashanali uKilisito",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "AK",
                 "1": "Pamwandi ya Kilisto",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "PK"
               },
               "eraAbbr": {
                 "0": "AK",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "AK",
                 "1": "PK",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "PK"
               },
               "eraNarrow": {
                 "0": "AK",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "AK",
                 "1": "PK",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "PK"
               }
             },
             "dateFormats": {

@@ -3,7 +3,7 @@
     "ug": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ug"
       },
@@ -2011,7 +2011,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "نورفولك ئاراللىرى ۋاقتى"
+                "generic": "نورفولك ئاراللىرى ۋاقتى",
+                "standard": "نورفولك ئاراللىرى ئۆلچەملىك ۋاقتى",
+                "daylight": "نورفولك ئاراللىرى يازلىق ۋاقتى"
               }
             },
             "Noronha": {

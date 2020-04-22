@@ -3,7 +3,7 @@
     "rof": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "rof"
       },
@@ -253,21 +253,21 @@
             "eras": {
               "eraNames": {
                 "0": "Kabla ya Mayesu",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "KM",
                 "1": "Baada ya Mayesu",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "BM"
               },
               "eraAbbr": {
                 "0": "KM",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "KM",
                 "1": "BM",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "BM"
               },
               "eraNarrow": {
                 "0": "KM",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "KM",
                 "1": "BM",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "BM"
               }
             },
             "dateFormats": {

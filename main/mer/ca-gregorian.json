@@ -3,7 +3,7 @@
     "mer": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "mer"
       },
@@ -253,21 +253,21 @@
             "eras": {
               "eraNames": {
                 "0": "Mbere ya Kristũ",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "MK",
                 "1": "Nyuma ya Kristũ",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "NK"
               },
               "eraAbbr": {
                 "0": "MK",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "MK",
                 "1": "NK",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "NK"
               },
               "eraNarrow": {
                 "0": "MK",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "MK",
                 "1": "NK",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "NK"
               }
             },
             "dateFormats": {

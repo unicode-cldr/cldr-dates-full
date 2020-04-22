@@ -3,7 +3,7 @@
     "vun": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "vun"
       },
@@ -253,21 +253,21 @@
             "eras": {
               "eraNames": {
                 "0": "Kabla ya Kristu",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "KK",
                 "1": "Baada ya Kristu",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "BK"
               },
               "eraAbbr": {
                 "0": "KK",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "KK",
                 "1": "BK",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "BK"
               },
               "eraNarrow": {
                 "0": "KK",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "KK",
                 "1": "BK",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "BK"
               }
             },
             "dateFormats": {

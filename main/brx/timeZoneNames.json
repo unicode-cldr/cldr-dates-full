@@ -3,7 +3,7 @@
     "brx": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "brx"
       },
@@ -1993,7 +1993,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "नॉरफोक स्टैंडर्ड टाईम"
+                "generic": "नॉरफोक टाईम",
+                "standard": "नॉरफोक स्टैंडर्ड टाईम",
+                "daylight": "नॉरफोक डेलाईट टाईम"
               }
             },
             "Noronha": {

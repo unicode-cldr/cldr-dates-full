@@ -3,7 +3,7 @@
     "gsw": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "gsw"
       },
@@ -289,21 +289,21 @@
             "eras": {
               "eraNames": {
                 "0": "v. Chr.",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "v. Chr.",
                 "1": "n. Chr.",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "n. Chr."
               },
               "eraAbbr": {
                 "0": "v. Chr.",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "v. Chr.",
                 "1": "n. Chr.",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "n. Chr."
               },
               "eraNarrow": {
                 "0": "v. Chr.",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "v. Chr.",
                 "1": "n. Chr.",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "n. Chr."
               }
             },
             "dateFormats": {

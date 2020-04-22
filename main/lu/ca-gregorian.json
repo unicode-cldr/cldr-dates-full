@@ -3,7 +3,7 @@
     "lu": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "lu"
       },
@@ -253,21 +253,21 @@
             "eras": {
               "eraNames": {
                 "0": "Kumpala kwa Yezu Kli",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "kmp. Y.K.",
                 "1": "Kunyima kwa Yezu Kli",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "kny. Y. K."
               },
               "eraAbbr": {
                 "0": "kmp. Y.K.",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "kmp. Y.K.",
                 "1": "kny. Y. K.",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "kny. Y. K."
               },
               "eraNarrow": {
                 "0": "kmp. Y.K.",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "kmp. Y.K.",
                 "1": "kny. Y. K.",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "kny. Y. K."
               }
             },
             "dateFormats": {

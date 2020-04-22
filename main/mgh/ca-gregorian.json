@@ -3,7 +3,7 @@
     "mgh": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "mgh"
       },
@@ -253,21 +253,21 @@
             "eras": {
               "eraNames": {
                 "0": "Hinapiya yesu",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "HY",
                 "1": "Yopia yesu",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "YY"
               },
               "eraAbbr": {
                 "0": "HY",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "HY",
                 "1": "YY",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "YY"
               },
               "eraNarrow": {
                 "0": "HY",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "HY",
                 "1": "YY",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "YY"
               }
             },
             "dateFormats": {

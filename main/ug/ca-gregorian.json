@@ -3,7 +3,7 @@
     "ug": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ug"
       },
@@ -255,19 +255,19 @@
                 "0": "مىلادىيەدىن بۇرۇن",
                 "0-alt-variant": "BCE",
                 "1": "مىلادىيە",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "مىلادىيە"
               },
               "eraAbbr": {
                 "0": "BCE",
                 "0-alt-variant": "BCE",
                 "1": "مىلادىيە",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "مىلادىيە"
               },
               "eraNarrow": {
                 "0": "BCE",
                 "0-alt-variant": "BCE",
                 "1": "مىلادىيە",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "مىلادىيە"
               }
             },
             "dateFormats": {

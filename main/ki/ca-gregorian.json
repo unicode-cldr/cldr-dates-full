@@ -3,7 +3,7 @@
     "ki": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ki"
       },
@@ -253,21 +253,21 @@
             "eras": {
               "eraNames": {
                 "0": "Mbere ya Kristo",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "MK",
                 "1": "Thutha wa Kristo",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "TK"
               },
               "eraAbbr": {
                 "0": "MK",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "MK",
                 "1": "TK",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "TK"
               },
               "eraNarrow": {
                 "0": "MK",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "MK",
                 "1": "TK",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "TK"
               }
             },
             "dateFormats": {

@@ -3,7 +3,7 @@
     "ce": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ce"
       },
@@ -1965,7 +1965,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "Норфолк"
+                "generic": "Норфолк",
+                "standard": "Норфолк, стандартан хан",
+                "daylight": "Норфолк, аьхкенан хан"
               }
             },
             "Noronha": {

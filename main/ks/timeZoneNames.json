@@ -3,7 +3,7 @@
     "ks": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ks"
       },
@@ -1990,7 +1990,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "نورفعاک ٹایِم"
+                "generic": "نورفعاک ٹایِم",
+                "standard": "نورفعاک سٹینڑاڑ ٹایِم",
+                "daylight": "نورفعاک سَمَر ٹایِم"
               }
             },
             "Noronha": {

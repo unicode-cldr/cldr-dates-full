@@ -3,7 +3,7 @@
     "ce": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ce"
       },
@@ -261,13 +261,13 @@
                 "0": "в. э. тӀ. я",
                 "0-alt-variant": "МАССО",
                 "1": "в. э",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "в. э"
               },
               "eraNarrow": {
                 "0": "в. э. тӀ. я",
                 "0-alt-variant": "МАССО",
                 "1": "в. э",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "в. э"
               }
             },
             "dateFormats": {

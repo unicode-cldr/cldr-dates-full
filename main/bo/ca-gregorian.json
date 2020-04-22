@@ -3,7 +3,7 @@
     "bo": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "bo"
       },
@@ -253,21 +253,21 @@
             "eras": {
               "eraNames": {
                 "0": "སྤྱི་ལོ་སྔོན་",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "སྤྱི་ལོ་སྔོན་",
                 "1": "སྤྱི་ལོ་",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "སྤྱི་ལོ་"
               },
               "eraAbbr": {
                 "0": "སྤྱི་ལོ་སྔོན་",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "སྤྱི་ལོ་སྔོན་",
                 "1": "སྤྱི་ལོ་",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "སྤྱི་ལོ་"
               },
               "eraNarrow": {
                 "0": "སྤྱི་ལོ་སྔོན་",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "སྤྱི་ལོ་སྔོན་",
                 "1": "སྤྱི་ལོ་",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "སྤྱི་ལོ་"
               }
             },
             "dateFormats": {

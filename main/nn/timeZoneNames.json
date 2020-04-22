@@ -3,7 +3,7 @@
     "nn": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "nn"
       },
@@ -1983,7 +1983,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "tidssone for Norfolkøya"
+                "generic": "tidssone for Norfolkøya",
+                "standard": "normaltid for Norfolkøya",
+                "daylight": "sumartid for Norfolkøya"
               }
             },
             "Noronha": {

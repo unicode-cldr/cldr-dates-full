@@ -3,7 +3,7 @@
     "ln-AO": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ln",
         "territory": "AO"
@@ -254,21 +254,21 @@
             "eras": {
               "eraNames": {
                 "0": "Yambo ya Yézu Krís",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "libóso ya",
                 "1": "Nsima ya Yézu Krís",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "nsima ya Y"
               },
               "eraAbbr": {
                 "0": "libóso ya",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "libóso ya",
                 "1": "nsima ya Y",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "nsima ya Y"
               },
               "eraNarrow": {
                 "0": "libóso ya",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "libóso ya",
                 "1": "nsima ya Y",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "nsima ya Y"
               }
             },
             "dateFormats": {

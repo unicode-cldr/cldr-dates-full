@@ -3,7 +3,7 @@
     "fo": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "fo"
       },
@@ -1968,7 +1968,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "Norfolksoyggj tíð"
+                "generic": "Norfolksoyggj tíð",
+                "standard": "Norfolksoyggj vanlig tíð",
+                "daylight": "Norfolksoyggj summartíð"
               }
             },
             "Noronha": {

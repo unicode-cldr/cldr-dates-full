@@ -3,7 +3,7 @@
     "kab": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "kab"
       },
@@ -253,21 +253,21 @@
             "eras": {
               "eraNames": {
                 "0": "send talalit n Ɛisa",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "snd. T.Ɛ",
                 "1": "seld talalit n Ɛisa",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "sld. T.Ɛ"
               },
               "eraAbbr": {
                 "0": "snd. T.Ɛ",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "snd. T.Ɛ",
                 "1": "sld. T.Ɛ",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "sld. T.Ɛ"
               },
               "eraNarrow": {
                 "0": "snd. T.Ɛ",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "snd. T.Ɛ",
                 "1": "sld. T.Ɛ",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "sld. T.Ɛ"
               }
             },
             "dateFormats": {

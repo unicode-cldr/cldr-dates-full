@@ -3,7 +3,7 @@
     "ks": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ks"
       },
@@ -253,21 +253,21 @@
             "eras": {
               "eraNames": {
                 "0": "قبٕل مسیٖح",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "بی سی",
                 "1": "عیٖسوی سنہٕ",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "اے ڈی"
               },
               "eraAbbr": {
                 "0": "بی سی",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "بی سی",
                 "1": "اے ڈی",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "اے ڈی"
               },
               "eraNarrow": {
                 "0": "بی سی",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "بی سی",
                 "1": "اے ڈی",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "اے ڈی"
               }
             },
             "dateFormats": {

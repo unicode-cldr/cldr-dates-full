@@ -3,7 +3,7 @@
     "mua": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "mua"
       },
@@ -253,21 +253,21 @@
             "eras": {
               "eraNames": {
                 "0": "KǝPel Kristu",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "KK",
                 "1": "Pel Kristu",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "PK"
               },
               "eraAbbr": {
                 "0": "KK",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "KK",
                 "1": "PK",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "PK"
               },
               "eraNarrow": {
                 "0": "KK",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "KK",
                 "1": "PK",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "PK"
               }
             },
             "dateFormats": {

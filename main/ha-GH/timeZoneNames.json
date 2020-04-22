@@ -3,7 +3,7 @@
     "ha-GH": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ha",
         "territory": "GH"
@@ -1788,6 +1788,13 @@
                 "standard": "Marshall Islands Time"
               }
             },
+            "Mauritius": {
+              "long": {
+                "generic": "Lokacin Mauritius",
+                "standard": "TsaTsayayyar Lokacin Mauritius",
+                "daylight": "Bazarar Mauritius"
+              }
+            },
             "Mawson": {
               "long": {
                 "standard": "Mawson Time"
@@ -1864,7 +1871,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "Norfolk Island Time"
+                "generic": "Norfolk Island Time",
+                "standard": "Norfolk Island Standard Time",
+                "daylight": "Norfolk Island Daylight Time"
               }
             },
             "Novosibirsk": {

@@ -3,7 +3,7 @@
     "pa-Arab": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "pa",
         "script": "Arab"
@@ -254,21 +254,21 @@
             "eras": {
               "eraNames": {
                 "0": "ايساپورو",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "ايساپورو",
                 "1": "سں",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "سں"
               },
               "eraAbbr": {
                 "0": "ايساپورو",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "ايساپورو",
                 "1": "سں",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "سں"
               },
               "eraNarrow": {
                 "0": "ايساپورو",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "ايساپورو",
                 "1": "سں",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "سں"
               }
             },
             "dateFormats": {
