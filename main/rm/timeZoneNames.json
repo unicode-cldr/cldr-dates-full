@@ -3,7 +3,7 @@
     "rm": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "rm"
       },
@@ -12,9 +12,9 @@
           "hourFormat": "+HH:mm;-HH:mm",
           "gmtFormat": "GMT{0}",
           "gmtZeroFormat": "GMT",
-          "regionFormat": "{0}",
-          "regionFormat-type-daylight": "{0} (+1)",
-          "regionFormat-type-standard": "{0} (+0)",
+          "regionFormat": "temp: {0}",
+          "regionFormat-type-daylight": "temp da stad: {0}",
+          "regionFormat-type-standard": "temp normal: {0}",
           "fallbackFormat": "{1} ({0})",
           "zone": {
             "America": {
@@ -126,7 +126,7 @@
                 "exemplarCity": "Córdoba"
               },
               "Costa_Rica": {
-                "exemplarCity": "San José"
+                "exemplarCity": "Costa Rica"
               },
               "Creston": {
                 "exemplarCity": "Creston"
@@ -366,7 +366,7 @@
                 "exemplarCity": "Port-au-Prince"
               },
               "Port_of_Spain": {
-                "exemplarCity": "Port-of-Spain"
+                "exemplarCity": "Port of Spain"
               },
               "Porto_Velho": {
                 "exemplarCity": "Porto Velho"
@@ -538,7 +538,7 @@
                 "exemplarCity": "Chisinau"
               },
               "Copenhagen": {
-                "exemplarCity": "Copenhaghen"
+                "exemplarCity": "Copenhagen"
               },
               "Dublin": {
                 "exemplarCity": "Dublin"
@@ -652,13 +652,13 @@
                 "exemplarCity": "Ulyanovsk"
               },
               "Uzhgorod": {
-                "exemplarCity": "Uschgorod"
+                "exemplarCity": "Uschhorod"
               },
               "Vaduz": {
                 "exemplarCity": "Vaduz"
               },
               "Vatican": {
-                "exemplarCity": "Citad dal Vatican"
+                "exemplarCity": "Vatican"
               },
               "Vienna": {
                 "exemplarCity": "Vienna"
@@ -744,7 +744,7 @@
                 "exemplarCity": "Douala"
               },
               "El_Aaiun": {
-                "exemplarCity": "El Ayun"
+                "exemplarCity": "El Aaiún"
               },
               "Freetown": {
                 "exemplarCity": "Freetown"
@@ -1025,7 +1025,7 @@
                 "exemplarCity": "Riyad"
               },
               "Saigon": {
-                "exemplarCity": "Ho Chi Minh"
+                "exemplarCity": "Citad da Ho Chi Minh"
               },
               "Sakhalin": {
                 "exemplarCity": "Sachalin"
@@ -1096,7 +1096,7 @@
                 "exemplarCity": "Antananarivo"
               },
               "Chagos": {
-                "exemplarCity": "Diego Garcia"
+                "exemplarCity": "Chagos"
               },
               "Christmas": {
                 "exemplarCity": "Flying Fish Cove"
@@ -1108,7 +1108,7 @@
                 "exemplarCity": "Comoras"
               },
               "Kerguelen": {
-                "exemplarCity": "Port-aux-Français"
+                "exemplarCity": "Kerguelen"
               },
               "Mahe": {
                 "exemplarCity": "Mahe"
@@ -1322,12 +1322,78 @@
             },
             "Etc": {
               "UTC": {
+                "long": {
+                  "standard": "Temp universal coordinà"
+                },
                 "short": {
                   "standard": "UTC"
                 }
               },
               "Unknown": {
-                "exemplarCity": "zona betg enconuschenta"
+                "exemplarCity": "citad nunenconuschenta"
+              }
+            }
+          },
+          "metazone": {
+            "America_Central": {
+              "long": {
+                "generic": "Temp central",
+                "standard": "Temp da standard central",
+                "daylight": "Temp da stad central"
+              }
+            },
+            "America_Eastern": {
+              "long": {
+                "generic": "Temp oriental",
+                "standard": "Temp da standard oriental",
+                "daylight": "Temp da stad oriental"
+              }
+            },
+            "America_Mountain": {
+              "long": {
+                "generic": "Temp da muntogna",
+                "standard": "Temp da standard da muntogna",
+                "daylight": "Temp da stad da muntogna"
+              }
+            },
+            "America_Pacific": {
+              "long": {
+                "generic": "Temp pacific",
+                "standard": "Temp da standard pacific",
+                "daylight": "Temp da stad pacific"
+              }
+            },
+            "Atlantic": {
+              "long": {
+                "generic": "Temp atlantic",
+                "standard": "Temp da standard atlantic",
+                "daylight": "Temp da stad atlantic"
+              }
+            },
+            "Europe_Central": {
+              "long": {
+                "generic": "Temp da l’Europa Centrala",
+                "standard": "Temp da standard da l’Europa Centrala",
+                "daylight": "Temp da stad da l’Europa Centrala"
+              }
+            },
+            "Europe_Eastern": {
+              "long": {
+                "generic": "Temp da l’Europa Orientala",
+                "standard": "Temp da standard da l’Europa Orientala",
+                "daylight": "Temp da stad da l’Europa Orientala"
+              }
+            },
+            "Europe_Western": {
+              "long": {
+                "generic": "Temp da l’Europa dal Vest",
+                "standard": "Temp da standard da l’Europa dal Vest",
+                "daylight": "Temp da stad da l’Europa dal Vest"
+              }
+            },
+            "GMT": {
+              "long": {
+                "standard": "Temp Greenwich"
               }
             }
           }

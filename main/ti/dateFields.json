@@ -3,7 +3,7 @@
     "ti": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ti"
       },
@@ -118,7 +118,7 @@
           },
           "month-short": {
             "displayName": "ወርሒ",
-            "relative-type--1": "last month",
+            "relative-type--1": "ዝሓለፈ ወርሒ",
             "relative-type-0": "ህሉው ወርሒ",
             "relative-type-1": "ዝመጽእ ወርሒ",
             "relativeTime-type-future": {
@@ -132,7 +132,7 @@
           },
           "month-narrow": {
             "displayName": "ወርሒ",
-            "relative-type--1": "last month",
+            "relative-type--1": "ዝሓለፈ ወርሒ",
             "relative-type-0": "ህሉው ወርሒ",
             "relative-type-1": "ዝመጽእ ወርሒ",
             "relativeTime-type-future": {
@@ -145,7 +145,7 @@
             }
           },
           "week": {
-            "displayName": "ሰሙን",
+            "displayName": "Week",
             "relative-type--1": "ዝሓለፈ ሰሙን",
             "relative-type-0": "ህሉው ሰሙን",
             "relative-type-1": "ዝመጽእ ሰሙን",
@@ -190,7 +190,7 @@
             "relativePeriod": "ሰሙን ናይ {0}"
           },
           "weekOfMonth": {
-            "displayName": "ሰን ናይ ወርሒ"
+            "displayName": "ሰሙን ናይ ወርሒ"
           },
           "weekOfMonth-short": {
             "displayName": "ሰሙ. ናይ ወር."
@@ -541,13 +541,13 @@
             }
           },
           "dayperiod-short": {
-            "displayName": "ክፍለ መዓልቲ"
+            "displayName": "ቅድመ ፍርቂ-መዓልቲ/ድሕሪ ፍርቂ-መዓልቲ"
           },
           "dayperiod": {
-            "displayName": "ክፍለ መዓልቲ"
+            "displayName": "ቅድመ ፍርቂ-መዓልቲ/ድሕሪ ፍርቂ-መዓልቲ"
           },
           "dayperiod-narrow": {
-            "displayName": "ክፍለ መዓልቲ"
+            "displayName": "ቅድመ ፍርቂ-መዓልቲ/ድሕሪ ፍርቂ-መዓልቲ"
           },
           "hour": {
             "displayName": "ሰዓት",

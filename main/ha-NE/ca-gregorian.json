@@ -3,7 +3,7 @@
     "ha-NE": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ha",
         "territory": "NE"
@@ -224,12 +224,12 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "SF",
+                  "pm": "YM"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "SF",
+                  "pm": "YM"
                 },
                 "wide": {
                   "am": "Safiya",
@@ -238,16 +238,16 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "SF",
+                  "pm": "YM"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "SF",
+                  "pm": "YM"
                 },
                 "wide": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "SF",
+                  "pm": "YM"
                 }
               }
             },
@@ -256,7 +256,7 @@
                 "0": "Kafin haihuwar annab",
                 "0-alt-variant": "K.H.Y",
                 "1": "Bayan haihuwar annab",
-                "1-alt-variant": "sananne Zamani"
+                "1-alt-variant": "Sanannen Zamani"
               },
               "eraAbbr": {
                 "0": "K.H",
@@ -285,9 +285,9 @@
             },
             "dateTimeFormats": {
               "full": "{1} {0}",
-              "long": "{1} {0}",
-              "medium": "{1} {0}",
-              "short": "{1} {0}",
+              "long": "{1} 'da' {0}",
+              "medium": "{1}, {0}",
+              "short": "{1}, {0}",
               "availableFormats": {
                 "Bh": "h B",
                 "Bhm": "h:mm B",
@@ -323,7 +323,8 @@
                 "MMMEd": "E, MMM d",
                 "MMMMd": "MMMM d",
                 "MMMMEd": "E, MMMM d",
-                "MMMMW-count-other": "'week' W 'of' MMMM",
+                "MMMMW-count-one": "'satin' W 'cikin' MMMM",
+                "MMMMW-count-other": "'satin' W 'cikin' MMMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "M/y",
@@ -335,7 +336,8 @@
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ y",
-                "yw-count-other": "'week' w 'of' Y"
+                "yw-count-one": "'sati' w 'cikin' Y",
+                "yw-count-other": "'sati' w 'cikin' Y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

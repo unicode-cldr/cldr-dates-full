@@ -3,7 +3,7 @@
     "yo-BJ": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "yo",
         "territory": "BJ"
@@ -11,13 +11,13 @@
       "dates": {
         "fields": {
           "era": {
-            "displayName": "Ìgbà"
+            "displayName": "sáà"
           },
           "era-short": {
-            "displayName": "Ìgbà"
+            "displayName": "sáà"
           },
           "era-narrow": {
-            "displayName": "Ìgbà"
+            "displayName": "Sáà"
           },
           "year": {
             "displayName": "Ɔdún",
@@ -33,9 +33,9 @@
           },
           "year-short": {
             "displayName": "Ɔdún",
-            "relative-type--1": "Èshín",
-            "relative-type-0": "Ɔdúnǹí",
-            "relative-type-1": "Àmɔ́dún",
+            "relative-type--1": "Ɔdún tó kɔjá",
+            "relative-type-0": "Ɔdún yìí",
+            "relative-type-1": "Ɔdún tó ńbɔ̀",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} y"
             },
@@ -45,9 +45,9 @@
           },
           "year-narrow": {
             "displayName": "Ɔdún",
-            "relative-type--1": "Èshín",
-            "relative-type-0": "Ɔdúnǹí",
-            "relative-type-1": "Àmɔ́dún",
+            "relative-type--1": "Ɔdún tó kɔjá",
+            "relative-type-0": "Ɔdún yìí",
+            "relative-type-1": "Ɔdún tó ńbɔ̀",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} y"
             },
@@ -138,7 +138,7 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-other": "-{0} w"
             },
-            "relativePeriod": "the week of {0}"
+            "relativePeriod": "ɔ̀sɛ̀ ti {0}"
           },
           "week-short": {
             "displayName": "Ɔ̀sɛ̀",
@@ -151,7 +151,7 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-other": "-{0} w"
             },
-            "relativePeriod": "ɔ̀shɛ̀ {0}"
+            "relativePeriod": "ɔ̀sɛ̀ ti {0}"
           },
           "week-narrow": {
             "displayName": "Ɔ̀sɛ̀",
@@ -164,16 +164,16 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-other": "-{0} w"
             },
-            "relativePeriod": "ɔ̀shɛ̀ {0}"
+            "relativePeriod": "ɔ̀sɛ̀ ti {0}"
           },
           "weekOfMonth": {
-            "displayName": "Week Of Month"
+            "displayName": "Ɔshɛ̀ inú Oshù"
           },
           "weekOfMonth-short": {
-            "displayName": "Week Of Month"
+            "displayName": "Ɔshɛ̀ inú Oshù"
           },
           "weekOfMonth-narrow": {
-            "displayName": "Week Of Month"
+            "displayName": "Ɔshɛ̀ inú Oshù"
           },
           "day": {
             "displayName": "Ɔjɔ́",
@@ -218,31 +218,31 @@
             }
           },
           "dayOfYear": {
-            "displayName": "Day Of Year"
+            "displayName": "Ɔjɔ́ inú ɔdún"
           },
           "dayOfYear-short": {
-            "displayName": "Day Of Year"
+            "displayName": "Ɔjɔ́ inú ɔd."
           },
           "dayOfYear-narrow": {
-            "displayName": "Day Of Year"
+            "displayName": "Ɔjɔ́ inú ɔd."
           },
           "weekday": {
             "displayName": "Ɔjɔ́ tó wà láàárín ɔ̀sɛ̀"
           },
           "weekday-short": {
-            "displayName": "Ɔjɔ́ tó wà láàárín ɔ̀sɛ̀"
+            "displayName": "ɔjɔ́ inú ɔshɛ̀."
           },
           "weekday-narrow": {
-            "displayName": "Ɔjɔ́ tó wà láàárín ɔ̀sɛ̀"
+            "displayName": "ɔjɔ́ inú ɔshɛ̀."
           },
           "weekdayOfMonth": {
-            "displayName": "Weekday Of Month"
+            "displayName": "ɔjɔ́ ɔshɛ̀ inú oshù"
           },
           "weekdayOfMonth-short": {
-            "displayName": "Weekday Of Month"
+            "displayName": "ɔjɔ́ ɔshɛ̀ inú oshù"
           },
           "weekdayOfMonth-narrow": {
-            "displayName": "Weekday Of Month"
+            "displayName": "ɔjɔ́ ɔshɛ̀ inú oshù"
           },
           "sun": {
             "relative-type--1": "Ɔjɔ́ Àìkú tó kɔjá",

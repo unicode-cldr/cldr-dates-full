@@ -3,7 +3,7 @@
     "ceb": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ceb"
       },
@@ -13,14 +13,14 @@
             "months": {
               "format": {
                 "abbreviated": {
-                  "1": "En",
+                  "1": "Ene",
                   "2": "Peb",
                   "3": "Mar",
-                  "4": "Apr",
+                  "4": "Abr",
                   "5": "May",
                   "6": "Hun",
                   "7": "Hul",
-                  "8": "Ag",
+                  "8": "Ago",
                   "9": "Set",
                   "10": "Okt",
                   "11": "Nob",
@@ -253,20 +253,20 @@
             "eras": {
               "eraNames": {
                 "0": "Sa Wala Pa Si Kristo",
-                "0-alt-variant": "Sa Wala Pa ang Common Era",
+                "0-alt-variant": "Wala Pa ang Komong Panahon",
                 "1": "Anno Domini",
-                "1-alt-variant": "Common Era"
+                "1-alt-variant": "Komong Panahon"
               },
               "eraAbbr": {
                 "0": "BC",
                 "0-alt-variant": "BCE",
-                "1": "KP",
+                "1": "AD",
                 "1-alt-variant": "CE"
               },
               "eraNarrow": {
                 "0": "BC",
                 "0-alt-variant": "BCE",
-                "1": "KP",
+                "1": "AD",
                 "1-alt-variant": "CE"
               }
             },
@@ -300,7 +300,7 @@
                 "EHm": "E HH:mm",
                 "Ehms": "E h:mm:ss a",
                 "EHms": "E HH:mm:ss",
-                "Gy": "G y",
+                "Gy": "y G",
                 "GyMMM": "MMM y G",
                 "GyMMMd": "MMM d, y G",
                 "GyMMMEd": "E, MMM d, y G",

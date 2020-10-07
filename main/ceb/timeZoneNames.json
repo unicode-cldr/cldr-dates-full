@@ -3,7 +3,7 @@
     "ceb": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ceb"
       },
@@ -1031,7 +1031,7 @@
                 "exemplarCity": "Riyadh"
               },
               "Saigon": {
-                "exemplarCity": "Ho Chi Minh"
+                "exemplarCity": "Siyudad sa Ho Chi Minh"
               },
               "Sakhalin": {
                 "exemplarCity": "Sakhalin"
@@ -1421,7 +1421,7 @@
               "long": {
                 "generic": "Oras sa Arabia",
                 "standard": "Tamdanang Oras sa Arabia",
-                "daylight": "Oras sa Adlawan sa Arabia"
+                "daylight": "Oras sa Tag-init sa Arabia"
               }
             },
             "Argentina": {
@@ -1551,9 +1551,9 @@
             },
             "China": {
               "long": {
-                "generic": "Oras sa China",
-                "standard": "Tamdanang Oras sa China",
-                "daylight": "Oras sa Adlawan sa China"
+                "generic": "Oras sa Tsina",
+                "standard": "Tamdanang Oras sa Tsina",
+                "daylight": "Oras sa Tag-init sa Tsina"
               }
             },
             "Choibalsan": {
@@ -1777,7 +1777,7 @@
               "long": {
                 "generic": "Oras sa Iran",
                 "standard": "Tamdanang Oras sa Iran",
-                "daylight": "Oras sa Adlawan sa Iran"
+                "daylight": "Oras sa Tag-init sa Iran"
               }
             },
             "Irkutsk": {
@@ -1791,7 +1791,7 @@
               "long": {
                 "generic": "Oras sa Israel",
                 "standard": "Tamdanang Oras sa Israel",
-                "daylight": "Oras sa Adlawan sa Israel"
+                "daylight": "Oras sa Tag-init sa Israel"
               }
             },
             "Japan": {
@@ -1815,7 +1815,7 @@
               "long": {
                 "generic": "Oras sa Korea",
                 "standard": "Tamdanang Oras sa Korea",
-                "daylight": "Oras sa Adlawan sa Korea"
+                "daylight": "Oras sa Tag-init sa Korea"
               }
             },
             "Kosrae": {
@@ -2116,7 +2116,7 @@
               "long": {
                 "generic": "Oras sa Taipei",
                 "standard": "Tamdanang Oras sa Taipei",
-                "daylight": "Oras sa Adlawan sa Taipei"
+                "daylight": "Oras sa Tag-init sa Taipei"
               }
             },
             "Tajikistan": {

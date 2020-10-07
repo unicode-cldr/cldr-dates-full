@@ -3,7 +3,7 @@
     "br": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "br"
       },
@@ -1652,6 +1652,11 @@
                 "daylight": "eur hañv Europa ar Reter"
               }
             },
+            "Europe_Further_Eastern": {
+              "long": {
+                "standard": "eur Kaliningrad"
+              }
+            },
             "Europe_Western": {
               "long": {
                 "generic": "eur Europa ar Cʼhornôg",
@@ -1737,6 +1742,13 @@
             "Guyana": {
               "long": {
                 "standard": "eur Guyana"
+              }
+            },
+            "Hawaii_Aleutian": {
+              "long": {
+                "generic": "eur Hawaii hag an Aleouted",
+                "standard": "eur cʼhoañv Hawaii hag an Aleouted",
+                "daylight": "eur hañv Hawaii hag an Aleouted"
               }
             },
             "Hong_Kong": {
@@ -1855,6 +1867,13 @@
                 "standard": "eur Line Islands"
               }
             },
+            "Lord_Howe": {
+              "long": {
+                "generic": "eur Lord Howe",
+                "standard": "eur cʼhoañv Lord Howe",
+                "daylight": "eur hañv Lord Howe"
+              }
+            },
             "Macau": {
               "long": {
                 "generic": "eur Macau",
@@ -1911,6 +1930,13 @@
                 "generic": "eur Gwalarn Mecʼhiko",
                 "standard": "eur cʼhoañv Gwalarn Mecʼhiko",
                 "daylight": "eur hañv Gwalarn Mecʼhiko"
+              }
+            },
+            "Mexico_Pacific": {
+              "long": {
+                "generic": "eur an Habask mecʼhikan",
+                "standard": "eur cʼhoañv an Habask mecʼhikan",
+                "daylight": "eur hañv an Habask mecʼhikan"
               }
             },
             "Mongolia": {
@@ -1982,6 +2008,11 @@
                 "daylight": "eur hañv Fernando de Noronha"
               }
             },
+            "North_Mariana": {
+              "long": {
+                "standard": "eur Mariana an Norzh"
+              }
+            },
             "Novosibirsk": {
               "long": {
                 "generic": "eur Novosibirsk",
@@ -2049,6 +2080,11 @@
             "Pitcairn": {
               "long": {
                 "standard": "eur Pitcairn"
+              }
+            },
+            "Ponape": {
+              "long": {
+                "standard": "eur Pohnpei"
               }
             },
             "Pyongyang": {

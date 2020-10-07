@@ -3,7 +3,7 @@
     "gd": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "gd"
       },
@@ -899,7 +899,7 @@
                 "exemplarCity": "Beirut"
               },
               "Bishkek": {
-                "exemplarCity": "Bishkek"
+                "exemplarCity": "Biškek"
               },
               "Brunei": {
                 "exemplarCity": "Brùnaigh"
@@ -929,7 +929,7 @@
                 "exemplarCity": "Dubai"
               },
               "Dushanbe": {
-                "exemplarCity": "Dushanbe"
+                "exemplarCity": "Dušanbe"
               },
               "Famagusta": {
                 "exemplarCity": "Famagusta"
@@ -1064,10 +1064,10 @@
                 "exemplarCity": "Taipei"
               },
               "Tashkent": {
-                "exemplarCity": "Tashkent"
+                "exemplarCity": "Toškent"
               },
               "Tbilisi": {
-                "exemplarCity": "Tbilisi"
+                "exemplarCity": "T’bilisi"
               },
               "Tehran": {
                 "exemplarCity": "Tehrān"
@@ -1595,9 +1595,9 @@
             },
             "Brasilia": {
               "long": {
-                "generic": "Àm Bhrasilia",
-                "standard": "Bun-àm Bhrasilia",
-                "daylight": "Tìde samhraidh Bhrasilia"
+                "generic": "Àm Bhrasília",
+                "standard": "Bun-àm Bhrasília",
+                "daylight": "Tìde samhraidh Bhrasília"
               }
             },
             "Brunei": {

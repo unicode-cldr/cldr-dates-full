@@ -3,7 +3,7 @@
     "yo": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "yo"
       },
@@ -121,13 +121,13 @@
                   "sat": "À"
                 },
                 "short": {
-                  "sun": "Àìkú",
-                  "mon": "Ajé",
-                  "tue": "Ìsẹ́gun",
-                  "wed": "Ọjọ́rú",
-                  "thu": "Ọjọ́bọ",
-                  "fri": "Ẹtì",
-                  "sat": "Àbámẹ́ta"
+                  "sun": "Àìk",
+                  "mon": "Aj",
+                  "tue": "Ìsẹ́g",
+                  "wed": "Ọjọ́r",
+                  "thu": "Ọjọ́b",
+                  "fri": "Ẹt",
+                  "sat": "Àbám"
                 },
                 "wide": {
                   "sun": "Ọjọ́ Àìkú",
@@ -159,13 +159,13 @@
                   "sat": "À"
                 },
                 "short": {
-                  "sun": "Àìkú",
-                  "mon": "Ajé",
-                  "tue": "Ìsẹ́gun",
-                  "wed": "Ọjọ́rú",
-                  "thu": "Ọjọ́bọ",
-                  "fri": "Ẹtì",
-                  "sat": "Àbámẹ́ta"
+                  "sun": "Àìk",
+                  "mon": "Aj",
+                  "tue": "Ìsẹ́g",
+                  "wed": "Ọjọ́r",
+                  "thu": "Ọjọ́b",
+                  "fri": "Ẹt",
+                  "sat": "Àbám"
                 },
                 "wide": {
                   "sun": "Àìkú",

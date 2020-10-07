@@ -3,7 +3,7 @@
     "gd": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "gd"
       },
@@ -87,10 +87,10 @@
               "relativeTimePattern-count-other": "an ceann {0} cairteil"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "o chionn {0} chairteil",
-              "relativeTimePattern-count-two": "o chionn {0} chairteil",
-              "relativeTimePattern-count-few": "o chionn {0} cairtealan",
-              "relativeTimePattern-count-other": "o chionn {0} cairteil"
+              "relativeTimePattern-count-one": "{0} chairteal air ais",
+              "relativeTimePattern-count-two": "{0} chairteal air ais",
+              "relativeTimePattern-count-few": "{0} cairtealan air ais",
+              "relativeTimePattern-count-other": "{0} cairteal air ais"
             }
           },
           "quarter-short": {
@@ -350,10 +350,10 @@
               "relativeTimePattern-count-other": "an ceann {0} DiDòmhnaich"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "o chionn {0} DiDòmhnaich",
-              "relativeTimePattern-count-two": "o chionn {0} DhiDòmhnaich",
-              "relativeTimePattern-count-few": "o chionn {0} DiDòmhnaich",
-              "relativeTimePattern-count-other": "o chionn {0} DiDòmhnaich"
+              "relativeTimePattern-count-one": "{0} DiDòmhnaich air ais",
+              "relativeTimePattern-count-two": "{0} DhiDòmhnaich air ais",
+              "relativeTimePattern-count-few": "{0} DiDòmhnaich air ais",
+              "relativeTimePattern-count-other": "{0} DiDòmhnaich air ais"
             }
           },
           "sun-short": {
@@ -367,10 +367,10 @@
               "relativeTimePattern-count-other": "an ceann {0} DiD."
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "o chionn {0} DiD.",
-              "relativeTimePattern-count-two": "o chionn {0} DhiD.",
-              "relativeTimePattern-count-few": "o chionn {0} DiDòmhnaich",
-              "relativeTimePattern-count-other": "o chionn {0} DiDòmhnaich"
+              "relativeTimePattern-count-one": "{0} DiD. air ais",
+              "relativeTimePattern-count-two": "{0} DhiD. air ais",
+              "relativeTimePattern-count-few": "{0} DiD. air ais",
+              "relativeTimePattern-count-other": "{0} DiD. air ais"
             }
           },
           "sun-narrow": {
@@ -401,10 +401,10 @@
               "relativeTimePattern-count-other": "an ceann {0} DiLuain"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "o chionn {0} DiLuain",
-              "relativeTimePattern-count-two": "o chionn {0} DhiLuain",
-              "relativeTimePattern-count-few": "o chionn {0} DiLuain",
-              "relativeTimePattern-count-other": "o chionn {0} DiLuain"
+              "relativeTimePattern-count-one": "{0} DiLuain air ais",
+              "relativeTimePattern-count-two": "{0} DhiLuain air ais",
+              "relativeTimePattern-count-few": "{0} DiLuain air ais",
+              "relativeTimePattern-count-other": "{0} DiLuain air ais"
             }
           },
           "mon-short": {
@@ -418,10 +418,10 @@
               "relativeTimePattern-count-other": "an ceann {0} DiL."
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "o chionn {0} DiL.",
-              "relativeTimePattern-count-two": "o chionn {0} DhiL.",
-              "relativeTimePattern-count-few": "o chionn {0} DiL.",
-              "relativeTimePattern-count-other": "o chionn {0} DiL."
+              "relativeTimePattern-count-one": "{0} DiL. air ais",
+              "relativeTimePattern-count-two": "{0} DhiL. air ais",
+              "relativeTimePattern-count-few": "{0} DiL. air ais",
+              "relativeTimePattern-count-other": "{0} DiL. air ais"
             }
           },
           "mon-narrow": {
@@ -452,10 +452,10 @@
               "relativeTimePattern-count-other": "an ceann {0} DiMàirt"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "o chionn {0} DiMàirt",
-              "relativeTimePattern-count-two": "o chionn {0} DhiMàirt",
-              "relativeTimePattern-count-few": "o chionn {0} DiMàirt",
-              "relativeTimePattern-count-other": "o chionn {0} DiMàirt"
+              "relativeTimePattern-count-one": "{0} DiMàirt air ais",
+              "relativeTimePattern-count-two": "{0} DhiMàirt air ais",
+              "relativeTimePattern-count-few": "{0} DiMàirt air ais",
+              "relativeTimePattern-count-other": "{0} DiMàirt air ais"
             }
           },
           "tue-short": {
@@ -469,10 +469,10 @@
               "relativeTimePattern-count-other": "an ceann {0} DiM."
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "o chionn {0} DiM.",
-              "relativeTimePattern-count-two": "o chionn {0} DhiM.",
-              "relativeTimePattern-count-few": "o chionn {0} DiM.",
-              "relativeTimePattern-count-other": "o chionn {0} DiM."
+              "relativeTimePattern-count-one": "{0} DiM. air ais",
+              "relativeTimePattern-count-two": "{0} DhiM. air ais",
+              "relativeTimePattern-count-few": "{0} DiM. air ais",
+              "relativeTimePattern-count-other": "{0} DiM. air ais"
             }
           },
           "tue-narrow": {
@@ -503,10 +503,10 @@
               "relativeTimePattern-count-other": "an ceann {0} DiCiadain"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "o chionn {0} DiCiadain",
-              "relativeTimePattern-count-two": "o chionn {0} DhiCiadain",
-              "relativeTimePattern-count-few": "o chionn {0} DiCiadain",
-              "relativeTimePattern-count-other": "o chionn {0} DiCiadain"
+              "relativeTimePattern-count-one": "{0} DiCiadain air ais",
+              "relativeTimePattern-count-two": "{0} DhiCiadain air ais",
+              "relativeTimePattern-count-few": "{0} DiCiadain air ais",
+              "relativeTimePattern-count-other": "{0} DiCiadain air ais"
             }
           },
           "wed-short": {
@@ -520,10 +520,10 @@
               "relativeTimePattern-count-other": "an ceann {0} DiC."
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "o chionn {0} DiC.",
-              "relativeTimePattern-count-two": "o chionn {0} DhiC.",
-              "relativeTimePattern-count-few": "o chionn {0} DiC.",
-              "relativeTimePattern-count-other": "o chionn {0} DiC."
+              "relativeTimePattern-count-one": "{0} DiC. air ais",
+              "relativeTimePattern-count-two": "{0} DhiC. air ais",
+              "relativeTimePattern-count-few": "{0} DiC. air ais",
+              "relativeTimePattern-count-other": "{0} DiC. air ais"
             }
           },
           "wed-narrow": {
@@ -554,10 +554,10 @@
               "relativeTimePattern-count-other": "an ceann {0} DiarDaoin"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "o chionn {0} DiarDaoin",
-              "relativeTimePattern-count-two": "o chionn {0} DhiarDaoin",
-              "relativeTimePattern-count-few": "o chionn {0} DiarDaoin",
-              "relativeTimePattern-count-other": "o chionn {0} DiarDaoin"
+              "relativeTimePattern-count-one": "{0} DiarDaoin air ais",
+              "relativeTimePattern-count-two": "{0} DhiarDaoin air ais",
+              "relativeTimePattern-count-few": "{0} DiarDaoin air ais",
+              "relativeTimePattern-count-other": "{0} DiarDaoin air ais"
             }
           },
           "thu-short": {
@@ -571,10 +571,10 @@
               "relativeTimePattern-count-other": "an ceann {0} Dia."
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "o chionn {0} Dia.",
-              "relativeTimePattern-count-two": "o chionn {0} Dhia.",
-              "relativeTimePattern-count-few": "o chionn {0} Dia.",
-              "relativeTimePattern-count-other": "o chionn {0} Dia."
+              "relativeTimePattern-count-one": "{0} Dia. air ais",
+              "relativeTimePattern-count-two": "{0} Dhia. air ais",
+              "relativeTimePattern-count-few": "{0} Dia. air ais",
+              "relativeTimePattern-count-other": "{0} Dia. air ais"
             }
           },
           "thu-narrow": {
@@ -605,10 +605,10 @@
               "relativeTimePattern-count-other": "an ceann {0} DihAoine"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "o chionn {0} DihAoine",
-              "relativeTimePattern-count-two": "o chionn {0} DhihAoine",
-              "relativeTimePattern-count-few": "o chionn {0} DihAoine",
-              "relativeTimePattern-count-other": "o chionn {0} DihAoine"
+              "relativeTimePattern-count-one": "{0} DihAoine air ais",
+              "relativeTimePattern-count-two": "{0} DhihAoine air ais",
+              "relativeTimePattern-count-few": "{0} DihAoine air ais",
+              "relativeTimePattern-count-other": "{0} DihAoine air ais"
             }
           },
           "fri-short": {
@@ -622,10 +622,10 @@
               "relativeTimePattern-count-other": "an ceann {0} Dih."
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "o chionn {0} Dih.",
-              "relativeTimePattern-count-two": "o chionn {0} Dhih.",
-              "relativeTimePattern-count-few": "o chionn {0} Dih.",
-              "relativeTimePattern-count-other": "o chionn {0} Dih."
+              "relativeTimePattern-count-one": "{0} Dih. air ais",
+              "relativeTimePattern-count-two": "{0} Dhih. air ais",
+              "relativeTimePattern-count-few": "{0} Dih. air ais",
+              "relativeTimePattern-count-other": "{0} Dih. air ais"
             }
           },
           "fri-narrow": {
@@ -656,10 +656,10 @@
               "relativeTimePattern-count-other": "an ceann {0} DiSathairne"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "o chionn {0} DiSathairne",
-              "relativeTimePattern-count-two": "o chionn {0} DhiSathairne",
-              "relativeTimePattern-count-few": "o chionn {0} DiSathairne",
-              "relativeTimePattern-count-other": "o chionn {0} DiSathairne"
+              "relativeTimePattern-count-one": "{0} DiSathairne air ais",
+              "relativeTimePattern-count-two": "{0} DhiSathairne air ais",
+              "relativeTimePattern-count-few": "{0} DiSathairne air ais",
+              "relativeTimePattern-count-other": "{0} DiSathairne air ais"
             }
           },
           "sat-short": {
@@ -673,10 +673,10 @@
               "relativeTimePattern-count-other": "an ceann {0} DiS."
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "o chionn {0} DiS.",
-              "relativeTimePattern-count-two": "o chionn {0} DhiS.",
-              "relativeTimePattern-count-few": "o chionn {0} DiS.",
-              "relativeTimePattern-count-other": "o chionn {0} DiS."
+              "relativeTimePattern-count-one": "{0} DiS. air ais",
+              "relativeTimePattern-count-two": "{0} DhiS. air ais",
+              "relativeTimePattern-count-few": "{0} DiS. air ais",
+              "relativeTimePattern-count-other": "{0} DiS. air ais"
             }
           },
           "sat-narrow": {

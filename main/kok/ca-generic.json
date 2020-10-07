@@ -3,7 +3,7 @@
     "kok": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "kok"
       },
@@ -267,7 +267,7 @@
             "dateFormats": {
               "full": "EEEE d MMMM y G",
               "long": "d MMMM y G",
-              "medium": "dd-MM-y G",
+              "medium": "d-M-y G",
               "short": "d-M-y GGGGG"
             },
             "timeFormats": {
@@ -305,8 +305,8 @@
                 "hms": "h:mm:ss a",
                 "Hms": "HH:mm:ss",
                 "M": "L",
-                "Md": "dd-MM",
-                "MEd": "E, dd-MM",
+                "Md": "d-M",
+                "MEd": "E, d-M",
                 "MMM": "LLL",
                 "MMMd": "d MMM",
                 "MMMEd": "E d, MMM",
@@ -314,8 +314,8 @@
                 "ms": "mm:ss",
                 "y": "y G",
                 "yyyy": "y G",
-                "yyyyM": "MM-y GGGG",
-                "yyyyMd": "d/M/y GGGGG",
+                "yyyyM": "M-y GGGG",
+                "yyyyMd": "d-M-y GGGGG",
                 "yyyyMEd": "E, d/M/y GGGGG",
                 "yyyyMMM": "MMM y G",
                 "yyyyMMMd": "d MMM y G",
@@ -356,20 +356,20 @@
                   "y": "y–y G"
                 },
                 "GyM": {
-                  "G": "MM-yGGGG – MM-y GGGG",
-                  "M": "MM-y GGGGG – MM y",
-                  "y": "MM-y GGGGG – MM-y"
+                  "G": "M-y GGGG – M-y GGGG",
+                  "M": "M-y GGGGG – M y",
+                  "y": "M-y GGGGG – M-y"
                 },
                 "GyMd": {
-                  "d": "dd-MM-y GGGGG – dd-MM-y",
-                  "G": "dd-MM-y GGGGG – dd-MM-Y GGGGG",
-                  "M": "dd-MM-y GGGGG – dd-MM-y",
+                  "d": "d-M-y GGGGG – d-M-y",
+                  "G": "d-M-y GGGGG – d-M-Y GGGGG",
+                  "M": "d-M-y GGGGG – d-M-y",
                   "y": "d-M-y – d-M-y GGGGG"
                 },
                 "GyMEd": {
-                  "d": "E, dd-MM-Y GGGGG – E-dd-MM-y",
-                  "G": "E, dd-MM-y GGGGG – E, dd-MM-y GGGGG",
-                  "M": "E,dd-MM-y GGGGG – E, dd-MM-y",
+                  "d": "E, d-M-Y GGGGG – E-d-M-y",
+                  "G": "E, d-M-y GGGGG – E, d-M-y GGGGG",
+                  "M": "E, d-M-y GGGGG – E, d-M-y",
                   "y": "E,dd-MM-y GGGGG – E,dd-MM-y"
                 },
                 "GyMMM": {
@@ -422,15 +422,15 @@
                   "H": "HH–HH v"
                 },
                 "M": {
-                  "M": "MM–MM"
+                  "M": "M–M"
                 },
                 "Md": {
-                  "d": "d/M–d/M",
-                  "M": "d/M – d/M"
+                  "d": "d-M – d-M",
+                  "M": "d-M – d-M"
                 },
                 "MEd": {
-                  "d": "E, d/M – E, d/M",
-                  "M": "E, dd-MM, E dd-MM"
+                  "d": "E, d-M – E, d-M",
+                  "M": "E, d-M, E d-M"
                 },
                 "MMM": {
                   "M": "MMM–MMM"
@@ -447,12 +447,12 @@
                   "y": "y–y G"
                 },
                 "yM": {
-                  "M": "M/y – M/y GGGGG",
+                  "M": "M-y – M-y GGGGG",
                   "y": "M/y – M/y GGGGG"
                 },
                 "yMd": {
-                  "d": "d/M/y – d/M/y GGGGG",
-                  "M": "d/M/y – d/M/y GGGGG",
+                  "d": "d-M-y – d-M-y GGGGG",
+                  "M": "d-M-y – d-M-y GGGGG",
                   "y": "d/M/y – d/M/y GGGGG"
                 },
                 "yMEd": {

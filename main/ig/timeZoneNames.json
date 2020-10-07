@@ -3,7 +3,7 @@
     "ig": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ig"
       },
@@ -1633,6 +1633,11 @@
                 "generic": "Oge Mpaghara Ọwụwa Anyanwụ Europe",
                 "standard": "Oge Izugbe Mpaghara Ọwụwa Anyanwụ Europe",
                 "daylight": "Oge Okpomọkụ Mpaghara Ọwụwa Anyanwụ Europe"
+              }
+            },
+            "Europe_Further_Eastern": {
+              "long": {
+                "standard": "Further-eastern European Time"
               }
             },
             "Europe_Western": {

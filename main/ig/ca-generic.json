@@ -3,7 +3,7 @@
     "ig": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ig"
       },
@@ -103,7 +103,7 @@
             "days": {
               "format": {
                 "abbreviated": {
-                  "sun": "Ụka",
+                  "sun": "Sọn",
                   "mon": "Mọn",
                   "tue": "Tiu",
                   "wed": "Wen",
@@ -141,7 +141,7 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "sun": "Ụka",
+                  "sun": "Sọn",
                   "mon": "Mọn",
                   "tue": "Tiu",
                   "wed": "Wen",

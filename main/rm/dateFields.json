@@ -3,7 +3,7 @@
     "rm": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "rm"
       },
@@ -20,9 +20,9 @@
           },
           "year": {
             "displayName": "onn",
-            "relative-type--1": "last year",
-            "relative-type-0": "this year",
-            "relative-type-1": "next year",
+            "relative-type--1": "l’onn passà",
+            "relative-type-0": "quest onn",
+            "relative-type-1": "l’onn proxim",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} y"
             },
@@ -32,9 +32,9 @@
           },
           "year-short": {
             "displayName": "onn",
-            "relative-type--1": "last year",
-            "relative-type-0": "this year",
-            "relative-type-1": "next year",
+            "relative-type--1": "l’onn passà",
+            "relative-type-0": "quest onn",
+            "relative-type-1": "l’onn proxim",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} y"
             },
@@ -44,9 +44,9 @@
           },
           "year-narrow": {
             "displayName": "onn",
-            "relative-type--1": "last year",
-            "relative-type-0": "this year",
-            "relative-type-1": "next year",
+            "relative-type--1": "l’onn passà",
+            "relative-type-0": "quest onn",
+            "relative-type-1": "l’onn proxim",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} y"
             },
@@ -55,7 +55,7 @@
             }
           },
           "quarter": {
-            "displayName": "Quarter",
+            "displayName": "quartal",
             "relative-type--1": "last quarter",
             "relative-type-0": "this quarter",
             "relative-type-1": "next quarter",
@@ -67,7 +67,7 @@
             }
           },
           "quarter-short": {
-            "displayName": "Quarter",
+            "displayName": "quartal",
             "relative-type--1": "last quarter",
             "relative-type-0": "this quarter",
             "relative-type-1": "next quarter",
@@ -79,7 +79,7 @@
             }
           },
           "quarter-narrow": {
-            "displayName": "Quarter",
+            "displayName": "quartal",
             "relative-type--1": "last quarter",
             "relative-type-0": "this quarter",
             "relative-type-1": "next quarter",
@@ -175,7 +175,7 @@
             "displayName": "Week Of Month"
           },
           "day": {
-            "displayName": "Tag",
+            "displayName": "di",
             "relative-type--2": "stersas",
             "relative-type--1": "ier",
             "relative-type-0": "oz",
@@ -189,7 +189,7 @@
             }
           },
           "day-short": {
-            "displayName": "Tag",
+            "displayName": "di",
             "relative-type--2": "stersas",
             "relative-type--1": "ier",
             "relative-type-0": "oz",
@@ -203,7 +203,7 @@
             }
           },
           "day-narrow": {
-            "displayName": "Tag",
+            "displayName": "d",
             "relative-type--2": "stersas",
             "relative-type--1": "ier",
             "relative-type-0": "oz",
@@ -259,7 +259,8 @@
             "relative-type-0": "this Sunday",
             "relative-type-1": "next Sunday",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Sundays"
+              "relativeTimePattern-count-one": "+{0} dumengia",
+              "relativeTimePattern-count-other": "en {0} du"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-other": "-{0} Sundays"
@@ -270,7 +271,8 @@
             "relative-type-0": "this Sunday",
             "relative-type-1": "next Sunday",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Sundays"
+              "relativeTimePattern-count-one": "+{0} dumengia",
+              "relativeTimePattern-count-other": "en {0} du"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-other": "-{0} Sundays"

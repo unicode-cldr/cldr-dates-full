@@ -3,7 +3,7 @@
     "kea": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "kea"
       },
@@ -136,7 +136,7 @@
                   "wed": "kuarta-fera",
                   "thu": "kinta-fera",
                   "fri": "sesta-fera",
-                  "sat": "sabadu"
+                  "sat": "sábadu"
                 }
               },
               "stand-alone": {

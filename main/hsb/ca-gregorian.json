@@ -3,7 +3,7 @@
     "hsb": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "hsb"
       },
@@ -320,7 +320,7 @@
                 "MMM": "LLL",
                 "MMMd": "d. MMM",
                 "MMMEd": "E, d. MMM",
-                "MMMMd": "MMMM d",
+                "MMMMd": "d MMMM",
                 "MMMMW-count-other": "'week' W 'of' MMMM",
                 "ms": "mm:ss",
                 "y": "y",
@@ -330,7 +330,7 @@
                 "yMMM": "MMM y",
                 "yMMMd": "d. MMM y",
                 "yMMMEd": "E, d. MMM y",
-                "yMMMM": "y MMMM",
+                "yMMMM": "LLLL y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ y",
                 "yw-count-other": "'week' w 'of' Y"

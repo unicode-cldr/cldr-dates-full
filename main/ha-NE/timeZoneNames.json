@@ -3,7 +3,7 @@
     "ha-NE": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ha",
         "territory": "NE"
@@ -14,8 +14,8 @@
           "gmtFormat": "GMT{0}",
           "gmtZeroFormat": "GMT",
           "regionFormat": "{0} Lokaci",
-          "regionFormat-type-daylight": "{0} Lokacin rana",
-          "regionFormat-type-standard": "{0} Daidai ta ce lokaci",
+          "regionFormat-type-daylight": "{0} Lokacin Rana",
+          "regionFormat-type-standard": "{0} Daidaitaccen Lokaci",
           "fallbackFormat": "{1} ({0})",
           "zone": {
             "America": {
@@ -542,6 +542,9 @@
                 "exemplarCity": "Copenhagen"
               },
               "Dublin": {
+                "long": {
+                  "daylight": "Tsayayyen Lokacin Irish"
+                },
                 "exemplarCity": "Dublin"
               },
               "Gibraltar": {
@@ -578,6 +581,9 @@
                 "exemplarCity": "Ljubljana"
               },
               "London": {
+                "long": {
+                  "daylight": "Lokacin Bazara na Birtaniya"
+                },
                 "exemplarCity": "London"
               },
               "Luxembourg": {
@@ -1338,17 +1344,17 @@
           "metazone": {
             "Afghanistan": {
               "long": {
-                "standard": "Afghanistan Time"
+                "standard": "Lokacin Afghanistan"
               }
             },
             "Africa_Central": {
               "long": {
-                "standard": "Central Africa Time"
+                "standard": "Lokacin Afirka ta Tsakiya"
               }
             },
             "Africa_Eastern": {
               "long": {
-                "standard": "East Africa Time"
+                "standard": "Lokacin Gabashin Afirka"
               }
             },
             "Africa_Southern": {
@@ -1358,9 +1364,9 @@
             },
             "Africa_Western": {
               "long": {
-                "generic": "West Africa Time",
-                "standard": "West Africa Standard Time",
-                "daylight": "West Africa Summer Time"
+                "generic": "Lokacin Afirka ta Yamma",
+                "standard": "Tsayayyen Lokacin Afirka ta Yamma",
+                "daylight": "Lokacin Bazara na Afirka ta Yamma"
               }
             },
             "Alaska": {
@@ -1368,6 +1374,13 @@
                 "generic": "Lokacin Alaska",
                 "standard": "Tsayayyen Lokacin Alaska",
                 "daylight": "Lokacin Rana na Alaska"
+              }
+            },
+            "Amazon": {
+              "long": {
+                "generic": "Lokacin Amazon",
+                "standard": "Tsayayyen Lokacin Amazon",
+                "daylight": "Lokacin Bazara na Amazon"
               }
             },
             "America_Central": {
@@ -1386,93 +1399,107 @@
             },
             "America_Mountain": {
               "long": {
-                "generic": "Lokaci tsauni a arewacin da Amirka",
+                "generic": "Lokacin Tsauni na Arewacin Amurka",
                 "standard": "Lokaci tsayayye na tsauni a Arewacin Amurica",
-                "daylight": "Lokaci rana tsauni a arewacin da Amirka"
+                "daylight": "Lokacin Rana na Tsaunin Arewacin Amurka"
               }
             },
             "America_Pacific": {
               "long": {
                 "generic": "Lokacin Arewacin Amurika",
                 "standard": "Lokaci Tsayayye na Arewacin Amurika",
-                "daylight": "Lokaci da rana a Arewacin Amurika"
+                "daylight": "Lokacin Rana na Arewacin Amurka"
               }
             },
             "Apia": {
               "long": {
-                "generic": "Apia Time",
-                "standard": "Apia Standard Time",
-                "daylight": "Apia Daylight Time"
+                "generic": "Lokacin Apia",
+                "standard": "Tsayayyen Lokacin Apia",
+                "daylight": "Lokacin Rana na Apia"
               }
             },
             "Arabian": {
               "long": {
-                "generic": "Arabian Time",
+                "generic": "Lokacin Arebiya",
                 "standard": "Arabian Standard Time",
-                "daylight": "Arabian Daylight Time"
+                "daylight": "Lokacin Rana na Arebiya"
+              }
+            },
+            "Argentina": {
+              "long": {
+                "generic": "Lokacin Argentina",
+                "standard": "Tsayayyen Lokacin Argentina",
+                "daylight": "Lokacin Bazara na Argentina"
+              }
+            },
+            "Argentina_Western": {
+              "long": {
+                "generic": "Lokacin Yammacin Argentina",
+                "standard": "Tsayayyen Lokacin Yammacin Argentina",
+                "daylight": "Lokacin Bazara na Yammacin Argentina"
               }
             },
             "Armenia": {
               "long": {
-                "generic": "Armenia Time",
-                "standard": "Armenia Standard Time",
-                "daylight": "Armenia Summer Time"
+                "generic": "Lokacin Armenia",
+                "standard": "Tsayayyen Lokacin Armenia",
+                "daylight": "Lokacin Bazara na Armenia"
               }
             },
             "Atlantic": {
               "long": {
                 "generic": "Lokacin Kanada, Puerto Rico da Virgin Islands",
-                "standard": "Lokaci Tsayayye na Kanada, Puerto Rico da Virgin Islands",
+                "standard": "Tsayayyen Lokacin Kanada, Puerto Rico da Virgin Islands",
                 "daylight": "Lokacin Rana na Kanada, Puerto Rico da Virgin Islands"
               }
             },
             "Australia_Central": {
               "long": {
                 "generic": "Central Australia Time",
-                "standard": "Australian Central Standard Time",
-                "daylight": "Australian Central Daylight Time"
+                "standard": "Tsayayyen Lokacin Tsakiyar Austiraliya",
+                "daylight": "Lokacin Rana na Tsakiyar Austiraliya"
               }
             },
             "Australia_CentralWestern": {
               "long": {
-                "generic": "Australian Central Western Time",
-                "standard": "Australian Central Western Standard Time",
-                "daylight": "Australian Central Western Daylight Time"
+                "generic": "Lokacin Yammacin Tsakiyar Austiraliya",
+                "standard": "Tsayayyen Lokacin Yammacin Tsakiyar Austiraliya",
+                "daylight": "Lokacin Rana na Yammacin Tsakiyar Austiraliya"
               }
             },
             "Australia_Eastern": {
               "long": {
-                "generic": "Eastern Australia Time",
+                "generic": "Lokacin Gabashin Austiraliya",
                 "standard": "Australian Eastern Standard Time",
-                "daylight": "Australian Eastern Daylight Time"
+                "daylight": "Lokacin Rana na Gabashin Austiraliya"
               }
             },
             "Australia_Western": {
               "long": {
-                "generic": "Western Australia Time",
-                "standard": "Australian Western Standard Time",
-                "daylight": "Australian Western Daylight Time"
+                "generic": "Lokacin Yammacin Austiralia",
+                "standard": "Tsayayyen Lokacin Yammacin Austiralia",
+                "daylight": "Lokacin Rana na Yammacin Austiralia"
               }
             },
             "Azerbaijan": {
               "long": {
-                "generic": "Azerbaijan Time",
-                "standard": "Azerbaijan Standard Time",
-                "daylight": "Azerbaijan Summer Time"
+                "generic": "Lokacin Azerbaijan",
+                "standard": "Tsayayyen Lokacin Azerbaijan",
+                "daylight": "Lokacin Bazara na Azerbaijan"
               }
             },
             "Azores": {
               "long": {
-                "generic": "Azores Time",
-                "standard": "Azores Standard Time",
-                "daylight": "Azores Summer Time"
+                "generic": "Lokacin Azores",
+                "standard": "Lokacin Azores Daidaitacce",
+                "daylight": "Lokacin Azure na Bazara"
               }
             },
             "Bangladesh": {
               "long": {
-                "generic": "Bangladesh Time",
-                "standard": "Bangladesh Standard Time",
-                "daylight": "Bangladesh Summer Time"
+                "generic": "Lokacin Bangladesh",
+                "standard": "Tsayayyen Lokacin Bangladesh",
+                "daylight": "Lokacin Bazara na Bangladesh"
               }
             },
             "Bhutan": {
@@ -1480,81 +1507,119 @@
                 "standard": "Bhutan Time"
               }
             },
+            "Bolivia": {
+              "long": {
+                "standard": "Lokacin Bolivia"
+              }
+            },
+            "Brasilia": {
+              "long": {
+                "generic": "Lokacin Brasillia",
+                "standard": "Tsayayyen Lokacin Brasillia",
+                "daylight": "Lokacin Bazara na Brasillia"
+              }
+            },
             "Brunei": {
               "long": {
-                "standard": "Brunei Darussalam Time"
+                "standard": "Lokacin Brunei Darussalam"
               }
             },
             "Cape_Verde": {
               "long": {
-                "generic": "Cape Verde Time",
+                "generic": "Lokacin Cape Verde",
                 "standard": "Cape Verde Standard Time",
-                "daylight": "Cape Verde Summer Time"
+                "daylight": "Lokacin Bazara na Cape Verde"
               }
             },
             "Chamorro": {
               "long": {
-                "standard": "Chamorro Standard Time"
+                "standard": "Tsayayyen Lokacin Chamorro"
               }
             },
             "Chatham": {
               "long": {
-                "generic": "Chatham Time",
-                "standard": "Chatham Standard Time",
-                "daylight": "Chatham Daylight Time"
+                "generic": "Lokacin Chatham",
+                "standard": "Tsayayyen Lokacin Chatham",
+                "daylight": "Lokacin Rana na Chatham"
+              }
+            },
+            "Chile": {
+              "long": {
+                "generic": "Lokacin Chile",
+                "standard": "Tsayayyen Lokacin Chile",
+                "daylight": "Lokacin Bazara na Chile"
               }
             },
             "China": {
               "long": {
-                "generic": "China Time",
-                "standard": "China Standard Time",
-                "daylight": "China Daylight Time"
+                "generic": "Lokacin Sin",
+                "standard": "Tsayayyen Lokacin Sin",
+                "daylight": "Lokacin Rana na Sin"
               }
             },
             "Choibalsan": {
               "long": {
-                "generic": "Choibalsan Time",
-                "standard": "Choibalsan Standard Time",
-                "daylight": "Choibalsan Summer Time"
+                "generic": "Lokacin Choibalsan",
+                "standard": "Tsayayyen Lokacin Choibalsan",
+                "daylight": "Lokacin Bazara na Choibalsan"
               }
             },
             "Christmas": {
               "long": {
-                "standard": "Christmas Island Time"
+                "standard": "Lokacin Christmas Island"
               }
             },
             "Cocos": {
               "long": {
-                "standard": "Cocos Islands Time"
+                "standard": "Lokacin Cocos Islands"
+              }
+            },
+            "Colombia": {
+              "long": {
+                "generic": "Lokacin Colombia",
+                "standard": "Tsayayyen Lokacin Colombia",
+                "daylight": "Lokacin Bazara na Colombia"
               }
             },
             "Cook": {
               "long": {
-                "generic": "Cook Islands Time",
-                "standard": "Cook Islands Standard Time",
-                "daylight": "Cook Islands Half Summer Time"
+                "generic": "Lokacin Cook Islands",
+                "standard": "Tsayayyen Lokacin Cook Islands",
+                "daylight": "Rabin Lokacin Bazara na Cook Islands"
               }
             },
             "Cuba": {
               "long": {
-                "generic": "Lokaci ta Kuba",
-                "standard": "Lokaci Tsayayye na Kuba",
-                "daylight": "Lokaci rana ta Kuba"
+                "generic": "Lokaci na Kuba",
+                "standard": "Tsayayyen Lokacin Kuba",
+                "daylight": "Lokacin Rana na Kuba"
               }
             },
             "Davis": {
               "long": {
-                "standard": "Davis Time"
+                "standard": "Lokacin Davis"
               }
             },
             "DumontDUrville": {
               "long": {
-                "standard": "Dumont-d’Urville Time"
+                "standard": "Lokacin Dumont-d’Urville"
               }
             },
             "East_Timor": {
               "long": {
-                "standard": "East Timor Time"
+                "standard": "Lokacin East Timor"
+              }
+            },
+            "Easter": {
+              "long": {
+                "generic": "Lokacin Easter Island",
+                "standard": "Tsayayyen Lokacin Easter Island",
+                "daylight": "Lokacin Bazara na Easter Island"
+              }
+            },
+            "Ecuador": {
+              "long": {
+                "standard": "Lokacin Ecuador"
               }
             },
             "Europe_Central": {
@@ -1571,6 +1636,11 @@
                 "daylight": "Gabas a lokaci turai da bazara"
               }
             },
+            "Europe_Further_Eastern": {
+              "long": {
+                "standard": "Lokacin Gabashin Turai mai Nisa"
+              }
+            },
             "Europe_Western": {
               "long": {
                 "generic": "Lokaci ta yammacin turai",
@@ -1578,33 +1648,50 @@
                 "daylight": "Ida lokaci ta yammacin turai da bazara"
               }
             },
+            "Falkland": {
+              "long": {
+                "generic": "Lokacin Falkland Islands",
+                "standard": "Tsayayyen Lokacin Falkland Islands",
+                "daylight": "Lokacin Bazara na Falkland Islands"
+              }
+            },
             "Fiji": {
               "long": {
-                "generic": "Fiji Time",
-                "standard": "Fiji Standard Time",
-                "daylight": "Fiji Summer Time"
+                "generic": "Lokacin Fiji",
+                "standard": "Tsayayyen Lokacin Fiji",
+                "daylight": "Lokacin Bazara na Fiji"
+              }
+            },
+            "French_Guiana": {
+              "long": {
+                "standard": "Lokacin French Guiana"
               }
             },
             "French_Southern": {
               "long": {
-                "standard": "French Southern & Antarctic Time"
+                "standard": "Lokacin Kudancin Faransa da Antarctic"
+              }
+            },
+            "Galapagos": {
+              "long": {
+                "standard": "Lokacin Galapagos"
               }
             },
             "Gambier": {
               "long": {
-                "standard": "Gambier Time"
+                "standard": "Lokacin Gambier"
               }
             },
             "Georgia": {
               "long": {
-                "generic": "Georgia Time",
-                "standard": "Georgia Standard Time",
+                "generic": "Lokacin Georgia",
+                "standard": "Tsayayyen Lokacin Georgia",
                 "daylight": "Georgia Summer Time"
               }
             },
             "Gilbert_Islands": {
               "long": {
-                "standard": "Gilbert Islands Time"
+                "standard": "Lokacin Gilbert Islands"
               }
             },
             "GMT": {
@@ -1614,42 +1701,47 @@
             },
             "Greenland_Eastern": {
               "long": {
-                "generic": "Lokaci a gabas ta Greeland",
-                "standard": "Lokaci Tsayayye a gabashin ta Greenland",
-                "daylight": "Lokaci rana a gabas ta Greeland"
+                "generic": "Lokacin Gabas na Greenland",
+                "standard": "Tsayayyen Lokacin Gabashin Greenland",
+                "daylight": "Lokacin Rana na Gabashin Greenland"
               }
             },
             "Greenland_Western": {
               "long": {
-                "generic": "Lokaci a yammacin Greeland",
-                "standard": "Lokaci Tsayayye a yammacin Greeland",
-                "daylight": "Lokacin rana a yammacin Greeland"
+                "generic": "Lokacin Yammacin Greenland",
+                "standard": "Tsayayyen Lokacin Yammacin Greenland",
+                "daylight": "Lokacin Rana na Yammacin Greenland"
               }
             },
             "Gulf": {
               "long": {
-                "standard": "Gulf Standard Time [translation hint: translate as just \\\"Gulf Time\\\"]"
+                "standard": "Lokacin Golf"
+              }
+            },
+            "Guyana": {
+              "long": {
+                "standard": "Lokacin Guyana"
               }
             },
             "Hawaii_Aleutian": {
               "long": {
-                "generic": "Lokaci ta Hawaii-Aleutian",
-                "standard": "Ida Lokaci ta Hawaii-Aleutian",
-                "daylight": "Lokaci rana ta Hawaii-Aleutian"
+                "generic": "Lokaci na Hawaii-Aleutian",
+                "standard": "Tsayayyen Lokacin Hawaii-Aleutian",
+                "daylight": "Lokacin Rana na Hawaii-Aleutian"
               }
             },
             "Hong_Kong": {
               "long": {
-                "generic": "Hong Kong Time",
-                "standard": "Hong Kong Standard Time",
-                "daylight": "Hong Kong Summer Time"
+                "generic": "Lokacin Hong Kong",
+                "standard": "Tsayayyen Lokacin Hong Kong",
+                "daylight": "Lokacin Bazara na Hong Kong"
               }
             },
             "Hovd": {
               "long": {
-                "generic": "Hovd Time",
-                "standard": "Hovd Standard Time",
-                "daylight": "Hovd Summer Time"
+                "generic": "Lokacin Hovd",
+                "standard": "Tsayayyen Lokacin Hovd",
+                "daylight": "Lokacin Bazara na Hovd"
               }
             },
             "India": {
@@ -1659,17 +1751,17 @@
             },
             "Indian_Ocean": {
               "long": {
-                "standard": "Indian Ocean Time"
+                "standard": "Lokacin Tekun Indiya"
               }
             },
             "Indochina": {
               "long": {
-                "standard": "Indochina Time"
+                "standard": "Lokacin Indochina"
               }
             },
             "Indonesia_Central": {
               "long": {
-                "standard": "Central Indonesia Time"
+                "standard": "Lokacin Indonesia ta Tsakiya"
               }
             },
             "Indonesia_Eastern": {
@@ -1679,327 +1771,358 @@
             },
             "Indonesia_Western": {
               "long": {
-                "standard": "Western Indonesia Time"
+                "standard": "Lokacin Yammacin Indonesia"
               }
             },
             "Iran": {
               "long": {
-                "generic": "Iran Time",
-                "standard": "Iran Standard Time",
-                "daylight": "Iran Daylight Time"
+                "generic": "Lokacin Iran",
+                "standard": "Tsayayyen Lokacin Iran",
+                "daylight": "Lokacin Rana na Iran"
               }
             },
             "Irkutsk": {
               "long": {
-                "generic": "Irkutsk Time",
-                "standard": "Irkutsk Standard Time",
-                "daylight": "Irkutsk Summer Time"
+                "generic": "Lokacin Irkutsk",
+                "standard": "Tsayayyen Lokacin Irkutsk",
+                "daylight": "Lokacin Bazara na Irkutsk"
               }
             },
             "Israel": {
               "long": {
-                "generic": "Israel Time",
+                "generic": "Lokacin Israʼila",
                 "standard": "Israel Standard Time",
                 "daylight": "Israel Daylight Time"
               }
             },
             "Japan": {
               "long": {
-                "generic": "Japan Time",
+                "generic": "Lokacin Japan",
                 "standard": "Japan Standard Time",
                 "daylight": "Japan Daylight Time"
               }
             },
             "Kazakhstan_Eastern": {
               "long": {
-                "standard": "East Kazakhstan Time"
+                "standard": "Lokacin Gabashin Kazakhstan"
               }
             },
             "Kazakhstan_Western": {
               "long": {
-                "standard": "West Kazakhstan Time"
+                "standard": "Lokacin Yammacin Kazakhstan"
               }
             },
             "Korea": {
               "long": {
-                "generic": "Korean Time",
-                "standard": "Korean Standard Time",
-                "daylight": "Korean Daylight Time"
+                "generic": "Lokacin Koriya",
+                "standard": "Tsayayyen Lokacin Koriya",
+                "daylight": "Lokacin Rana na Koriya"
               }
             },
             "Kosrae": {
               "long": {
-                "standard": "Kosrae Time"
+                "standard": "Lokacin Kosrae"
               }
             },
             "Krasnoyarsk": {
               "long": {
-                "generic": "Krasnoyarsk Time",
-                "standard": "Krasnoyarsk Standard Time",
-                "daylight": "Krasnoyarsk Summer Time"
+                "generic": "Lokacin Krasnoyarsk",
+                "standard": "Tsayayyen Lokacin Krasnoyarsk",
+                "daylight": "Lokacin Bazara na Krasnoyarsk"
               }
             },
             "Kyrgystan": {
               "long": {
-                "standard": "Kyrgyzstan Time"
+                "standard": "Lokacin Kazakhstan"
               }
             },
             "Line_Islands": {
               "long": {
-                "standard": "Line Islands Time"
+                "standard": "Lokacin Line Islands"
               }
             },
             "Lord_Howe": {
               "long": {
-                "generic": "Lord Howe Time",
-                "standard": "Lord Howe Standard Time",
-                "daylight": "Lord Howe Daylight Time"
+                "generic": "Lokacin Lord Howe",
+                "standard": "Tsayayyen Lokacin Lord Howe",
+                "daylight": "Lokacin Rana na Vote Lord Howe"
               }
             },
             "Macquarie": {
               "long": {
-                "standard": "Macquarie Island Time"
+                "standard": "Lokacin Macquarie Island"
               }
             },
             "Magadan": {
               "long": {
-                "generic": "Magadan Time",
-                "standard": "Magadan Standard Time",
-                "daylight": "Magadan Summer Time"
+                "generic": "Lokacin Magadan",
+                "standard": "Tsayayyen Lokacin Magadan",
+                "daylight": "Lokacin Bazara na Magadan"
               }
             },
             "Malaysia": {
               "long": {
-                "standard": "Malaysia Time"
+                "standard": "Lokacin Malaysia"
               }
             },
             "Maldives": {
               "long": {
-                "standard": "Maldives Time"
+                "standard": "Lokacin Maldives"
               }
             },
             "Marquesas": {
               "long": {
-                "standard": "Marquesas Time"
+                "standard": "Lokacin Marquesas"
               }
             },
             "Marshall_Islands": {
               "long": {
-                "standard": "Marshall Islands Time"
+                "standard": "Lokacin Marshall Islands"
               }
             },
             "Mauritius": {
               "long": {
                 "generic": "Lokacin Mauritius",
-                "standard": "TsaTsayayyar Lokacin Mauritius",
-                "daylight": "Bazarar Mauritius"
+                "standard": "Tsayayyen Lokacin Mauritius",
+                "daylight": "Lokacin Bazara na Mauritius"
               }
             },
             "Mawson": {
               "long": {
-                "standard": "Mawson Time"
+                "standard": "Lokacin Mawson"
               }
             },
             "Mexico_Northwest": {
               "long": {
-                "generic": "Lokacin arewa maso gabashin mesiko",
-                "standard": "Lokaci Tsayayye na arewa maso gabashin Mesiko",
-                "daylight": "Lokacin rana na arewa maso gabashin Mesiko"
+                "generic": "Lokacin Arewa Maso Yammacin Mekziko",
+                "standard": "Tsayayyen Lokacin Arewa Maso Yammacin Mekziko",
+                "daylight": "Lokacin Rana na Arewa Maso Yammacin Mekziko"
               }
             },
             "Mexico_Pacific": {
               "long": {
-                "generic": "Lokaci na Mesiko Pacific",
-                "standard": "Lokaci Tsayayye na Mesiko Pacific",
-                "daylight": "Lokaci na rana na Mesiko Pacific"
+                "generic": "Lokacin Mekziko Pacific",
+                "standard": "Tsayayyen Lokacin Mekziko Pacific",
+                "daylight": "Lokacin Rana na Mekziko Pacific"
               }
             },
             "Mongolia": {
               "long": {
-                "generic": "Ulaanbaatar Time",
-                "standard": "Ulaanbaatar Standard Time",
-                "daylight": "Ulaanbaatar Summer Time"
+                "generic": "Lokacin Ulaanbaatar",
+                "standard": "Tsayayyen Lokacin Ulaanbaatar",
+                "daylight": "Lokacin Bazara na Ulaanbaatar"
               }
             },
             "Moscow": {
               "long": {
-                "generic": "Moscow Time",
-                "standard": "Moscow Standard Time",
-                "daylight": "Moscow Summer Time"
+                "generic": "Lokacin Moscow",
+                "standard": "Tsayayyen Lokacin Moscow",
+                "daylight": "Lokacin Bazara na Moscow"
               }
             },
             "Myanmar": {
               "long": {
-                "standard": "Myanmar Time"
+                "standard": "Lokacin Myanmar"
               }
             },
             "Nauru": {
               "long": {
-                "standard": "Nauru Time"
+                "standard": "Lokacin Nauru"
               }
             },
             "Nepal": {
               "long": {
-                "standard": "Nepal Time"
+                "standard": "Lokacin Nepal"
               }
             },
             "New_Caledonia": {
               "long": {
-                "generic": "New Caledonia Time",
-                "standard": "New Caledonia Standard Time",
-                "daylight": "New Caledonia Summer Time"
+                "generic": "Lokacin New Caledonia",
+                "standard": "Tsayayyen Lokacin New Caledonia",
+                "daylight": "Lokacin Bazara na New Caledonia"
               }
             },
             "New_Zealand": {
               "long": {
-                "generic": "New Zealand Time",
-                "standard": "New Zealand Standard Time",
-                "daylight": "New Zealand Daylight Time"
+                "generic": "Lokacin New Zealand",
+                "standard": "Tsayayyen Lokacin New Zealand",
+                "daylight": "Lokacin Rana na New Zealand"
               }
             },
             "Newfoundland": {
               "long": {
-                "generic": "Lokaci ta Newfoundland",
+                "generic": "Lokacin Newfoundland",
                 "standard": "Lokaci Tsayayye ta Newfoundland",
                 "daylight": "Lokaci rana ta Newfoundland"
               }
             },
             "Niue": {
               "long": {
-                "standard": "Niue Time"
+                "standard": "Lokacin Niue"
               }
             },
             "Norfolk": {
               "long": {
-                "generic": "Norfolk Island Time",
-                "standard": "Norfolk Island Standard Time",
-                "daylight": "Norfolk Island Daylight Time"
+                "generic": "Lokacin Norfolk Island",
+                "standard": "Tsayayyen Lokacin Norfolk Island",
+                "daylight": "Lokacin Rana na Norfolk Island"
+              }
+            },
+            "Noronha": {
+              "long": {
+                "generic": "Lokacin Fernando de Noronha",
+                "standard": "Tsayayyen Lokacin Fernando de Noronha",
+                "daylight": "Lokacin Bazara na Fernando de Noronha"
               }
             },
             "Novosibirsk": {
               "long": {
-                "generic": "Novosibirsk Time",
+                "generic": "Lokacin Novosibirsk",
                 "standard": "Novosibirsk Standard Time",
-                "daylight": "Novosibirsk Summer Time"
+                "daylight": "Lokacin Bazara na Novosibirsk"
               }
             },
             "Omsk": {
               "long": {
-                "generic": "Omsk Time",
-                "standard": "Omsk Standard Time",
-                "daylight": "Omsk Summer Time"
+                "generic": "Lokacin Omsk",
+                "standard": "Tsayayyen Lokacin Omsk",
+                "daylight": "Lokacin Bazara na Omsk"
               }
             },
             "Pakistan": {
               "long": {
-                "generic": "Pakistan Time",
-                "standard": "Pakistan Standard Time",
-                "daylight": "Pakistan Summer Time"
+                "generic": "Lokacin Pakistan",
+                "standard": "Tsayayyen Lokacin Pakistan",
+                "daylight": "Lokacin Bazara na Pakistan"
               }
             },
             "Palau": {
               "long": {
-                "standard": "Palau Time"
+                "standard": "Lokacin Palau"
               }
             },
             "Papua_New_Guinea": {
               "long": {
-                "standard": "Papua New Guinea Time"
+                "standard": "Lokacin Papua New Guinea"
+              }
+            },
+            "Paraguay": {
+              "long": {
+                "generic": "Lokacin Paraguay",
+                "standard": "Tsayayyen Lokacin Paraguay",
+                "daylight": "Lokacin Bazara na Paraguay"
+              }
+            },
+            "Peru": {
+              "long": {
+                "generic": "Lokacin Peru",
+                "standard": "Tsayayyen Lokacin Peru",
+                "daylight": "Lokacin Bazara na Peru"
               }
             },
             "Philippines": {
               "long": {
-                "generic": "Philippine Time",
-                "standard": "Philippine Standard Time",
-                "daylight": "Philippine Summer Time"
+                "generic": "Lokacin Philippine",
+                "standard": "Tsayayyen Lokacin Philippine",
+                "daylight": "Lokacin Bazara na Philippine"
               }
             },
             "Phoenix_Islands": {
               "long": {
-                "standard": "Phoenix Islands Time"
+                "standard": "Lokacin Phoenix Islands"
               }
             },
             "Pierre_Miquelon": {
               "long": {
-                "generic": "Lokaci ta St. Pierre da Miquelon",
-                "standard": "Lokaci tsayayye St. Pierre da Miquelon",
-                "daylight": "Lokaci rana ta St. Pierre da Miquelon"
+                "generic": "Lokacin St. Pierre da Miquelon",
+                "standard": "Tsayayyen Lokacin St. Pierre da Miquelon",
+                "daylight": "Lokacin Rana na St. Pierre da Miquelon"
               }
             },
             "Pitcairn": {
               "long": {
-                "standard": "Pitcairn Time"
+                "standard": "Lokacin Pitcairn"
               }
             },
             "Ponape": {
               "long": {
-                "standard": "Ponape Time"
+                "standard": "Lokacin Ponape"
               }
             },
             "Pyongyang": {
               "long": {
-                "standard": "Pyongyang Time"
+                "standard": "Lokacin Pyongyang"
               }
             },
             "Reunion": {
               "long": {
-                "standard": "Réunion Time"
+                "standard": "Lokacin Réunion"
               }
             },
             "Rothera": {
               "long": {
-                "standard": "Rothera Time"
+                "standard": "Lokacin Rothera"
               }
             },
             "Sakhalin": {
               "long": {
-                "generic": "Sakhalin Time",
-                "standard": "Sakhalin Standard Time",
-                "daylight": "Sakhalin Summer Time"
+                "generic": "Lokacin Sakhalin",
+                "standard": "Tsayayyen Lokacin Sakhalin",
+                "daylight": "Lokacin Bazara na Sakhalin"
               }
             },
             "Samoa": {
               "long": {
-                "generic": "Samoa Time",
-                "standard": "Samoa Standard Time",
-                "daylight": "Samoa Daylight Time"
+                "generic": "Lokacin Samoa",
+                "standard": "Tsayayyen Lokacin Samoa",
+                "daylight": "Lokacin Rana na Vote Samoa"
               }
             },
             "Seychelles": {
               "long": {
-                "standard": "Seychelles Time"
+                "standard": "Lokacin Seychelles"
               }
             },
             "Singapore": {
               "long": {
-                "standard": "Singapore Standard Time"
+                "standard": "Tsayayyen Lokacin Singapore"
               }
             },
             "Solomon": {
               "long": {
-                "standard": "Solomon Islands Time"
+                "standard": "Lokacin Rana na Solomon"
+              }
+            },
+            "South_Georgia": {
+              "long": {
+                "standard": "Lokacin Kudancin Georgia"
+              }
+            },
+            "Suriname": {
+              "long": {
+                "standard": "Lokacin Suriname"
               }
             },
             "Syowa": {
               "long": {
-                "standard": "Syowa Time"
+                "standard": "Lokacin Syowa"
               }
             },
             "Tahiti": {
               "long": {
-                "standard": "Tahiti Time"
+                "standard": "Lokacin Tahiti"
               }
             },
             "Taipei": {
               "long": {
-                "generic": "Taipei Time",
-                "standard": "Taipei Standard Time",
-                "daylight": "Taipei Daylight Time"
+                "generic": "Lokacin Taipei",
+                "standard": "Tsayayyen Lokacin Taipei",
+                "daylight": "Lokacin Rana na Taipei"
               }
             },
             "Tajikistan": {
               "long": {
-                "standard": "Tajikistan Time"
+                "standard": "Lokacin Tajikistan"
               }
             },
             "Tokelau": {
@@ -2009,83 +2132,95 @@
             },
             "Tonga": {
               "long": {
-                "generic": "Tonga Time",
-                "standard": "Tonga Standard Time",
-                "daylight": "Tonga Summer Time"
+                "generic": "Lokacin Tonga",
+                "standard": "Tsayayyen Lokacin Tonga",
+                "daylight": "Lokacin Bazara na Tonga"
               }
             },
             "Truk": {
               "long": {
-                "standard": "Chuuk Time"
+                "standard": "Lokacin Chuuk"
               }
             },
             "Turkmenistan": {
               "long": {
-                "generic": "Turkmenistan Time",
-                "standard": "Turkmenistan Standard Time",
+                "generic": "Lokacin Turkmenistan",
+                "standard": "Tsayayyen Lokacin Turkmenistan",
                 "daylight": "Turkmenistan Summer Time"
               }
             },
             "Tuvalu": {
               "long": {
-                "standard": "Tuvalu Time"
+                "standard": "Lokacin Tuvalu"
+              }
+            },
+            "Uruguay": {
+              "long": {
+                "generic": "Lokacin Uruguay",
+                "standard": "Tsayayyen Lokacin Uruguay",
+                "daylight": "Lokacin Bazara na Uruguay"
               }
             },
             "Uzbekistan": {
               "long": {
-                "generic": "Uzbekistan Time",
-                "standard": "Uzbekistan Standard Time",
-                "daylight": "Uzbekistan Summer Time"
+                "generic": "Lokacin Uzbekistan",
+                "standard": "Tsayayyen Lokacin Uzbekistan",
+                "daylight": "Lokacin Bazara na Uzbekistan"
               }
             },
             "Vanuatu": {
               "long": {
-                "generic": "Vanuatu Time",
-                "standard": "Vanuatu Standard Time",
-                "daylight": "Vanuatu Summer Time"
+                "generic": "Lokacin Vanuatu",
+                "standard": "Tsayayyen Lokacin Vanuatu",
+                "daylight": "Lokacin Bazara na Vanuatu"
+              }
+            },
+            "Venezuela": {
+              "long": {
+                "standard": "Lokacin Venezuela"
               }
             },
             "Vladivostok": {
               "long": {
-                "generic": "Vladivostok Time",
-                "standard": "Vladivostok Standard Time",
-                "daylight": "Vladivostok Summer Time"
+                "generic": "Lokacin Vladivostok",
+                "standard": "Tsayayyen Lokacin Vladivostok",
+                "daylight": "Lokacin Bazara na Vladivostok"
               }
             },
             "Volgograd": {
               "long": {
-                "generic": "Volgograd Time",
-                "standard": "Volgograd Standard Time",
-                "daylight": "Volgograd Summer Time"
+                "generic": "Lokacin Volgograd",
+                "standard": "Tsayayyen Lokacin Volgograd",
+                "daylight": "Lokacin Bazara na Volgograd"
               }
             },
             "Vostok": {
               "long": {
-                "standard": "Vostok Time"
+                "standard": "Lokacin Vostok"
               }
             },
             "Wake": {
               "long": {
-                "standard": "Wake Island Time"
+                "standard": "Lokacin Wake Island"
               }
             },
             "Wallis": {
               "long": {
-                "standard": "Wallis & Futuna Time"
+                "standard": "Lokacin Wallis da Futuna"
               }
             },
             "Yakutsk": {
               "long": {
-                "generic": "Yakutsk Time",
-                "standard": "Yakutsk Standard Time",
-                "daylight": "Yakutsk Summer Time"
+                "generic": "Lokacin Yakutsk",
+                "standard": "Tsayayyen Lokacin Yakutsk",
+                "daylight": "Lokacin Bazara na Yakutsk"
               }
             },
             "Yekaterinburg": {
               "long": {
-                "generic": "Yekaterinburg Time",
-                "standard": "Yekaterinburg Standard Time",
-                "daylight": "Yekaterinburg Summer Time"
+                "generic": "Lokacin Yekaterinburg",
+                "standard": "Tsayayyen Lokacin Yekaterinburg",
+                "daylight": "Lokacin Bazara na Yekaterinburg"
               }
             }
           }

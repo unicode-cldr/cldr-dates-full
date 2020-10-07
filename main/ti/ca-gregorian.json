@@ -3,7 +3,7 @@
     "ti": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ti"
       },
@@ -181,10 +181,10 @@
             "quarters": {
               "format": {
                 "abbreviated": {
-                  "1": "ር1",
-                  "2": "ር2",
-                  "3": "ር3",
-                  "4": "ር4"
+                  "1": "ቀዳማይ ርብዒ",
+                  "2": "ካልኣይ ርብዒ",
+                  "3": "ሳልሳይ ርብዒ",
+                  "4": "ራብዓይ ርብዒ"
                 },
                 "narrow": {
                   "1": "1",
@@ -223,36 +223,36 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "am": "ንጉሆ ሰዓተ",
-                  "pm": "ድሕር ሰዓት"
+                  "am": "ቅ ፍር-መዓ",
+                  "pm": "ደሕ ፍር-መዓ"
                 },
                 "narrow": {
                   "am": "ንጉሆ ሰዓተ",
                   "pm": "ድሕር ሰዓት"
                 },
                 "wide": {
-                  "am": "ንጉሆ ሰዓተ",
-                  "pm": "ድሕር ሰዓት"
+                  "am": "ቅድመ ፍርቂ-መዓልቲ",
+                  "pm": "ደሕረ ፍርቀ-መዓልቲ"
                 }
               },
               "stand-alone": {
                 "abbreviated": {
-                  "am": "ንጉሆ ሰዓተ",
-                  "pm": "ድሕር ሰዓት"
+                  "am": "ቅ ፍር-መዓ",
+                  "pm": "ደሕ ፍር-መዓ"
                 },
                 "narrow": {
                   "am": "ንጉሆ ሰዓተ",
                   "pm": "ድሕር ሰዓት"
                 },
                 "wide": {
-                  "am": "ንጉሆ ሰዓተ",
-                  "pm": "ድሕር ሰዓት"
+                  "am": "ቅድመ ፍርቂ-መዓልቲ",
+                  "pm": "ደሕረ ፍርቀ-መዓልቲ"
                 }
               }
             },
             "eras": {
               "eraNames": {
-                "0": "ዓ/ዓ",
+                "0": "ቅድመ ክርስቶስ",
                 "0-alt-variant": "ቅ.ል.ክ",
                 "1": "ዓመተ ምህረት",
                 "1-alt-variant": "ድ.ል.ክ"
@@ -300,7 +300,7 @@
                 "EHm": "E HH:mm",
                 "Ehms": "E h:mm:ss a",
                 "EHms": "E HH:mm:ss",
-                "Gy": "G y",
+                "Gy": "y G",
                 "GyMMM": "G y MMM",
                 "GyMMMd": "G y MMM d",
                 "GyMMMEd": "G y MMM d, E",
@@ -357,12 +357,12 @@
                 "intervalFormatFallback": "{0} – {1}",
                 "Bh": {
                   "B": "h B – h B",
-                  "h": "h–h B"
+                  "h": "h – h B"
                 },
                 "Bhm": {
                   "B": "h:mm B – h:mm B",
-                  "h": "h:mm–h:mm B",
-                  "m": "h:mm–h:mm B"
+                  "h": "h:mm – h:mm B",
+                  "m": "h:mm – h:mm B"
                 },
                 "d": {
                   "d": "d–d"
@@ -487,12 +487,12 @@
                 },
                 "yMMMEd": {
                   "d": "y MMM d, E – MMM d, E",
-                  "M": "y MMM d, E – MMM d, E",
-                  "y": "y MMM d, E – y MMM d, E"
+                  "M": "E, MMM d – E, MMM d, y",
+                  "y": "E, MMM d, y – E, MMM d, y"
                 },
                 "yMMMM": {
-                  "M": "y MMMM–MMMM",
-                  "y": "y MMMM – y MMMM"
+                  "M": "MMMM – MMMM y",
+                  "y": "MMMM y – MMMM y"
                 }
               }
             }

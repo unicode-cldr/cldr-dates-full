@@ -3,7 +3,7 @@
     "ti": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ti"
       },
@@ -541,6 +541,9 @@
                 "exemplarCity": "Copenhagen"
               },
               "Dublin": {
+                "long": {
+                  "daylight": "Irish Standard Time"
+                },
                 "exemplarCity": "Dublin"
               },
               "Gibraltar": {
@@ -577,6 +580,9 @@
                 "exemplarCity": "Ljubljana"
               },
               "London": {
+                "long": {
+                  "daylight": "British Summer Time"
+                },
                 "exemplarCity": "London"
               },
               "Luxembourg": {
@@ -1013,7 +1019,7 @@
                 "exemplarCity": "Qatar"
               },
               "Qostanay": {
-                "exemplarCity": "Qostanay"
+                "exemplarCity": "Kostanay"
               },
               "Qyzylorda": {
                 "exemplarCity": "Qyzylorda"
@@ -1325,12 +1331,42 @@
             },
             "Etc": {
               "UTC": {
+                "long": {
+                  "standard": "Coordinated Universal Time"
+                },
                 "short": {
                   "standard": "UTC"
                 }
               },
               "Unknown": {
                 "exemplarCity": "Unknown"
+              }
+            }
+          },
+          "metazone": {
+            "Indonesia_Central": {
+              "long": {
+                "standard": "Central Indonesia Time"
+              }
+            },
+            "Indonesia_Eastern": {
+              "long": {
+                "standard": "Eastern Indonesia Time"
+              }
+            },
+            "Indonesia_Western": {
+              "long": {
+                "standard": "Western Indonesia Time"
+              }
+            },
+            "Malaysia": {
+              "long": {
+                "standard": "Malaysia Time"
+              }
+            },
+            "Singapore": {
+              "long": {
+                "standard": "Singapore Standard Time"
               }
             }
           }

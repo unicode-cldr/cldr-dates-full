@@ -3,20 +3,20 @@
     "ceb": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ceb"
       },
       "dates": {
         "fields": {
           "era": {
-            "displayName": "era"
+            "displayName": "panahon"
           },
           "era-short": {
-            "displayName": "era"
+            "displayName": "panahon"
           },
           "era-narrow": {
-            "displayName": "era"
+            "displayName": "panahon"
           },
           "year": {
             "displayName": "tuig",

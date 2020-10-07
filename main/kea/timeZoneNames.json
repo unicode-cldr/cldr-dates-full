@@ -3,7 +3,7 @@
     "kea": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "kea"
       },
@@ -19,13 +19,13 @@
           "zone": {
             "America": {
               "Adak": {
-                "exemplarCity": "Adak"
+                "exemplarCity": "Adaki"
               },
               "Anchorage": {
-                "exemplarCity": "Anchorage"
+                "exemplarCity": "Ankoraji"
               },
               "Anguilla": {
-                "exemplarCity": "Anguilla"
+                "exemplarCity": "Angila"
               },
               "Antigua": {
                 "exemplarCity": "Antigua"
@@ -66,16 +66,16 @@
                 "exemplarCity": "Bahia"
               },
               "Bahia_Banderas": {
-                "exemplarCity": "Bahia Banderas"
+                "exemplarCity": "Baía di Banderas"
               },
               "Barbados": {
-                "exemplarCity": "Barbados"
+                "exemplarCity": "Barbadus"
               },
               "Belem": {
                 "exemplarCity": "Belem"
               },
               "Belize": {
-                "exemplarCity": "Belize"
+                "exemplarCity": "Belizi"
               },
               "Blanc-Sablon": {
                 "exemplarCity": "Blank-Sablon"
@@ -87,7 +87,7 @@
                 "exemplarCity": "Bogota"
               },
               "Boise": {
-                "exemplarCity": "Boise"
+                "exemplarCity": "Boiz"
               },
               "Buenos_Aires": {
                 "exemplarCity": "Buenos Aires"
@@ -111,7 +111,7 @@
                 "exemplarCity": "Cayenne"
               },
               "Cayman": {
-                "exemplarCity": "Cayman"
+                "exemplarCity": "Kaiman"
               },
               "Chicago": {
                 "exemplarCity": "Xikagu"
@@ -129,13 +129,13 @@
                 "exemplarCity": "Kosta Rika"
               },
               "Creston": {
-                "exemplarCity": "Creston"
+                "exemplarCity": "Kréston"
               },
               "Cuiaba": {
                 "exemplarCity": "Cuiaba"
               },
               "Curacao": {
-                "exemplarCity": "Curacao"
+                "exemplarCity": "Kurasau"
               },
               "Danmarkshavn": {
                 "exemplarCity": "Danmarkshavn"
@@ -153,7 +153,7 @@
                 "exemplarCity": "Detroit"
               },
               "Dominica": {
-                "exemplarCity": "Dominica"
+                "exemplarCity": "Dominika"
               },
               "Edmonton": {
                 "exemplarCity": "Edmonton"
@@ -183,13 +183,13 @@
                 "exemplarCity": "Grand Turk"
               },
               "Grenada": {
-                "exemplarCity": "Grenada"
+                "exemplarCity": "Granada"
               },
               "Guadeloupe": {
-                "exemplarCity": "Guadeloupe"
+                "exemplarCity": "Guadalupi"
               },
               "Guatemala": {
-                "exemplarCity": "Guatemala"
+                "exemplarCity": "Guatimala"
               },
               "Guayaquil": {
                 "exemplarCity": "Guayaquil"
@@ -201,7 +201,7 @@
                 "exemplarCity": "Halifax"
               },
               "Havana": {
-                "exemplarCity": "Havana"
+                "exemplarCity": "Avana"
               },
               "Hermosillo": {
                 "exemplarCity": "Hermosillo"
@@ -230,7 +230,7 @@
                 }
               },
               "Indianapolis": {
-                "exemplarCity": "Indianapolis"
+                "exemplarCity": "Indianápolis"
               },
               "Inuvik": {
                 "exemplarCity": "Inuvik"
@@ -239,7 +239,7 @@
                 "exemplarCity": "Iqaluit"
               },
               "Jamaica": {
-                "exemplarCity": "Jamaica"
+                "exemplarCity": "Jamaika"
               },
               "Jujuy": {
                 "exemplarCity": "Jujuy"
@@ -274,7 +274,7 @@
                 "exemplarCity": "Maceio"
               },
               "Managua": {
-                "exemplarCity": "Managua"
+                "exemplarCity": "Manágua"
               },
               "Manaus": {
                 "exemplarCity": "Manaus"
@@ -283,7 +283,7 @@
                 "exemplarCity": "Marigot"
               },
               "Martinique": {
-                "exemplarCity": "Martinique"
+                "exemplarCity": "Martinika"
               },
               "Matamoros": {
                 "exemplarCity": "Matamoros"
@@ -298,16 +298,16 @@
                 "exemplarCity": "Menominee"
               },
               "Merida": {
-                "exemplarCity": "Merida"
+                "exemplarCity": "Mérida"
               },
               "Metlakatla": {
                 "exemplarCity": "Metlakatla"
               },
               "Mexico_City": {
-                "exemplarCity": "Mexico City"
+                "exemplarCity": "Sidadi di Méxiku"
               },
               "Miquelon": {
-                "exemplarCity": "Miquelon"
+                "exemplarCity": "Mikelon"
               },
               "Moncton": {
                 "exemplarCity": "Moncton"
@@ -325,7 +325,7 @@
                 "exemplarCity": "Nassau"
               },
               "New_York": {
-                "exemplarCity": "New York"
+                "exemplarCity": "Nova Iorki"
               },
               "Nipigon": {
                 "exemplarCity": "Nipigon"
@@ -338,20 +338,20 @@
               },
               "North_Dakota": {
                 "Beulah": {
-                  "exemplarCity": "Beulah, North Dakota"
+                  "exemplarCity": "Beulah, Dakota di Norti"
                 },
                 "New_Salem": {
-                  "exemplarCity": "New Salem, North Dakota"
+                  "exemplarCity": "New Salem, Dakota di Norti"
                 },
                 "Center": {
-                  "exemplarCity": "Center, North Dakota"
+                  "exemplarCity": "Center, Dakota di Norti"
                 }
               },
               "Ojinaga": {
                 "exemplarCity": "Ojinaga"
               },
               "Panama": {
-                "exemplarCity": "Panama"
+                "exemplarCity": "Panamá"
               },
               "Pangnirtung": {
                 "exemplarCity": "Pangnirtung"
@@ -366,13 +366,13 @@
                 "exemplarCity": "Port-au-Prince"
               },
               "Port_of_Spain": {
-                "exemplarCity": "Port of Spain"
+                "exemplarCity": "Portu di Spanha"
               },
               "Porto_Velho": {
                 "exemplarCity": "Porto Velho"
               },
               "Puerto_Rico": {
-                "exemplarCity": "Puerto Rico"
+                "exemplarCity": "Portu Riku"
               },
               "Punta_Arenas": {
                 "exemplarCity": "Punta Arenas"
@@ -402,7 +402,7 @@
                 "exemplarCity": "Santiago"
               },
               "Santo_Domingo": {
-                "exemplarCity": "Santo Domingo"
+                "exemplarCity": "Santu Dumingu"
               },
               "Sao_Paulo": {
                 "exemplarCity": "Sao Paulo"
@@ -414,22 +414,22 @@
                 "exemplarCity": "Sitka"
               },
               "St_Barthelemy": {
-                "exemplarCity": "St. Barthelemy"
+                "exemplarCity": "San Bartolomeu"
               },
               "St_Johns": {
                 "exemplarCity": "St. John’s"
               },
               "St_Kitts": {
-                "exemplarCity": "St. Kitts"
+                "exemplarCity": "San Kristovan"
               },
               "St_Lucia": {
-                "exemplarCity": "St. Lucia"
+                "exemplarCity": "Santa Lúsia"
               },
               "St_Thomas": {
                 "exemplarCity": "St. Thomas"
               },
               "St_Vincent": {
-                "exemplarCity": "St. Vincent"
+                "exemplarCity": "San Bisenti"
               },
               "Swift_Current": {
                 "exemplarCity": "Swift Current"
@@ -447,19 +447,19 @@
                 "exemplarCity": "Tijuana"
               },
               "Toronto": {
-                "exemplarCity": "Toronto"
+                "exemplarCity": "Torontu"
               },
               "Tortola": {
                 "exemplarCity": "Tortola"
               },
               "Vancouver": {
-                "exemplarCity": "Vancouver"
+                "exemplarCity": "Vankuver"
               },
               "Whitehorse": {
                 "exemplarCity": "Whitehorse"
               },
               "Winnipeg": {
-                "exemplarCity": "Winnipeg"
+                "exemplarCity": "Uínipeg"
               },
               "Yakutat": {
                 "exemplarCity": "Yakutat"
@@ -1471,6 +1471,55 @@
             "GMT": {
               "long": {
                 "standard": "Ora Médiu di Greenwich"
+              }
+            },
+            "Greenland_Eastern": {
+              "long": {
+                "generic": "Ora di Gronelándia Oriental",
+                "standard": "Ora Padron di Gronelándia Oriental",
+                "daylight": "Ora di Veron di Gronelándia Oriental"
+              }
+            },
+            "Greenland_Western": {
+              "long": {
+                "generic": "Ora di Gronelándia Osidental",
+                "standard": "Ora Padron di Gronelándia Osidental",
+                "daylight": "Ora di Veron di Gronelándia Osidental"
+              }
+            },
+            "Hawaii_Aleutian": {
+              "long": {
+                "generic": "Ora di Avaí i Aleutas",
+                "standard": "Ora Padron di Avaí i Aleutas",
+                "daylight": "Ora di Veron di Avaí i Aleutas"
+              }
+            },
+            "Mexico_Northwest": {
+              "long": {
+                "generic": "Ora di Noroesti di Méxiku",
+                "standard": "Ora Padron di Noroesti di Méxiku",
+                "daylight": "Ora di Veron di Noroesti di Méxiku"
+              }
+            },
+            "Mexico_Pacific": {
+              "long": {
+                "generic": "Ora di Pasífiku Mexikanu",
+                "standard": "Ora Padron di Pasífiku Mexikanu",
+                "daylight": "Ora di Veron di Pasífiku Mexikanu"
+              }
+            },
+            "Newfoundland": {
+              "long": {
+                "generic": "Ora di Tera Nova",
+                "standard": "Ora Padron di Tera Nova",
+                "daylight": "Ora di Veron di Tera Nova"
+              }
+            },
+            "Pierre_Miquelon": {
+              "long": {
+                "generic": "Ora di San Pedru i Mikelon",
+                "standard": "Ora Padron di San Pedru i Mikelon",
+                "daylight": "Ora di Veron di San Pedru i Mikelon"
               }
             }
           }

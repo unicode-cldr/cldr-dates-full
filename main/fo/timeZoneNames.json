@@ -3,7 +3,7 @@
     "fo": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "fo"
       },
@@ -584,7 +584,7 @@
               },
               "London": {
                 "long": {
-                  "daylight": "Stóra Bretland summartíð"
+                  "daylight": "Bretsk summartíð"
                 },
                 "exemplarCity": "London"
               },
@@ -1968,9 +1968,9 @@
             },
             "Norfolk": {
               "long": {
-                "generic": "Norfolksoyggj tíð",
-                "standard": "Norfolksoyggj vanlig tíð",
-                "daylight": "Norfolksoyggj summartíð"
+                "generic": "Norfolkoyggj tíð",
+                "standard": "Norfolkoyggj vanlig tíð",
+                "daylight": "Norfolkoyggj summartíð"
               }
             },
             "Noronha": {

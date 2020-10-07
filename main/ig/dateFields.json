@@ -3,7 +3,7 @@
     "ig": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ig"
       },
@@ -56,9 +56,9 @@
           },
           "quarter": {
             "displayName": "Ọnwa atọ n’afọ",
-            "relative-type--1": "last quarter",
-            "relative-type-0": "this quarter",
-            "relative-type-1": "next quarter",
+            "relative-type--1": "Nkejị keanọ gara aga",
+            "relative-type-0": "nkejị keanọ a",
+            "relative-type-1": "nkejị keanọ na abịa",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} Q"
             },
@@ -68,9 +68,9 @@
           },
           "quarter-short": {
             "displayName": "Ọnwa atọ n’afọ",
-            "relative-type--1": "last quarter",
-            "relative-type-0": "this quarter",
-            "relative-type-1": "next quarter",
+            "relative-type--1": "Nkejị keanọ gara aga",
+            "relative-type-0": "nkejị keanọ a",
+            "relative-type-1": "nkejị keanọ na abịa",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} Q"
             },
@@ -80,9 +80,9 @@
           },
           "quarter-narrow": {
             "displayName": "Ọnwa atọ n’afọ",
-            "relative-type--1": "last quarter",
-            "relative-type-0": "this quarter",
-            "relative-type-1": "next quarter",
+            "relative-type--1": "Nkejị keanọ gara aga",
+            "relative-type-0": "nkejị keanọ a",
+            "relative-type-1": "nkejị keanọ na abịa",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} Q"
             },
@@ -166,13 +166,13 @@
             "relativePeriod": "Izu nke{0}"
           },
           "weekOfMonth": {
-            "displayName": "Week Of Month"
+            "displayName": "ịzụ ọnwa"
           },
           "weekOfMonth-short": {
-            "displayName": "Week Of Month"
+            "displayName": "ịzụ ọnwa"
           },
           "weekOfMonth-narrow": {
-            "displayName": "Week Of Month"
+            "displayName": "ịzụ ọnwa"
           },
           "day": {
             "displayName": "Ụbọchị",
@@ -211,36 +211,36 @@
             }
           },
           "dayOfYear": {
-            "displayName": "Day Of Year"
+            "displayName": "ụbọchị na afọ"
           },
           "dayOfYear-short": {
-            "displayName": "Day Of Year"
+            "displayName": "Ụbọchị na afọ"
           },
           "dayOfYear-narrow": {
-            "displayName": "Day Of Year"
+            "displayName": "Ụbọchị na afọ"
           },
           "weekday": {
             "displayName": "Ụbọchị izu"
           },
           "weekday-short": {
-            "displayName": "Ụbọchị izu"
+            "displayName": "Ụbọchị ịzụ"
           },
           "weekday-narrow": {
-            "displayName": "Ụbọchị izu"
+            "displayName": "Ụbọchị ịzụ"
           },
           "weekdayOfMonth": {
-            "displayName": "Weekday Of Month"
+            "displayName": "Ụbọchị ịzụ na ọnwa"
           },
           "weekdayOfMonth-short": {
-            "displayName": "Weekday Of Month"
+            "displayName": "Ụbọchị ịzụ na ọnwa"
           },
           "weekdayOfMonth-narrow": {
-            "displayName": "Weekday Of Month"
+            "displayName": "Ụbọchị ịzụ na ọnwa"
           },
           "sun": {
-            "relative-type--1": "last Sunday",
-            "relative-type-0": "this Sunday",
-            "relative-type-1": "next Sunday",
+            "relative-type--1": "Ụbọchị ụka gara aga",
+            "relative-type-0": "ụbọchị ụka a",
+            "relative-type-1": "ụbọchị ụka na abịa",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} Sundays"
             },
@@ -249,9 +249,9 @@
             }
           },
           "sun-short": {
-            "relative-type--1": "last Sunday",
-            "relative-type-0": "this Sunday",
-            "relative-type-1": "next Sunday",
+            "relative-type--1": "ụbọchị ụka gara aga",
+            "relative-type-0": "ubochị ụka a",
+            "relative-type-1": "ụbọchị ụka na abịa",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} Sundays"
             },
@@ -260,9 +260,9 @@
             }
           },
           "sun-narrow": {
-            "relative-type--1": "last Sunday",
-            "relative-type-0": "this Sunday",
-            "relative-type-1": "next Sunday",
+            "relative-type--1": "ụbọchị ụka gara aga",
+            "relative-type-0": "ụbọchị ụka a",
+            "relative-type-1": "ụbọchị ụka na abịa",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} Sundays"
             },
@@ -271,9 +271,9 @@
             }
           },
           "mon": {
-            "relative-type--1": "last Monday",
-            "relative-type-0": "this Monday",
-            "relative-type-1": "next Monday",
+            "relative-type--1": "ụbọchị Mọnde gara aga",
+            "relative-type-0": "ụbọchị Mọnde a",
+            "relative-type-1": "ụbọchị Monde a",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} Mondays"
             },
@@ -282,9 +282,9 @@
             }
           },
           "mon-short": {
-            "relative-type--1": "last Monday",
-            "relative-type-0": "this Monday",
-            "relative-type-1": "next Monday",
+            "relative-type--1": "Mon gara aga",
+            "relative-type-0": "ụbọchị Mọnde a",
+            "relative-type-1": "ụbọchị Mọnde na abịa",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} Mondays"
             },
@@ -293,9 +293,9 @@
             }
           },
           "mon-narrow": {
-            "relative-type--1": "last Monday",
-            "relative-type-0": "this Monday",
-            "relative-type-1": "next Monday",
+            "relative-type--1": "ụbọchị Monde gara aga",
+            "relative-type-0": "ụbọchị Monde a",
+            "relative-type-1": "ụbọchị Monde na abịa",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} Mondays"
             },
@@ -304,9 +304,9 @@
             }
           },
           "tue": {
-            "relative-type--1": "last Tuesday",
-            "relative-type-0": "this Tuesday",
-            "relative-type-1": "next Tuesday",
+            "relative-type--1": "ụbọchị Tuesde gara aga",
+            "relative-type-0": "ụbọchị Tuesde a",
+            "relative-type-1": "ụbọchị Tuesde na abịa",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} Tuesdays"
             },
@@ -315,9 +315,9 @@
             }
           },
           "tue-short": {
-            "relative-type--1": "last Tuesday",
-            "relative-type-0": "this Tuesday",
-            "relative-type-1": "next Tuesday",
+            "relative-type--1": "ụbọchị Tụesde gara aga",
+            "relative-type-0": "ụbọchị Tuesde a",
+            "relative-type-1": "ụbọchị Tuesde na abịa",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} Tuesdays"
             },
@@ -326,9 +326,9 @@
             }
           },
           "tue-narrow": {
-            "relative-type--1": "last Tuesday",
-            "relative-type-0": "this Tuesday",
-            "relative-type-1": "next Tuesday",
+            "relative-type--1": "ụbọchị Tuesde gara aga",
+            "relative-type-0": "ụbọchị Tuesde a",
+            "relative-type-1": "ụbọchị Tuesde na abịa",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} Tuesdays"
             },
@@ -337,9 +337,9 @@
             }
           },
           "wed": {
-            "relative-type--1": "last Wednesday",
-            "relative-type-0": "this Wednesday",
-            "relative-type-1": "next Wednesday",
+            "relative-type--1": "ụbọchị wednesde gara aga",
+            "relative-type-0": "ụbọchị Wednesde a",
+            "relative-type-1": "ụbọchị Wednesde na abịa",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} Wednesdays"
             },
@@ -348,9 +348,9 @@
             }
           },
           "wed-short": {
-            "relative-type--1": "last Wednesday",
-            "relative-type-0": "this Wednesday",
-            "relative-type-1": "next Wednesday",
+            "relative-type--1": "ụbọchị Wednesde gara ag",
+            "relative-type-0": "ụbọchị Wednesde a",
+            "relative-type-1": "ụbọchị Wednesde na abịa",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} Wednesdays"
             },
@@ -359,9 +359,9 @@
             }
           },
           "wed-narrow": {
-            "relative-type--1": "last Wednesday",
-            "relative-type-0": "this Wednesday",
-            "relative-type-1": "next Wednesday",
+            "relative-type--1": "ụbọchị Wednesde gara ag",
+            "relative-type-0": "ụbọchị Wednesde a",
+            "relative-type-1": "ụbọchị Wednesde a",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} Wednesdays"
             },
@@ -370,9 +370,9 @@
             }
           },
           "thu": {
-            "relative-type--1": "last Thursday",
-            "relative-type-0": "this Thursday",
-            "relative-type-1": "next Thursday",
+            "relative-type--1": "ụbọchị Tọsdee gara aga",
+            "relative-type-0": "ụbọchị Tọsdee a",
+            "relative-type-1": "ụbọchị Tọsdee na abịa",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} Thursdays"
             },
@@ -381,9 +381,9 @@
             }
           },
           "thu-short": {
-            "relative-type--1": "last Thursday",
-            "relative-type-0": "this Thursday",
-            "relative-type-1": "next Thursday",
+            "relative-type--1": "Ụbọchị Tọsdee gara aga",
+            "relative-type-0": "ụbọchị Tọsdee a",
+            "relative-type-1": "ụbọchị Tọsdee na abịa",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} Thursdays"
             },
@@ -392,9 +392,9 @@
             }
           },
           "thu-narrow": {
-            "relative-type--1": "last Thursday",
-            "relative-type-0": "this Thursday",
-            "relative-type-1": "next Thursday",
+            "relative-type--1": "ụbọchị Tọsdee gara aga",
+            "relative-type-0": "ụbọchị Tọsdee a",
+            "relative-type-1": "ụbọchị Tọsdee na abịa",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} Thursdays"
             },
@@ -403,9 +403,9 @@
             }
           },
           "fri": {
-            "relative-type--1": "last Friday",
-            "relative-type-0": "this Friday",
-            "relative-type-1": "next Friday",
+            "relative-type--1": "Ụbọchị faraịde gara aga",
+            "relative-type-0": "ụbọchị Faraịde a",
+            "relative-type-1": "ụbọchị Faraịde na abịa",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} Fridays"
             },
@@ -414,9 +414,9 @@
             }
           },
           "fri-short": {
-            "relative-type--1": "last Friday",
-            "relative-type-0": "this Friday",
-            "relative-type-1": "next Friday",
+            "relative-type--1": "ụbọchị Faraịde gara aga",
+            "relative-type-0": "ụbọchị Faraịde a",
+            "relative-type-1": "ụbọchị na abịa",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} Fridays"
             },
@@ -425,9 +425,9 @@
             }
           },
           "fri-narrow": {
-            "relative-type--1": "last Friday",
-            "relative-type-0": "this Friday",
-            "relative-type-1": "next Friday",
+            "relative-type--1": "ụbọchị Faraịde gara aga",
+            "relative-type-0": "ụbọchị Faraịde a",
+            "relative-type-1": "ụọchị Faraịde na abịa",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} Fridays"
             },
@@ -436,9 +436,9 @@
             }
           },
           "sat": {
-            "relative-type--1": "last Saturday",
-            "relative-type-0": "this Saturday",
-            "relative-type-1": "next Saturday",
+            "relative-type--1": "ụbọchị Satụde gara aga",
+            "relative-type-0": "ụbọchị Satụde a",
+            "relative-type-1": "ụbọchị Satụde na abịa",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} Saturdays"
             },
@@ -447,9 +447,9 @@
             }
           },
           "sat-short": {
-            "relative-type--1": "last Saturday",
-            "relative-type-0": "this Saturday",
-            "relative-type-1": "next Saturday",
+            "relative-type--1": "Ụbọchị Satụde gara aga",
+            "relative-type-0": "ụbọchị Satụde a",
+            "relative-type-1": "ụbọchị Satụde na abịa",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} Saturdays"
             },
@@ -458,9 +458,9 @@
             }
           },
           "sat-narrow": {
-            "relative-type--1": "last Saturday",
-            "relative-type-0": "this Saturday",
-            "relative-type-1": "next Saturday",
+            "relative-type--1": "ụbọchị Satụde gara aga",
+            "relative-type-0": "ụbọchị Satụde a",
+            "relative-type-1": "ụbọchị Satụde na abịa",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} Saturdays"
             },
@@ -479,7 +479,7 @@
           },
           "hour": {
             "displayName": "Elekere",
-            "relative-type-0": "this hour",
+            "relative-type-0": "elekere a",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} h"
             },
@@ -489,7 +489,7 @@
           },
           "hour-short": {
             "displayName": "Elekere",
-            "relative-type-0": "this hour",
+            "relative-type-0": "elekere a",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} h"
             },
@@ -499,7 +499,7 @@
           },
           "hour-narrow": {
             "displayName": "Elekere",
-            "relative-type-0": "this hour",
+            "relative-type-0": "elekere a",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} h"
             },
@@ -509,7 +509,7 @@
           },
           "minute": {
             "displayName": "Nkeji",
-            "relative-type-0": "this minute",
+            "relative-type-0": "nkejị a",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} min"
             },
@@ -519,7 +519,7 @@
           },
           "minute-short": {
             "displayName": "Nkeji",
-            "relative-type-0": "this minute",
+            "relative-type-0": "nkejị a",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} min"
             },
@@ -529,7 +529,7 @@
           },
           "minute-narrow": {
             "displayName": "Nkeji",
-            "relative-type-0": "this minute",
+            "relative-type-0": "nkejị a",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} min"
             },
@@ -539,7 +539,7 @@
           },
           "second": {
             "displayName": "Tịm kọm",
-            "relative-type-0": "now",
+            "relative-type-0": "ụgbụa",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} s"
             },
@@ -549,7 +549,7 @@
           },
           "second-short": {
             "displayName": "Tịm kọm",
-            "relative-type-0": "now",
+            "relative-type-0": "ụgbụa",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} s"
             },
@@ -559,7 +559,7 @@
           },
           "second-narrow": {
             "displayName": "Tịm kọm",
-            "relative-type-0": "now",
+            "relative-type-0": "ụgbụa",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} s"
             },
